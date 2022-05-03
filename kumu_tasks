@@ -392,7 +392,6 @@
       {
          "id":"recBPAvepJ0vGSTDm",
          "createdTime":"2022-05-03T18:25:40.000Z",
-         "fields":{
             "ID":"recBPAvepJ0vGSTDm",
             "Label":"Revenue Streams Includes Grants, Conferences, Catabot Clients, Paid Groups",
             "From Link":[
@@ -408,12 +407,11 @@
             "JSON":"{label:Revenue Streams Includes Grants, Conferences, Catabot Clients, Paid Groups,\nfrom\"Revenue Streams,\nto\":Grants, Conferences, Catabot Clients, Paid Groups,\ndescription\":\n},",
             "From":"Revenue Streams",
             "To":"Grants, Conferences, Catabot Clients, Paid Groups"
-         }
+         
       },
       {
          "id":"recxPeWpFNxmvqP7U",
          "createdTime":"2022-05-03T18:26:20.000Z",
-         "fields":{
             "ID":"recxPeWpFNxmvqP7U",
             "Label":"Catalist Requires Marketing",
             "From Link":[
@@ -426,12 +424,11 @@
             "JSON":"{label:Catalist Requires Marketing,\nfrom\"Catalist,\nto\":Marketing,\ndescription\":\n},",
             "From":"Catalist",
             "To":"Marketing"
-         }
+         
       },
       {
          "id":"recEuRUzC4nsRqVdt",
          "createdTime":"2022-05-03T18:26:43.000Z",
-         "fields":{
             "ID":"recEuRUzC4nsRqVdt",
             "Label":"Marketing Includes Logo",
             "From Link":[
@@ -444,7 +441,7 @@
             "JSON":"{label:Marketing Includes Logo,\nfrom\"Marketing,\nto\":Logo,\ndescription\":\n},",
             "From":"Marketing",
             "To":"Logo"
-         }
+         
       },
       {
          "id":"recr1I0vfhV3mW0rw",
