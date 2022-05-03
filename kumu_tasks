@@ -27,7 +27,6 @@
       {
          "id":"rec3UyRvCTT5guRq6",
          "createdTime":"2022-05-03T18:22:47.000Z",
-         "fields":{
             "Label":"Feature Specifications",
             "Connections 2":[
                "recOgk1u1TcjRA8KP"
@@ -36,255 +35,16 @@
                "recBrdrA0Cqs9L6Iz"
             ],
             "Type":"Task"
-         }
-      },
-      {
-         "id":"rec57pnQpEPzFcT14",
-         "createdTime":"2022-05-03T18:27:27.000Z",
-         "fields":{
-            "Label":"Patents",
-            "Connections 2":[
-               "recdChSZXnNCJbpTa"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"rec7JHCAOPGV90P8r",
-         "createdTime":"2022-05-03T18:25:07.000Z",
-         "fields":{
-            "Label":"Fields Database",
-            "Connections 2":[
-               "recPSep3AN7FaxaE2"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recEfBifMvvRMndmc",
-         "createdTime":"2022-05-03T18:27:17.000Z",
-         "fields":{
-            "Label":"Trademarks",
-            "Connections 2":[
-               "recmpFBLGqoVYwIuK"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recEweb5SkfGZSAZp",
-         "createdTime":"2022-05-03T18:21:14.000Z",
-         "fields":{
-            "Label":"Software Developers",
-            "Connections 2":[
-               "recZFPMxz5Ee5A9L7"
-            ],
-            "Connections":[
-               "recV8sh1ObWJ3G9Cm",
-               "recpY4OgWgXTPgCDP"
-            ],
-            "Type":"Need"
-         }
-      },
-      {
-         "id":"recKnv4pce7HVOYLb",
-         "createdTime":"2022-05-03T18:27:21.000Z",
-         "fields":{
-            "Label":"Copyrights",
-            "Connections 2":[
-               "recJDfnKZx5zPbMAj"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recMmepzCrzHHsMiI",
-         "createdTime":"2022-05-03T18:20:40.000Z",
-         "fields":{
-            "Label":"Catalist",
-            "Connections":[
-               "recZFPMxz5Ee5A9L7",
-               "recRogUx0z1rv6AO4",
-               "recxPeWpFNxmvqP7U",
-               "recr1I0vfhV3mW0rw"
-            ],
-            "Type":"Project"
-         }
-      },
-      {
-         "id":"recRe5OWWeIabvslk",
-         "createdTime":"2022-05-03T18:25:48.000Z",
-         "fields":{
-            "Label":"Grants",
-            "Connections 2":[
-               "recBPAvepJ0vGSTDm"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recRvCZt5DSAMm44e",
-         "createdTime":"2022-05-03T18:23:06.000Z",
-         "fields":{
-            "Label":"Prioritization",
-            "Connections 2":[
-               "recBrdrA0Cqs9L6Iz"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recT3BqJTyRkA1BaR",
-         "createdTime":"2022-05-03T18:26:53.000Z",
-         "fields":{
-            "Label":"Logo",
-            "Connections 2":[
-               "recEuRUzC4nsRqVdt"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recY5eQVdKnkPEK7F",
-         "createdTime":"2022-05-03T18:26:40.000Z",
-         "fields":{
-            "Label":"Marketing",
-            "Connections 2":[
-               "recxPeWpFNxmvqP7U"
-            ],
-            "Connections":[
-               "recEuRUzC4nsRqVdt"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recZF3KF0ovdspcBn",
-         "createdTime":"2022-05-03T18:26:17.000Z",
-         "fields":{
-            "Label":"Paid Groups",
-            "Connections 2":[
-               "recBPAvepJ0vGSTDm"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recemR9Fw8GMpchPm",
-         "createdTime":"2022-05-03T18:27:10.000Z",
-         "fields":{
-            "Label":"Legal Protection",
-            "Connections 2":[
-               "recr1I0vfhV3mW0rw"
-            ],
-            "Connections":[
-               "recmpFBLGqoVYwIuK",
-               "recJDfnKZx5zPbMAj",
-               "recdChSZXnNCJbpTa"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recf08ov9zJeU7JUf",
-         "createdTime":"2022-05-03T18:25:56.000Z",
-         "fields":{
-            "Label":"Conferences",
-            "Connections 2":[
-               "recBPAvepJ0vGSTDm"
-            ],
-            "Type":"Task"
-         }
-      },
-      {
-         "id":"recshvpalOMrekBhh",
-         "createdTime":"2022-05-03T18:21:23.000Z",
-         "fields":{
-            "Label":"Documentation",
-            "Connections 2":[
-               "recV8sh1ObWJ3G9Cm"
-            ],
-            "Type":"Task",
-            "Connections":[
-               "recCOlvvQX1JoHccR"
-            ]
-         }
-      },
-      {
-         "id":"recssVJI8SWKovk2N",
-         "createdTime":"2022-05-03T18:25:38.000Z",
-         "fields":{
-            "Label":"Revenue Streams",
-            "Connections 2":[
-               "recRogUx0z1rv6AO4"
-            ],
-            "Connections":[
-               "recBPAvepJ0vGSTDm"
-            ],
-            "Type":"EIPC"
-         }
-      },
-      {
-         "id":"rectX7xu49aHHIQOG",
-         "createdTime":"2022-05-03T18:24:55.000Z",
-         "fields":{
-            "Label":"Schemas",
-            "Connections 2":[
-               "recCOlvvQX1JoHccR"
-            ],
-            "Connections":[
-               "recPSep3AN7FaxaE2"
-            ],
-            "Type":"Task"
-         }
-      }
-   
- 
- 
+         
+      } 
  ],
       
 
    "connections":[
-      {
-         "id":"recZFPMxz5Ee5A9L7",
-         "createdTime":"2022-05-03T18:18:33.000Z",
-         "fields":{
-            "ID":"recZFPMxz5Ee5A9L7",
-            "Label":"Catalist Requires Software Developers",
-            "From Link":[
-               "recMmepzCrzHHsMiI"
-            ],
-            "Type":"Requires",
-            "To Link":[
-               "recEweb5SkfGZSAZp"
-            ],
-            "JSON":"{label:Catalist Requires Software Developers,\nfrom\"Catalist,\nto\":Software Developers,\ndescription\":\n},",
-            "From":"Catalist",
-            "To":"Software Developers"
-         }
-      },
-      {
-         "id":"recV8sh1ObWJ3G9Cm",
-         "createdTime":"2022-05-03T18:18:33.000Z",
-         "fields":{
-            "ID":"recV8sh1ObWJ3G9Cm",
-            "Label":"Software Developers Requires Documentation",
-            "From Link":[
-               "recEweb5SkfGZSAZp"
-            ],
-            "To Link":[
-               "recshvpalOMrekBhh"
-            ],
-            "Type":"Requires",
-            "JSON":"{label:Software Developers Requires Documentation,\nfrom\"Software Developers,\nto\":Documentation,\ndescription\":\n},",
-            "From":"Software Developers",
-            "To":"Documentation"
-         }
-      },
+      
       {
          "id":"recpY4OgWgXTPgCDP",
          "createdTime":"2022-05-03T18:18:33.000Z",
-         "fields":{
             "ID":"recpY4OgWgXTPgCDP",
             "Label":"Software Developers Requires Project Briefs",
             "From Link":[
@@ -295,14 +55,13 @@
             ],
             "Type":"Requires",
             "JSON":"{label:Software Developers Requires Project Briefs,\nfrom\"Software Developers,\nto\":Project Briefs,\ndescription\":\n},",
-            "From":"Software Developers",
+            "From":"Catabot Clients",
             "To":"Project Briefs"
-         }
+         
       },
       {
          "id":"recOgk1u1TcjRA8KP",
          "createdTime":"2022-05-03T18:22:26.000Z",
-         "fields":{
             "ID":"recOgk1u1TcjRA8KP",
             "Label":"Project Briefs Requires Feature Specifications",
             "From Link":[
@@ -315,12 +74,11 @@
             "JSON":"{label:Project Briefs Requires Feature Specifications,\nfrom\"Project Briefs,\nto\":Feature Specifications,\ndescription\":\n},",
             "From":"Project Briefs",
             "To":"Feature Specifications"
-         }
+         
       },
       {
          "id":"recBrdrA0Cqs9L6Iz",
          "createdTime":"2022-05-03T18:22:49.000Z",
-         "fields":{
             "ID":"recBrdrA0Cqs9L6Iz",
             "Label":"Feature Specifications Requires Prioritization",
             "From Link":[
@@ -332,188 +90,10 @@
             ],
             "JSON":"{label:Feature Specifications Requires Prioritization,\nfrom\"Feature Specifications,\nto\":Prioritization,\ndescription\":\n},",
             "From":"Feature Specifications",
-            "To":"Prioritization"
-         }
-      },
-      {
-         "id":"recCOlvvQX1JoHccR",
-         "createdTime":"2022-05-03T18:24:41.000Z",
-         "fields":{
-            "ID":"recCOlvvQX1JoHccR",
-            "Label":"Documentation Includes Schemas",
-            "From Link":[
-               "recshvpalOMrekBhh"
-            ],
-            "To Link":[
-               "rectX7xu49aHHIQOG"
-            ],
-            "Type":"Includes",
-            "JSON":"{label:Documentation Includes Schemas,\nfrom\"Documentation,\nto\":Schemas,\ndescription\":\n},",
-            "From":"Documentation",
-            "To":"Schemas"
-         }
-      },
-      {
-         "id":"recPSep3AN7FaxaE2",
-         "createdTime":"2022-05-03T18:24:57.000Z",
-         "fields":{
-            "ID":"recPSep3AN7FaxaE2",
-            "Label":"Schemas Includes Fields Database",
-            "From Link":[
-               "rectX7xu49aHHIQOG"
-            ],
-            "To Link":[
-               "rec7JHCAOPGV90P8r"
-            ],
-            "Type":"Includes",
-            "JSON":"{label:Schemas Includes Fields Database,\nfrom\"Schemas,\nto\":Fields Database,\ndescription\":\n},",
-            "From":"Schemas",
-            "To":"Fields Database"
-         }
-      },
-      {
-         "id":"recRogUx0z1rv6AO4",
-         "createdTime":"2022-05-03T18:25:20.000Z",
-         "fields":{
-            "ID":"recRogUx0z1rv6AO4",
-            "Label":"Catalist Requires Revenue Streams",
-            "From Link":[
-               "recMmepzCrzHHsMiI"
-            ],
-            "Type":"Requires",
-            "To Link":[
-               "recssVJI8SWKovk2N"
-            ],
-            "JSON":"{label:Catalist Requires Revenue Streams,\nfrom\"Catalist,\nto\":Revenue Streams,\ndescription\":\n},",
-            "From":"Catalist",
-            "To":"Revenue Streams"
-         }
-      },
-      {
-         "id":"recBPAvepJ0vGSTDm",
-         "createdTime":"2022-05-03T18:25:40.000Z",
-            "ID":"recBPAvepJ0vGSTDm",
-            "Label":"Revenue Streams Includes Grants, Conferences, Catabot Clients, Paid Groups",
-            "From Link":[
-               "recssVJI8SWKovk2N"
-            ],
-            "Type":"Includes",
-            "To Link":[
-               "recRe5OWWeIabvslk",
-               "recf08ov9zJeU7JUf",
-               "rec0H3mzXOGDbZe1n",
-               "recZF3KF0ovdspcBn"
-            ],
-            "JSON":"{label:Revenue Streams Includes Grants, Conferences, Catabot Clients, Paid Groups,\nfrom\"Revenue Streams,\nto\":Grants, Conferences, Catabot Clients, Paid Groups,\ndescription\":\n},",
-            "From":"Revenue Streams",
-            "To":"Grants, Conferences, Catabot Clients, Paid Groups"
+            "To":"Catabot Clients"
          
-      },
-      {
-         "id":"recxPeWpFNxmvqP7U",
-         "createdTime":"2022-05-03T18:26:20.000Z",
-            "ID":"recxPeWpFNxmvqP7U",
-            "Label":"Catalist Requires Marketing",
-            "From Link":[
-               "recMmepzCrzHHsMiI"
-            ],
-            "Type":"Requires",
-            "To Link":[
-               "recY5eQVdKnkPEK7F"
-            ],
-            "JSON":"{label:Catalist Requires Marketing,\nfrom\"Catalist,\nto\":Marketing,\ndescription\":\n},",
-            "From":"Catalist",
-            "To":"Marketing"
-         
-      },
-      {
-         "id":"recEuRUzC4nsRqVdt",
-         "createdTime":"2022-05-03T18:26:43.000Z",
-            "ID":"recEuRUzC4nsRqVdt",
-            "Label":"Marketing Includes Logo",
-            "From Link":[
-               "recY5eQVdKnkPEK7F"
-            ],
-            "Type":"Includes",
-            "To Link":[
-               "recT3BqJTyRkA1BaR"
-            ],
-            "JSON":"{label:Marketing Includes Logo,\nfrom\"Marketing,\nto\":Logo,\ndescription\":\n},",
-            "From":"Marketing",
-            "To":"Logo"
-         
-      },
-      {
-         "id":"recr1I0vfhV3mW0rw",
-         "createdTime":"2022-05-03T18:26:56.000Z",
-         "fields":{
-            "ID":"recr1I0vfhV3mW0rw",
-            "Label":"Catalist Requires Legal Protection",
-            "From Link":[
-               "recMmepzCrzHHsMiI"
-            ],
-            "Type":"Requires",
-            "To Link":[
-               "recemR9Fw8GMpchPm"
-            ],
-            "JSON":"{label:Catalist Requires Legal Protection,\nfrom\"Catalist,\nto\":Legal Protection,\ndescription\":\n},",
-            "From":"Catalist",
-            "To":"Legal Protection"
-         }
-      },
-      {
-         "id":"recmpFBLGqoVYwIuK",
-         "createdTime":"2022-05-03T18:27:12.000Z",
-         "fields":{
-            "ID":"recmpFBLGqoVYwIuK",
-            "Label":"Legal Protection Includes Trademarks",
-            "To Link":[
-               "recEfBifMvvRMndmc"
-            ],
-            "From Link":[
-               "recemR9Fw8GMpchPm"
-            ],
-            "Type":"Includes",
-            "JSON":"{label:Legal Protection Includes Trademarks,\nfrom\"Legal Protection,\nto\":Trademarks,\ndescription\":\n},",
-            "From":"Legal Protection",
-            "To":"Trademarks"
-         }
-      },
-      {
-         "id":"recJDfnKZx5zPbMAj",
-         "createdTime":"2022-05-03T18:27:19.000Z",
-         "fields":{
-            "ID":"recJDfnKZx5zPbMAj",
-            "Label":"Includes Includes Copyrights",
-            "To Link":[
-               "recKnv4pce7HVOYLb"
-            ],
-            "From Link":[
-               "reccu5pFYN5cz76Iw"
-            ],
-            "Type":"Includes",
-            "JSON":"{label:Includes Includes Copyrights,\nfrom\"Includes,\nto\":Copyrights,\ndescription\":\n},",
-            "From":"Includes",
-            "To":"Copyrights"
-         }
-      },
-      {
-         "id":"recdChSZXnNCJbpTa",
-         "createdTime":"2022-05-03T18:27:23.000Z",
-         "fields":{
-            "ID":"recdChSZXnNCJbpTa",
-            "Label":"Includes Includes Patents",
-            "To Link":[
-               "rec57pnQpEPzFcT14"
-            ],
-            "From Link":[
-               "reccu5pFYN5cz76Iw"
-            ],
-            "Type":"Includes",
-            "JSON":"{label:Includes Includes Patents,\nfrom\"Includes,\nto\":Patents,\ndescription\":\n},",
-            "From":"Includes",
-            "To":"Patents"
-         }
       }
+     
+     
    ]
 }
