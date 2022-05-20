@@ -2,6 +2,55 @@
   "elements": [
 
 {
+"label":"Profiles",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"id":"Profile",
+"type":"Data Type",
+"description":"People on Trove"
+},{
+"label":"Organizations",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"id":"Organization",
+"type":"Data Type",
+"description":"Public organization directory"
+},{
+"label":"Posts",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"id":"Post",
+"type":"Data Type",
+"description":"Photos, quotes, or text"
+},{
+"label":"Topics",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"id":"Topic",
+"type":"Data Type",
+"description":"Keywords | Tags"
+},{
+"label":"Resources",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Data Type",
+"description":"Shared crowdourced library"
+},{
+"label":"Events",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"id":"Event",
+"type":"Data Type",
+"description":"Cross-organization calendar"
+},{
+"label":"Products",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961966246x836694866797873900/shopping-bag.svg",
+"id":"Product",
+"type":"Data Type",
+"description":"A product or a service from a Trove member."
+},{
+"label":"Projects",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Data Type",
+"description":"Project Listings"
+},
+{
         "id": "1641918299632x621140395520163800",
 "url":"https://centerforneweconomics.org/people/greg-watson/",
 "image":"https://centerforneweconomics.org/wp-content/uploads/2016/11/Greg-Watson-other.jpg",
