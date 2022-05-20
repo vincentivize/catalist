@@ -1,1 +1,265 @@
-��e
+{
+  "elements": [
+{
+        "id": "1641918299632x621140395520163800",
+"url":"https://centerforneweconomics.org/people/greg-watson/",
+"image":"https://centerforneweconomics.org/wp-content/uploads/2016/11/Greg-Watson-other.jpg",
+"type":"Profile",
+"tags":["Systems Design"],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Greg Watson is Director of Policy and Systems Design at the Schumacher Center for a New Economics. His work currently focuses on community food systems and the dynamics between local and geo-economic systems. Watson has spent nearly 40 years learning to understand systems thinking as inspired by Buc…",
+"label":"Greg Watson - Schumacher Center for New Economics"
+    },{
+        "id": "1641918354580x461225138533957600",
+"url":"https://www.linkedin.com/in/elizabeth-thompson-68a849161/",
+"image":"https://media-exp1.licdn.com/dms/image/C4D03AQEtN7ZypedROQ/profile-displayphoto-shrink_400_400/0/1552320524561?e=1647475200&v=beta&t=MNgG6GeqfVQwHbGd_ohihVjMh1twivyNU0ZETK8m6cg",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Linkedin Profile"],
+"description":"Non-profit leader and advisor",
+"label":"Elizabeth Thompson"
+    },{
+        "id": "1641918543653x509314206494883800",
+"url":"https://newalchemists.net/",
+"image":"https://secure.gravatar.com/blavatar/2701374a237fbfa38a6db44a99353137?s=200&ts=1641918509",
+"type":"Organization",
+"tags":["design science","Synergetics"],
+"sectors":[],
+"locations":[],
+"types":["Organization","Research Organization"],
+"description":"Restore the lands, protect the seas, and inform the Earth’s stewards.",
+"label":"The Green Center"
+    },{
+        "id": "1641918804727x131569415078543360",
+"url":"",
+"image":"https://wiki.p2pfoundation.net/images/Design_science_planning_process.png",
+"type":"Post",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"A process for defining optimum directions to aim towards in a design process.",
+"label":"Design Science Planning Process"
+    },{
+        "id": "1641918880146x849471985830854700",
+"url":"https://www.bfi.org/about-fuller/big-ideas/synergetics",
+"image":"https://www.bfi.org/sites/default/files/images/site/logo-real.png",
+"type":"Topic",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Synergetics, in the broadest terms, is the study of spatial complexity, and as such is an inherently comprehensive discipline. ... Experience with synergetics encourages a new way of approaching and solving problems. Its emphasis on visual and spatial phenomena combined with Fuller's holistic approach fosters the kind of lateral thinking which so often leads to creative breakthroughs.",
+"label":"Synergetics"
+    },{
+        "id": "1641919049310x147192113183850500",
+"url":"https://fullerfuture.files.wordpress.com/2013/01/buckminsterfuller-synergetics.pdf",
+"image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387714319i/285356._UY630_SR1200,630_.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Book"],
+"description":"A book by Buckminster Fuller",
+"label":"Explorations In Synergetics"
+    },{
+        "id": "1641919092723x785367107448864800",
+"url":"https://en.wikipedia.org/wiki/Design_science_(methodology)",
+"image":"https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+"type":"Topic",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Design science is a research paradigm focusing on the development and validation of prescriptive knowledge.[further explanation needed] Design science methodology refers to the research methodologies associated with this paradigm. It spans the methodologies of several research disciplines, for example information technology, which offers specific guidelines for evaluation and iteration within research projects.",
+"label":"Design science (methodology)"
+    },{
+        "id": "1641919246766x874453510941311000",
+"url":"https://www.sciencedirect.com/science/article/abs/pii/S0016328714002055",
+"image":"https://ars.els-cdn.com/content/image/1-s2.0-S0016328715X00061-cov150h.gif",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Article"],
+"description":"Increasingly, decision makers seek to harness “big data” to guide choices in management and policy settings as well as in professions that manufacture…",
+"label":"Starting with Universe: Buckminster Fuller’s Design Science Now"
+    },{
+        "id": "1641919296506x747848215631757300",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"type":"Post",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Wealth is the technological ability of a society to deal with present and future contigencies.",
+"label":"Redefining Wealth"
+    },{
+        "id": "1641919422922x878381850941980700",
+"url":"https://www.bfi.org/sites/default/files/attachments/pages/EnvDesignPrimer-BrownCookGabel.pdf",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":["design science","Environmental Design Science"],
+"sectors":[],
+"locations":[],
+"types":["Online eBook","File"],
+"description":"",
+"label":"Design Science Primer"
+    },{
+        "id": "1641919469783x569813116414853100",
+"url":"http://www.rwgrayprojects.com/synergetics/synergetics.html",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Manual"],
+"description":"Explore the online synergetics manual",
+"label":"R. Buckminster Fuller’s Synergetics"
+    },{
+        "id": "1641919527421x974800997998133200",
+"url":"https://newalchemists.net/publications/new-alchemy-1971-1991/",
+"image":"https://newalchemists.files.wordpress.com/2015/01/ideal-bioshelter-image-e1422482026847.jpg?w=1200",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Resource List","Academic Journal Website","Academic Journal"],
+"description":"From 1971 to 1991, the New Alchemy Institute published its research and activities in a variety scientific journals, including its own journals and quarterlies.",
+"label":"New Alchemy Journals"
+    },{
+        "id": "1641919614170x605024964716789800",
+"url":"https://buckyafullerfuture.cinevee.com/100",
+"image":"https://s3.amazonaws.com/media.cinevee.com/buckyafullerfuture/product/100/poster.jpg",
+"type":"Resource",
+"tags":["design science","Buckminster Fuller"],
+"sectors":[],
+"locations":[],
+"types":["Film"],
+"description":"A Noel B. Murphy film- Jeff Bridges, Marianne Williamson and great visionaries of our time. All- inspiring you to your core genius - BEST FEATURE DOCUMENTARY WINNER- Bucky Fuller is considered to be the greatest renegade thinker of modern times. Writer/Director Noel B. Murphy tells the first of a 3…",
+"label":"BUCKY: A Fuller Future"
+    },{
+        "id": "1641919684027x787160651958059000",
+"url":"https://docplayer.fr/166995230-E3-energy-earth-and-everyone-world-game-pdf.html",
+"image":"https://docplayer.fr/thumbs/105/166995230.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Artefact"],
+"description":"E3 Energy, Earth and Everyone... World Game, PDF TÉLÉCHARGER TÉLÉCHARGER LIRE ENGLISH VERSION DOWNLOAD READ E3 Energy, Earth and Everyone... World Game, PDF TÉLÉCHARGER Description",
+"label":"E3 Energy, Earth and Everyone... World Game, PDF - PDF Free Download"
+    },{
+        "id": "1641919756602x964317025206534100",
+"url":"https://www.davidcayley.com/podcasts/category/Age+of+Ecology",
+"image":"https://images.squarespace-cdn.com/content/v1/542c2af8e4b00b7cfca08972/1465061657938-LNTG13VNUHPXXZ5XAEB6/image-asset.jpeg?format=750w",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Podcast"],
+"description":"See Part 5",
+"label":"Age of Ecology on John Todd"
+    },{
+        "id": "1641919917029x935496082994757600",
+"url":"http://buckyisback.com/integrity",
+"image":"http://buckyisback.com/wp-content/uploads/2018/06/integrityquote.jpg",
+"type":"Topic",
+"tags":["Integrity"],
+"sectors":[],
+"locations":[],
+"types":["Lectures","Lecture Series"],
+"description":"In 1983, during the last few months of his nearly 88 years of life, Doctor Richard Buckminster “Bucky” Fuller gave a series of four all-day lectures entitled Integrity Days.",
+"label":"Integrity"
+    },{
+        "id": "1641920753090x206275266322890750",
+"url":"https://www.goodreads.com/book/show/40876575-utopia-for-realists",
+"image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618785125i/40876575._UY630_SR1200,630_.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Book"],
+"description":"Utopia for Realists by Bregman. A manifesto for universal basic income, a 15 hour work week, and taking care of all. It is great to see the data.\\n",
+"label":"Utopia for Realists"
+    },{
+        "id": "1641920837093x344444125379035140",
+"url":"https://www.bostongreenfest.org/",
+"image":"https://static1.s123-cdn-static-a.com/uploads/208063/800_610282e91a158.png",
+"type":"Event",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Boston GreenFest is organized by the Foundation for a Green Future and its dedicated volunteer team of interns and community members. Our goal is to educate and empower people to create a more sustainable, healthier world. ",
+"label":"Boston GreenFest 2022 Online Event"
+    },{
+        "id": "1641921927738x696759946418585600",
+"url":"https://www.amazon.com/Third-Plate-Field-Notes-Future/dp/0143127152",
+"image":"https://images-na.ssl-images-amazon.com/images/I/51wF035XyYL._SX324_BO1,204,203,200_.jpg",
+"type":"Product",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Amazon Listing"],
+"description":"Today’s optimistic farm-to-table food culture has a dark secret: the local food movement has failed to change how we eat. It has also offered a false promise for the future of food. In his visionary New York Times–bestselling book, chef Dan Barber, recently showcased on Netflix’s Chef’s Table, offers a radical new way of thinking about food that will heal the land and taste good, too. Looking to the detrimental cooking of our past, and the misguided dining of our present, Barber points to a future “third plate”: a new form of American eating where good farming and good food intersect. Barber’s The Third Plate charts a bright path forward for eaters and chefs alike, daring everyone to imagine a future for our national cuisine that is as sustainable as it is delicious.",
+"label":"The Third Plate by Dan Barber"
+    },{
+        "id": "1641921984710x381193787525300200",
+"url":"https://europa.eu/new-european-bauhaus/index_en",
+"image":"https://europa.eu/new-european-bauhaus/profiles/contrib/ewcms/modules/ewcms_seo/assets/images/eu-socialmedia-fallback.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Initiative"],
+"description":"Let’s build together the beautiful, sustainable, inclusive living spaces of the future.",
+"label":"New European Bauhaus : beautiful, sustainable, together."
+    },{
+        "id": "1641924675788x447534108303687700",
+"url":"https://cohado.com/",
+"image":"https://cdn.shopify.com/s/files/1/2515/8428/files/cohado-logo.png?height=628&pad_color=ffffff&v=1511209106&width=1200",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Tool"],
+"description":"The beauty of Cohado is that the tool can be left behind as a living metaphor to support deepening the understanding and experience of working collaboratively to achieve common goals",
+"label":"Cohado"
+    },{
+        "id": "1641932697717x731391670996172800",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1641932687415x583512697679455760/Screen%20Shot%202022-01-05%20at%2012.15.28%20AM.png",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Find Your Path"
+    }
+],
+
+  "connections": [
+{
+        "id": "1641919110152x309535727063662600",
+        "from": "1641918543653x509314206494883800",
+        "to": "1641919092723x785367107448864800",
+"type":"applies",
+"label":"The Green Center applies Design science (methodology)"
+    }
+,{
+        "id": "1641924534637x291120091491729400",
+        "from": "1641919049310x147192113183850500",
+        "to": "1641918880146x849471985830854700",
+"type":"discusses",
+"label":"Explorations In Synergetics discusses Synergetics"
+    }
+
+ ]
+}
