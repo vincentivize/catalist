@@ -1,3762 +1,533 @@
 {
   "elements": [
 {
-"id":"1620873093710x737426032842244100",
-"label":"test events buy",
-"image":"//s3.amazonaws.com/appforest_uf/f1649966489697x695909584168680000/2.png",
-"type":"Event",
-"description":"asfasdfsadf"
-},
-{
-"label":"Partners",
-"description":"Our partners and sponsors for this event",
-"id":"12345"
-},{
-        "id": "1631820240732x260102168650876000",
-"url":"www.gingerbreadfox.co.uk",
-"image":"",
-"type":"",
-"tags":[],
-"description":"Hand-selected, beautiful children's clothing and quality wooden toys.",
-"label":"Gingerbread Fox"
-    },{
-        "id": "1631820241818x843727389419561800",
-"url":"www.follygardens.com",
-"image":"",
-"type":"",
-"tags":[],
-"description":"Veterinary Clinic",
-"label":"Folly Gardens "
-    },{
-        "id": "1635820553346x643370788021338100",
-"url":"https://www.google.com",
-"image":"",
-"type":"Activist Group",
-"tags":["Zero hunger","Youth Activism,Progressive","Youth","Urban Farming"],
-"description":"This is a new organization",
-"label":"New Organization"
-    },{
-        "id": "1646179703297x705439304148641900",
-"url":"www.tewkesburygardencentre.com",
-"image":"//s3.amazonaws.com/appforest_uf/f1646179702586x931343054354057500/garden-banner1.jpg",
-"type":"",
-"tags":["Home & Garden"],
-"description":"Everything you need for the perfect practical garden.",
-"label":"Tewkesbury Garden Centre"
-    },{
-"label":"Featuring",
-"description":"Featured Presenters",
-"id":"12345678"
-},
-{
-"label":"",
-"id":"1651519963506x279127397713797340",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1651519963506x279127397713797340",
-"tags":""},{
-"label":"",
-"id":"1651519769018x567346322389685060",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1651519769018x567346322389685060",
-"tags":""},{
-"label":"Presentations",
-"description":"Presentations happening during this event",
-"id":"1234567"
-},
-
-
-{
-"label":"",
-"id":"1651519963506x279127397713797340",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1651519963506x279127397713797340",
-"tags":""
-
-
-},{
-"label":"",
-"id":"1651519769018x567346322389685060",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1651519769018x567346322389685060",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - What's Next - PLANetARY Salon",
-"id":"1650400048329x879702805773045900",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400047226x615911184051225200/Sunday%201%20Planetary%20salon%20whats%20next.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400048329x879702805773045900",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Regenaissance Fair PLANetARY Salon",
-"id":"1650400046176x632157538617194800",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400045010x217616729380518680/Saturday%2030%20Planetary%20salon%20reGene%20Fair%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400046176x632157538617194800",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Regenaissance Fair PLANetARY Salon",
-"id":"1650400044054x198320467511912800",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400042994x372862313126528960/Saturday%2030%20Planetary%20salon%20reGene%20Fair.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400044054x198320467511912800",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Re-Enchantment & Circularity PLANetARY Salon",
-"id":"1650400041875x222474554197542600",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400040890x689181003594261600/Friday%2029%20Planetary%20salon%20re-enchant%20%2B%20Circle%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400041875x222474554197542600",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Re-Enchantment & Circularity PLANetARY Salon",
-"id":"1650400039670x331286441533932500",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400038598x566287898094028700/Friday%2029%20Planetary%20salon%20re-enchant%20%2B%20Circle.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400039670x331286441533932500",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Regeneration & Celebration PLANetARY Salon",
-"id":"1650400036806x754734088986590600",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400035809x906657229013706200/Thursday%2028%20Planetary%20salon%20regen%20%2B%20celeb%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400036806x754734088986590600",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Regeneration & Celebration PLANetARY Salon",
-"id":"1650400034592x796570410597441700",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400033374x360618008811023800/Thursday%2028%20Planetary%20salon%20regen%20%2B%20celeb.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400034592x796570410597441700",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Resilience & Coming Together PLANetARY Salon",
-"id":"1650400032294x314640301665096700",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400031319x852624765903726700/Wednesday%2027%20Planetary%20salon%20resil%20%2B%20come%20together%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400032294x314640301665096700",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Resilience & Coming Together PLANetARY Salon",
-"id":"1650400030296x155561832332491870",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400029284x234158714827471300/Wednesday%2027%20Planetary%20salon%20resil%20%2B%20come%20together.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400030296x155561832332491870",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Restoration & Capitol Transfer PLANetARY Salon",
-"id":"1650400028443x120283064991520980",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400027450x167344892573651600/Tuesday%2026%20Planetary%20salon%20restore%20%2B%20cap%20trans%20%20%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400028443x120283064991520980",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Restoration & Capitol Transfer PLANetARY Salon",
-"id":"1650400026462x844964157578389500",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400025401x257271531079882980/Tuesday%2026%20Planetary%20salon%20restore%20%2B%20cap%20trans%20%20.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400026462x844964157578389500",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Reconciliation + Commitment PLANetARY Salon",
-"id":"1650400023818x515103034713293440",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400022879x946817060539843800/Monday%2025%20Planetary%20salon%20Rec%20%2B%20Com%20%20%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400023818x515103034713293440",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Reconciliation + Commitment PLANetARY Salon",
-"id":"1650400021902x915476545758779300",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400020808x924586370515116500/Monday%2025%20Planetary%20salon%20Rec%20%2B%20Com%20%20.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400021902x915476545758779300",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - mythOS: Protopian Narratives for Cultural Change PLANetARY Salon",
-"id":"1650400019489x653491231622348000",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400018473x330071890484702400/Sunday%2024%20Planetary%20salon%20mythOS%20%20%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400019489x653491231622348000",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - mythOS: Protopian Narratives for Cultural Change PLANetARY Salon",
-"id":"1650400017430x906780427780502300",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400016379x696468052436437900/Sunday%2024%20Planetary%20salon%20mythOS%20%20.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400017430x906780427780502300",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Under the Dome PLANetARY Salon",
-"id":"1650400014954x947768341731334200",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400014058x165659452595321440/Saturday%2023%20Planetary%20salon%20Under%20the%20DOme%20%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400014954x947768341731334200",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Under the Dome PLANetARY Salon",
-"id":"1650400012483x279255756345507800",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400011238x597305749290325100/Saturday%2023%20Planetary%20salon%20Under%20the%20DOme%20.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400012483x279255756345507800",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - eARTh Day! PLANetARY Salon",
-"id":"1650400010075x258859852702762780",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400009092x389704894220961800/Friday%2022%20Planetary%20salon%20eARTh%20day%20%20%20%282%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400010075x258859852702762780",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - eARTh Day! PLANetARY Salon",
-"id":"1650400007798x445732295020063040",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400006578x725888942178878700/Friday%2022%20Planetary%20salon%20eARTh%20day%20%20.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400007798x445732295020063040",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Opening Ceremony + Celebration for 100% of Life PLANetARY Salon",
-"id":"1650400005220x537753359900400060",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650400004160x958644297184003100/Updated%202022%20Experience%20Trove%20Cover%20Images%20%28800%20%C3%97%20620%20px%29_%20%283%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650400005220x537753359900400060",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Opening Ceremony + Celebration for 100% of Life PLANetARY Salon",
-"id":"1650399809900x709085018409290500",
-"description":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650399808814x985441570488067100/Updated%202022%20Experience%20Trove%20Cover%20Images%20%28800%20%C3%97%20620%20px%29_%20%283%29.png",
-"url":"https://www.catalist.network/version-test/presentation/design-science-studio-1650399809900x709085018409290500",
-"tags":""
-
-
-},{
-"label":"Great Session",
-"id":"1650388496897x960921996071272400",
-"description":"#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525#252525",
-"image":"//s3.amazonaws.com/appforest_uf/f1650388553481x167080344932097900/WhatsApp%20Image%202022-04-17%20at%209.49.59%20PM.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/vinny-arena-1650388496897x960921996071272400",
-"tags":""
-
-
-},{
-"label":"",
-"id":"1650387962980x516824457538437100",
-"description":"Description of session",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650387962980x516824457538437100",
-"tags":""
-
-
-},{
-"label":"Session Title",
-"id":"1650387862468x248590826273243140",
-"description":"Description of session",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650387862468x248590826273243140",
-"tags":""
-
-
-},{
-"label":"Net-Zero Hydrocarbon Economy Discussion / Panel",
-"id":"1650248717837x632977355067409400",
-"description":"This discussion with Charles Martens will introduce the plasma technology that enables a more interconnected, net-zero hydrocarbon economy. Martens is the Founder and President of LTEOIL, a game-changing energy transition technology company. At their Texas A&M laboratory, LTEOIL is focused on leading the development of plasma-based techniques for hydrocarbon processing. The patented non-thermal reaction uses low pressure and low heat to crack and reform the carbon molecules combining non-equilibrium plasma and electro-physics. LTEOIL offers unprecedented technological improvement to the efficiency of energy production. Martens, the scientists and LTEOIL team members have bootstrapped the plasma technology, producing fundamental science without being under the influence of the oil giants. They have laid the path for hydrocarbon production without emissions.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248717837x632977355067409400",
-"tags":""
-
-
-},{
-"label":"PLANetARY Salon - Opening Ceremony + Celebration for 100% of Life PLANetARY Salon",
-"id":"1650248717358x291702263210537700",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248717358x291702263210537700",
-"tags":""
-
-
-},{
-"label":"Intermedia Interventions Discussion / Panel",
-"id":"1650248716865x508138159388322500",
-"description":"Inside the creative process for a series of live intermedia performances and films. Emerging in the pandemic from an international group of acclaimed creators through remote collaboration, these projects explore the power of spell-like influences and meeting places marked by dreams and engage the coastline as a liminal zone envisioned by humans and erased by the ocean.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248716865x508138159388322500",
-"tags":""
-
-
-},{
-"label":"Cryosphere Crisis: Studio Session Workshop",
-"id":"1650248716390x252364155484077000",
-"description":"From the ice sheets of Antarctica and Greenland to the glaciers of the Rockies, Alps and Pyrenees, our cryosphere is shrinking, with devastating effects on the planet. A new interactive film project grapples with the environmental and social impacts of this crisis, foregrounding the importance of evolving knowledge and cultural practices developed by indigenous peoples over thousands of years.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248716390x252364155484077000",
-"tags":""
-
-
-},{
-"label":"Art for Eco Awareness feat. Eco ArtLab Pre-recorded talk / art / video",
-"id":"1650248715915x206712176893507400",
-"description":"Connect with Eco ArtLab, an independent nonprofit collective creating performances and exhibitions that enhance ecological awareness, engaging with new forms of expression enabled by the emerging media technologies of our time. Inspired by earth’s natural beauty, including aesthetics of human involvement, the creators of Eco ArtLab share a passionate desire to respond to the escalating crisis driven by the rapidly evolving human capacity to alter planetary ecosystems, embracing multi-dimensional approaches to a systems view of life in which humans are part of a larger, living whole.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248715915x206712176893507400",
-"tags":""
-
-
-},{
-"label":"What does it feel like to be the Earth? Workshop",
-"id":"1650248715305x280730247859606100",
-"description":"We come from the Earth and we return to the Earth, what does it feel like to be the Earth? This will be an interactive guided meditation to feel into the felt sense of being the Earth at this moment in time. It will be a collectively held container to name and feel into emotions surrounding being connected to the Earth.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248715305x280730247859606100",
-"tags":""
-
-
-},{
-"label":"Permayouth Experience (TBD) Pre-recorded talk / art / video",
-"id":"1650248714854x700052668373647440",
-"description":"Explore new edge of permaculture culture myceliating through refugee settlements and how young people are making sense of this in their own way through music and mushrooms, peace and [pr]activism, compost and conversation, digitally and direct, and by connecting with global learning and support communities.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248714854x700052668373647440",
-"tags":""
-
-
-},{
-"label":"Building climate change resilience for rural communities by ensuring sustainable water security Pre-recorded talk / art / video",
-"id":"1650248714298x146111773268251540",
-"description":"The main domains of Tarun Bharat Sangh have been water conservation, efficient use of water and water literacy. Over 40 years of working in the arid and semi-arid region of the country. TBS has helped more than 1,000 villages of 20 districts of Rajasthan and Maharashtra to build more than 12,000 rain water harvesting structures at strategic points impacting around 10,00,000 lives. TBS has helped successful community-based management and revival of 10 rivulets and their ecosystems making around one-million-hectare area from water-scarce to water surplus zone.  TBS did not only bring water security but major changes occurred in agriculture. Lands that earlier supported one crop started yielding two or three crops with good productivity and eventually doubled income-levels, food security, climate change adaptation and socio-economic status of the farmers. Today 75% of girls attend primary school as compared to the 5% earlier. The TBS’s model is time tested and has helped successful community-based management and revival of 10 rivers in the past and has been the backbone for river revival projects in Rajasthan, Maharashtra, Uttar Pradesh, Karnataka in India and Afghanistan, Iran and Myanmar, abroad. Local communities are directly involved in the decision making and construction process, instilling a sense of ownership and community pride. It also enables them to replicate it again elsewhere and carry out any necessary maintenance.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248714298x146111773268251540",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248713873x719375970601329400",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248713873x719375970601329400",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248713437x451791919156049800",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248713437x451791919156049800",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248712998x553638998630766850",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248712998x553638998630766850",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248712441x234396261690030370",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248712441x234396261690030370",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248711947x872947879787298000",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248711947x872947879787298000",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248711355x694851297404165000",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248711355x694851297404165000",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248710619x792387595916367400",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248710619x792387595916367400",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248710195x932822067295374200",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248710195x932822067295374200",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248709609x906813555709113100",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248709609x906813555709113100",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248709108x686244662999966300",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248709108x686244662999966300",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248708497x752763113078704500",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248708497x752763113078704500",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248708046x360881955341637400",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248708046x360881955341637400",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248707620x805459350372974700",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248707620x805459350372974700",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248707195x626023134302298000",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248707195x626023134302298000",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248706795x797124620933479400",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248706795x797124620933479400",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248706312x365186729767192900",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248706312x365186729767192900",
-"tags":""
-
-
-},{
-"label":"Making MythOS: A New Story Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248705900x242139334197591940",
-"description":"What is our story? Traditional religion had an answer. So did modernity. But if these narratives are no longer able to effectively cope with the complex world we are entering, what do we do? As it happens, there is a new, holistic story that has emerged from the cutting edge of science that may help us integrate the insights of the past with the call of the future. As of yet, this story remains largely trapped in textbooks and lecture halls. What if it could be unleashed, through the poetic imagination, in vibrant symbols and new myths? Could it orient a regenerative era towards a new way of being? What is the story that begs to be told?",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248705900x242139334197591940",
-"tags":""
-
-
-},{
-"label":"domeLIFE Presentation  Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248705294x814287598178275800",
-"description":"This architectural concept, domeLIFE, aims to design with the local climate to achieve living environments that support the daily needs of both people and plants while maximizing comfort, efficiency and sustainability. This concept uses methods that harness desirable aspects of the climate, while repelling those that are inhospitable. Whether in urban or sparsely populated settings, customized micro-climates will allow for people to thrive more comfortably and independently. This off-grid living approach affords for greater resident awareness as it supports a symbiotic relationship between nature and humans. Ultimately, this design is for people who want to experience a higher level of freedom and efficiency. The development of this educational facility will test this theory through ethically embedded softwares within the built structure.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248705294x814287598178275800",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248704844x976599483089135100",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248704844x976599483089135100",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248704414x840859336487546200",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248704414x840859336487546200",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248703960x284278608810115230",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248703960x284278608810115230",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248703393x497854901247177800",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248703393x497854901247177800",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248702916x497972920669168300",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248702916x497972920669168300",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248702447x963317472049706000",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248702447x963317472049706000",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248701949x460946111717028600",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248701949x460946111717028600",
-"tags":""
-
-
-},{
-"label":" Topia Exhibit",
-"id":"1650248701445x722567105506598800",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248701445x722567105506598800",
-"tags":""
-
-
-},{
-"label":"junglejarno's world New Art City (MORA) Exhibit",
-"id":"1650248700997x148111314998888640",
-"description":"all details should be the same as the other experience.... I just want my film to be featured in MORA. In the wonderful organic coral-like dome somewhere.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248700997x148111314998888640",
-"tags":""
-
-
-},{
-"label":"Emergence of DSS share about your DSS experience for potential coheART 3 applicants",
-"id":"1650248700379x659586019055844700",
-"description":"What was it like to be a part of the design science studio? What is the impact of the design science studio? Join rEvolutionary Liv Scott as they discuss their decision to be a part of the second coheART 2, how this fellowship has impacted them, and the larger ripple effect from the inside out of the fellowship?",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248700379x659586019055844700",
-"tags":""
-
-
-},{
-"label":"Regenerative Relating  Workshop",
-"id":"1650248699973x392535878375266400",
-"description":"This workshop will explore how to create enriching relationships through compassionate communication, and will examine how trust & love-based connection acts as the necessary foundation for the spontaneous collaboration it will take to create a world that works for 100% of all life.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248699973x392535878375266400",
-"tags":""
-
-
-},{
-"label":"Consent for a Better World Workshop",
-"id":"1650248699417x879848619805367000",
-"description":"Consent, bystander intervention, and observing power dynamics are vital skills to practice when interacting with one another! These tools are integral into how we reformat public safety, create sustainable environments, and build care-centered communities. Consent for a Better World is a starting point for further exploration into these concepts and a great place to ask questions or to just get your brain thinking about how to practice in everyday life.  I guarantee there will be something for everyone at any level of consent based knowledge in this offering. Consent is a regenerative gift we can give to ourselves, our relationships, and ultimately, our planet. When we learn together we create a path to massive cultural shifts!",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248699417x879848619805367000",
-"tags":""
-
-
-},{
-"label":"BIOluci New Art City (MORA) Exhibit",
-"id":"1650248698812x313585251482343600",
-"description":"Editing",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248698812x313585251482343600",
-"tags":""
-
-
-},{
-"label":"Buck the System Discussion / Panel",
-"id":"1650248698219x762239356148778100",
-"description":"A discussion with artists on how Buckminster Fuller influenced their work. Potential interviewees include Andy Lin from the Self Portrait Project and Liz Taggart, farmer and writer.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248698219x762239356148778100",
-"tags":""
-
-
-},{
-"label":"Wecome to the Transreality: Music, Art and Technology Discussion / Panel",
-"id":"1650248697751x219456215682562100",
-"description":"A conversation with other artists involved in music and art, looking at the state of the world, the state of",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248697751x219456215682562100",
-"tags":""
-
-
-},{
-"label":"Symbols in the Deserted Forest, Time solidified in the vast Sea   Performance",
-"id":"1650248697289x647179977194712700",
-"description":"A mantra-mapped guided meditation of the present ancient world forest desertified.  \n\nA dream of an path back from the terrible labyrinths of finance sector economic WasteLandscaping to the forestation of a reciprocating juncture of between inner and outer rejuvenation.  \n\nThe light of edenic, heavenly fasting releases the dark demons from their display.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248697289x647179977194712700",
-"tags":""
-
-
-},{
-"label":"The Artist is not Present Pre-recorded talk / art / video",
-"id":"1650248696798x523927629912058560",
-"description":"In the U.S. there is a labor shortage right now. And there will continue to be. Because everything's a mess. All the systems need immediate repair and redesigning and rebuilding asap. Of course, there also is a massive new internet industry in just the last 30 years that has radically changed everyone's relationship with the landscape and create myriad new professions. And in the mental and physical health crises, people are increasingly unable to work. And there is a massive new self-care industry and all sorts of new specialized tech industries..\nWe have exponentially multiplying possibilities, but live in a finite world, which means that people capable of bringing forth stuff of value, actions adequate to the crises, systems capable of overcoming problems, will be the greatest scarcity going forward and will therefore become the hottest commodity.\nThose who can need to build themselves into businesses that are successful in the existing system and then use the incredible power that that will grant them to act as umbrella patrons for communities that spring up at their feet and those communities and the alternative models that they are structured around will just grow and reabsorb the assets of the old institutions as they crumble \nand so we look to the stars to see our reflections as part of a evolving, successing, healing ecosystem\nand allow all our illusions to dissolve\nand act with compassion\nand we will grow like trees\nand the water will flow\nand the forest return",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248696798x523927629912058560",
-"tags":""
-
-
-},{
-"label":"Contemplative Debate Forum Discussion / Panel",
-"id":"1650248696217x704886870611697800",
-"description":"A contemplative debate forum for feminine voices, centered on making sense of the economy, especially what has happened as a consequence of not factoring the domestic and ecological economies into the statist monetary accounting systems",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248696217x704886870611697800",
-"tags":""
-
-
-},{
-"label":"Buttons in MORA New Art City (MORA) Exhibit",
-"id":"1650248695730x680269816685090700",
-"description":"This exhibit introduces a concept of Buttons being catalysts to becoming Trimtabs. Big Red Buttons, Little Buttons and Connector Buttons. Exploring how to encourage our communities (especially children) to ask questions, explore new solutions to old problems and introduce them to Bucky’s Principles. Inspiring them to ask how they can contribute and help to  create a future that works for 100% of life.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248695730x680269816685090700",
-"tags":""
-
-
-},{
-"label":"Buttons in Topia Topia Exhibit",
-"id":"1650248695141x454535796588186900",
-"description":"This Topia exhibit introduces a concept of Buttons being catalysts to becoming Trimtabs. Big Red Buttons, Little Buttons and Connector Buttons. Exploring how to encourage our communities (especially children) to ask questions, explore new solutions to old problems and introduce them to Bucky’s Principles. Inspiring them to ask how they can contribute and help to  create a future that works for 100% of life.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248695141x454535796588186900",
-"tags":""
-
-
-},{
-"label":"Collaboration with your local community Pre-recorded talk / art / video",
-"id":"1650248694445x788285632675981600",
-"description":"A presentation of my experience participating in the Global Day of Creation Action 2021 (created by MicroGalleries). Exploring the challenges of preparing for creating my first large scale artivist installation creating awareness of wicked problems in South Africa. And Exploring how to encourage collaboration with your local community - whether they are creators, artists, scientist, local Councillors or City Officials.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248694445x788285632675981600",
-"tags":""
-
-
-},{
-"label":"Meditative Arts Session Pre-recorded talk / art / video",
-"id":"1650248693993x905501376771306500",
-"description":"Meditative Arts Session",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248693993x905501376771306500",
-"tags":""
-
-
-},{
-"label":"Encountering Tricksters New Art City (MORA) Exhibit",
-"id":"1650248693540x133905114259418100",
-"description":"TBD",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248693540x133905114259418100",
-"tags":""
-
-
-},{
-"label":"A Glimpse of the Wastelands - An Immersive Book Series New Art City (MORA) Exhibit",
-"id":"1650248693080x216429006997650430",
-"description":"The Wastelands is a young/new adult book series that highlights how celebration of individuality can benefit our world and will help us build a future around acceptance and understanding. It includes challenges for characters in all forms from self perception of value to issues around climate change and social injustices. This exhibition is a glimpse of the world and and introduction into the adventure that is being built.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248693080x216429006997650430",
-"tags":""
-
-
-},{
-"label":"Meditative Arts and Artivism  New Art City (MORA) Exhibit",
-"id":"1650248692627x768840996613433100",
-"description":"An immersive meditative art experience with artwork from our Meditative Arts Coloring Book series. This series was inspired by my Meditative Arts sessions. Meditative Arts is a method of cultivating a mutually held container in which participants can create from a place of nonattachment, while in a meditative flow. In the act of creating, we intentionally turn our attention inward to the mind-body connection, the internal journey, and the organic flow of the process, letting the tactile experience of creation be at the center and the final outcome incidental. In this healing creative space, we will enjoy relaxing music while artwork from the coloring book pages becomes adorned with color.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248692627x768840996613433100",
-"tags":""
-
-
-},{
-"label":"Geodesign for Planetary Regeneration Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248692016x459307787698535200",
-"description":"ssfg",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248692016x459307787698535200",
-"tags":""
-
-
-},{
-"label":"Alchemical Architectures Discussion / Panel",
-"id":"1650248691407x571991147266236900",
-"description":"How do we transform Architecture so it can transform us? In an interdisciplinary and collaborative conversation about truly holistic regenerative design architects from the DSS will explore Deep Design as a practice of building invisible and visible architectures toward a world that works for all. Join for an exploration of the field of architecture today, its problems, and visionary solution sets for designing a world that works for all life.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248691407x571991147266236900",
-"tags":""
-
-
-},{
-"label":"Cosmic Odyssey Art & Aparrel Launch Exhibit New Art City (MORA) Exhibit",
-"id":"1650248690814x282856968693491420",
-"description":"My project has changed! :D  I'm about to launch a fashion line called Cosmic Odyssey that prints artists' work on clothing with a percentage going back to a different nonprofit for every collection, as well as links to artists NFT collections related to the collection.  I'd love to showcase some of these clothes in a virtual world (Topia or the Craft part of New art city?) and also have a form there where collaborators who'd like to get involved could indicate their interest.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248690814x282856968693491420",
-"tags":""
-
-
-},{
-"label":"Paisaje Sentido: A experience into the inner-landscape Workshop",
-"id":"1650248690349x707159582486204700",
-"description":"PAISAJE SENTIDO as a concept focuses on promoting dialogues between the experience of the interior landscape (understood as emotions, thoughts, individual reflections) and the experience of the exterior landscape through spaces, elements, textures, materials that open the window to the exploration of the senses.\n\nThis workshop will offer a journey into the inner landscape as an opportunity to bring awareness through our sensory system. We will take a walk to evoke sensations that activate curiosity and playfulness, that allow us to feel interconectedness with our environment as an example of an Integral Landscape Experience.\n\nit is necessary to offer possibilities that activate the body and integrate the senses into the experience of the landscape. MULTISENSORY DESIGN is implemented to strengthen the experience of landscape and it would be an experiment for the first time in a virtual format!\n\nWe will need: paper, pencils, colors, markers or watercolors or *digital pencils.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248690349x707159582486204700",
-"tags":""
-
-
-},{
-"label":"FullerFeedback presents The Girl from Spaceship Earth  Discussion / Panel",
-"id":"1650248689724x920141437358048300",
-"description":"a panel of people",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248689724x920141437358048300",
-"tags":""
-
-
-},{
-"label":"FFS Presents  Stefanie Atkinson Schwartz  Artist Talk Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248689140x670904800230496000",
-"description":"Stefanie will be sharing her visual work and story",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248689140x670904800230496000",
-"tags":""
-
-
-},{
-"label":"FFS - Wish you were Sphere Topia Topia World",
-"id":"1650248688714x262916386116351040",
-"description":"Fuller Feedback Systems will give a tour inside the Topia word of Wish you were SpHere",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248688714x262916386116351040",
-"tags":""
-
-
-},{
-"label":"Symbology to connect Humanity Pre-recorded talk / art / video",
-"id":"1650248688110x873259165387505700",
-"description":"My intention is to create a 3D environment in Art City that offers people an opportunity to get introduced to Fractal Marks. Since these symbols will also be assets in my library, I'd love to offer them as assets for any other world to include as art/deco in their world.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248688110x873259165387505700",
-"tags":""
-
-
-},{
-"label":"Let's Play Synergetics cynchronized Workshop",
-"id":"1650248687634x416067284688170800",
-"description":"Modelling, playing with papers, colours and forms",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248687634x416067284688170800",
-"tags":""
-
-
-},{
-"label":"You, perfect whole and complete  New Art City (MORA) Exhibit",
-"id":"1650248687174x986015676824106000",
-"description":"Forever Free music is bout expressing feelings and emotions freely without guilt and experiencing self-worth using music and our voice.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248687174x986015676824106000",
-"tags":""
-
-
-},{
-"label":"System coupling!  New Art City (MORA) Exhibit",
-"id":"1650248686723x546257733289879230",
-"description":"https://docs.google.com/document/d/1UotMec42G5q7lZgFQmt6Mnc6IEt0UwqXwvNHEQvyNb8/edit?usp=sharing",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248686723x546257733289879230",
-"tags":""
-
-
-},{
-"label":"Sustainable Craft Village    New Art City (MORA) Exhibit",
-"id":"1650248686262x883946602850447000",
-"description":"The Craft Village is a co-living and co-creating space for artisans, artists, designers, growers, collaborators and other crafty individuals. The living spaces are equipped with sustainable energy and satellite internet. We grow our food and share the harvest. Regenerative energy from sources like solar, wind, water and biogas are cultivated. The village is focused on creating artistic textiles, personalized fashion, wearable art and décor.\nOur intention is to collaborate and co-create a living and working space(s) with seasonal online/offline market exhibitions to showcase locally grown & produced food, clothing and space décor. Knowledge and skills are shared through interactive workshops on sustainable living. Every materialistic entity is co-owned. Assets and profits are shared empowering one another, realizing we are parts of a whole..",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248686262x883946602850447000",
-"tags":""
-
-
-},{
-"label":"Mammon Memetics New Art City (MORA) Exhibit",
-"id":"1650248685558x248556552517599460",
-"description":"Mammon Memetics\n\nMammon: An entity that promises wealth and gain. The debasing influence of material wealth.\n\nMemetics: The means by which an idea spreads from mind to mind\n\nThese AI generated pieces of art have been minted as NFTs as a commentary on the increasing obsession with tokenization and valuation in our culture",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248685558x248556552517599460",
-"tags":""
-
-
-},{
-"label":"Onusa New Art City (MORA) Exhibit",
-"id":"1650248685131x315240629968278140",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248685131x315240629968278140",
-"tags":""
-
-
-},{
-"label":"Radiolaria - An Architectural Wonder New Art City (MORA) Exhibit",
-"id":"1650248684709x381957221542559300",
-"description":"Radiolaria-An Architectural Wonder is a vision of what grown buildings could look like. Imagine if we could grow materials like nature does from a seed to a tree. Could we embody organic forms into our built cultural icons? Could this drive a new wave of kinship for nature as we learn to build like biology?",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248684709x381957221542559300",
-"tags":""
-
-
-},{
-"label":"Cross Polynation New Art City (MORA) Exhibit",
-"id":"1650248684096x347977561286290560",
-"description":"Earth's life abundance nurtures us every day, feeds us every day, transforms into us every day. This Abundance is structured upon microscopic interactions and delicate symphonies that we can constantly explore in the natural world. Cross Polynation explores the geometry of life. By connecting and understanding these invisible forces we can ensure a world that works for 100% of life for regenerative, just and equitable futures.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248684096x347977561286290560",
-"tags":""
-
-
-},{
-"label":"Mushbloom  New Art City (MORA) Exhibit",
-"id":"1650248683642x358862127582222340",
-"description":"Tbd; see notes in mock-up :)",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248683642x358862127582222340",
-"tags":""
-
-
-},{
-"label":"Ceraun Loggins -\"Where the Streets Have No Name\" New Art City (MORA) Exhibit",
-"id":"1650248683018x678367769858272900",
-"description":"\"Where the Streets Have No Name\"\nCeraun The DivaNun\n\nIn the photography series \"Where the Streets Have No Name\" I explore depth and form in urban settings in Tokyo and Kyoto.  From empty alleyways and train stations to crowded markets, our modern landscapes have little resemblance to the natural world they were built on. What kind of life are we left with when we replace hills with advertisements and streams with concrete? In the absence of the natural world is there beauty in the human world we have imposed? This series asks you to wonder if the path humanity built is worth what was lost in paving it.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248683018x678367769858272900",
-"tags":""
-
-
-},{
-"label":"Voice of the Earth New Art City (MORA) Exhibit",
-"id":"1650248682575x244340249280178270",
-"description":"Her-Story, the story of Gaia. All of creation's story is woven into our womb, found in the crevices of our human being. If we slow down and listen, the third door to intuition and endless knowledge will open and a cosmic wisdom from the ancient future is revealed. Come into Gaia Temple, a historical chapel on the shores of Hawaii, and listen to the song of land. Discover the ancient wisdom encoded within your body and activate your voice to be a carrier of her story- the story of the Earth. \n\nMarly Benedicto is the founder of Gaia Temple (508c1a), and creator of Her-Story. Gaia Temple is an artist collective of visionaries from around the world who are focusing their creative skills to bring attention to the earth, environmentalism and land based community development. Her-Story is a collaborative art piece in progress, meaning that if you are inspired to build upon the sutures of what you've experienced here today reach out to hello@gaiatemple.org and let's play!",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248682575x244340249280178270",
-"tags":""
-
-
-},{
-"label":"Earth Embassy New Art City (MORA) Exhibit",
-"id":"1650248682116x753293683169648000",
-"description":"Earth Embassy is a 3-D art installation that immerses the viewer in water to create an embodied meditation on our planet’s great connector.  As people walk through the space, scenes of water in nature and in art are projected on the floors and the walls, making visible the omnipresence of nature in our lives and surroundings. We are nature, we are water, and through this visual, physical and digital submersion into the waters of life, people will be enveloped in the truth of our one-ness.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248682116x753293683169648000",
-"tags":""
-
-
-},{
-"label":"Mother Earth Embassy? (I cant remember) New Art City (MORA) Exhibit",
-"id":"1650248681389x997952960268674000",
-"description":"Already in file",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248681389x997952960268674000",
-"tags":""
-
-
-},{
-"label":"Meditative Arts and Artivism New Art City (MORA) Exhibit",
-"id":"1650248680747x960429341481374100",
-"description":"Meditative Arts is a process of learning to apply creativity from a meditative flow state. When we do the (sometimes hard) work of releasing our expectations of what will come when we create, we find unexpected results. From this intention, Shanita begin sharing Meditative Arts sessions and was inspired to begin creating a Meditative Arts Coloring Book series. Each Meditative Arts Session includes gentle yoga, guided meditations, and time for creative expression (painting, drawing, etc) free from an attachment to the outcome. \n\nIn addition to Meditative Arts, King is passionate about Artivism (Art + Activism). This passion is expressed in public murals, digital art, and social media campaigns meant to inspire sustainable change positive change and to promote education and conversations on important topics. They also hope to inspire others and help promote healing of ourselves, each other, the planet, and all who dwell here. \n\nThis installation is a portal to these creative windows of positive change.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248680747x960429341481374100",
-"tags":""
-
-
-},{
-"label":"Deep Design // HOMEdash New Art City (MORA) Exhibit",
-"id":"1650248680122x325138030126850700",
-"description":"(New Project Title:\nDeep Design // HOMEdash\n\n(New Overview Description)\nHow can we build a world that works for all from the inside out? What kinds of systems can catalyze regenerative living at a global scale? Deep Design explores the invisible architecture of our inner spaces and how this informs the way we design our outer spaces and visible architecture. The artist bridges individual and collective experiences of unity through this work, including still images and a virtual globe. Approach the video to enter a portal and open the link to explore the prototype for HOMEdash, a dashboard which visualizes the heartbeat of Mother Earth using real data. \n\n(Lion) \nApproach this representation of divine life force energy with reverence, invite your soul to find rest as you contemplate the infinite source of all creation. Connect with the invisible energetic source of all life through the archetypal symbolism depicted here as a reflection of what is sacred within you.\n\n(Goddess)\nThe Initiatrix has a challenge for you, will you accept this initiation? Can you walk as love in a world so full of fear? Are you willing to take up the sword of truth and stand for justice? Allow yourself to connect with a source of power and strength within yourself which comes from a realm beyond space and time.\n\n(Rose)\nEnter the inner temple where the white light from above meets with the red light from below in sacred union. The white spiral is a symbol of virginity, the kind which cannot be lost or tarnished, it represents the maiden, an archetype which speaks to the primordial purity within all beings. Rest in the soft innocence of your eternal soul.\n\n(Video) \nHOMEdash is a gamified dashboard for visualizing the heartbeat of Mother Earth based on real data. It is a system which empowers community efforts worldwide and supports participation in building regenerative environments. This is a prototype of a unified planetary operating system which optimizes livingry and resources to serve 100% of all life, helping humanity keep planetary boundaries in check and achieve sustainable development by 2030.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248680122x325138030126850700",
-"tags":""
-
-
-},{
-"label":"How a mayan fire ceremony is conducted New Art City (MORA) Exhibit",
-"id":"1650248679665x137702582829942080",
-"description":"This showcase gives an overview of how Mayan elders create a fire ceremony. This particular fire was held on Saturday March 12, 2022 to honor the first full lunar cycle of Tata Pedro Cruz's transition.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248679665x137702582829942080",
-"tags":""
-
-
-},{
-"label":"Star Galaxy for the World New Art City (MORA) Exhibit",
-"id":"1650248679055x190285166997498980",
-"description":"Take an immersive visual Journey to the Star Galaxy for the World. In the land with Platonic Solids we meet 5 Storytellers who help us with their words of wisdom and new ways of think  to experience an elevated way and to take action and so to be able move from crisis to healing in this transformative experience.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248679055x190285166997498980",
-"tags":""
-
-
-},{
-"label":"Evoking Belonging: The UbuntuSphere New Art City (MORA) Exhibit",
-"id":"1650248678403x173195136847069440",
-"description":"Evoking Belonging: The UbuntuSphere\n\nYou are invited to join me, D-Empress on a multi-sensory journey into the UbuntuSphere... where together we unfold into three Ubuntu chambers in a participatory, multi-sensory enquiry into Belonging.\n\nThe Invitation  A journey exploring our inner landscape \nCome... chant with me... \"Ubuntu, without you, I do not exist\"\nAgain... chant with me... \"Ubuntu, without you, I do not exist\"\nOnce more... we chant.. \"Ubuntu, without you, I do not exist\"\nHow do you feel...?\n\nUbuntu: Communion Chamber\nI invite you to enter... we pause... for breath...\nSensing deeply into the body...lived experiences of belonging...\nExcavating memory... Exploring his & her-story - hersto-rhetoric... we stories...\n\n\nUbuntu: Connection Chamber\nRevealing... renewing...regenerating \nconnections to \nlife force propelling our being...\nUbuntu, without you,I do not exist\n\nUbuntu: Co-Creation Chamber\nWe land... we weave story... new narratives for those displaced\nfrom ancestral lands...\nHis, her and their story... like songs... souls... sing!\n\n\nEvoking Belonging is a Social Sculpture practice emerging from a body of doctoral research by ARTivist, Dianne Regisford AKA D-EmpressEvoke.\nUbuntu is an African Bantu philosophy, which means ‘without you, I do not exist’... or in short, ‘humanity’. \nThe UbuntuSphere is a participatory journey of imaginative, embodied exploration of Belonging as a co-created cultural practice anchored in a decolonial social justice agenda.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248678403x173195136847069440",
-"tags":""
-
-
-},{
-"label":"Mental Models for Human Experience: Entropy and Syntropy  New Art City (MORA) Exhibit",
-"id":"1650248677803x763385776801391200",
-"description":"Exploring entropy and syntropy as ways of understanding human experience in terms of perception (senses), cognition (mind), emotion (heart), and action (body).",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248677803x763385776801391200",
-"tags":""
-
-
-},{
-"label":"Ancient Tree Futures Re-imagined  New Art City (MORA) Exhibit",
-"id":"1650248677200x437540379171544200",
-"description":"This is a multi-disciplinary installation by award winning contemporary eco-folk artist, poet, and Climate Justice advocate Neha Misra.  The installation weaves regenerative treescapes of art, poetry, and music inspired by spiritual, ecological, mythological, biological, futurist earth visions of tree wisdom. Sacred intergenerational trees of Neha's Indian Heritage as well as those of her immigrant adopted tree house home on the Turtle island inspire this installation. The visitors enter an expansive tree world that invites reconnecting with our own roots and tree of life stories as a source of private, collective, planetary healing.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248677200x437540379171544200",
-"tags":""
-
-
-},{
-"label":"The Connected Experience meets Unity Sanctuary From Ideation to Actualization New Art City (MORA) Exhibit",
-"id":"1650248676714x198412698152161440",
-"description":"Through technology, we are all hyper-connected, yet loneliness has become the disease of our time. Using biofeedback and artistic expression I offer experiences to help people connect better with themselves and others through the artistic visualization and sound of one's bio-resonance in the virtual and physical worlds. Bridging the gap between imagination and reality, my goal is to help drive technology development at the humanitarian level to help heal the world.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248676714x198412698152161440",
-"tags":""
-
-
-},{
-"label":"Climate Action Game Show New Art City (MORA) Exhibit",
-"id":"1650248676030x366254189434640960",
-"description":"BEAT THAT HEAT (playing title)\nAn interactive game show where players contribute to climate solutions while having a good ass time. \n\nEqual parts Jeopardy, Price Is Right, Double Dare & America’s Got Talent, all in service of cooling down the planet and enjoying the process.\n\nThe game is a 45-minute interactive experience for a live audience, featuring physical challenges, trivia, speed brainstorming, name that tune performances, and a dance catwalk. \n\nTeams compete for zero-waste prizes while raising money for Anpetu Wi & Great Bear Forest Carbon Project, and other indigenous-led land stewardship projects.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248676030x366254189434640960",
-"tags":""
-
-
-},{
-"label":"Magicubes Shelter Solutions New Art City (MORA) Exhibit",
-"id":"1650248675545x767000348002260000",
-"description":"Focusing on the solution to the housing situation, where industry has not provided low cost rapidly deployable shelter for the unhoused population in major cities and refugees of fire, flood and war.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248675545x767000348002260000",
-"tags":""
-
-
-},{
-"label":"Solarpunk re-meme-bering New Art City (MORA) Exhibit",
-"id":"1650248675125x295751955725600000",
-"description":"",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248675125x295751955725600000",
-"tags":""
-
-
-},{
-"label":"Descended Masters Topia Exhibit",
-"id":"1650248674668x266828474648788120",
-"description":"Discover magic and hear the whispers of the wind and the laughing of the leaves move through Marly Benedicto as she channels earth song in this piece titled Descended Masters. Descended Masters alludes to the choice to return to society after having found paradise and sanctuary deep in the jungles of Hawaii, which Marly has done in hopes of contributing to the collective remembrance of all sentient life. In this song Marly layers vocal tracks of light language from Lemuria.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248674668x266828474648788120",
-"tags":""
-
-
-},{
-"label":"Paseo D' Rio Topia World",
-"id":"1650248674242x356939353683772800",
-"description":"Experience the magic of the natural world design",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248674242x356939353683772800",
-"tags":""
-
-
-},{
-"label":"Portal to the New Earth Topia Exhibit",
-"id":"1650248673797x412272587227404200",
-"description":"Using the same 11:11 Diamond Portal made for last year's Topia, it will link to a new longer video on Portal to the New Earth",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248673797x412272587227404200",
-"tags":""
-
-
-},{
-"label":"Culture of Sensuality  Topia Exhibit",
-"id":"1650248673086x831707170338354700",
-"description":"An immersive sensuality tea house. Reminding us to come back to the present and “to be”. Rooting, essentia the root of sensuality, ourselves into our authenticity through sensual play and exploration. This is a rebirthing process which highlights play, curiosity, redefining, and understanding authenticity through sensuality.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248673086x831707170338354700",
-"tags":""
-
-
-},{
-"label":"Multiverse Poetry  Topia World",
-"id":"1650248672526x121122759560527980",
-"description":"Multiverse Poetry Journey",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248672526x121122759560527980",
-"tags":""
-
-
-},{
-"label":"Mental Models for Human Experience: Entropy and Syntropy Topia Exhibit",
-"id":"1650248671901x240415416267079300",
-"description":"I have created a Topia world called Human Experience to give people the opportunity to experience the mental models for human experience as a tour of the mind and of consciousness.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248671901x240415416267079300",
-"tags":""
-
-
-},{
-"label":"Societal Sectors Exploration Topia World",
-"id":"1650248671434x724856451882275100",
-"description":"A world to explore the societal sectors needed for transformation.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248671434x724856451882275100",
-"tags":""
-
-
-},{
-"label":"Concrete Oasis Topia World",
-"id":"1650248670970x103273129149035860",
-"description":"At the center is a drawing of Pershing Square with my AR elements visible. I'm turning the dry concrete park into a lush oasis. There are four water sources for Los Angeles, I am creating a little scene for each. Each will have some sort of information content in a pop-up--preferably inline where the user does not get taken off of Topia. These are the red signs, they are interactable elements.  I forgot to add one at the waterfall, that one will take the user out of Tpoia to the accompanying website. There is also sound efx loop of water at the center where the waterfall is. The yellow highlighted elements are top layer elements. Final TBD.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248670970x103273129149035860",
-"tags":""
-
-
-},{
-"label":"Self sustained interdependent Craft Village Topia World",
-"id":"1650248670519x865702563202605200",
-"description":"The Craft Village is a co-living & co-creating self-sustainable community space for artisans, artists, designers, growers, collaborators and crafty individuals. The living spaces are equipped with sustainable energy and satellite internet. We grow our food and share the harvest. Regenerative energy from sources like solar, wind, water and biogas are cultivated. The village is focused on creating artistic textiles, personalized fashion, wearable art and décor.\nOur intention is to collaborate and co-create a living and working space(s) with seasonal online/offline market exhibitions to showcase locally grown & produced food, clothing and space décor. Knowledge and skills are shared through interactive workshops on sustainable living. Every materialistic entity is co-owned. Assets and profits are shared.    \nParticipate in collaboration with artisans and designers from the Indian subcontinent. \nCo-create personalized fashion and space with us.\nHelp amplify the mission of spreading Craft Culture, empowering and healing each other. \nSupport handcrafted life centered designs. \nHelp us build a global network of artists, designers, crafters, artisans, visionaries and experiencers globally.\nHandcrafted personalized fashion and décor for everyone and every space. \nEmpowering one another and learning from each other. \nThe collaborative sustainable craft village is about rejoicing the spirit of co-existing and co-creating unique product stories through the participation of diverse individuals from modern to indigenous backgrounds. \nUnderstanding how co-working hands-on has the power to heal and uplift one-an-other.\nCo-design personalized fashion, wearable art and living space with artisans around the globe. \nTraditional artistic textiles in modern silhouettes.\nTogether we reduce, re-use, upcycle, co-learn, re-think, re-design and re-build a desired environment through modern tools/technologies and intuitive life centered traditional wisdom.\nCo-living and sharing spaces in heart centered eco dymaxion homes and spiral geodesic domes. Lean and frugal systems designed for individual/ collective sufficiency, resilience and abundance in energy, food, technology, housing and clothing. \nCelebrating and empowering each other towards socio-economic equality and right to information and self expression in the medium of art and craft.\nSharing gratitude to awareness and abundance in presence.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248670519x865702563202605200",
-"tags":""
-
-
-},{
-"label":"Organic orgasm  Topia Exhibit",
-"id":"1650248669916x382351992846111900",
-"description":"Organic Orgasm is about you becoming opened and vulnerable who you are at this moment. Using imagination to create a pleasurable moment as you are already living it. This will be guided by music, belly button message, singing, breathing techniques and gratitude app (which I recommend to download previously)",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248669916x382351992846111900",
-"tags":""
-
-
-},{
-"label":"Origin Earth Topia Exhibit",
-"id":"1650248669485x790466031854289800",
-"description":"Step into a world full of organic architectural marvels that have been grown from the available molecule in the air or ocean to create space for humans to thrive. Grown structures based off of living biodiversity brings a new sense of kinship with nature and our connection to oneness with life. This is a place to marvel, be at awe, to live, to inhabit, to find connection to the universal.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248669485x790466031854289800",
-"tags":""
-
-
-},{
-"label":"Magicubes Shelter Solutions Topia Exhibit",
-"id":"1650248668997x765820764839952000",
-"description":"A display of the building block solution for the homeless. The system is assembled from expanding cubes that become small rooms useful for shelter, sleeping, cooking, bathing, toilet, office and food storage. The units include active and passive solar to provide power and hot water. I would also like to present the causes and solutions to homelessness.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248668997x765820764839952000",
-"tags":""
-
-
-},{
-"label":"The Dream Tree Topia World",
-"id":"1650248668556x496075560088298200",
-"description":"The Dream Tree is a nurturing space where sounds and visuals feed your curiosity. Pick a card from the Spaceship Earth Deck -- pick up to three! and simply wander around making sense of it all. See if your dreams become clearer. Maybe some new thought comes to the surface. Chat with friends or sit alone. This is a place for dreaming at your own pace. \n\nInfused with the work of Buckminster Fuller this Dream Tree is the first of many tiny galleries and intimate learning centers both online and in physical space.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248668556x496075560088298200",
-"tags":""
-
-
-},{
-"label":"Dodoland Topia World",
-"id":"1650248668116x198816583798043550",
-"description":"Dodoland is based around a book by Della Burford which was one of the first e-zines on the internet in 1995. It is for being happy and living your dream. It has an Dragon Ship where you can 'be what you want and who you want to be' and hear stories', a Night Bubble to create, a Giant Flower Island and Earth Action Dome to learn how to love and protect the earth , Singing Tree for music, and Island of Eyes for building regenerative vision and meeting artists from the Design Science Studio.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248668116x198816583798043550",
-"tags":""
-
-
-},{
-"label":"A Gentle Way of re-Creating a Universe Topia Exhibit",
-"id":"1650248667693x174798458535800900",
-"description":"Short video telling a gentle story of creation from the perspective of ancient shamanic tradition of China",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248667693x174798458535800900",
-"tags":""
-
-
-},{
-"label":"ForestALL Topia Exhibit",
-"id":"1650248667258x647430992994634500",
-"description":"Our visionary project at Sències to create community experiences in harmony with nature and the universe has defined a precise starting point: to transform a 2,5 ha desert land in Sitges, Barcelona into an edible Permaculture Forest involving community. Starting October 2022 the first 0,5ha will be planted with a community action.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248667258x647430992994634500",
-"tags":""
-
-
-},{
-"label":"Networked dreams and the birth of The Scenius Machine: The Role of Artificial Intelligence in regen.era Workshop",
-"id":"1650248666813x547627670879173440",
-"description":"An exploration of speculative fiction and the benefits of long term thinking in the age of generative technologies.  We will give a short presentation on the role of AI in helping humanity better map out its dreams and aspirations. We will present text and images generated by the collective dreams of the Design Science Studio and use the experience to explore how these technologies can be used to advance pattern recognition in collective thought. We will spend time writing about our dreams for future realities and contextualizing them with great forward thinkers of the past and present. These dreams will then be fed into an AI called The Scenius Machine (a neural network AI training dataset) which will be used to generate text and visuals based on the collective’s dreams for the future. We will then workshop how an organization like this can grow.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397657190x478744409865459840/2F41B6B6-FCF2-4D50-921D-6409CCD272CC.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248666813x547627670879173440",
-"tags":""
-
-
-},{
-"label":"ARC & the Significance of the 3 Legged Stool Workshop",
-"id":"1650248664377x149543247224650940",
-"description":"Attendees will leave this workshop with an empowered sense of awareness, understanding and inspiration for taking action in important relationships in and/or for their lives and futures. We'll begin with a review and analysis of ARC and the 3 Legged Stool and how it can powerfully exemplify and contribute to the strength, stability, structure, growth and development of relationships in our lives.\n\nThe acronym, ARC, stands for Affinity/Appreciation, Reality (in the form of agreements), and Communication. We will conclude by discussing some things that can be said and done to strengthen and/or re-establish each of those legs to allow the relationship to thrive.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397654030x792940086908129500/3_legged_stool.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248664377x149543247224650940",
-"tags":""
-
-
-},{
-"label":"Our Deepest Dreams and BuckyBot Discussion / Panel",
-"id":"1650248662917x114721106931001230",
-"description":"This panel discussion explores the domains of artificial intelligence, collective consciousness, and generative art. Featuring several artists who regularly collaborate with AI in their creative process, we will discuss how artificial intelligence could be used as a mirror for humanity to see itself as one planetary super-organism. Our dialogue will include an AI version of Buckminster Fuller, BuckyBot, who will participate alongside his living human (r)evolutionaries. We will conclude the panel by revealing the AI-generated art that was created in collaboration with the results of our speculative fiction workshop (Networked Dreams and The Birth of The Scenius Machine).",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397652082x204336395088235740/3F04764A-0495-4F70-A7A6-05F3B43249F5.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248662917x114721106931001230",
-"tags":""
-
-
-},{
-"label":"Inhabiting The Beauty Way Workshop",
-"id":"1650248660899x303690194944765900",
-"description":"How do we walk The Beauty Way together? This presentation and workshop suggests Beauty as a universal language of Life Culture, outlining core concepts before expanding into a shared embodiment practice. Come to the workshop with a pen and paper and an open receptive mind. Together, we’ll be noticing the patterns around us that we experience as Beauty, practicing looking with an appreciative gaze to find Beauty in disharmony, and closing with an altar-building exercise.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397649298x381490052337214660/5CFA4219-4239-415D-94B9-E410E6A61303.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248660899x303690194944765900",
-"tags":""
-
-
-},{
-"label":"Lowering Fashion Industry Waste Fabrics Topia Exhibit",
-"id":"1650248657980x276547954607531330",
-"description":"I story board world through how designers can lower fashion fabric waste.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397645208x922340825436796800/9A21AE19-3AD8-4370-AFE7-B6BE433309F3.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248657980x276547954607531330",
-"tags":""
-
-
-},{
-"label":"Workshop Zero Waste Skirt, Trapazoid Pre-recorded Performance",
-"id":"1650248655862x169868092018937700",
-"description":"In this brief workshop you will learn to make a zero waste pattern for a skirt based on the trapezoid shape.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397642722x649697860965073200/17C8CDD1-1E66-4C55-BBE9-008AEB2B4C08.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248655862x169868092018937700",
-"tags":""
-
-
-},{
-"label":"evoL sI sihT : This is Love backwards New Art City (MORA) Exhibit",
-"id":"1650248652902x951923650711562800",
-"description":"evoL sI sihT : This is Love backwards explores human connection as it is visualized through the lens of Artificial Intelligence. Using NLP AI algorithm GPT2 tuned to old love letters, the artist generates text that is then used to generate visuals in VQGAN. Through this process the artist questions 'What is Love?' and how do the technologies of our time change our relationship to such an abstract and human concept.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248652902x951923650711562800",
-"tags":""
-
-
-},{
-"label":"Art is Best with Friends Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248652445x344544798166000400",
-"description":"In Progress...Large scale installations are fun and a lot of work to create and typically require many people with differing skills to complete.  My experience is that this is best with friends and those friends show up at the exact right tie to fill a roll for their exact gift.....",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248652445x344544798166000400",
-"tags":""
-
-
-},{
-"label":"a Gift for GAIA - a New Noode on the Noosphere Topia Exhibit",
-"id":"1650248651955x629349225911198000",
-"description":"We are now in the midst of a significant evolution and expansion of Consciousness on GAIA. By adding a noode, a node on the noosphere, our New Awareness and Appreciation innergizes the evolving Noosphere, creating the intention and container for more evolutionary consciousness to flow into ourselves, and into our Planet, raising the collective consciousness of All, into Harmony and Unity.\n\nThis Gift for Gaia is a Garden of Wholeness embedded in the Sacred Leylines of Sedona, Arizona, imbued with the healing awareness of Wholeness, the medicine of our times, and brought to us on Gaia by the Angel of Wholeness, of Unity. \nIt is a template and invitation for Others to create new noodes across the Planet.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397637838x621999284202587000/2020%20Neutral%20Angel%20in%20studio.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248651955x629349225911198000",
-"tags":""
-
-
-},{
-"label":"Art tour to my topia piece Art Tour",
-"id":"1650248649984x278507205376282940",
-"description":"We will visit the installation I have in topia.  Can talk a little about fashion industry waste.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248649984x278507205376282940",
-"tags":""
-
-
-},{
-"label":"The art of caring Immersive Experience",
-"id":"1650248649442x390537348681954750",
-"description":"Thank you for being caring is an event that inspire you to stand for your own freedom and you are giving birth a new you who are worthy of being in this world, you will have the opportunity to come in contact with the real you no matter what and acknowledge who you are being by creating humorous conversations with others you come across while making love in every shape and form. Balancing the feminine and masculine inside you and accepting your sexual human being and restoring that energy to allow yourself to be a simple success system",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397634759x859729234642890900/5FC8A2F2-86E0-4108-BD99-87B23A9BF252.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248649442x390537348681954750",
-"tags":""
-
-
-},{
-"label":"Astral Meditation Journey Other",
-"id":"1650248646485x320016533039491100",
-"description":"A guided journey from below to above, from inside to outside, from the core of the earth to the infinity of the universe. A journey into love from love. Using the bridge of breath, sound and visualization, we travel deep into our consciousness and into the cosmos to find the micro in the macro and to bring home with us a feeling of belonging and remembrance of our pure essence.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397631399x133811641728859280/8395af36e9be642c8f60487cb147ae47.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248646485x320016533039491100",
-"tags":""
-
-
-},{
-"label":"Artist talk Melissa Lockwood Pre-recorded Performance",
-"id":"1650248644567x551920114887564740",
-"description":"Melissa project is about how she discovered a way to lower fashion industry waste by experimenting with designing into and with the fashion industry block pattern waste area.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397629006x725163536168560400/4845202B-79A7-4EF6-9919-3059DA2CBC36.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248644567x551920114887564740",
-"tags":""
-
-
-},{
-"label":"Returning to Our Houses of Magic: Art and Design for Restoring the Collective Soma Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248642685x782586728669553200",
-"description":"Art for social purpose takes president alongside endless new practices emerging for the mental, physical and spiritual health of humanity in the 21st century. But why have these practices been lost? And why are they so important to reintegrate into the collective soma (body) of our culture? In this presentation and workshop, Aliko walks you through a brief history of capitalism in relation to primitive accumulation, its impacts on our bodies and nervous systems, and how art and design are not only an antidote, but reparations for a system that has oppressed our individual and cultural body.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248642685x782586728669553200",
-"tags":""
-
-
-},{
-"label":"Up-cycling a long sleeve tee shirt into a dress Pre-recorded Performance",
-"id":"1650248631490x580386658270197800",
-"description":"You will learn to transform a long sleeve tee shirt into a dress and keep it zero waste.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397624405x288040584079710000/BDF27FF9-15A9-4306-AF7F-54476DF6968E.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248631490x580386658270197800",
-"tags":""
-
-
-},{
-"label":"BEAM(ing) RegenEra Rising Other",
-"id":"1650248628564x527108089421470340",
-"description":"BEAM(ing) RegenEra arrived to give voice and context to our evolving mythOS, mythic operating systems, as we navigate these times of change.\n\nBEAM(ing) is a facilitation process of the Backcasting Evolutionary Alliance Mediums to create a speakeasy encouraging heARTfelt stories of how we participated in regenerating a world that works for all life. \n\nBEAM(ing) RegenEra will nurture the storyseeds of a multitude of perspectives conjured by artists, designers, musicians, scientists, economists, farmers, community builders and passionate regenerative souls channeling us into and through the Design Science Decade.\n\nBEAM(ing) RegenEra is the sandbox for the formation and prototyping of the Backcasting Evolutionary Alliance Mediums second backcasting series, exploration of methods of evolutionary reportage and omnidirectional communication.\n\nJoin in the fun with this transmedium backcasting troupe of troubadours and mythmakers BEAM(ing) your personal mythOS and passion into the heART of the Regenaissance.\n\n\nBEAM(ing) is brought to you by: The Future\nSponsored by: The Backcasting Evolutionary Alliance Mediums\n\n“We seem to be a verb” -Buckminster Fuller\n\n“The medium is the message” -Marshall McLuhan \n\n“Be the medium” -Eleprocon Kin",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248628564x527108089421470340",
-"tags":""
-
-
-},{
-"label":"Overcoming Blame, Shame, Fear & Guilt Discussion / Panel",
-"id":"1650248628047x576994043915470600",
-"description":"​This will be a freeing and empowering conversation about blame, shame, fear and guilt; each of their energetic vibrations; ​how they can impact human interactions, individual and collective lives and vitality; ​the interplay between each; and their potentials for both harm and good.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397619831x439914510141511400/BlameShameFearGuilt.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248628047x576994043915470600",
-"tags":""
-
-
-},{
-"label":"Transforming the fashion pattern block into a zero waste space.. New Art City (MORA) Exhibit",
-"id":"1650248625562x380360318765617500",
-"description":"In this video you will see that it is possible to create garments from the area of fashion patterns that is usually thrown away.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397616537x810968551591429400/2_Tulip%20Final.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248625562x380360318765617500",
-"tags":""
-
-
-},{
-"label":"Workshop Designing a skirt with Fashion Industry Block Pattern Waste area Fabrics.  Pre-recorded Performance",
-"id":"1650248623181x352124617488291900",
-"description":"This video explains how a mass producing fashion designer can utilize the block pattern waste area to create skirts instead of landfill waste.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397613230x337521506189911040/2BF67766-CA34-486F-BCB7-64180E9A77FF.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248623181x352124617488291900",
-"tags":""
-
-
-},{
-"label":"Carnival of Colors Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248620759x813074231726850400",
-"description":"Community drives of collectively collecting un-used apparels and fabrics with an intention to re-design, re-purpose and re-use them. In this carnival we celebrate the transition of old to new and from waste to value. \nCo-learn techniques of mending clothes, hand dyeing and making garment patterns to feel the power of re-creation. Talks on sustainable materials and processes. \nDonate, exchange or exhibit your designs in the DIY bazaar.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397609700x313530315822874200/Carnival%20of%20Colors1a-001.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248620759x813074231726850400",
-"tags":""
-
-
-},{
-"label":"junglejarno's world Pre-recorded talk / art / video",
-"id":"1650248618500x937261084980369300",
-"description":"Jarno Schweizer aka junglejarno shares his background  and his city tribal project",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397606441x498755609193788160/CityTribal.xcf",
-"url":"https://www.catalist.network/version-test/presentation/1650248618500x937261084980369300",
-"tags":""
-
-
-},{
-"label":"Concrete Oasis at Pershing Square Park Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248615681x998325173370781200",
-"description":"Augmented reality will transform Pershing Square Park from the sun-baked hardscape standing today, into a flourishing oasis. Virtual objects created in 3D will be overlaid onto the real-world and visible through any ordinary AR-enabled phone.\n\nAR Experiences will be installed throughout the park that moves the visitor from the present-day/impending inevitability of a lifeless, concrete desert to a regenerative garden of lush creation and rebirth. Additional exhibits will educate about the water crisis, including facts about LA's water sources, the devastating impact on ecosystems when water is diverted from its natural flow, revolutionary water technologies, and actions everyday citizens can collectively take to make a significant impact.\n\nIt is designed to empower and inform, engender empathy, and inspire collective action towards a sustainable water future.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397600634x197715550835100060/ConcreteOasisPitchDeck.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248615681x998325173370781200",
-"tags":""
-
-
-},{
-"label":"Concrete Oasis at Pershing Square Park New Art City (MORA) Exhibit",
-"id":"1650248613330x558925996493731650",
-"description":"Augmented reality will transform Pershing Square Park from the sun-baked hardscape standing today, into a flourishing oasis. Virtual objects created in 3D will be overlaid onto the real-world and visible through any ordinary AR-enabled phone.\n\nAR Experiences will be installed throughout the park that moves the visitor from the present-day/impending inevitability of a lifeless, concrete desert to a regenerative garden of lush creation and rebirth. Additional exhibits will educate about the water crisis, including facts about LA's water sources, the devastating impact on ecosystems when water is diverted from its natural flow, revolutionary water technologies, and actions everyday citizens can collectively take to make a significant impact.\n\nIt is designed to empower and inform, engender empathy, and inspire collective action towards a sustainable water future.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397597678x734689832989848300/ConcreteOasisPitchDeck.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248613330x558925996493731650",
-"tags":""
-
-
-},{
-"label":"Live zero waste/up-clycling workshops Workshop",
-"id":"1650248611290x266923628651932320",
-"description":"I can give a brief workshop each day.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248611290x266923628651932320",
-"tags":""
-
-
-},{
-"label":"Reducing Fashion Industry Fabric Waste New Art City (MORA) Exhibit",
-"id":"1650248610749x923525752704623200",
-"description":"Melissa Lockwood’s research project “Reducing Fashion Industry Waste”. Focuses on transforming the block pattern areas that are considered unusable to a design space.  Melissa has developed a method that turns the waste fabrics into usable fabrics by applying radial geometry to the same shape pieces creating wearable garments.  In the videos you will see how simple and doable this is!",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397593879x540584014260876700/D3176749-90FA-4D33-BFD7-902A0DA6C501.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248610749x923525752704623200",
-"tags":""
-
-
-},{
-"label":"The World of Sensoria: Alchemical Architectures Topia World",
-"id":"1650248608035x704196129944673900",
-"description":"Sensorium (collaboration with Veronica Anderson)",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397590490x602422221648806900/dodeca4.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248608035x704196129944673900",
-"tags":""
-
-
-},{
-"label":"Dodoland - Earth ActionTopia Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248605314x164399972894840420",
-"description":"Della is an artist, author, and storyteller. She has 8 books published. She is excited to share her art and story in a new way with alternative reality in in auditory and visual journeying on Topia and New Art City. She is thankful to be part of the Design Science Studio.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397586626x582125529433883400/delladodolandstorytelling.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248605314x164399972894840420",
-"tags":""
-
-
-},{
-"label":"The Voice of Mother Earth by ANIMAGIKA Pre-recorded Performance",
-"id":"1650248602732x677693520949635300",
-"description":"The Voice Of Mother Earth\nMother Earth is speaking to humanity. Unapologetic and raw, in pain and\ndesperation, as well as in love and commitment for the life that she beholds.\nIt's an homage to ourselves and our connection to Mother Earth.\nThe magic of words comes in a dress of self-written poetry, being spoken live\nduring the performance. The embodiment of the message in the feminine\nexpression, primal and pure, delivers the emotional intensity of the human state.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397583926x843316035978370700/DSCF0595%202.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248602732x677693520949635300",
-"tags":""
-
-
-},{
-"label":"Quantic-Creations Presents: Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248600188x822602497972085000",
-"description":"Join us in the creation of 3D animations for a connected world that works for 100% of life. Everyone can participate. :) \nExperience the regenerative power of human connectivity to Earth.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248600188x822602497972085000",
-"tags":""
-
-
-},{
-"label":"Dynamic Emergence - Implicate to explicate Immersive Experience",
-"id":"1650248599625x372027590700394050",
-"description":"Arts & emergent thinking as an expression of numinous space and as access to wisdom. Exploring our ways of knowing and being is key to understanding who we are by design, and being able to craft relationships with ‘other’ as ‘self’, I as We. Come and contemplate together ways of being that are spectacular portals to coherence and vision. Learn more about this cosmology that is both ‘me-centered', ‘planet’ centered, and ‘cosmos’ centered and how you are part of this great play of energies of living systems interacting and intertwining, constantly creating new realities!",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248599625x372027590700394050",
-"tags":""
-
-
-},{
-"label":"Earth Day - Earth Action  Pre-recorded talk / art / video",
-"id":"1650248598956x982765641906565100",
-"description":"Earth Day- Earth Action will be a film created by Jon Van Meter on a journey through the rainbow to the environmental project Magical Earth Secrets, Earth Action , Buckminster Fuller's Inventions and Art Activism as inspiration for you creating art to build confidence, share your vision and make a difference.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397579213x290398707034291700/earthday-earthaction.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248598956x982765641906565100",
-"tags":""
-
-
-},{
-"label":"Elemental Merkabah Discussion / Panel",
-"id":"1650248596601x119408878948139120",
-"description":"Elemental Merkabah \nis based on Ancient Chinese Medicine and Star-Tetrahedron Geometry with in 6 elemental cycles and 24 hour cycle.\n30 minutes video sharing and a talking panel on Body-Organ-Time-Element-Environment relationship\n\"When we connect and understand the deep principles of our own body, our consiousness will realize the flow of relations. The relation of our consiouss with our body will reflect our realization of our environment as well. \"\nMelodi and Brian",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248596601x119408878948139120",
-"tags":""
-
-
-},{
-"label":"Emergence of Heart - feeling into the present for a future Workshop",
-"id":"1650248596143x377070457612497000",
-"description":"Emergence of Heart is a multi-disciplinary storytelling project designed to foster, gather, reflect the emotional experience and stories of humans navigating being alive amidst existential threats such as the climate emergency, white supremacy, and colonial legacies. We share a common story of being human today. How might we reorient how we see ourselves to step into this collective story of being alive?",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397575650x799412717653686900/Emergence%20of%20Heart%20Cover.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248596143x377070457612497000",
-"tags":""
-
-
-},{
-"label":"BEAM(ing) RegenEra & Speakeasy Immersive Experience",
-"id":"1650248592897x827157452653412500",
-"description":"BEAM(ing) RegenEra arrived to give voice and context to our evolving mythOS, mythic operating systems, as we navigate these times of change.\n\nBEAM(ing) is a facilitation process of the Backcasting Evolutionary Alliance Mediums to create a speakeasy encouraging heARTfelt stories of how we participated in regenerating a world that works for all life. \n\nBEAM(ing) RegenEra will nurture the storyseeds of a multitude of perspectives conjured by artists, designers, musicians, scientists, economists, farmers, community builders and passionate regenerative souls channeling us into and through the Design Science Decade.\n\nBEAM(ing) RegenEra is the sandbox for the formation and prototyping of the Backcasting Evolutionary Alliance Mediums second backcasting series, exploration of methods of evolutionary reportage and omnidirectional communication.\n\nJoin in the fun with this transmedium backcasting troupe of troubadours and mythmakers BEAM(ing) your personal mythOS and passion from the heART of the Regenaissance.\n\n\nBEAM(ing) is brought to you by: The Future\n\nSponsored by: The Backcasting Evolutionary Alliance Mediums\n\nHosted by: Mark Smith and Bret Warshawsky of the Design Science Studio (DSS) and Clare Hedin of the Global Regeneration CoLab (GRC)\n\n\n“We seem to be a verb” -Buckminster Fuller\n\n“The medium is the message” -Marshall McLuhan \n\n“Be the medium” -Eleprocon Kin",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397572456x308270007215875700/F4C04949-0F09-427A-A4E8-158620BA2869.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248592897x827157452653412500",
-"tags":""
-
-
-},{
-"label":"BEAM(ing) RegenEra Speakeasy Topia Exhibit",
-"id":"1650248590842x921268531729135800",
-"description":"The Backcasting Evolutionary Alliance Mediums have been expecting you.\n\nThis is the story we are all living into… direct from the heART of the regenaissance.\n\nWelcome to BEAM(ing) RegenEra… https://bit.ly/BEAMingRegenEraWelcome",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397569674x257213512972767080/F4C04949-0F09-427A-A4E8-158620BA2869.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248590842x921268531729135800",
-"tags":""
-
-
-},{
-"label":"BEAM(ing) RegenEra from the insideout New Art City (MORA) Exhibit",
-"id":"1650248588385x554747649283952060",
-"description":"Buckminster Fuller's insight to the electromagnectic spectrum's ability to make the invisible visible is refracted in the rainbow and our diversity of sensibilities. \n\nCome BEAM(ing) with us...\n\nThe Backcasting Evolutionary Alliance Mediums have been expecting you!\n\nWelcome to the RegenEra Speakeasy nestled betwixt and between the Greenwomb and Garden of Intentions.\n\nBEAM(ing) from the heART of the Regenaissance.\n\nIt's not about a pot of gold at the end of the rainbow ...but our innate ability to refract, communing with our #senseof insideoutness and the many facets once again making the invisible visible.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397567145x208299453842164520/F4C04949-0F09-427A-A4E8-158620BA2869.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248588385x554747649283952060",
-"tags":""
-
-
-},{
-"label":"Star Galaxy for the World - Topia Topia World",
-"id":"1650248586540x358681021793050280",
-"description":"Star Galaxy for the World  An Visual 2-D experience inspired by the book Star Galaxy for the World. Here you go on a Journey to meet 5 Magical Storytellers who share World Building ways of being for healing with themes of Gratitude,Kindness, Peace  Creativity & Transformation Actions. In topia you can share stories, poems, music with the themes by microphone that can be broadcasted to the world. Art, Dance,Theatre projects from various places on the earth are shared by videos. One hundred artists from 20 countries are represented.  Della will share the Quilt for Humanity in which 15 Design Science Studio artists participated.  Love , Take World Building Action and be Creative!",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397564057x172834444751350340/finalstargalaxysquare.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248586540x358681021793050280",
-"tags":""
-
-
-},{
-"label":"Co-Creating Artisanal Slow Fashion Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248583764x104790525490386030",
-"description":"Jeet is a self-taught textile and sustainable fashion artisan who intends to express his visions through the medium of artisanal fabrics, fabric dyes and wearable art. \nHis inspiration lies in the color transitions and patterns observed in presence of Mother Nature. Being born in India and bought up in different parts of the country, he is also immensely driven by the diverse history, culture and mythology of these regions.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248583764x104790525490386030",
-"tags":""
-
-
-},{
-"label":"Visions of a World that Works for All Life: a virtual studio tour of the Garden of Infinity Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248583315x905014243330659000",
-"description":"This artist spotlight is a journey into 'The Garden of Infinity' - an emerging story-universe exploring the narrative voice of the more-than-human world. Creative Director, Haris Adele, will share a premier look and 'virtual studio tour' of the inner workings of the Garden, including the project's soundtrack, 13 eco-archetypal characters, preliminary world building, and vision casting into the future of The Garden of Infinity immersive theater experience.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397558807x479277995538537340/gardenofinfinity_regenerasocialcard2022.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248583315x905014243330659000",
-"tags":""
-
-
-},{
-"label":"Haiku in Motion New Art City (MORA) Exhibit",
-"id":"1650248579190x302331108166019140",
-"description":"Moments caught. To transport you into the present. A samplings from  'Haiku in Motion' an animation, motion graphics, poetry series.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248579190x302331108166019140",
-"tags":""
-
-
-},{
-"label":"FFS  - On FullerFeedback Systems - an introduction Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248578743x648446579126520400",
-"description":"Stefanie and Struppi will introduce FullerFeedback.Systems, Story of the Spheres and Growing Wisdomes",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248578743x648446579126520400",
-"tags":""
-
-
-},{
-"label":"FullerFeedback.Systems - Struppi and the Story of the Spheres Discussion / Panel",
-"id":"1650248578104x164033371893936860",
-"description":"FullerFeedback.Systems Struppi is going to share the Story of the Spheres, a simple, embodied understanding of the spherical structures of spacetime. Rooted in Bucky Fuller's Synergetics and an oral, animistic practice of playing by heart, this story helps one to fathom how Universe is effortlessly giving rise to such a polyform complexity of life as we find within and around us.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248578104x164033371893936860",
-"tags":""
-
-
-},{
-"label":"Let's Play Synergetics Workshop",
-"id":"1650248577640x239061335376922660",
-"description":"the experience of Synergetic Structures",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248577640x239061335376922660",
-"tags":""
-
-
-},{
-"label":"The Pale Blue Dot Performance",
-"id":"1650248577029x914926359624756400",
-"description":"The Overview Effect, is known as a cognitive shift in awareness. Becoming aware of the Pale Blue Dot, the shift in dimension, from significance to insignificance, is what holds the key to our salvation as a species. When we understand the dimensions within which we exist and the entanglement of all that exists, we can regain what has been lost. What seems to be essential to be a whole individual; one, that can create a healed collective once again by supporting its understanding of where we have left the path. It is an era with humans as gods and this is the fatal truth. Only if we understand that our spectrum of believing has become too dogmatic, too ignorant and too traumatized, then we can survive through believing in ourselves as a magical species, connected to all the other realms.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397550534x409878282035284860/images.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248577029x914926359624756400",
-"tags":""
-
-
-},{
-"label":"Groundedstream.com *MVP-LAUNCH* (Arabic)  Pre-recorded Performance",
-"id":"1650248575586x250628189723565380",
-"description":"This event streams the launch of an MVP for an online platform B2B marketplace (Arabic for the MVP to be translated to any new locality it's adopted at)  Groundedstream aims to be a communication central for all info about maker-communities and provide a window into what this ecosystem of communities and other entities are producing. It is an ambitious beginning by Basma Omar and her team.\nهذا الحدث يبث إطلاق موقع جراوندد ستريم دوت كوم(الانطلاقة العربية، ليتم لاحقا اعتماد لغات أخرى للمواقع التي يتم استعمال المنصة فيه)  يهدف إلى أن يكون مركز اتصال لجميع المعلومات حول مجتمعات المصنّعين ويوفر نافذة على ما هذا النظام البيئي للمجتمعات والكيانات الأخرى تنتج. إنها بداية طموحة لبسمة عمر وفريقها.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397548897x790328834576064400/276129071_5171714509554392_3388805154996589807_n.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248575586x250628189723565380",
-"tags":""
-
-
-},{
-"label":"The Re-Generation Station Topia Exhibit",
-"id":"1650248574028x856374321112257400",
-"description":"The Re-Generation Station is a Mobile, Public Facing, Set of six Workshop Spaces that allows folks from Design Science Studio, nRythm, Vision Train, as well as area locals with wisdom to share the space and time to sign up for one to two hours of workshop time and space where they can have 5 attendees, broadcast passively, and teach about the subjects they find joy in. Beginning with a group dinner on evening one (optional), then having two 6 hour days of workshops with a two-hour lunch, and a morning breakfast and review (optional).  This can be set up in a park, on a camp ground, or on a large yard. Taking about 2 hours to set up and tear down.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397546806x151055285030313950/IMG_20220206_124507_432.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248574028x856374321112257400",
-"tags":""
-
-
-},{
-"label":"Welcome to Counterspace - Topia Exhibit",
-"id":"1650248572694x533079345469825700",
-"description":"Counterspace is an under-construction independent curatorial platform and the first decolonial thinktank mapping cultural activism worldwide. Shaped by the phases of the decolonial process, Counterspace’s unlearning toolkit proposes common resources and experiences to unpack and redefine so far consisting of decolonial publications, a decolonial library, decolonial labs and forum talks. And Counterspace’s relearning toolkit proposes common resources and experiences to reconnect holistically so far consisting of a radical imagination library,  a mutation school, a mutants podcast, and a cultural activism global directory browsable by continent, praxis and social construct. A Beuys-inspired ‘social sculpture/organism’ network which by connecting the dots, links the experiences and culture shakers creatively decolonising culture, while inspiring others to join the collective machinery towards change. www.counterspace.zone",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397544906x309127423191490900/inkedcounterspace-diagram_li-3.webp",
-"url":"https://www.catalist.network/version-test/presentation/1650248572694x533079345469825700",
-"tags":""
-
-
-},{
-"label":" Magicubes Shelter Solutions information Pre-recorded talk / art / video",
-"id":"1650248571080x880851658815495000",
-"description":"Presentation of concept of portable shelters fostering connection between individuals  and the local, county and state authorities able to help them regain full participation in society.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397542674x387701100196633300/InteriorMagicubeCrop.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248571080x880851658815495000",
-"tags":""
-
-
-},{
-"label":"Enchanted Forest - Learning from Tricksters and Nature's Elements Topia Exhibit",
-"id":"1650248568366x143014518332526880",
-"description":"Forces of nature are present in all aspects of life, and every aspect of ourselves is influenced by them. These archetypal forces work through us regardless whether we are aware of them or not, so we might as well consciously recognize them and use them as our allies.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248568366x143014518332526880",
-"tags":""
-
-
-},{
-"label":"Encountering Tricksters New Art City (MORA) Exhibit",
-"id":"1650248567771x594923637288164700",
-"description":"Tricksters trick us into fears, and we often cannot easily see those fears within ourselves. Yet there is a lot to learn by confronting them and embracing their lessons. Enter the Magical Lantern of Water to contemplate their messages and to take on the challenges presented by the Tricksters..",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397537425x386690082548815740/Isaievych_Lantern.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248567771x594923637288164700",
-"tags":""
-
-
-},{
-"label":"Finding My Connecting Thread Through the Wisdom of the I Ching Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248563944x842524998891519700",
-"description":"Creative process is a mystery, not always easily revealing its meaning to my mind. Fortunately I have found an ancient map of the 8 trigrams and 64 hexagrams of the I Ching to help me navigate the unknowable and to map out the invisible.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248563944x842524998891519700",
-"tags":""
-
-
-},{
-"label":"Creation & Control Cycles of Chinese 5 Element Theory Workshop",
-"id":"1650248563360x199354561952908220",
-"description":"This will be a workshop and discussion about the Creation & Control Cycles of Chinese 5 Element Theory, how they relate to the Design Science Decade, Biomimicry and Buckminster Fuller's lifes' work. There will also be opportunity for community discussion about observing the elements, their interplay in our lives, and their relevance in the mission to create a world that works for one hundred percent of life.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397533430x153824037360374980/messages_0%20%281%29.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248563360x199354561952908220",
-"tags":""
-
-
-},{
-"label":"Stardust: A Cosmic Sound Journey Performance",
-"id":"1650248562037x401596895358731200",
-"description":"Surrender into Moncaya's cosmic arms and let her take you in this electro-acoustic, interstellar sound journey. 45 minutes of deep meditative textures with synths, soft beats, powerful harmonies and mind-boggling vocal effects that will take you deep within and far beyond.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248562037x401596895358731200",
-"tags":""
-
-
-},{
-"label":"Compose Your Power Song Workshop",
-"id":"1650248561432x458296324793078000",
-"description":"My vision is to make the power of one's own music available to ALL. In this 1h creative journey, I offer a process to create, from zero to completion, your very own song with your own personal mantra. Everyone will create their own song, which speaks to their truth and to the message they want to share with themselves and the world. After the workshop, we can all go to Topia and share our songs there, and celebrate each other's music and hearts. :)",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248561432x458296324793078000",
-"tags":""
-
-
-},{
-"label":"I am Mother Earth presentation Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248560947x708785473110468400",
-"description":"I Am Mother Earth is an ever-evolving, collectively created film that ideates a utopic, earth centered, regenerative economy. The film is continually updated through a participatory game, NonFiction, which builds links between current efforts on earth and this vision of the future. \nI will present the project and show the short “Mother Earth message”\nand discuss the future of the game",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397529951x665910243436189400/mother-earth-square.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248560947x708785473110468400",
-"tags":""
-
-
-},{
-"label":"I am Mother Earth // Nonfiction Immersive Experience",
-"id":"1650248558839x500215688380994940",
-"description":"I Am Mother Earth is an ever-evolving, collectively created film that ideates a utopic, earth centered, regenerative economy. The film is continually updated through a participatory game, NonFiction, which builds links between current efforts on earth and this vision of the future. \nJoin me in Topia to play a story building game and help co-create Mother Earth's business plan",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397527010x390644193259401800/mother-earth-square.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248558839x500215688380994940",
-"tags":""
-
-
-},{
-"label":"I am Mother Earth's shorts Pre-recorded talk / art / video",
-"id":"1650248556903x934424593809106700",
-"description":"I Am Mother Earth is an ever-evolving, collectively created film that ideates a utopic, earth centered, regenerative economy. The film is continually updated through a participatory game, NonFiction, which builds links between current efforts on earth and this vision of the future.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397524790x795043663256164000/mother-earth-square.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248556903x934424593809106700",
-"tags":""
-
-
-},{
-"label":"I am Mother Earth // Nonfiction Topia World",
-"id":"1650248554814x949655414457998700",
-"description":"I Am Mother Earth is an ever-evolving, collectively created film that ideates a utopic, earth centered, regenerative economy. The film is continually updated through a participatory game, NonFiction, which builds links between current efforts on earth and this vision of the future. \nJoin me in Topia to play a story building game and help co-create \"Mother Earth message\"",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397522352x476949263897219700/mother-earth-square.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248554814x949655414457998700",
-"tags":""
-
-
-},{
-"label":"I am Mother Earth presentation Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248552983x172290632990614660",
-"description":"I Am Mother Earth is an ever-evolving, collectively created film that ideates a utopic, earth centered, regenerative economy. The film is continually updated through a participatory game, NonFiction, which builds links between current efforts on earth and this vision of the future. \nI will present the project and show the short “Mother Earth message” and discuss the future of the game",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397519722x821036908997520600/mother-earth-square.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248552983x172290632990614660",
-"tags":""
-
-
-},{
-"label":"HEALING HEAVEN Topia World",
-"id":"1650248550285x126399178750930430",
-"description":"Journey into HEALING HEAVEN, an immersive Mandala Medicine Wheel experience on Topia. The Energies of the Four Directions, called ADAWEES, or great cosmic protectors, will guide you with the Breath Diva, Dehanna. Starting at Mother GAIA ARCHWAY, find out the one criteria you need to enter? Follow the Light Beings on Earth, transcending floating FLOWERS! Discover with the Peace Rose from the East, \"The Light of God\",  the energy of clarity, rebirth and new beginnings. The Blue Orchid from the South, the \"Strength of God\", energy that supports overcoming fear, so that we can bring our divine purpose into manifestation. The White Poppy from the North, \"How Like Unto God\", energy of wisdom & love. The Red Hibiscus from the West, the setting Sun, the \"Healer of God\", energy of death and rebirth, transcending opposites and coming into the Wholeness. Discover the medicine at the Center of the Wheel that, even if you do it once it, will change your Brain for the better.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397515370x278750440281200900/Rainbow%20Clouds.JPG",
-"url":"https://www.catalist.network/version-test/presentation/1650248550285x126399178750930430",
-"tags":""
-
-
-},{
-"label":"Regeneration: A Global Eco Drag Show [FULL SHOW] Pre-recorded talk / art / video",
-"id":"1650248548456x144507819595330660",
-"description":"Featuring performers from India, Myanmar, Taiwan, Singapore, and South Africa, this performance is one of the first global showcases of queer visions of a regenerative future; a future for all life forms. This show wove together the past, drag performances and audience member's work of the present, and queer visions of a future. The show was made in collaboration with Emergence of Heart, a storytelling group about being human amidst the existential crises of today.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397513207x494792528459780300/REGENERATION%20SLIDES.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248548456x144507819595330660",
-"tags":""
-
-
-},{
-"label":"Stories We Tell - Narrative That Sparks Cultural Change Discussion / Panel",
-"id":"1650248546298x151774944047603040",
-"description":"Storytelling is essential to being human. Stories have the capability of shaping how we see and make sense of the world. Come join the intimate conversation between screenwriter, director, actor Aba and (r)Evolutionary Liv as they discuss the responsibility as storytellers today. Sparked from their own current projects that deal with themes of colonialism, land pillaging, black women’s agency, climate crisis, queerness, coming of age, and ancestral trauma. In striking up conversations about the homogeneity of stories in the film networking world, this experience will invite audience members to participate and think about the critical role of storytelling today.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397510660x931698770853661000/WhatsApp%20Image%202022-04-17%20at%209.49.59%20PM.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248546298x151774944047603040",
-"tags":""
-
-
-},{
-"label":"Sprites of Meadowlands New Art City (MORA) Exhibit",
-"id":"1650248544523x240291293929852480",
-"description":"Sprites of Meadowlands is an online contributory augmented audio platform where participants can engage and record their stories to envision future world scenarios.\n\nThe platform has developed from an exploration game set in hidden green spaces in the city. Playing with what is hidden and what is shown, the project questions your perception of reality and social practices in the city.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397508139x699354144794502000/ROT_Sprites%20of%20Meadowlands.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248544523x240291293929852480",
-"tags":""
-
-
-},{
-"label":"FFS - Growing Wisdomes Discussion / Panel",
-"id":"1650248542428x997371794286579500",
-"description":"We will have a conversation about the spectrum of senses, how they structure our reality and how we can create similar structures to support all life. We will be speaking about fascia and how the dynamics and flexibility of information can be accomodated when embodied in a sound system. If you're curious how one can implement synergetics and spherical thinking beyond geodesic domes, this is the place to be!",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248542428x997371794286579500",
-"tags":""
-
-
-},{
-"label":"Light Seed Other",
-"id":"1650248541827x876253153787148000",
-"description":"Can humans communicate needs with light? \n\nLight Seeds make it easy for neighbors to help each other using light signals. This new tool uses a Light Language anyone can learn. It is inspired by lightning bugs and enhanced with technology.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397503571x962175173557508100/Screen%20Shot%202022-04-06%20at%2010.52.19%20AM.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248541827x876253153787148000",
-"tags":""
-
-
-},{
-"label":"Cosmic Odyssey Art & Apparel Launch and Call for Collaborators Topia Exhibit",
-"id":"1650248539737x789729738463689900",
-"description":"Wear your #artonyoursleeve! Cosmic Odyssey is an artist collective that offers movement-based-clothing and accessories with the mission of uplifting and inspiring through putting art onto bodies and into public spaces. During the lockdown and years of masking, our founders discovered the power of wearing art to create connection and start conversations. Come check out the launch of Cosmic Odyssey in Topia! Are you an artist? Click the \"Collaborate\" billboard to get involved!",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248539737x789729738463689900",
-"tags":""
-
-
-},{
-"label":"Star Galaxy for the World (Short Animation) Pre-recorded talk / art / video",
-"id":"1650248538713x513903293840938240",
-"description":"This is a 3D adaptation of the Book Star Galaxy for the World by Della Burford. Here you go on a Journey to meet 5 Magical Storytellers who share World Building ways of being for healing with themes of Gratitude, Kindness, Peace, Creativity & Transformation Actions.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248538713x513903293840938240",
-"tags":""
-
-
-},{
-"label":"Livingry New Art City (MORA) Exhibit",
-"id":"1650248538219x585697194909054600",
-"description":"Sacred Geometry Invisible to Visible \nNature's  Seeds \n\nDifferent scales, variable collection, diverse possibilities, in one Earth, \nThe nature's Building Code; Sacred Geometry\n\n“Principles for the Development of a Complete Mind: \nStudy the science of art. Study the art of science. \nDevelop your senses- especially learn how to see. \nRealize that everything connects to everything else.” ― Leonardo da Vinci",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248538219x585697194909054600",
-"tags":""
-
-
-},{
-"label":"Collaborate with Us to Design a Future that Inspires and Empowers Discussion / Panel",
-"id":"1650248537575x656078700930790700",
-"description":"We are ​committed to being spokesperson​s (spokesbeing​s​) and facilitator​s​ for ensuring a livable future for ​the ​children ​in our lives ​and all future generations of humans and non-human inhabitants of Earth. ​We​ know an important piece of that lies in creating a community of people that are interested in doing the same thing and taking turns facilitating conversations and actions around the shared goals. We will have more power and influence together than apart.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397491806x782090405343351900/Time%20to%20Upset%20the%20Game%20Board.jpg",
-"url":"https://www.catalist.network/version-test/presentation/1650248537575x656078700930790700",
-"tags":""
-
-
-},{
-"label":"We the Tree New Art City (MORA) World",
-"id":"1650248535597x827361361010275100",
-"description":"Inside a single dome we travel to a stretch of forest. As we sit amongst the trees a poem filters into our ears. Welcome.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397488262x545177142970685300/tree%20diamonds%20home.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248535597x827361361010275100",
-"tags":""
-
-
-},{
-"label":"Empower Your Communication Skills Through the Wisdom of Uzazu Workshop",
-"id":"1650248533002x444812593182575040",
-"description":"Lets use gentle movement to explore and to enhance our communication skills. Our bodies are willing to reveal what they know to be true when we bring our awareness to how we hold ourselves when communicating and interacting. Uzazu is a new body-mind discipline that maps out our movement in space and uses this map to help us understand and bring greater integration of our body, mind, and spirit.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248533002x444812593182575040",
-"tags":""
-
-
-},{
-"label":"Systems change and design science Workshop",
-"id":"1650248532363x456195296562327040",
-"description":"Systems change requires that we tune in and create a map. We will present the tools Bucky created for these. Participants will have a chance to create their own maps. This is part of the design science toolbox",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397482782x123206629785130860/vZome_coupled.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248532363x456195296562327040",
-"tags":""
-
-
-},{
-"label":"Regenerative design via systems coupling Workshop",
-"id":"1650248530849x693574577624514600",
-"description":"Nature is composed of inter-related systems that produce regenerative results. In this workshop we will explore how Bucky's ideas on systems coupling can increase regeneration.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397480804x568367626782455100/vZome_coupled.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248530849x693574577624514600",
-"tags":""
-
-
-},{
-"label":"Systems Coupling in 3D New Art City (MORA) World",
-"id":"1650248529272x970916645411184400",
-"description":"A set of systems coupling examples in 3D to explore",
-"image":"//s3.amazonaws.com/appforest_uf/f1650397478831x980551571416820200/vZome_coupled.png",
-"url":"https://www.catalist.network/version-test/presentation/1650248529272x970916645411184400",
-"tags":""
-
-
-},{
-"label":"What Is Design Science?  Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248527631x536015939530742460",
-"description":"A brief overview of design science and its' many aspects.",
-"image":"//s3.amazonaws.com/appforest_uf/f1650426524563x486240631568105340/WhatsApp%20Image%202022-04-17%20at%209.49.59%20PM.jpeg",
-"url":"https://www.catalist.network/version-test/presentation/1650248527631x536015939530742460",
-"tags":""
-
-
-},{
-"label":"Another Heaven + Earth New Art City (MORA) Exhibit",
-"id":"1650248527127x218358104058806080",
-"description":"An animated meditation for some of our most endangered.",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248527127x218358104058806080",
-"tags":""
-
-
-},{
-"label":"Dark Forest at the End of the World New Art City (MORA) Exhibit",
-"id":"1650248526376x716375885489220100",
-"description":"The intangible realities of a BIOTA. An exploration of just one of our precious biomes. Take a moment. Consider the Earthlings you are drawn to. Will your brethren go extinct? Will the wild places disappear? Will you be untouched?",
-"image":"",
-"url":"https://www.catalist.network/version-test/presentation/1650248526376x716375885489220100",
-"tags":""
-
-
-}
+        "id": "1638065475726x167331045122244600",
+        "label": "Systems Innovators",
+"image":https://uploads-ssl.webflow.com/602c1955fcce4e2a0727a96c/602c1b9d64edf6def8da949f_shortcut-from-point-a-to-point-b-CCCYBCD-min.jpg",
+"type":Organizations",
+"description":The System Innovators Club is dedicated to exploring complex societal challenges with a focus on the root causes, power structures, and systemic incentives.",
+"tags":"Innovation,Intelligent Systems,Systems Thinking,Complexity,Systems Innovation",
+"url":https://www.systemsinnovators.com"
+
+    }
+,{
+        "id": "1638065541221x839152360082636800",
+        "label": "Decipher",
+"image":https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F147294340%2F563868374131%2F1%2Foriginal.20210909-212304?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=810325603e138cb617b72b913c108a18",
+"type":Events",
+"description":Don’t miss Decipher - the inaugural convening of the Algorand community.",
+"tags":"Change",
+"url":https://eventbrite.com/e/decipher-tickets-170181821409"
+
+    }
+,{
+        "id": "1638067287060x314012205193887740",
+        "label": "Trove Powered By Catalist",
+"image":https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1628037462478x801117214202725600%2FCatalist%20Home%20Page%20Illustration-02-min.jpg?w=&h=&auto=compress&dpr=1&fit=max",
+"type":Groups",
+"description":Trove is a connection platform designed to empower communities to build collective intelligence and inspire coordinated action.",
+"tags":"",
+"url":https://www.catalist.network"
+
+    }
+,{
+        "id": "1638070640216x683821043871645700",
+        "label": "East Rockaway School District",
+"image":https://eastrockawayschools.org/NewsImages/main(57).jpg",
+"type":Groups",
+"description":",
+"tags":"Events",
+"url":https://eastrockawayschools.org/"
+
+    }
+,{
+        "id": "1638088192588x218709207267672060",
+        "label": "The Weaving Lab",
+"image":https://weavinglab.org/wp-content/uploads/2021/12/White-Logo.svg",
+"type":Organizations",
+"description":The Weaving Lab is a community weaving systemic change for universal wellbeing: self & society & planet. Weaving is a style of leadership that is focused on changing systems and mindsets through collaborative action. Weaving is central to collective impact, to solving complex problems, and to growin…",
+"tags":"Innovation,climate",
+"url":https://weavinglab.org/"
+
+    }
+,{
+        "id": "1638165242796x110925841087070200",
+        "label": "NFTs for NGOs: Art Auction for a Sustainable Future",
+"image":https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F176739199%2F214138682924%2F1%2Foriginal.20211030-034333?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1600%2C800&s=44582343b1ff69b3b8d66fe83c19a46c",
+"type":Events",
+"description":NFT art auction benefitting global nonprofit initiatives, immersive art experiences, sounds by The Gilmar Gomes Collective and whales!",
+"tags":"",
+"url":https://www.eventbrite.com/e/nfts-for-ngos-art-auction-for-a-sustainable-future-tickets-194584135387"
+
+    }
+,{
+        "id": "1638165976522x543545434594607100",
+        "label": "ARTBASEL2021 + BTCMIAMI",
+"image":",
+"type":Groups",
+"description":2021 welcome to MIAMI! DROP YOUR EVENT LINKS & COORDINATE! See you all in Miami FOR THE LOVE OF ART! 🗓: 
+
+https:////t.me//miamibaselbtc
+
+https:////docs.google.com//spreadsheets//d//10wq2dY8EJecPHNhX-V9GAsLlVQfpskIu1XlGf5rBjjE",
+"tags":"",
+"url":https://docs.google.com/spreadsheets/d/10wq2dY8EJecPHNhX-V9GAsLlVQfpskIu1XlGf5rBjjE"
+
+    }
+,{
+        "id": "1639802402140x385845586957434900",
+        "label": "New Post",
+"image":",
+"type":Products",
+"description":blah blah",
+"tags":"",
+"url":https://"
+
+    }
+,{
+        "id": "1640489263216x420477205849047040",
+        "label": "blue cards",
+"image":",
+"type":Products",
+"description":",
+"tags":"",
+"url":https://"
+
+    }
+,{
+        "id": "1640651963613x494659855707473300",
+        "label": "Interoperable Wisdom Commons- Mapathon 21",
+"image":https://miro.com/api/v1/boards/o9J_lqaPCGw=/picture?etag=G",
+"type":Resources",
+"description":",
+"tags":"collective Intelligence",
+"url":https://miro.com/app/board/o9J_lqaPCGw=/"
+
+    }
+,{
+        "id": "1640651965712x975089061942249200",
+        "label": "README - Massive Wiki",
+"image":",
+"type":Resources",
+"description":",
+"tags":"collective Intelligence",
+"url":https://massive.wiki/"
+
+    }
+,{
+        "id": "1640651968460x448132968467376260",
+        "label": "Information Knowledge Wisdom - KaminskiWiki",
+"image":http://peterkaminski.com/w/skins/common/images/cc-by.png",
+"type":Resources",
+"description":",
+"tags":"collective Intelligence",
+"url":http://peterkaminski.com/wiki/Information_Knowledge_Wisdom"
+
+    }
+,{
+        "id": "1640651971125x349010055562936300",
+        "label": "Join our Cloud HD Video Meeting",
+"image":https://sdgthoughtleaderscircle.org/wp-content/uploads/2021/02/SDG-TLC-HQ-Logo-White.png",
+"type":Resources",
+"description":Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, confer…",
+"tags":"collective Intelligence",
+"url":https://zoom.us/j/6472773542?pwd=aWFTY2VyYXZ2alZGckJDbFR1OURUZz09"
+
+    }
+,{
+        "id": "1640651974053x949519787082001400",
+        "label": "Jerry’s Brain",
+"image":https://lh3.googleusercontent.com/dMXXJlA-XoY6Ot5h2CxNjc40q-uqJIpYwg6jGoB-VZaMLtVj4Kd4pbPhFVeT1zDpd8MiSAgEOGx1jIgH4haezIUt_azDYrfFXbzWZCxVbis=w1280",
+"type":Profiles",
+"description":Launch Jerry’s Brain!
+New: I’m launching a vlog//thing called Inside Jerry’s Brain! Come take a look.",
+"tags":"collective Intelligence",
+"url":https://www.jerrysbrain.com"
+
+    }
+,{
+        "id": "1640651977087x914208605460888000",
+        "label": "Elinor Ostrom’s 8 Principles for Managing A Commmons | On the Commons",
+"image":https://www.onthecommons.org/sites/all/themes/meent/img/logo-and-mark.png",
+"type":Resources",
+"description":",
+"tags":"collective Intelligence",
+"url":https://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons"
+
+    }
+,{
+        "id": "1640651979963x205010114274115650",
+        "label": "Wisdom Sits in Places",
+"image":https://unmpress.com/sites/default/files/styles/book_cover_product_page/public/9780826310149.jpg?itok=arl3YoOb",
+"type":Resources",
+"description":",
+"tags":"collective Intelligence",
+"url":https://unmpress.com/books/wisdom-sits-places/9780826317247"
+
+    }
+,{
+        "id": "1640651983421x762924416255998900",
+        "label": "Otter Voice Meeting Notes Private",
+"image":https://otter.ai/static/Otter_Unfurl_Oct2019_LK94_1200x600@2x.png",
+"type":",
+"description":Otter.ai uses artificial intelligence to empower users with real-time transcription meeting notes that are shareable, searchable, accessible and secure.",
+"tags":"collective Intelligence",
+"url":https://Otter.ai"
+
+    }
+,{
+        "id": "1640651983759x333539538452386940",
+        "label": "Otter Voice Meeting Notes",
+"image":https://otter.ai/static/Otter_Unfurl_Oct2019_LK94_1200x600@2x.png",
+"type":",
+"description":Otter.ai uses artificial intelligence to empower users with real-time transcription meeting notes that are shareable, searchable, accessible and secure.",
+"tags":"collective Intelligence",
+"url":https://otter.ai"
+
+    }
+,{
+        "id": "1640651986289x517145910738797000",
+        "label": "7VORTEX - Everything is connected!",
+"image":https://www.7vortex.com/assets/images/7vortex_logo_sm.png",
+"type":Resources",
+"description":7VORTEX - Everything is connected",
+"tags":"collective Intelligence",
+"url":https://7Vortex.com"
+
+    }
+,{
+        "id": "1640651986503x980369495269255000",
+        "label": "7VORTEX - Everything is connected!",
+"image":https://www.7vortex.com/assets/images/7vortex_logo_sm.png",
+"type":",
+"description":7VORTEX - Everything is connected",
+"tags":"collective Intelligence",
+"url":https://7Vortex.com"
+
+    }
+,{
+        "id": "1640651988932x800214461581028100",
+        "label": "MAPATHON21: Mapping Hackathon 2021 - Trove Event",
+"image":https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626367572851x284917275013598640%2FMapathon.JPG?w=&h=&auto=compress&dpr=1&fit=max",
+"type":Resources",
+"description":What can we learn from the distinct set of maps revealing our reality?
+Can maps become more interoperable?
+How can maps support regenerative efforts?
+Can maps foster improbable collaboration? Join this 24-hour Synergy Mapping Hackathon to explore these and other questions with other mappers around …",
+"tags":"collective Intelligence",
+"url":https://www.catalist.network/event/mapathon-mapping-hackathon-2021--10-16-21"
+
+    }
+,{
+        "id": "1640651991920x532585653150863200",
+        "label": "New Discussion",
+"image":",
+"type":Posts",
+"description":What do you thiunk?",
+"tags":"collective Intelligence",
+"url":"
+
+    }
+,{
+        "id": "1640651992120x910629502445739600",
+        "label": "7VORTEX - Everything is connected!",
+"image":https://www.7vortex.com/assets/images/7vortex_logo_sm.png",
+"type":",
+"description":7VORTEX - Everything is connected",
+"tags":"collective Intelligence",
+"url":https://www.greatworksalliance.com"
+
+    }
+,{
+        "id": "1640651995292x363018191281802240",
+        "label": "SoulSpark - Great Works Alliance",
+"image":https://great-works-alliance.my-free.website/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-websitebuilder-v1-0-8%2F548%2F280548%2FR6TkoQoD%2Fd273af8ab1c54c7fa747ce4b2062f874&methods=resize%2C1200%2C5000",
+"type":Resources",
+"description":",
+"tags":"collective Intelligence",
+"url":https://great-works-alliance.my-free.website/-soulspark"
+
+    }
+,{
+        "id": "1640652000765x503398418036464100",
+        "label": "Home - Our Wise Democracy Project and Pattern Language",
+"image":https://www.wd-pl.com/wp-content/uploads/home-1-shutterstock_456640909-2000.jpg",
+"type":Resources",
+"description":Creating a more participatory, powerful and wise democracy!",
+"tags":"collective Intelligence",
+"url":https://www.wd-pl.com/"
+
+    }
+,{
+        "id": "1640652003785x399071689173672960",
+        "label": "Turquoise is creating The Gaian Mind Connectome: Coherence Cohesion & Embodiment. | Patreon",
+"image":https://c10.patreonusercontent.com/3/eyJ3Ijo5NjAsIndlIjoxfQ==/patreon-media/p/campaign/2480769/971346f73c254fda801d29b73a779d3d/3.png?token-time=1641254400&token-hash=1hi5q5DoAaUa0v0XT5F4D5TDjwu7uzX1L09Dy7Ex2ys%3D",
+"type":Resources",
+"description":Patreon is a membership platform that makes it easy for artists and creators to get paid. Join over 200,000 creators earning salaries from over 6 million monthly patrons.",
+"tags":"collective Intelligence",
+"url":https://TaoTeTurquoise.Com"
+
+    }
+,{
+        "id": "1640652003945x625758797602360600",
+        "label": "Turquoise is creating The Gaian Mind Connectome: Coherence, Cohesion, & Embodiment. | Patreon",
+"image":https://c10.patreonusercontent.com/3/eyJ3Ijo5NjAsIndlIjoxfQ==/patreon-media/p/campaign/2480769/971346f73c254fda801d29b73a779d3d/3.png?token-time=1641254400&token-hash=1hi5q5DoAaUa0v0XT5F4D5TDjwu7uzX1L09Dy7Ex2ys%3D",
+"type":",
+"description":Patreon is a membership platform that makes it easy for artists and creators to get paid. Join over 200,000 creators earning salaries from over 6 million monthly patrons.",
+"tags":"collective Intelligence",
+"url":https://TaoTeTurquoise.Com"
+
+    }
+,{
+        "id": "1640652006836x393579686025832500",
+        "label": "Decolonizing Relationships (Highlights)",
+"image":https://i.ytimg.com/vi/M55D0x1k6ak/maxresdefault.jpg",
+"type":Resources",
+"description":Highlights from our online session where we discuss how we have unlearned how to relate to our own bodies, and how that has impacted the way we relate to eac...",
+"tags":"collective Intelligence",
+"url":https://www.youtube.com/watch?v=M55D0x1k6ak"
+
+    }
+,{
+        "id": "1640652010198x459269285085688300",
+        "label": "Hylo",
+"image":https://www.hylo.com/assets/hylo.svg",
+"type":",
+"description":Stay connected, organized, and engaged with your group.",
+"tags":"collective Intelligence",
+"url":https://www.hylo.com/groups/collaborative-technology-alliance/join/Ns3yUfMuTV"
+
+    }
+,{
+        "id": "1640652012866x125507294094460820",
+        "label": "Linked Open Wisdom Commons",
+"image":",
+"type":Groups",
+"description":",
+"tags":"collective Intelligence",
+"url":https://t.me/joinchat/kE9j1BnztkkyMGRh"
+
+    }
+,{
+        "id": "1640652015977x637121971138516100",
+        "label": "Otter Voice Meeting Notes",
+"image":https://otter.ai/static/Otter_Unfurl_Oct2019_LK94_1200x600@2x.png",
+"type":Resources",
+"description":Otter.ai uses artificial intelligence to empower users with real-time transcription meeting notes that are shareable, searchable, accessible and secure.",
+"tags":"collective Intelligence",
+"url":https://otter.ai/u/WowhugqHJqUjpywM3TFljOSZxiI"
+
+    }
+,{
+        "id": "1640652021821x906983036074598500",
+        "label": "Mapathon for Mappers",
+"image":https://miro.com/api/v1/boards/o9J_lw9yLts=/picture?etag=G",
+"type":Resources",
+"description":",
+"tags":"collective Intelligence",
+"url":https://miro.com/app/board/o9J_lw9yLts=/?invite_link_id=410048740251"
+
+    }
+,{
+        "id": "1640652024818x467935727549518400",
+        "label": "Assemblée Virtuelle - Association développant des communs de transition",
+"image":https://www.virtual-assembly.org/wp-content/uploads/2017/05/cropped-ms-icon-60x60.png",
+"type":Resources",
+"description":L’association Assemblée Virtuelle fédère un écosystème d’acteurs développant ensemble des communs, outils, méthodologies et projets au service de transition",
+"tags":"collective Intelligence",
+"url":https://www.virtual-assembly.org"
+
+    }
+,{
+        "id": "1640652027816x714499721144138200",
+        "label": "Fantastic Fungi: A film by Louie Schwartzberg on Mycelial Connection",
+"image":https://fantasticfungi.com/wp-content/uploads/2019/07/Fantastic-Fungi-Film.jpg",
+"type":Resources",
+"description":Fantastic Fungi brings us together as interconnected creators of our world",
+"tags":"collective Intelligence",
+"url":https://fantasticfungi.com/"
+
+    }
+,{
+        "id": "1640652030834x333193532714973760",
+        "label": "Agroforestry Regeneration Communities (ARC)",
+"image":https://agroforestryrc.org/wp-content/uploads/2021/12/Agroforestry_OG.jpg",
+"type":Resources",
+"description":Agroforestry Regeneration Communities (ARC) is a new nonprofit organization planting food forests. Our projects are in Guatemala and East Africa.",
+"tags":"collective Intelligence",
+"url":https://agroforestryrc.org"
+
+    }
+,{
+        "id": "1640652033807x353028792143758900",
+        "label": "Great Works Alliance - Open Collective",
+"image":https://images.opencollective.com/great-works-alliance/e7da040/background.png",
+"type":Resources",
+"description":We are here to inspire and empower the Hero within, celebrating and empowering the people through interactive, engaging, and optimizing Quests and Missions!",
+"tags":"collective Intelligence",
+"url":https://opencollective.com/great-works-alliance"
+
+    }
+,{
+        "id": "1640682741512x713032046189740000",
+        "label": "topic test",
+"image":",
+"type":Topics",
+"description":",
+"tags":"",
+"url":"
+
+    }
+,{
+        "id": "1641075549691x462709871012741100",
+        "label": "SDG Thought Leaders Circle",
+"image":https://sdgthoughtleaderscircle.org/wp-content/uploads/2021/02/SDG-TLC-HQ-Logo-White.png",
+"type":",
+"description":",
+"tags":"",
+"url":https://sdgthoughtleaderscircle.org"
+
+    }
+,{
+        "id": "1641076059784x568015606095282200",
+        "label": "Systems Innovators",
+"image":https://uploads-ssl.webflow.com/602c1955fcce4e2a0727a96c/602c1b9d64edf6def8da949f_shortcut-from-point-a-to-point-b-CCCYBCD-min-p-800.jpeg",
+"type":",
+"description":Many of us believe we are changing the world when we may instead - or also - be protecting a system that is at the root of the problems we wish to solve. The System Innovators Club is dedicated to exploring complex societal challenges with a focus on the root causes, power structures, and systemic incentives. Our goal is to build a community of change agents to imagine and co-create a world that is more sustainable, just, and equitable.",
+"tags":"",
+"url":https://www.systemsinnovators.com"
+
+    }
+,{
+        "id": "1641084161750x445782464377913340",
+        "label": "ARTBASEL2021 + BTCMIAMI",
+"image":https://lh5.googleusercontent.com/FZhJIb0le9W4NVrbTKYFCeRgUdcBgkjAe0mw_4S65EhAnU5fJ8_fCuWb_D7N3PKZR96QRNAzmFltLQ=w1200-h630-p",
+"type":",
+"description":ARTBASELMIAMI2021 bienvenidos a miami,2021 ART BASEL MIAMI + BITCOIN MIAMI CALEDAR,maintained by @writingbree on twitter DO NOT DM thanks | shoutouts: @marumover , @bankofEryka (promo code!) , @nftcal , @islandsxyz & BITCOIN BRUNCH MIAMI,HAPPY FRIDAY ! 🌴🔥🧡 telegram chat | drop events here to...",
+"tags":"",
+"url":https://docs.google.com/spreadsheets/d/10wq2dY8EJecPHNhX-V9GAsLlVQfpskIu1XlGf5rBjjE"
+
+    }
+,{
+        "id": "1641084525891x961339757588906000",
+        "label": "ARTBASEL2021 + BTCMIAMI",
+"image":https://lh5.googleusercontent.com/FZhJIb0le9W4NVrbTKYFCeRgUdcBgkjAe0mw_4S65EhAnU5fJ8_fCuWb_D7N3PKZR96QRNAzmFltLQ=w1200-h630-p",
+"type":",
+"description":ARTBASELMIAMI2021 bienvenidos a miami,2021 ART BASEL MIAMI + BITCOIN MIAMI CALEDAR,maintained by @writingbree on twitter DO NOT DM thanks | shoutouts: @marumover , @bankofEryka (promo code!) , @nftcal , @islandsxyz & BITCOIN BRUNCH MIAMI,HAPPY FRIDAY ! 🌴🔥🧡 telegram chat | drop events here to...",
+"tags":"",
+"url":https://docs.google.com/spreadsheets/d/10wq2dY8EJecPHNhX-V9GAsLlVQfpskIu1XlGf5rBjjE"
+
+    }
+,{
+        "id": "1641084869503x865974942486233100",
+        "label": "ARTBASEL2021 + BTCMIAMI",
+"image":https://lh5.googleusercontent.com/FZhJIb0le9W4NVrbTKYFCeRgUdcBgkjAe0mw_4S65EhAnU5fJ8_fCuWb_D7N3PKZR96QRNAzmFltLQ=w1200-h630-p",
+"type":Groups",
+"description":ARTBASELMIAMI2021 bienvenidos a miami,2021 ART BASEL MIAMI + BITCOIN MIAMI CALEDAR,maintained by @writingbree on twitter DO NOT DM thanks | shoutouts: @marumover , @bankofEryka (promo code!) , @nftcal , @islandsxyz & BITCOIN BRUNCH MIAMI,HAPPY FRIDAY ! 🌴🔥🧡 telegram chat | drop events here to...",
+"tags":"",
+"url":https://docs.google.com/spreadsheets/d/10wq2dY8EJecPHNhX-V9GAsLlVQfpskIu1XlGf5rBjjE"
+
+    }
+,{
+        "id": "1644679908075x413696057779683300",
+        "label": "Synergy Circles",
+"image":https://www.evolutionaryleaders.net/sites/default/files/images/images/Synergy%20Circles%20Banner.jpg",
+"type":Groups",
+"description":The Source of Synergy Foundation organizes Synergy Circle gatherings as part of its mandate to expand synergy among like-minded people seeking to serve the highest good.",
+"tags":"Collaboration,Synergy",
+"url":https://www.evolutionaryleaders.net/synergycircles"
+
+    }
+,{
+        "id": "1644680036551x535326048446578700",
+        "label": "Co-creating the Holomovement: Technologies and Social Modalities",
+"image":https://www.evolutionaryleaders.net/sites/default/files/images/images/Synergy%20Circles%20Banner.jpg",
+"type":Groups",
+"description":Purpose: For vision & content discussion, and action steps, regarding all aspects of “Co-creating the Holomovement: Technologies and Social Modalities.” To invite diverse ELs and non-ELs into the process, as it coheres and matures, and build the discussion outward, from vision to action steps, through any number of appropriate working groups and subgroups, including action toward (but not limited to) a multi-party networking HUB and database. ",
+"tags":"Technology,Systems Thinking",
+"url":https://www.evolutionaryleaders.net/synergycircles"
+
+    }
+,{
+        "id": "1646084958678x785193706780098600",
+        "label": "New File Test",
+"image":",
+"type":",
+"description":here's the file!",
+"tags":"",
+"url":"
+
+    }
+,{
+        "id": "1646085874322x998314714321911800",
+        "label": "New File 2",
+"image":",
+"type":",
+"description":",
+"tags":"",
+"url":"
+
+    }
+,{
+        "id": "1647297943523x246962596368351230",
+        "label": "New Opportunity",
+"image":",
+"type":Opportunities",
+"description":",
+"tags":"",
+"url":"
+
+    }
+,{
+        "id": "1647297964199x815510699447418900",
+        "label": "New Trove",
+"image":",
+"type":Troves",
+"description":",
+"tags":"",
+"url":"
+
+    }
 
 ],
 
   "connections": [
 {
-"label":"Event Partners",
-"description":"Our partners and sponsors for this event",
-"from":"1620873093710x737426032842244100",
-"to":"12345",
-"id":"12345c"
-},{
-        "from": "12345",
-"to":"1631820240732x260102168650876000",
-"description":"Hand-selected, beautiful children's clothing and quality wooden toys.",
-"label":"Gingerbread Fox is a sponsor/partner for test events buy"
-    },{
-        "from": "12345",
-"to":"1631820241818x843727389419561800",
-"description":"Veterinary Clinic",
-"label":"Folly Gardens  is a sponsor/partner for test events buy"
-    },{
-        "from": "12345",
-"to":"1635820553346x643370788021338100",
-"description":"This is a new organization",
-"label":"New Organization is a sponsor/partner for test events buy"
-    },{
-        "from": "12345",
-"to":"1646179703297x705439304148641900",
-"description":"Everything you need for the perfect practical garden.",
-"label":"Tewkesbury Garden Centre is a sponsor/partner for test events buy"
-    },{
-"from":"1650248535597x827361361010275100",
-"to":"1650248541827x876253153787148000",
-"label":"Connected Presentations"
-},
-
-{"from":"1650248535597x827361361010275100","to":"1650248684709x381957221542559300"},{"from":"1650248535597x827361361010275100","to":"1650248527631x536015939530742460"}, {
-"from":"1650248717837x632977355067409400",
-"to":"1624919947541x246612309372829700",
-"label":"Connected Presentations"
-},
-
-{"from":"1650248717837x632977355067409400","to":"1624921589575x300508236703334400"},{"from":"1650248717837x632977355067409400","to":"1650248526376x716375885489220100"},
-{
-"label":"Event Presentations",
-"description":"Presentations happening during this event",
-"id":"1234567r",
-"from":"1620873093710x737426032842244100",
-"to":"1234567"
-},
-
-
-
-
-{
-"label":"",
-"id":"1651519963506x279127397713797340c",
-"from":"1651519963506x279127397713797340",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"",
-"id":"1651519769018x567346322389685060c",
-"from":"1651519769018x567346322389685060",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - What's Next - PLANetARY Salon",
-"id":"1650400048329x879702805773045900c",
-"from":"1650400048329x879702805773045900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Regenaissance Fair PLANetARY Salon",
-"id":"1650400046176x632157538617194800c",
-"from":"1650400046176x632157538617194800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Regenaissance Fair PLANetARY Salon",
-"id":"1650400044054x198320467511912800c",
-"from":"1650400044054x198320467511912800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Re-Enchantment & Circularity PLANetARY Salon",
-"id":"1650400041875x222474554197542600c",
-"from":"1650400041875x222474554197542600",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Re-Enchantment & Circularity PLANetARY Salon",
-"id":"1650400039670x331286441533932500c",
-"from":"1650400039670x331286441533932500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Regeneration & Celebration PLANetARY Salon",
-"id":"1650400036806x754734088986590600c",
-"from":"1650400036806x754734088986590600",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Regeneration & Celebration PLANetARY Salon",
-"id":"1650400034592x796570410597441700c",
-"from":"1650400034592x796570410597441700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Resilience & Coming Together PLANetARY Salon",
-"id":"1650400032294x314640301665096700c",
-"from":"1650400032294x314640301665096700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Resilience & Coming Together PLANetARY Salon",
-"id":"1650400030296x155561832332491870c",
-"from":"1650400030296x155561832332491870",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Restoration & Capitol Transfer PLANetARY Salon",
-"id":"1650400028443x120283064991520980c",
-"from":"1650400028443x120283064991520980",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Restoration & Capitol Transfer PLANetARY Salon",
-"id":"1650400026462x844964157578389500c",
-"from":"1650400026462x844964157578389500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Reconciliation + Commitment PLANetARY Salon",
-"id":"1650400023818x515103034713293440c",
-"from":"1650400023818x515103034713293440",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Reconciliation + Commitment PLANetARY Salon",
-"id":"1650400021902x915476545758779300c",
-"from":"1650400021902x915476545758779300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - mythOS: Protopian Narratives for Cultural Change PLANetARY Salon",
-"id":"1650400019489x653491231622348000c",
-"from":"1650400019489x653491231622348000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - mythOS: Protopian Narratives for Cultural Change PLANetARY Salon",
-"id":"1650400017430x906780427780502300c",
-"from":"1650400017430x906780427780502300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Under the Dome PLANetARY Salon",
-"id":"1650400014954x947768341731334200c",
-"from":"1650400014954x947768341731334200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Under the Dome PLANetARY Salon",
-"id":"1650400012483x279255756345507800c",
-"from":"1650400012483x279255756345507800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - eARTh Day! PLANetARY Salon",
-"id":"1650400010075x258859852702762780c",
-"from":"1650400010075x258859852702762780",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - eARTh Day! PLANetARY Salon",
-"id":"1650400007798x445732295020063040c",
-"from":"1650400007798x445732295020063040",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Opening Ceremony + Celebration for 100% of Life PLANetARY Salon",
-"id":"1650400005220x537753359900400060c",
-"from":"1650400005220x537753359900400060",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Opening Ceremony + Celebration for 100% of Life PLANetARY Salon",
-"id":"1650399809900x709085018409290500c",
-"from":"1650399809900x709085018409290500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Great Session",
-"id":"1650388496897x960921996071272400c",
-"from":"1650388496897x960921996071272400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"",
-"id":"1650387962980x516824457538437100c",
-"from":"1650387962980x516824457538437100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Session Title",
-"id":"1650387862468x248590826273243140c",
-"from":"1650387862468x248590826273243140",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Net-Zero Hydrocarbon Economy Discussion / Panel",
-"id":"1650248717837x632977355067409400c",
-"from":"1650248717837x632977355067409400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"PLANetARY Salon - Opening Ceremony + Celebration for 100% of Life PLANetARY Salon",
-"id":"1650248717358x291702263210537700c",
-"from":"1650248717358x291702263210537700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Intermedia Interventions Discussion / Panel",
-"id":"1650248716865x508138159388322500c",
-"from":"1650248716865x508138159388322500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Cryosphere Crisis: Studio Session Workshop",
-"id":"1650248716390x252364155484077000c",
-"from":"1650248716390x252364155484077000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Art for Eco Awareness feat. Eco ArtLab Pre-recorded talk / art / video",
-"id":"1650248715915x206712176893507400c",
-"from":"1650248715915x206712176893507400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"What does it feel like to be the Earth? Workshop",
-"id":"1650248715305x280730247859606100c",
-"from":"1650248715305x280730247859606100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Permayouth Experience (TBD) Pre-recorded talk / art / video",
-"id":"1650248714854x700052668373647440c",
-"from":"1650248714854x700052668373647440",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Building climate change resilience for rural communities by ensuring sustainable water security Pre-recorded talk / art / video",
-"id":"1650248714298x146111773268251540c",
-"from":"1650248714298x146111773268251540",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248713873x719375970601329400c",
-"from":"1650248713873x719375970601329400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248713437x451791919156049800c",
-"from":"1650248713437x451791919156049800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248712998x553638998630766850c",
-"from":"1650248712998x553638998630766850",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248712441x234396261690030370c",
-"from":"1650248712441x234396261690030370",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248711947x872947879787298000c",
-"from":"1650248711947x872947879787298000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248711355x694851297404165000c",
-"from":"1650248711355x694851297404165000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248710619x792387595916367400c",
-"from":"1650248710619x792387595916367400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248710195x932822067295374200c",
-"from":"1650248710195x932822067295374200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248709609x906813555709113100c",
-"from":"1650248709609x906813555709113100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248709108x686244662999966300c",
-"from":"1650248709108x686244662999966300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248708497x752763113078704500c",
-"from":"1650248708497x752763113078704500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248708046x360881955341637400c",
-"from":"1650248708046x360881955341637400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248707620x805459350372974700c",
-"from":"1650248707620x805459350372974700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248707195x626023134302298000c",
-"from":"1650248707195x626023134302298000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248706795x797124620933479400c",
-"from":"1650248706795x797124620933479400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248706312x365186729767192900c",
-"from":"1650248706312x365186729767192900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Making MythOS: A New Story Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248705900x242139334197591940c",
-"from":"1650248705900x242139334197591940",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"domeLIFE Presentation  Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248705294x814287598178275800c",
-"from":"1650248705294x814287598178275800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248704844x976599483089135100c",
-"from":"1650248704844x976599483089135100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248704414x840859336487546200c",
-"from":"1650248704414x840859336487546200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248703960x284278608810115230c",
-"from":"1650248703960x284278608810115230",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248703393x497854901247177800c",
-"from":"1650248703393x497854901247177800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248702916x497972920669168300c",
-"from":"1650248702916x497972920669168300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248702447x963317472049706000c",
-"from":"1650248702447x963317472049706000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248701949x460946111717028600c",
-"from":"1650248701949x460946111717028600",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Topia Exhibit",
-"id":"1650248701445x722567105506598800c",
-"from":"1650248701445x722567105506598800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"junglejarno's world New Art City (MORA) Exhibit",
-"id":"1650248700997x148111314998888640c",
-"from":"1650248700997x148111314998888640",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Emergence of DSS share about your DSS experience for potential coheART 3 applicants",
-"id":"1650248700379x659586019055844700c",
-"from":"1650248700379x659586019055844700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Regenerative Relating  Workshop",
-"id":"1650248699973x392535878375266400c",
-"from":"1650248699973x392535878375266400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Consent for a Better World Workshop",
-"id":"1650248699417x879848619805367000c",
-"from":"1650248699417x879848619805367000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"BIOluci New Art City (MORA) Exhibit",
-"id":"1650248698812x313585251482343600c",
-"from":"1650248698812x313585251482343600",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Buck the System Discussion / Panel",
-"id":"1650248698219x762239356148778100c",
-"from":"1650248698219x762239356148778100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Wecome to the Transreality: Music, Art and Technology Discussion / Panel",
-"id":"1650248697751x219456215682562100c",
-"from":"1650248697751x219456215682562100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Symbols in the Deserted Forest, Time solidified in the vast Sea   Performance",
-"id":"1650248697289x647179977194712700c",
-"from":"1650248697289x647179977194712700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"The Artist is not Present Pre-recorded talk / art / video",
-"id":"1650248696798x523927629912058560c",
-"from":"1650248696798x523927629912058560",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Contemplative Debate Forum Discussion / Panel",
-"id":"1650248696217x704886870611697800c",
-"from":"1650248696217x704886870611697800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Buttons in MORA New Art City (MORA) Exhibit",
-"id":"1650248695730x680269816685090700c",
-"from":"1650248695730x680269816685090700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Buttons in Topia Topia Exhibit",
-"id":"1650248695141x454535796588186900c",
-"from":"1650248695141x454535796588186900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Collaboration with your local community Pre-recorded talk / art / video",
-"id":"1650248694445x788285632675981600c",
-"from":"1650248694445x788285632675981600",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Meditative Arts Session Pre-recorded talk / art / video",
-"id":"1650248693993x905501376771306500c",
-"from":"1650248693993x905501376771306500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Encountering Tricksters New Art City (MORA) Exhibit",
-"id":"1650248693540x133905114259418100c",
-"from":"1650248693540x133905114259418100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"A Glimpse of the Wastelands - An Immersive Book Series New Art City (MORA) Exhibit",
-"id":"1650248693080x216429006997650430c",
-"from":"1650248693080x216429006997650430",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Meditative Arts and Artivism  New Art City (MORA) Exhibit",
-"id":"1650248692627x768840996613433100c",
-"from":"1650248692627x768840996613433100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Geodesign for Planetary Regeneration Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248692016x459307787698535200c",
-"from":"1650248692016x459307787698535200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Alchemical Architectures Discussion / Panel",
-"id":"1650248691407x571991147266236900c",
-"from":"1650248691407x571991147266236900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Cosmic Odyssey Art & Aparrel Launch Exhibit New Art City (MORA) Exhibit",
-"id":"1650248690814x282856968693491420c",
-"from":"1650248690814x282856968693491420",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Paisaje Sentido: A experience into the inner-landscape Workshop",
-"id":"1650248690349x707159582486204700c",
-"from":"1650248690349x707159582486204700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"FullerFeedback presents The Girl from Spaceship Earth  Discussion / Panel",
-"id":"1650248689724x920141437358048300c",
-"from":"1650248689724x920141437358048300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"FFS Presents  Stefanie Atkinson Schwartz  Artist Talk Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248689140x670904800230496000c",
-"from":"1650248689140x670904800230496000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"FFS - Wish you were Sphere Topia Topia World",
-"id":"1650248688714x262916386116351040c",
-"from":"1650248688714x262916386116351040",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Symbology to connect Humanity Pre-recorded talk / art / video",
-"id":"1650248688110x873259165387505700c",
-"from":"1650248688110x873259165387505700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Let's Play Synergetics cynchronized Workshop",
-"id":"1650248687634x416067284688170800c",
-"from":"1650248687634x416067284688170800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"You, perfect whole and complete  New Art City (MORA) Exhibit",
-"id":"1650248687174x986015676824106000c",
-"from":"1650248687174x986015676824106000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"System coupling!  New Art City (MORA) Exhibit",
-"id":"1650248686723x546257733289879230c",
-"from":"1650248686723x546257733289879230",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Sustainable Craft Village    New Art City (MORA) Exhibit",
-"id":"1650248686262x883946602850447000c",
-"from":"1650248686262x883946602850447000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Mammon Memetics New Art City (MORA) Exhibit",
-"id":"1650248685558x248556552517599460c",
-"from":"1650248685558x248556552517599460",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Onusa New Art City (MORA) Exhibit",
-"id":"1650248685131x315240629968278140c",
-"from":"1650248685131x315240629968278140",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Radiolaria - An Architectural Wonder New Art City (MORA) Exhibit",
-"id":"1650248684709x381957221542559300c",
-"from":"1650248684709x381957221542559300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Cross Polynation New Art City (MORA) Exhibit",
-"id":"1650248684096x347977561286290560c",
-"from":"1650248684096x347977561286290560",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Mushbloom  New Art City (MORA) Exhibit",
-"id":"1650248683642x358862127582222340c",
-"from":"1650248683642x358862127582222340",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Ceraun Loggins -\"Where the Streets Have No Name\" New Art City (MORA) Exhibit",
-"id":"1650248683018x678367769858272900c",
-"from":"1650248683018x678367769858272900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Voice of the Earth New Art City (MORA) Exhibit",
-"id":"1650248682575x244340249280178270c",
-"from":"1650248682575x244340249280178270",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Earth Embassy New Art City (MORA) Exhibit",
-"id":"1650248682116x753293683169648000c",
-"from":"1650248682116x753293683169648000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Mother Earth Embassy? (I cant remember) New Art City (MORA) Exhibit",
-"id":"1650248681389x997952960268674000c",
-"from":"1650248681389x997952960268674000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Meditative Arts and Artivism New Art City (MORA) Exhibit",
-"id":"1650248680747x960429341481374100c",
-"from":"1650248680747x960429341481374100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Deep Design // HOMEdash New Art City (MORA) Exhibit",
-"id":"1650248680122x325138030126850700c",
-"from":"1650248680122x325138030126850700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"How a mayan fire ceremony is conducted New Art City (MORA) Exhibit",
-"id":"1650248679665x137702582829942080c",
-"from":"1650248679665x137702582829942080",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Star Galaxy for the World New Art City (MORA) Exhibit",
-"id":"1650248679055x190285166997498980c",
-"from":"1650248679055x190285166997498980",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Evoking Belonging: The UbuntuSphere New Art City (MORA) Exhibit",
-"id":"1650248678403x173195136847069440c",
-"from":"1650248678403x173195136847069440",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Mental Models for Human Experience: Entropy and Syntropy  New Art City (MORA) Exhibit",
-"id":"1650248677803x763385776801391200c",
-"from":"1650248677803x763385776801391200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Ancient Tree Futures Re-imagined  New Art City (MORA) Exhibit",
-"id":"1650248677200x437540379171544200c",
-"from":"1650248677200x437540379171544200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"The Connected Experience meets Unity Sanctuary From Ideation to Actualization New Art City (MORA) Exhibit",
-"id":"1650248676714x198412698152161440c",
-"from":"1650248676714x198412698152161440",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Climate Action Game Show New Art City (MORA) Exhibit",
-"id":"1650248676030x366254189434640960c",
-"from":"1650248676030x366254189434640960",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Magicubes Shelter Solutions New Art City (MORA) Exhibit",
-"id":"1650248675545x767000348002260000c",
-"from":"1650248675545x767000348002260000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Solarpunk re-meme-bering New Art City (MORA) Exhibit",
-"id":"1650248675125x295751955725600000c",
-"from":"1650248675125x295751955725600000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Descended Masters Topia Exhibit",
-"id":"1650248674668x266828474648788120c",
-"from":"1650248674668x266828474648788120",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Paseo D' Rio Topia World",
-"id":"1650248674242x356939353683772800c",
-"from":"1650248674242x356939353683772800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Portal to the New Earth Topia Exhibit",
-"id":"1650248673797x412272587227404200c",
-"from":"1650248673797x412272587227404200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Culture of Sensuality  Topia Exhibit",
-"id":"1650248673086x831707170338354700c",
-"from":"1650248673086x831707170338354700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Multiverse Poetry  Topia World",
-"id":"1650248672526x121122759560527980c",
-"from":"1650248672526x121122759560527980",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Mental Models for Human Experience: Entropy and Syntropy Topia Exhibit",
-"id":"1650248671901x240415416267079300c",
-"from":"1650248671901x240415416267079300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Societal Sectors Exploration Topia World",
-"id":"1650248671434x724856451882275100c",
-"from":"1650248671434x724856451882275100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Concrete Oasis Topia World",
-"id":"1650248670970x103273129149035860c",
-"from":"1650248670970x103273129149035860",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Self sustained interdependent Craft Village Topia World",
-"id":"1650248670519x865702563202605200c",
-"from":"1650248670519x865702563202605200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Organic orgasm  Topia Exhibit",
-"id":"1650248669916x382351992846111900c",
-"from":"1650248669916x382351992846111900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Origin Earth Topia Exhibit",
-"id":"1650248669485x790466031854289800c",
-"from":"1650248669485x790466031854289800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Magicubes Shelter Solutions Topia Exhibit",
-"id":"1650248668997x765820764839952000c",
-"from":"1650248668997x765820764839952000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"The Dream Tree Topia World",
-"id":"1650248668556x496075560088298200c",
-"from":"1650248668556x496075560088298200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Dodoland Topia World",
-"id":"1650248668116x198816583798043550c",
-"from":"1650248668116x198816583798043550",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"A Gentle Way of re-Creating a Universe Topia Exhibit",
-"id":"1650248667693x174798458535800900c",
-"from":"1650248667693x174798458535800900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"ForestALL Topia Exhibit",
-"id":"1650248667258x647430992994634500c",
-"from":"1650248667258x647430992994634500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Networked dreams and the birth of The Scenius Machine: The Role of Artificial Intelligence in regen.era Workshop",
-"id":"1650248666813x547627670879173440c",
-"from":"1650248666813x547627670879173440",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"ARC & the Significance of the 3 Legged Stool Workshop",
-"id":"1650248664377x149543247224650940c",
-"from":"1650248664377x149543247224650940",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Our Deepest Dreams and BuckyBot Discussion / Panel",
-"id":"1650248662917x114721106931001230c",
-"from":"1650248662917x114721106931001230",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Inhabiting The Beauty Way Workshop",
-"id":"1650248660899x303690194944765900c",
-"from":"1650248660899x303690194944765900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Lowering Fashion Industry Waste Fabrics Topia Exhibit",
-"id":"1650248657980x276547954607531330c",
-"from":"1650248657980x276547954607531330",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Workshop Zero Waste Skirt, Trapazoid Pre-recorded Performance",
-"id":"1650248655862x169868092018937700c",
-"from":"1650248655862x169868092018937700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"evoL sI sihT : This is Love backwards New Art City (MORA) Exhibit",
-"id":"1650248652902x951923650711562800c",
-"from":"1650248652902x951923650711562800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Art is Best with Friends Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248652445x344544798166000400c",
-"from":"1650248652445x344544798166000400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"a Gift for GAIA - a New Noode on the Noosphere Topia Exhibit",
-"id":"1650248651955x629349225911198000c",
-"from":"1650248651955x629349225911198000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Art tour to my topia piece Art Tour",
-"id":"1650248649984x278507205376282940c",
-"from":"1650248649984x278507205376282940",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"The art of caring Immersive Experience",
-"id":"1650248649442x390537348681954750c",
-"from":"1650248649442x390537348681954750",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Astral Meditation Journey Other",
-"id":"1650248646485x320016533039491100c",
-"from":"1650248646485x320016533039491100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Artist talk Melissa Lockwood Pre-recorded Performance",
-"id":"1650248644567x551920114887564740c",
-"from":"1650248644567x551920114887564740",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Returning to Our Houses of Magic: Art and Design for Restoring the Collective Soma Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248642685x782586728669553200c",
-"from":"1650248642685x782586728669553200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Up-cycling a long sleeve tee shirt into a dress Pre-recorded Performance",
-"id":"1650248631490x580386658270197800c",
-"from":"1650248631490x580386658270197800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"BEAM(ing) RegenEra Rising Other",
-"id":"1650248628564x527108089421470340c",
-"from":"1650248628564x527108089421470340",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Overcoming Blame, Shame, Fear & Guilt Discussion / Panel",
-"id":"1650248628047x576994043915470600c",
-"from":"1650248628047x576994043915470600",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Transforming the fashion pattern block into a zero waste space.. New Art City (MORA) Exhibit",
-"id":"1650248625562x380360318765617500c",
-"from":"1650248625562x380360318765617500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Workshop Designing a skirt with Fashion Industry Block Pattern Waste area Fabrics.  Pre-recorded Performance",
-"id":"1650248623181x352124617488291900c",
-"from":"1650248623181x352124617488291900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Carnival of Colors Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248620759x813074231726850400c",
-"from":"1650248620759x813074231726850400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"junglejarno's world Pre-recorded talk / art / video",
-"id":"1650248618500x937261084980369300c",
-"from":"1650248618500x937261084980369300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Concrete Oasis at Pershing Square Park Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248615681x998325173370781200c",
-"from":"1650248615681x998325173370781200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Concrete Oasis at Pershing Square Park New Art City (MORA) Exhibit",
-"id":"1650248613330x558925996493731650c",
-"from":"1650248613330x558925996493731650",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Live zero waste/up-clycling workshops Workshop",
-"id":"1650248611290x266923628651932320c",
-"from":"1650248611290x266923628651932320",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Reducing Fashion Industry Fabric Waste New Art City (MORA) Exhibit",
-"id":"1650248610749x923525752704623200c",
-"from":"1650248610749x923525752704623200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"The World of Sensoria: Alchemical Architectures Topia World",
-"id":"1650248608035x704196129944673900c",
-"from":"1650248608035x704196129944673900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Dodoland - Earth ActionTopia Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248605314x164399972894840420c",
-"from":"1650248605314x164399972894840420",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"The Voice of Mother Earth by ANIMAGIKA Pre-recorded Performance",
-"id":"1650248602732x677693520949635300c",
-"from":"1650248602732x677693520949635300",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Quantic-Creations Presents: Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248600188x822602497972085000c",
-"from":"1650248600188x822602497972085000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Dynamic Emergence - Implicate to explicate Immersive Experience",
-"id":"1650248599625x372027590700394050c",
-"from":"1650248599625x372027590700394050",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Earth Day - Earth Action  Pre-recorded talk / art / video",
-"id":"1650248598956x982765641906565100c",
-"from":"1650248598956x982765641906565100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Elemental Merkabah Discussion / Panel",
-"id":"1650248596601x119408878948139120c",
-"from":"1650248596601x119408878948139120",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Emergence of Heart - feeling into the present for a future Workshop",
-"id":"1650248596143x377070457612497000c",
-"from":"1650248596143x377070457612497000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"BEAM(ing) RegenEra & Speakeasy Immersive Experience",
-"id":"1650248592897x827157452653412500c",
-"from":"1650248592897x827157452653412500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"BEAM(ing) RegenEra Speakeasy Topia Exhibit",
-"id":"1650248590842x921268531729135800c",
-"from":"1650248590842x921268531729135800",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"BEAM(ing) RegenEra from the insideout New Art City (MORA) Exhibit",
-"id":"1650248588385x554747649283952060c",
-"from":"1650248588385x554747649283952060",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Star Galaxy for the World - Topia Topia World",
-"id":"1650248586540x358681021793050280c",
-"from":"1650248586540x358681021793050280",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Co-Creating Artisanal Slow Fashion Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248583764x104790525490386030c",
-"from":"1650248583764x104790525490386030",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Visions of a World that Works for All Life: a virtual studio tour of the Garden of Infinity Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248583315x905014243330659000c",
-"from":"1650248583315x905014243330659000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Haiku in Motion New Art City (MORA) Exhibit",
-"id":"1650248579190x302331108166019140c",
-"from":"1650248579190x302331108166019140",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"FFS  - On FullerFeedback Systems - an introduction Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248578743x648446579126520400c",
-"from":"1650248578743x648446579126520400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"FullerFeedback.Systems - Struppi and the Story of the Spheres Discussion / Panel",
-"id":"1650248578104x164033371893936860c",
-"from":"1650248578104x164033371893936860",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Let's Play Synergetics Workshop",
-"id":"1650248577640x239061335376922660c",
-"from":"1650248577640x239061335376922660",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"The Pale Blue Dot Performance",
-"id":"1650248577029x914926359624756400c",
-"from":"1650248577029x914926359624756400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Groundedstream.com *MVP-LAUNCH* (Arabic)  Pre-recorded Performance",
-"id":"1650248575586x250628189723565380c",
-"from":"1650248575586x250628189723565380",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"The Re-Generation Station Topia Exhibit",
-"id":"1650248574028x856374321112257400c",
-"from":"1650248574028x856374321112257400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Welcome to Counterspace - Topia Exhibit",
-"id":"1650248572694x533079345469825700c",
-"from":"1650248572694x533079345469825700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Magicubes Shelter Solutions information Pre-recorded talk / art / video",
-"id":"1650248571080x880851658815495000c",
-"from":"1650248571080x880851658815495000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Enchanted Forest - Learning from Tricksters and Nature's Elements Topia Exhibit",
-"id":"1650248568366x143014518332526880c",
-"from":"1650248568366x143014518332526880",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Encountering Tricksters New Art City (MORA) Exhibit",
-"id":"1650248567771x594923637288164700c",
-"from":"1650248567771x594923637288164700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Finding My Connecting Thread Through the Wisdom of the I Ching Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248563944x842524998891519700c",
-"from":"1650248563944x842524998891519700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Creation & Control Cycles of Chinese 5 Element Theory Workshop",
-"id":"1650248563360x199354561952908220c",
-"from":"1650248563360x199354561952908220",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Stardust: A Cosmic Sound Journey Performance",
-"id":"1650248562037x401596895358731200c",
-"from":"1650248562037x401596895358731200",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Compose Your Power Song Workshop",
-"id":"1650248561432x458296324793078000c",
-"from":"1650248561432x458296324793078000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"I am Mother Earth presentation Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248560947x708785473110468400c",
-"from":"1650248560947x708785473110468400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"I am Mother Earth // Nonfiction Immersive Experience",
-"id":"1650248558839x500215688380994940c",
-"from":"1650248558839x500215688380994940",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"I am Mother Earth's shorts Pre-recorded talk / art / video",
-"id":"1650248556903x934424593809106700c",
-"from":"1650248556903x934424593809106700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"I am Mother Earth // Nonfiction Topia World",
-"id":"1650248554814x949655414457998700c",
-"from":"1650248554814x949655414457998700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"I am Mother Earth presentation Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248552983x172290632990614660c",
-"from":"1650248552983x172290632990614660",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"HEALING HEAVEN Topia World",
-"id":"1650248550285x126399178750930430c",
-"from":"1650248550285x126399178750930430",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Regeneration: A Global Eco Drag Show [FULL SHOW] Pre-recorded talk / art / video",
-"id":"1650248548456x144507819595330660c",
-"from":"1650248548456x144507819595330660",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Stories We Tell - Narrative That Sparks Cultural Change Discussion / Panel",
-"id":"1650248546298x151774944047603040c",
-"from":"1650248546298x151774944047603040",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Sprites of Meadowlands New Art City (MORA) Exhibit",
-"id":"1650248544523x240291293929852480c",
-"from":"1650248544523x240291293929852480",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"FFS - Growing Wisdomes Discussion / Panel",
-"id":"1650248542428x997371794286579500c",
-"from":"1650248542428x997371794286579500",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Light Seed Other",
-"id":"1650248541827x876253153787148000c",
-"from":"1650248541827x876253153787148000",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Cosmic Odyssey Art & Apparel Launch and Call for Collaborators Topia Exhibit",
-"id":"1650248539737x789729738463689900c",
-"from":"1650248539737x789729738463689900",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Star Galaxy for the World (Short Animation) Pre-recorded talk / art / video",
-"id":"1650248538713x513903293840938240c",
-"from":"1650248538713x513903293840938240",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Livingry New Art City (MORA) Exhibit",
-"id":"1650248538219x585697194909054600c",
-"from":"1650248538219x585697194909054600",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Collaborate with Us to Design a Future that Inspires and Empowers Discussion / Panel",
-"id":"1650248537575x656078700930790700c",
-"from":"1650248537575x656078700930790700",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"We the Tree New Art City (MORA) World",
-"id":"1650248535597x827361361010275100c",
-"from":"1650248535597x827361361010275100",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Empower Your Communication Skills Through the Wisdom of Uzazu Workshop",
-"id":"1650248533002x444812593182575040c",
-"from":"1650248533002x444812593182575040",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Systems change and design science Workshop",
-"id":"1650248532363x456195296562327040c",
-"from":"1650248532363x456195296562327040",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Regenerative design via systems coupling Workshop",
-"id":"1650248530849x693574577624514600c",
-"from":"1650248530849x693574577624514600",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Systems Coupling in 3D New Art City (MORA) World",
-"id":"1650248529272x970916645411184400c",
-"from":"1650248529272x970916645411184400",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"What Is Design Science?  Artist Presentation / Spotlight (10 to 20 mins)",
-"id":"1650248527631x536015939530742460c",
-"from":"1650248527631x536015939530742460",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Another Heaven + Earth New Art City (MORA) Exhibit",
-"id":"1650248527127x218358104058806080c",
-"from":"1650248527127x218358104058806080",
-"to":"1234567"
-}
-
-,
-
-{
-"label":"Dark Forest at the End of the World New Art City (MORA) Exhibit",
-"id":"1650248526376x716375885489220100c",
-"from":"1650248526376x716375885489220100",
-"to":"1234567"
-}
-
-
-
-]
+        "id": "1639207111010x473710109927669800",
+        "from": "",
+        "to": "1638065475726x167331045122244600",
+"label":"Know Of"
+    }
+,{
+        "id": "1639207298128x886377311240978400",
+        "from": "1638065475726x167331045122244600",
+        "to": "1638088192588x218709207267672060",
+"label":"Actively Collaborates With"
+    }
+,{
+        "id": "1641089048103x146274188990873600",
+        "from": "1638067287060x314012205193887740",
+        "to": "1638065475726x167331045122244600",
+"label":"loves"
+    }
+,{
+        "id": "1641829267695x579635964260909000",
+        "from": "1640651974053x949519787082001400",
+        "to": "1638065475726x167331045122244600",
+"label":"presented at"
+    }
+,{
+        "id": "1644680087008x863763731660668900",
+        "from": "1644680036551x535326048446578700",
+        "to": "1644679908075x413696057779683300",
+"label":"is a subcircle"
+    }
+,{
+        "id": "1644680166562x976904478791827500",
+        "from": "1639199230827x596946602874634200",
+        "to": "1644680036551x535326048446578700",
+"label":"wants to join"
+    }
+
+ ]
 }
