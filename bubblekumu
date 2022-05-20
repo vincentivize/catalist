@@ -392,37 +392,43 @@
         "id": "1639207111010x473710109927669800",
         "from": "",
         "to": "1638065475726x167331045122244600",
-"label":"Know Of"
+"type":"Know Of",
+"label":" Know Of Systems Innovators"
     }
 ,{
         "id": "1639207298128x886377311240978400",
         "from": "1638065475726x167331045122244600",
         "to": "1638088192588x218709207267672060",
-"label":"Actively Collaborates With"
+"type":"Actively Collaborates With",
+"label":"Systems Innovators Actively Collaborates With The Weaving Lab"
     }
 ,{
         "id": "1641089048103x146274188990873600",
         "from": "1638067287060x314012205193887740",
         "to": "1638065475726x167331045122244600",
-"label":"loves"
+"type":"loves",
+"label":"Trove Powered By Catalist loves Systems Innovators"
     }
 ,{
         "id": "1641829267695x579635964260909000",
         "from": "1640651974053x949519787082001400",
         "to": "1638065475726x167331045122244600",
-"label":"presented at"
+"type":"presented at",
+"label":"Jerry’s Brain presented at Systems Innovators"
     }
 ,{
         "id": "1644680087008x863763731660668900",
         "from": "1644680036551x535326048446578700",
         "to": "1644679908075x413696057779683300",
-"label":"is a subcircle"
+"type":"is a subcircle",
+"label":"Co-creating the Holomovement: Technologies and Social Modalities is a subcircle Synergy Circles"
     }
 ,{
         "id": "1644680166562x976904478791827500",
         "from": "1639199230827x596946602874634200",
         "to": "1644680036551x535326048446578700",
-"label":"wants to join"
+"type":"wants to join",
+"label":"Vincent Arena wants to join Co-creating the Holomovement: Technologies and Social Modalities"
     }
 
  ]
