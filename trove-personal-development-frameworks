@@ -144,14 +144,6 @@
 "tags":["Personality"],
 "description":"The Enneagram Institute®, created in 1997 by the late Don Richard Riso and by Russ Hudson, was formed to further research and development of the Enneagram, one of the most powerful and insightful  tools for understanding ourselves and others.   At its core, the Enneagram helps us to see ourselves at a deeper, more objective level and can be of invaluable assistance on our path to self-knowledge.   The Enneagram Institute® is currently engaged in presenting and sponsoring workshops and courses devoted to the many unique aspects of the Enneagram and their relationships to human nature.  Our office is located in Stone Ridge, New York.\\n\\n",
 "label":"The Nine Enneagram Type Descriptions"
-    },{
-        "id": "1653017174615x323055555466493950",
-"url":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
-"type":"Post",
-"tags":[],
-"description":"personal development frameworks are....",
-"label":"Personal Development Framework"
     }
 ],
 
@@ -165,17 +157,10 @@
     }
 ,{
         "id": "1653017196303x437773930778853400",
-        "from": "1653017174615x323055555466493950",
+        "from": "",
         "to": "1639580653799x951919312830988300",
 "type":"contains",
-"label":"Personal Development Framework contains The Science of Character"
-    }
-,{
-        "id": "1653017224637x523929646706458600",
-        "from": "1651977321476x759251891188138000",
-        "to": "1653017174615x323055555466493950",
-"type":"is a",
-"label":"The Nine Enneagram Type Descriptions is a Personal Development Framework"
+"label":" contains The Science of Character"
     }
 
  ]
