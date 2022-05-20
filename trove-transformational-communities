@@ -1,6 +1,5 @@
 {
   "elements": [
-
 {
 "label":"Costa Rica",
 "image":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
@@ -286,7 +285,7 @@
 "image":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
 "id":"1616721865309x733569124234971400",
 "type":"Location"
-}
+},
 {
         "id": "1646187992302x886231572825326100",
 "url":"https://tuckerwalsh.medium.com/mapping-the-magic-of-pachamama-1cb0b9eb1346",
