@@ -1,6 +1,24 @@
 {
   "elements": [
 {
+"label":"Regenerative Economy & Systems",
+"image":"//s3.amazonaws.com/appforest_uf/f1652372546894x907705076453318300/regen_black.svg",
+"id":"1615672041902x625853127508537100",
+"type":"Sector",
+"color":"#77C98D"
+},{
+"label":"Mental Health & Emotions",
+"image":"//s3.amazonaws.com/appforest_uf/f1652372639924x623771191465406700/brain.png",
+"id":"1615672041912x583433534843689900",
+"type":"Sector",
+"color":"#E53A4F"
+},{
+"label":"Healthcare & Medicine",
+"image":"//s3.amazonaws.com/appforest_uf/f1652372592391x255114519608497860/Medical-Cross.png",
+"id":"1618102259381x824460881014816400",
+"type":"Sector",
+"color":"#E53A4F"
+},{
 "label":"Costa Rica",
 "image":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
 "id":"1616721864449x118837711430189950",
