@@ -1,1 +1,182 @@
-��e
+{
+  "elements": [
+{
+        "id": "1639580550799x687311736198922200",
+"url":"https://leadershipsouthcoast.org/lsc-frameworks-grounded-in-positive-psychology/",
+"image":"https://secureservercdn.net/50.62.172.157/b1c.2c8.myftpupload.com/wp-content/uploads/2019/08/positive-leadership-e1567127264816.png",
+"type":"Resource",
+"tags":[],
+"description":"LSC integrated the Positive Leadership curriculum and Clifton StrengthsFinder assessment into the annual program in 2016. Our intention was to deepen the program’s focus on leadership development and enhance the overall program experience. The response from class members has been very positive!   ",
+"label":"LSC Frameworks Grounded in Positive Psychology – Leadership SouthCoast"
+    },{
+        "id": "1639580653799x951919312830988300",
+"url":"https://stehm.weebly.com/the-science-of-character.html",
+"image":"http://stehm.weebly.com/uploads/1/4/1/5/14153202/8007420_orig.png",
+"type":"Resource",
+"tags":[],
+"description":"-Character strengths are like muscles—they get bigger the more you use them. ​-What character muscle do you want to grow? How do you think you might do that?",
+"label":"The Science of Character"
+    },{
+        "id": "1639580749649x710843047293747200",
+"url":"https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx",
+"image":"//s3.amazonaws.com/appforest_uf/f1639580721407x125461173446972600/Screen%20Shot%202021-12-15%20at%2010.05.15%20AM.png",
+"type":"Resource",
+"tags":[],
+"description":"When you take the CliftonStrengths assessment, you uncover your unique combination of 34 CliftonStrengths themes.\\n\\nThe themes, which sort into four domainsLearn more about the Four Domains of CliftonStrengths, are a culmination of decades of research led by Don Clifton to study and categorize the talents of the world's most successful people.\\n\\nTogether, the themes explain a simple but profound element of human behavior: what's right with people.\\n\\nIndividually, each theme gives you a way to describe what you naturally do best or what you might need help from others to accomplish.\\n\\nUse the following resources to learn more about each of the 34 CliftonStrengths themes:",
+"label":"StrengthsFinder2.0"
+    },{
+        "id": "1639605625034x518010630418202600",
+"url":"https://www.gallup.com/home.aspx",
+"image":"https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/GFDT/frozvbzp1um8k7ixfzz8ra.png",
+"type":"Organization",
+"tags":["Analytics","Advice","Advice"],
+"description":"Unlock the full potential of your people and organization. We help leaders improve their employee and customer strategies through analytics, advice and learning.",
+"label":"Gallup: Analytics & Advice About Everything That Matters"
+    },{
+        "id": "1641615749332x451998224575889400",
+"url":"https://jovianarchive.com/Get_Your_Chart",
+"image":"https://jovianarchive.com/assets/images/Jovian_Logo_SVG_File.svg?i=1",
+"type":"Resource",
+"tags":[],
+"description":"The official site of the Human Design System and the work of Ra Uru Hu.",
+"label":"Jovian Archive"
+    },{
+        "id": "1641615797442x695288115108249600",
+"url":"https://genekeys.com/free-profile/",
+"image":"https://genekeys.com/wp-content/uploads/2018/09/golden-path-gldwht-220x220.png",
+"type":"Resource",
+"tags":[],
+"description":"",
+"label":"Free Profile - Gene Keys"
+    },{
+        "id": "1641658323541x572302511235137540",
+"url":"https://www.thenextevolution.com/spiral-dynamics/",
+"image":"https://www.thenextevolution.com/wp-content/uploads/2020/04/canstockphoto6229299.jpg",
+"type":"Resource",
+"tags":["Psychology"],
+"description":"Overview of Spiral Dynamics with links from around the web to other content, including articles, videos, and service providers.",
+"label":"Spiral Dynamics - The Next Evolution"
+    },{
+        "id": "1641707976713x371519991129833500",
+"url":"https://www.innerdevelopmentgoals.org/framework",
+"image":"https://images.squarespace-cdn.com/content/v1/600d80b3387b98582a60354a/b1dac16c-cb40-4c54-8a42-36946c96c9fd/IDG_Logo_Horizontal_White.png",
+"type":"Resource",
+"tags":[],
+"description":"Inner Development Goals (IDGs) is a blueprint of the capabilities, qualities and skills we need in order to achieve the 17 Sustainable Development Goals (SDGs). We want to educate, inspire and empower people to be a positive force for change in society and find a more purposeful way to look at our lives and the lives of the people around us.",
+"label":"The Framework — Inner Development Goals"
+    },{
+        "id": "1642266864817x133951511997710340",
+"url":"https://www.predictiveindex.com/",
+"image":"https://media.predictiveindex.com/wp-content/uploads/2020/07/30093817/PI_Featured_Generic1.png",
+"type":"Resource",
+"tags":[],
+"description":"The Predictive Index offers talent optimization software, workshops, and expert consulting. Design and execute a winning talent strategy with PI.",
+"label":"The Predictive Index - Talent Optimization Leader"
+    },{
+        "id": "1642267793570x742169632738115600",
+"url":"https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/",
+"image":"https://blog.peoplekeys.com/hubfs/Imported_Blog_Media/myers-briggs-chart.png",
+"type":"Resource",
+"tags":[],
+"description":"The Myers & Briggs Foundation - - MBTI® Basics",
+"label":"The Myers & Briggs Foundation - MBTI® Basics"
+    },{
+        "id": "1642520212994x548936150460399600",
+"url":"https://www.discprofile.com/what-is-disc",
+"image":"https://www.discprofile.com/media/Graphics/ed-img/Everything-DiSC-circle.svg?ext=.svg",
+"type":"Resource",
+"tags":["Personal development"],
+"description":"DiSC® is a personality profile tool used by more than one million people every year to help improve teamwork, communication, and productivity in the workplace.",
+"label":"What is the DiSC assessment?"
+    },{
+        "id": "1642784297001x777514413382172700",
+"url":"https://www.youtube.com/watch?v=aYCBdZLCDBQ",
+"image":"https://i.ytimg.com/vi/aYCBdZLCDBQ/maxresdefault.jpg",
+"type":"Link",
+"tags":["Psychology","Personal development"],
+"description":"Erikson’s theory of psychosocial development identifies eight stages in which a healthy individual should pass through from birth to death. At each stages we...",
+"label":"8 Stages of Development by Erik Erikson"
+    },{
+        "id": "1642785031231x101089922546401280",
+"url":"https://www.viacharacter.org/take-advantage-of-your-strengths?gclid=CjwKCAiA0KmPBhBqEiwAJqKK4x10A3nWhZiW_7hhJymmOTUNZSZ-YKerWGrqsjGfaBj8kEUE-Xo7oxoCHT0QAvD_BwE",
+"image":"https://via-static.global.ssl.fastly.net/via_logo_wide.png",
+"type":"Resource",
+"tags":["Character Strengths"],
+"description":"Learn how VIA Reports can uncover your strengths and show you how to apply strengths to improve your work, relationships and well-being.",
+"label":"VIA Institute"
+    },{
+        "id": "1642785360691x734686525835182100",
+"url":"https://www.goodreads.com/book/show/253777.Choosing_Civility",
+"image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441593326i/253777._UY630_SR1200,630_.jpg",
+"type":"Resource",
+"tags":[],
+"description":"Most people would agree that thoughtful behavior and common decency are in short supply, or simply forgotten in hurried lives of emails, cellphones, and multi-tasking. ",
+"label":"Choosing Civility: The Twenty-Five Rules of Considerate Conduct"
+    },{
+        "id": "1650477992678x642320549811585000",
+"url":"https://secure.kolbe.com/k2/show_takeIndex/indexType_A",
+"image":"https://secure.kolbe.com/_shared/img/logo/Kolbe_Logo_Horizontal_RGB.svg",
+"type":"Resource",
+"tags":[],
+"description":"The Kolbe Index (Instinct Test) is unique. It does not measure intelligence, personality or social style. It measures the instinctive ways you take action when you strive.\\n\\nYour result will describe your natural strengths – your modus operandi (MO).",
+"label":"Kolbe Index"
+    },{
+        "id": "1650478178018x790674545258528800",
+"url":"http://www.taisassessment.com",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":[],
+"description":"The Attentional and Interpersonal Style (TAIS) assessment is used to help people perform under pressure in corporate, sport, and military settings.\\nPerformance depends on the ability to pay attention to the right things at the right times and pressure changes the way we concentrate, make decisions, and interact with others. TAIS measures these critical performance variables, helps elite performers understand the conditions that create pressure, and predicts their responses to pressure.",
+"label":"TAIS Assessment"
+    },{
+        "id": "1651977236233x566302317090963460",
+"url":"https://www.bravermantest.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":["Personality"],
+"description":"Braverman Personality Type Assessment Online Test for Brain Neurotransmitters for muscle building as per Charles Poliquin from Tim Ferriss Show",
+"label":"Braverman Personality Type Assessment"
+    },{
+        "id": "1651977321476x759251891188138000",
+"url":"https://www.enneagraminstitute.com/type-descriptions",
+"image":"https://images.squarespace-cdn.com/content/v1/585179fe1b631b51e1837bac/1483555183256-9BS6SEM6Q9BS86OJAYUY/EIlogoheaderwhitewithsymbol.png",
+"type":"Resource",
+"tags":["Personality"],
+"description":"The Enneagram Institute®, created in 1997 by the late Don Richard Riso and by Russ Hudson, was formed to further research and development of the Enneagram, one of the most powerful and insightful  tools for understanding ourselves and others.   At its core, the Enneagram helps us to see ourselves at a deeper, more objective level and can be of invaluable assistance on our path to self-knowledge.   The Enneagram Institute® is currently engaged in presenting and sponsoring workshops and courses devoted to the many unique aspects of the Enneagram and their relationships to human nature.  Our office is located in Stone Ridge, New York.\\n\\n",
+"label":"The Nine Enneagram Type Descriptions"
+    },{
+        "id": "1653017174615x323055555466493950",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"type":"Post",
+"tags":[],
+"description":"personal development frameworks are....",
+"label":"Personal Development Framework"
+    }
+],
+
+  "connections": [
+{
+        "id": "1639605650905x172351918662221820",
+        "from": "1639580749649x710843047293747200",
+        "to": "1639605625034x518010630418202600",
+"type":"is created by",
+"label":"StrengthsFinder2.0 is created by Gallup: Analytics & Advice About Everything That Matters"
+    }
+,{
+        "id": "1653017196303x437773930778853400",
+        "from": "1653017174615x323055555466493950",
+        "to": "1639580653799x951919312830988300",
+"type":"contains",
+"label":"Personal Development Framework contains The Science of Character"
+    }
+,{
+        "id": "1653017224637x523929646706458600",
+        "from": "1651977321476x759251891188138000",
+        "to": "1653017174615x323055555466493950",
+"type":"is a",
+"label":"The Nine Enneagram Type Descriptions is a Personal Development Framework"
+    }
+
+ ]
+}
