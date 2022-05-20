@@ -2,52 +2,52 @@
   "elements": [
 
 {
-"label":"Profiles",
+"label":"Profile",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "id":"Profile",
-"type":"Data Type",
+"type":"Element Type",
 "description":"People on Trove"
 },{
-"label":"Organizations",
+"label":"Organization",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "id":"Organization",
-"type":"Data Type",
+"type":"Element Type",
 "description":"Public organization directory"
 },{
-"label":"Posts",
+"label":"Post",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
 "id":"Post",
-"type":"Data Type",
+"type":"Element Type",
 "description":"Photos, quotes, or text"
 },{
-"label":"Topics",
+"label":"Topic",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
 "id":"Topic",
-"type":"Data Type",
+"type":"Element Type",
 "description":"Keywords | Tags"
 },{
-"label":"Resources",
+"label":"Resource",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "id":"Resource",
-"type":"Data Type",
+"type":"Element Type",
 "description":"Shared crowdourced library"
 },{
-"label":"Events",
+"label":"Event",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "id":"Event",
-"type":"Data Type",
+"type":"Element Type",
 "description":"Cross-organization calendar"
 },{
-"label":"Products",
+"label":"Product",
 "image":"//s3.amazonaws.com/appforest_uf/f1651961966246x836694866797873900/shopping-bag.svg",
 "id":"Product",
-"type":"Data Type",
+"type":"Element Type",
 "description":"A product or a service from a Trove member."
 },{
-"label":"Projects",
+"label":"Project",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "id":"Project",
-"type":"Data Type",
+"type":"Element Type",
 "description":"Project Listings"
 },
 {
