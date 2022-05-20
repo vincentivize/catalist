@@ -1,1 +1,1441 @@
-��e
+{
+  "elements": [
+{
+        "id": "1646187992302x886231572825326100",
+"url":"https://tuckerwalsh.medium.com/mapping-the-magic-of-pachamama-1cb0b9eb1346",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192465151x572316218451670800/1%2am7I3_F28sPqWcWHkMCTcCw.jpeg",
+"type":"Organization",
+"tags":[],
+"description":"…far, far away, there’s magic that manifests in a portal of Soul-shaping transformation. This gateway is both a glimpse of humanity’s future potential, and simultaneously, a present reality available… Learn more with this article: https://tuckerwalsh.medium.com/mapping-the-magic-of-pachamama-1cb0b9eb1346",
+"label":"PachaMama"
+    },{
+        "id": "1646192122582x938708827567529100",
+"url":"https://www.findhorn.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192455616x744957681206332900/findhorn-foundation-beach-people-jumping-sunrise.jpg",
+"type":"Organization",
+"tags":[],
+"description":"<p>Our signature on-site workshop, Findhorn Experience Week, is returning in a new format from March 2022.</p>\n",
+"label":"Findhorn Foundation"
+    },{
+        "id": "1646192320634x182866877782247740",
+"url":"https://www.bostonglobe.com/metro/2019/06/22/they-quit-petroleum-electricity-and-money-and-found-happiness/gbU91CTDP0vT1VqzdpbW1M/story.html",
+"image":"//s3.amazonaws.com/appforest_uf/f1646681070635x373475148882388200/J3PF2MEVD4I6TMSTQ357OAU63Y.jpg",
+"type":"Organization",
+"tags":[],
+"description":"A tragedy in childhood led Ethan Hughes to a realization: “You give up something small for something larger.”",
+"label":"Possibility Alliance"
+    },{
+        "id": "1646192326279x328426090141737960",
+"url":"https://summit.co/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646681098048x857172832453513500/Summit-Logo-Black-03-small.png",
+"type":"Event",
+"tags":[],
+"description":"Designing experiences that connect and inspire a community of today’s brightest leaders.",
+"label":"Summit"
+    },{
+        "id": "1646192331619x193155539741192600",
+"url":"https://lucidityfestival.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646681105085x751811124655374900/LF20-Profile-Image.jpg",
+"type":"Event",
+"tags":[],
+"description":"Join us at the next chapter of the Lucidity story: Re-generation Earth in April 2020. Get your tickets early to swoop up those savings!",
+"label":"Lucidity Festival"
+    },{
+        "id": "1646192336542x421990440876844900",
+"url":"https://canticlefarmoakland.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646681076887x832531221146771500/cropped-IMG_7821.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Oakland and Sheep Ranch, California",
+"label":"Canticle Farm"
+    },{
+        "id": "1646192340000x830986557764409100",
+"url":"https://shambhalamusicfestival.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646681110416x994122418824051600/The-Pagoda-Stage.png",
+"type":"Event",
+"tags":[],
+"description":"Born in the heart of the Kootenay Mountains, hosted at the Salmo River Ranch, Shambhala offers epic music and stunning natural surroundings without the corporate hangover.",
+"label":"Shambhala Music Festival"
+    },{
+        "id": "1646192343385x680591148016453900",
+"url":"https://www.portalxibalba.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646681063121x505385336815256300/38a4b6_87a1196f9e97426e9398c1474e29d52a~mv2.png",
+"type":"Organization",
+"tags":[],
+"description":"A truely magical place filled with loving people and healing from sacred medicines.",
+"label":"Portal Xibalba"
+    },{
+        "id": "1646192345447x129706320251759870",
+"url":"https://ista.life/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"International School of Temple Arts (ISTA)"
+    },{
+        "id": "1646192470896x669951644227837700",
+"url":"https://www.tamera.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192470000x234870144466345900/170502_Tamera_Aerial_Morning_LSM_Stage.TEASER.jpg",
+"type":"Organization",
+"tags":[],
+"description":"We work for global system change: from war to peace, from exploitation to cooperation, from fear to trust. Help to build a nonviolent human culture.",
+"label":"Tamera Peace Research & Education Center"
+    },{
+        "id": "1646192475728x500889501643879700",
+"url":"https://www.desaalamindah.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192475161x477286113570674750/a896d9_90a450ca03734044a7ca683dd7bf1e2c~mv2.png",
+"type":"Organization",
+"tags":[],
+"description":"A sustainable eco community in Ubud, Bali.",
+"label":"Desa Alam Indah"
+    },{
+        "id": "1646192480176x669245912419497000",
+"url":"https://www.lightningsociety.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192479193x718326335884586600/c58897_d9ae8cdc1d504284a9f4ab7c4d824d87~mv2.jpg",
+"type":"Organization",
+"tags":[],
+"description":"A community of mentors, collaborators, and friends committed to contributing to each other’s lives. We collaborate to create meaningful, life-expanding, connective experiences.",
+"label":"Lightning Society"
+    },{
+        "id": "1646192486355x307354025131537200",
+"url":"http://www.theshantispace.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192485425x123843354346075300/IMG-20180930-WA0005~2.jpg%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"<p><span style=“font-size:18px”>We invite you on a journey of wholeness & well-being by providing a peaceful space for holistic therapies, transformational workshops, classes & uplifting retreats.</span></p>",
+"label":"Shanti Space"
+    },{
+        "id": "1646192491762x609563897679840100",
+"url":"https://www.fusionfest.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194147647x238477422718407420/LOGO_FusionFest_RGBwebTransparent.png%3Fformat%3D1500w",
+"type":"Event",
+"tags":[],
+"description":"",
+"label":"Fusion Fest"
+    },{
+        "id": "1646192497383x831762452837298400",
+"url":"https://osheanic.com/en/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194142101x786404547452867800/OsheanicSeo1.jpg",
+"type":"Organization",
+"tags":[],
+"description":"One of the most beautiful and inspiring retreats and meditation centers in the world, located in the northeast Brazilian paradise.",
+"label":"Osheanic Retreat Center"
+    },{
+        "id": "1646192503216x332213672144260540",
+"url":"https://www.spiritrock.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194136207x671110073407945000/spirit_rock_medition_center_logo_2017f.png",
+"type":"Organization",
+"tags":[],
+"description":"Spirit Rock is a spiritual training institution grounded in the Buddha’s teachings in order to manifest wisdom and compassion, for the benefit of all beings. Our mediation center is set among 411 acres of oak woodlands in the hills of Marin County, CA.",
+"label":"Spirit Rock"
+    },{
+        "id": "1646192507739x759371829286781400",
+"url":"https://www.pacificintegral.com/gtc-north-america",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192506896x671861233995545000/katie-burkhart-ks_e5Rf-Cn0-unsplash.jpg%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"<p>Awakening the Future of Leadership</p>",
+"label":"Pacific Integral’s Generating Transformative Change"
+    },{
+        "id": "1646192513766x911659784272016900",
+"url":"https://hibridos.cc/en/rituals/flor-da-montanha/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194127408x660858067185241700/capture-decran-2015-09-23-a-15_04_03.600x0.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Ayahuasca. Umbanda. Santo Daime. Mountain Flower Spiritist Tent. Lumiar, Nova Friburgo, Rio de Janeiro state. Mãe Baixinha",
+"label":"Flor da Montanha"
+    },{
+        "id": "1646192519198x651231874930421800",
+"url":"https://www.fruithaven.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194120167x409808711308293100/chrome_Sdf2hq6kAl.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Fruit Haven Ecovillage"
+    },{
+        "id": "1646192523846x493077420262356030",
+"url":"https://laecovillage.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194113891x464673002654048450/IMG_0566-scaled.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Los Angeles Ecovillage"
+    },{
+        "id": "1646192529331x589740960697546800",
+"url":"https://www.sfzc.org/practice-centers/tassajara",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194109327x824925472416759800/ZMC-TassCreek_ShundoHaye-hero.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Welcome to Tassajara Zen Mountain Center Zenshinji (Zen Heart-Mind Temple) is located in central California, in a remote valley in the heart of the Ventana Wilderness area of the Los Padres National Forest. Tassajara was founded in 1967 by the late Zen teacher Shunryu Suzuki Roshi. Closed to visito…",
+"label":"Tassajara"
+    },{
+        "id": "1646192534344x908062518295715600",
+"url":"http://www.ramdassguru.pt/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194104095x694246414786702200/logo-ardg-250x162x17x0x215x162x1635772755.jpeg",
+"type":"Organization",
+"tags":[],
+"description":"Ashram Ram Dass Guruat Quinta do Rajo Sat nam, our website is currently under maintenance. ContactGENERAL CONTACT & LOCATIONAddress: Rua do Rajo 1, 2705-736 Santa Susana, São João das Lampas, PortugalTelephone: +351 21 580 64 37 – Mobile phone: +351 911 897 040 ACTIVITIESDaily activities:Aquarian S…",
+"label":"Ashram Ram Dass Guru"
+    },{
+        "id": "1646192539360x829822141427074600",
+"url":"https://www.mindfulness-project.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194098058x247025570902096100/logoWhiteBig.jpg",
+"type":"Organization",
+"tags":[],
+"description":"The Mindfulness Project is a radical new approach to a holistic live style. We combine proven methods of the fields of meditation, yoga, natural building, arts and combine them to a healing system of transforming ourselves and the environment.",
+"label":"Mindfulness Project"
+    },{
+        "id": "1646192542393x494040821913990660",
+"url":"https://www.joelightfoot.org/acollectiveblooming",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":[],
+"description":"",
+"label":"A Collective Blooming by Joe Lightfoot"
+    },{
+        "id": "1646192546752x819145379915344100",
+"url":"https://www.lamafoundation.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194089880x829968592429905400/2002-dome.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Lama Foundation"
+    },{
+        "id": "1646192551513x806059722208354800",
+"url":"https://www.sfzc.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194084534x759025909077209000/cityCenter_toutTile_homepage.jpg%3Fitok%3D85TpFQfW",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"San Francisco Zen Center"
+    },{
+        "id": "1646192557039x980037788160426500",
+"url":"https://belongbook.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646681118159x240581294184162300/Belong-Title_white%402x.png",
+"type":"Resource",
+"tags":[],
+"description":"BELONG is Daybreaker CEO, Radha Agrawal’s new book that gives you the tools to build your dream community and make friends",
+"label":"Belong by Radha Agrawal"
+    },{
+        "id": "1646192562320x785046052148411900",
+"url":"http://www.thehermitageretreats.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194074066x237595380485682280/output-onlinepngtools-150x150.png",
+"type":"Organization",
+"tags":[],
+"description":"The Hermitage is a Solitary and Dark Retreat Center, set on the shores of Lake Atitlan in the highlands of Guatemala. We have several beautiful, peaceful cabins and rooms and two Dark Retreats for…",
+"label":"The Hermitage"
+    },{
+        "id": "1646192567995x436553199313137100",
+"url":"https://zunya.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194067255x644018070389284600/zunya-og-image.f317e71b.jpg",
+"type":"Organization",
+"tags":[],
+"description":"A regenerative living system that uses a holistic approach towards the right use of resources in order to create an integrated solution for a new way of living.",
+"label":"Zunya"
+    },{
+        "id": "1646192572950x439416047731629760",
+"url":"https://www.youtube.com/watch?v=StFZ3JIRK2k",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194061154x511925694801431700/maxresdefault.jpg",
+"type":"Organization",
+"tags":[],
+"description":"A short, dynamic edit of Jordan Hall’s Civium Project #1 video series.Watch the full video here:https://youtu.be/yXBAtdyBto0#GameB #Civium",
+"label":"Jordan Hall’s Civium (video)"
+    },{
+        "id": "1646192577879x835472416845835000",
+"url":"https://www.highdentemple.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194056373x995153263592202000/f68902_ab355984504547b5a16505e2b8cd9374~mv2.png",
+"type":"Organization",
+"tags":[],
+"description":"Highden Temple is a modern day mystery school located in New Zealand. We offer soul initiation and education trainings and events.",
+"label":"Highden Temple Mystery School"
+    },{
+        "id": "1646192582904x612507996300552200",
+"url":"https://acorncommunity.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194051241x650336893722467300/img_3735.jpg%3Fw%3D1200",
+"type":"Organization",
+"tags":[],
+"description":"An egalitarian, income-sharing, secular, anarchist, feminist, consensus-based intentional community. Supporting radical sharing, positive communication, compassion, consent culture, sustainability,…",
+"label":"Acorn Community"
+    },{
+        "id": "1646192587408x472021859218357400",
+"url":"https://www.twoarrowszen.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194045987x152668505629272480/Everything-is-Workable-Email-Banner-03-Crop.jpeg",
+"type":"Organization",
+"tags":[],
+"description":"January 18 - March 8, 2022\\nTuesdays, 3:30 - 5:00 pm MT\\n90-minute class Via Zoom\\n+ Optional weekly practice groups MT and AEDT Join Diane Musho Hamilton, author of Everything",
+"label":"Two Arrows Zen"
+    },{
+        "id": "1646192591786x350118741730616200",
+"url":"https://www.scienceandnonduality.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194041079x392210286771881300/logo-white-full-large%402x.png",
+"type":"Event",
+"tags":[],
+"description":"SAND honors and nurtures the exploration and experience of nonduality as a pathway to greater wisdom and wellbeing.",
+"label":"Science & Nonduality (SAND)"
+    },{
+        "id": "1646192596390x280854106881900360",
+"url":"http://somewhereundertherainbow.org/find-a-gathering/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192595525x270501772248359140/rainbowgatheringsbook.jpg",
+"type":"Event",
+"tags":[],
+"description":"rainbow gatherings 2015, list of directions and forums to find out the location of the European rainbow gathering and others",
+"label":"Rainbow Gathering"
+    },{
+        "id": "1646192603428x243136433629753700",
+"url":"https://www.tribalgathering.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194032899x123040477514896540/tribal-gathering-2020_facebook-link.jpg%3Fformat%3D1500w",
+"type":"Event",
+"tags":[],
+"description":"<p>18 days on the most beautiful Caribbean beach. Over 150 international music acts on three stages. Cabaret, Circus, Carnival, Curiositiesand wonderments abound.</p><p> </p><p>Nowhere on earth can you experience the collective wisdom of over 60 tribes from 30 countries in one place. Many of these t…",
+"label":"Tribal Gathering"
+    },{
+        "id": "1646192609448x531393130728486700",
+"url":"https://krishnavillage-retreat.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194023393x334199877356491360/How-to-find-the-right-meditation-technique-for-you.jpg",
+"type":"Organization",
+"tags":[],
+"description":"For All COVID-19 Related Questions Please Call 02 6672 7876 Krishna Village endeavours to provide the blueprint of a simple mindful, spiritually based lifestyle. BEGIN YOUR JOURNEY Affordable Weekend Retreats!Are you desperate for a change? Are stress, anxiety, or frustration dragging you down? Are …",
+"label":"Krishna Village Eco Yoga Community"
+    },{
+        "id": "1646192614048x999902947483196000",
+"url":"https://www.eventfinda.com.au/2020/the-town-festival/north-eastern-victoria",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194017440x869007706002789200/703950-325597-34.jpg",
+"type":"Event",
+"tags":[],
+"description":"The Town Festival, The Town is an immersive, theatrical and sustainable festival ..., Licola Wilderness Village, Licola, Victoria, 1 May 2020 - 4 May 2020,",
+"label":"The Town"
+    },{
+        "id": "1646192618941x438046830484969400",
+"url":"https://rmerc.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194012361x304026949673893000/logo-color.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Rocky Mountain Ecodharma"
+    },{
+        "id": "1646192621493x192217317143978500",
+"url":"https://www.microsolidarity.cc/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":[],
+"description":"",
+"label":"Microsolidarity"
+    },{
+        "id": "1646192626686x237715832188409630",
+"url":"https://mainecohousing.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646194003032x571943212463329900/stacks-image-7cd7191.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Belfast Cohousing & Ecovillage"
+    },{
+        "id": "1646192630461x533516496406766900",
+"url":"https://open.spotify.com/show/1ufwMJXpBfmCjQKmYcydZl?si=qlteyNKiTz2aVQ3mPugmdA",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193998270x838858506300184800/6d247191b74b9135dd3ced9307579c59a814af95",
+"type":"Resource",
+"tags":[],
+"description":"Listen to Possibility Now! on Spotify. Possibility Now! features Ethan Hughes. Hosted by Tucker Walsh. Ethan runs the Possibility Alliance in Belfast, Maine, an educational center and electricity-free intentional community operating in the Gift Economy. This podcast explores the topics that are mo…",
+"label":"Possibility Now! Podcast"
+    },{
+        "id": "1646192635344x518789693097543300",
+"url":"https://plumvillage.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193994407x918172348474859100/cropped-IMG_7914-2.jpg",
+"type":"Organization",
+"tags":[],
+"description":"A global community of mindfulness practice centers and monasteries offering retreats and teachings on engaged Buddhism and the art of mindful living.",
+"label":"Plum Village"
+    },{
+        "id": "1646192639727x549440469887561040",
+"url":"https://bhakticenter.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193988935x274225051030408960/BW-WS-BANNER-3.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Bhakti Center"
+    },{
+        "id": "1646192644248x194940238787879580",
+"url":"https://www.fincamia.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193983956x797639494416814000/finca_mia_main_black.png",
+"type":"Organization",
+"tags":[],
+"description":"Discover the mountain retreat, Finca Mia buried in the foothills of Chirripo National Park in Costa Rica.",
+"label":"Finca Mia"
+    },{
+        "id": "1646192648361x357828177296751740",
+"url":"https://www.regenvillages.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193978062x507486904214813100/regen_logoani.gif",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"ReGen Villages"
+    },{
+        "id": "1646192654423x824037591575105900",
+"url":"https://www.hridaya-family.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193973915x562124698765987600/4110d5_a255930d6467408f9163ccc3c9478783~mv2.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Silent meditation retreats,Hridaya yoga retreats; individual yoga&meditation&detox retreats\\nin San Cristobal de las Casas, Mexico",
+"label":"Hridaya Family"
+    },{
+        "id": "1646192658848x279579767784124960",
+"url":"https://www.oshorisk.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193967014x322619933741375300/Lotus-768x432.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Osho Risk"
+    },{
+        "id": "1646192663352x240986993082466620",
+"url":"https://siriuscommunity.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193962362x564269914371164700/cropped-Sirius-Logo-black.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Sirius Ecovillage"
+    },{
+        "id": "1646192668513x692738525740168200",
+"url":"https://www.karmecholing.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193955919x366463704387783000/7E3AA0BA-FEBE-4EFC-BE19-8B6C6966C827_1_105_c.jpeg",
+"type":"Organization",
+"tags":[],
+"description":"Karme Choling is a Shambhala Buddhist community in Vermont founded by Chogyam Trungpa Rinpoche. If offers solitary retreats and programs. %",
+"label":"Karme-Choling"
+    },{
+        "id": "1646192673182x644683565038338400",
+"url":"https://pathretreats.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192672545x968237017210247300/lotus-flower.png",
+"type":"Organization",
+"tags":[],
+"description":"Discover personal growth retreats & meditation workshops. Our personal development courses help you to achieve joy, meaning and a deeply enriching renewed sense of self & relationships.",
+"label":"Path of Love"
+    },{
+        "id": "1646192677687x951528954754661300",
+"url":"https://www.k9coliving.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"K9 CoLiving"
+    },{
+        "id": "1646192683312x695609516546097200",
+"url":"https://www.alegriavillage.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193939630x974873409128886400/alegria-regenerative-lifestyle%2B%282%29.jpg%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Alegría Village"
+    },{
+        "id": "1646192687221x347820247216537040",
+"url":"http://www.sebastianjunger.com/tribe-by-sebastian-junger",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193932522x353744680758087500/sebastian-junger-tribe2.jpg%3Fformat%3D1500w",
+"type":"Resource",
+"tags":[],
+"description":"Combining history, psychology, and anthropology, TRIBE explores what we can learn from tribal societies about loyalty, belonging, and the eternal human quest for meaning. It explains the irony that-for many veterans as well as civilians-war feels better than peace, adversity can turn out to be a ble",
+"label":"Tribe by Sebastian Junger"
+    },{
+        "id": "1646192691375x135129205490708720",
+"url":"https://sivanandabahamas.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193928024x430728498432952900/Parvati-20140406-yash-0398-scaled.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Sivananda Ashram Yoga Retreat Bahamas is a beautiful and spiritual environment for yoga teacher training and yoga vacation programs.",
+"label":"Sivananda Ashram"
+    },{
+        "id": "1646192695885x784021644155013200",
+"url":"https://bhaktifest.com/bhakti-fest/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193922848x887766196308261800/bhakti-fest-unstacked.png",
+"type":"Event",
+"tags":[],
+"description":"CELEBRATING 12 YEARS OF BHAKTI FEST! To our beautiful Bhakti family! We hope this message finds you well. In response to the pandemic, and in an effort to keep our",
+"label":"Bhakti & Shakti Fest"
+    },{
+        "id": "1646192701320x259001782756020920",
+"url":"https://www.sacrednectarsanctuary.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193916580x317619043159738120/3f04dd_f45f8f5e5180404088ca005f71ec673d~mv2.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Sacred Nectar Sanctuary"
+    },{
+        "id": "1646192706809x411429778412571800",
+"url":"https://www.puravida-festival.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193909974x119665159458540290/60c9dbd88e8cef6c1c8dc6ea_Eye_Closed.svg",
+"type":"Event",
+"tags":[],
+"description":"Pura Vida Festival is an experience for personal wellbeing, collective awakening and planetary regeneration.",
+"label":"Pura Vida Festival"
+    },{
+        "id": "1646192711445x151608218498181280",
+"url":"https://www.anandavillage.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193902186x615885488983079200/yogananda1-lg.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Ananda Village"
+    },{
+        "id": "1646192715718x849510675758560900",
+"url":"https://www.enspiral.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193897078x184819420424968670/Enspiral-Single_de3ee7bc-4fc9-44bf-95ae-24ff1b83e7c1_410x.png%3Fformat%3D1500w",
+"type":"Resource",
+"tags":[],
+"description":"",
+"label":"Enspiral"
+    },{
+        "id": "1646192720862x417785561892441340",
+"url":"https://crystalwaters.org.au/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193892273x359948434615304300/logo-square-250.png",
+"type":"Organization",
+"tags":[],
+"description":"The Queensland Crystal Waters Eco Village of over 230 residents was developed 32 years ago, founded on Permaculture principles and is world renowned as a pioneer in Eco living",
+"label":"Crystal Waters Community Cooperative"
+    },{
+        "id": "1646192725304x361048489421451200",
+"url":"http://auroville.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193886769x486846840339618700/HomePageSlide1-490.jpg%3F1592292921",
+"type":"Organization",
+"tags":[],
+"description":"Auroville is a universal city in the making in south-India dedicated to the ideal of human unity based on the vision of Sri Aurobindo and The Mother.",
+"label":"Auroville"
+    },{
+        "id": "1646192730516x380765131272067460",
+"url":"https://jamesstevenson.life/awaken-as-love-stage-1/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192729873x957638614854623200/logo-1.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Awaken As Love"
+    },{
+        "id": "1646192735323x664067094813409000",
+"url":"https://isha.sadhguru.org/us/en/center/isha-institute-inner-sciences-usa/overview",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193878469x671597845801835500/moon_0.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Sadhguru’s Isha Institute of Inner-Sciences"
+    },{
+        "id": "1646192739320x830931698932697900",
+"url":"https://integralzen.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193872355x771166140648396500/cropped-IZ-Logo-4small.png%3F1",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Integral Zen"
+    },{
+        "id": "1646192743411x252131718288999300",
+"url":"https://www.triarchypress.net/drc.html",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193867799x122130502347534080/drcgoodcover_orig.png",
+"type":"Resource",
+"tags":[],
+"description":"details of Daniel Wahl’s Designing Regenerative Cultures: Living the Questions Together, published by Triarchy Press",
+"label":"Designing Regenerative Cultures by Daniel Christian Wahl"
+    },{
+        "id": "1646192748792x913462911724072200",
+"url":"https://www.wearenovalis.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193862583x436343295314221900/2a0d0a_99dc389398054e4c88a98ec07b465531~mv2.png",
+"type":"Organization",
+"tags":[],
+"description":"Novalis is a legal association dedicated to conservation and culture, protecting 2,000 hectares of Amazonian rainforest in Peru. We provide a home-base for research and community-building related to conservation, cultural preservation, healing arts, sustainable design, and indigenous knowledge.",
+"label":"Novalis"
+    },{
+        "id": "1646192753037x942955078979703200",
+"url":"https://www.esalen.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193855964x998505705484092300/5fd79ee5817946bb441dbc91_ESALEN%2520Open%2520Graph%2520Image.png",
+"type":"Organization",
+"tags":[],
+"description":"Esalen is a not-for-profit holistic educational center offering wild comfort and space for emergent transformation and internal exploration since 1962.",
+"label":"Esalen Institute"
+    },{
+        "id": "1646192757804x222730418304772030",
+"url":"https://www.puntamona.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193850690x988430183126762800/PuntaMonalogo.png%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Punta Mona"
+    },{
+        "id": "1646192762526x669644568905343200",
+"url":"https://www.ayahuascachurches.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193845189x142026060092710580/logo-4.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Soul Quest Ayahuasca Church of Mother Earth"
+    },{
+        "id": "1646192765709x627262721551703300",
+"url":"https://thepowerpath.com/events/power-path-one-year-shamanic-studies-program-2022-23/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193839029x153190558106979230/bigstock-224311558.jpg",
+"type":"Organization",
+"tags":[],
+"description":"With Jose, Lena and Anna Stevens. The purpose of this program is to learn about the shamanic path, from ancient to modern, how it interfaces with modern quantum physics, and, through powerful practices, ceremonies, wilderness solos and other shamanic experiences, to assimilate its wisdom and integra…",
+"label":"Power Path One Year Shamanic Studies Program"
+    },{
+        "id": "1646192768541x902774688522412500",
+"url":"https://sacredgarden.life/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193834956x870169534981117800/sgc-logo-gold-1000-1.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Sacred Garden Community"
+    },{
+        "id": "1646192769919x669779540237966500",
+"url":"https://www.primaverasound.com/en/porto",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"type":"Event",
+"tags":[],
+"description":"",
+"label":"Primavera Sound"
+    },{
+        "id": "1646192774332x117716259811113660",
+"url":"https://cac.org/living-school/living-school-welcome/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193830280x450786144036342500/Sandiamts.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Do you seek contemplative grounding and purpose? Do you long for wisdom elders and companions to share your spiritual journey? Are you willing to be",
+"label":"Richard Rohr’s Living School for Action & Contemplation"
+    },{
+        "id": "1646192776778x730545630679291900",
+"url":"https://www.monasticacademy.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193825197x763004368906373600/logo.png%3Ffit%3D500%252C220%26ssl%3D1",
+"type":"Organization",
+"tags":[],
+"description":"The Monastic Academy is a full-time residential program designed to create wise, powerful, and loving leaders.",
+"label":"Monastic Academy"
+    },{
+        "id": "1646192778890x679635168022078700",
+"url":"https://www.simonandschuster.com/books/The-Different-Drum/M-Scott-Peck/9780684848587",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193822560x519362251584854600/cvr9780684848587_9780684848587_lg.jpg",
+"type":"Resource",
+"tags":[],
+"description":"‘The overall purpose of human communication is - or should be - reconciliation. It should ultimately serve to lower or remove the walls of misunderstanding which unduly separate us human beings, one from another...’ Although we have developed the technology to make communication more efficent and to…",
+"label":"The Different Drum: Community Making and Peace by M. Scott Peck"
+    },{
+        "id": "1646192781382x897107031526603900",
+"url":"http://www.ekskaretfoundation.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193820347x369729453879122500/Ekska%25CC%2588ret_fb_vhkql7.png",
+"type":"Organization",
+"tags":[],
+"description":"Ekskäret Foundation strives to be a catalyst and an active co-creator of social development by stimulating individuals’ personal development and lifelong learning.",
+"label":"The Ekskaret Foundation"
+    },{
+        "id": "1646192783885x773037404539749000",
+"url":"http://alquimiahealingarts.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193817421x409767818395581060/lotus1-e1426904914758.png",
+"type":"Organization",
+"tags":[],
+"description":"Alquimia is an educational space in the heart of Portugal where creative arts and healing are combined for self-realization and metamorphosis to occur.",
+"label":"Alquimia Centre of Healing Arts"
+    },{
+        "id": "1646192786375x749931160927841800",
+"url":"https://www.thevenusproject.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193814249x994208826583022800/The-Venus-Project-concept-city-3.jpg",
+"type":"Organization",
+"tags":[],
+"description":"The Venus Project is a non-profit organization that presents a new socio-economic model utilizing science and technology toward social betterment to achieve a sustainable civilization of abundance for all, without exception.",
+"label":"The Venus Project (video)"
+    },{
+        "id": "1646192789043x248888055026377020",
+"url":"https://www.eomega.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193811062x301124007544282700/IMG_2484_crop4.jpg%3Fitok%3DaVY9ZEa5",
+"type":"Organization",
+"tags":[],
+"description":"awakening the best in the human spirit",
+"label":"Omega Institute"
+    },{
+        "id": "1646192790573x744548211852454000",
+"url":"http://www.ecotrulypark.org/en/home",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Eco Truly Park"
+    },{
+        "id": "1646192795466x827797400293459600",
+"url":"https://www.anuttara.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193805838x199083977598377700/24f27d_dbd8db2da0ac4c5eaf44c9d79ed0a2fa.jpg",
+"type":"Organization",
+"tags":[],
+"description":"During these provocative times, offering renowned yoga and meditation training in BC, Canada for years to transform yourself into a mindfulness, relaxed, and focused individuals.",
+"label":"Anuttara Ashram"
+    },{
+        "id": "1646192798404x947565153913247700",
+"url":"https://wakinglife.pt/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193799557x735994258646468700/WL_SHARE_IMAGE_2021_V3_black_joao.jpg",
+"type":"Event",
+"tags":[],
+"description":"A space for artistic experimentation, spirited self-expression and collective imagineering of the type of society we could cultivate if there was freedom to diverge from default reality.",
+"label":"Waking Life"
+    },{
+        "id": "1646192801524x581134785206361300",
+"url":"https://www.angsbacka.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193795986x931236351644868500/Angsbacka-garden.png",
+"type":"Organization",
+"tags":[],
+"description":"Ängsbacka is a Course and Festival Center for personal and spiritual growth located in the beautiful deep forests of Värmland, Sweden. We support people in their paths to sustainable development, well-being and harmony.",
+"label":"Ängsbacka"
+    },{
+        "id": "1646192803398x242308854549987840",
+"url":"https://www.voov-festival.de/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"type":"Event",
+"tags":[],
+"description":"",
+"label":"VOOV Festival"
+    },{
+        "id": "1646192805647x978533430912853900",
+"url":"https://gaiahouse.co.uk/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193790870x805956054072066000/blank.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Insight Meditation in the Buddhist Tradition",
+"label":"Gaia House"
+    },{
+        "id": "1646192808262x214072319699098780",
+"url":"https://www.luminousawareness.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192807577x959994576785754500/LuminousFont-White-Shadow.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Luminous Awareness Institute"
+    },{
+        "id": "1646192810777x829446396679406600",
+"url":"https://www.dhamma.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646192810093x641174714307273000/aniwheel-a87352d07ff79e922e5afbc8775f603b.gif",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Vipassana Goenka Meditation Centers"
+    },{
+        "id": "1646192813294x623592719679051100",
+"url":"https://www.lotusvinejourneys.com/costa-rica-retreat-2022",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Lotus Vine Journeys"
+    },{
+        "id": "1646192816054x266947400485900030",
+"url":"https://burningman.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193781207x924108718799925200/main-homepage-header-768x501.jpg",
+"type":"Event",
+"tags":[],
+"description":"A global quantum kaleidoscope of possibility.",
+"label":"Burning Man"
+    },{
+        "id": "1646192818600x879486266417199200",
+"url":"https://www.ic.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193778329x673787202613593840/02ecovillage.jpg",
+"type":"Resource",
+"tags":[],
+"description":"Learn about ecovillages, cohousing, cooperative housing, and more forms of intentional community living!",
+"label":"Foundation for Intentional Community"
+    },{
+        "id": "1646192820984x913339024338612400",
+"url":"https://www.zendust.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193775247x431456138465146750/shane-rounce-DNkoNXQti3c-unsplash-199x300.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Welcome to the Zen Community of OregonThe Resilient HeartCompassion, Inquiry, & Spiritual Practice; a retreat grounded in “The Work”of Byron Katie, January 17-23. In person with PCR test, please schedule your test now so it can be taken within three days of the retreat!Click HereWhen Bad News Is Goo…",
+"label":"Zen Community of Oregon"
+    },{
+        "id": "1646192823382x451371096131757630",
+"url":"https://theturquoisebrickroad.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193772157x371293254855032700/cropped-video-overlay.png",
+"type":"Resource",
+"tags":[],
+"description":"1 Book = 8 Stories = 250 pages = Over 500 | IllustrationsNavigate the eight universal stages of human development with lively, illustrated stories of challenge and success",
+"label":"The Turquoise Brick Road by Rhys Marc Photis"
+    },{
+        "id": "1646192824993x994848465689754900",
+"url":"https://bluespiritcostarica.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Blue Spirit"
+    },{
+        "id": "1646192826130x639504045437136400",
+"url":"https://www.coalescenceecovillage.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"Remembering our wholeness Learn More",
+"label":"Coalesce Ecovillage"
+    },{
+        "id": "1646192829221x307659244436398340",
+"url":"https://www.healingturtleisland.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193766390x932115453987441000/IMG_0056.JPG%3Fformat%3D1500w",
+"type":"Event",
+"tags":[],
+"description":"",
+"label":"Healing Turtle Island"
+    },{
+        "id": "1646192831894x162185033468780000",
+"url":"https://thefreegarden.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193763461x793004412110269800/1016661_559459570763422_469287217_n.jpg",
+"type":"Organization",
+"tags":[],
+"description":"An off-grid intentional community",
+"label":"The Garden"
+    },{
+        "id": "1646192834608x378870426689832400",
+"url":"https://thelostconnections.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193759464x350645232956716900/LC_mock.png",
+"type":"Resource",
+"tags":[],
+"description":"What really causes depression and anxiety - and how can we really solve them? LOST CONNECTIONS is an epic journey that will change how we think about one of the biggest crises in our culture today.",
+"label":"Lost Connections by Johann Hari"
+    },{
+        "id": "1646192837297x783357847629456000",
+"url":"https://orphanwisdom.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193756373x739035531519592800/slack-imgs.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Stephen Jenkinson’s teaching and learning house for the skills of deep living and making human",
+"label":"Orphan Wisdom School"
+    },{
+        "id": "1646192839943x657562273415279700",
+"url":"https://garbiczfestival.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193753918x911496756508304500/ticktes-768x230.jpg",
+"type":"Event",
+"tags":[],
+"description":"",
+"label":"Garbicz"
+    },{
+        "id": "1646192842668x301568788899416060",
+"url":"https://www.satyoga.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193751120x654998610923007200/ezgif.com-webp-to-jpg-78-2.jpg",
+"type":"Organization",
+"tags":[],
+"description":"“Sat Yoga is dedicated to raising human consciousness, offering teachings and retreats (online/onsite) to aid in healing and Self-realization.”",
+"label":"Shunyamurti’s Sat Yoga Ashram"
+    },{
+        "id": "1646192846031x697898022778624600",
+"url":"https://www.mundogentemedicina.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193747724x550154247187955700/5f4c6a6b5e3fee00c3d56869_open-mundo.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Sacred medicine healing center. We are a family run retreat center in Costa Rica. We specialize in Ayahuasca and other Sacred Medicines for people who want to experience their healing power in a peaceful and intimate Costa Rica setting.",
+"label":"Munto Gente Medicina"
+    },{
+        "id": "1646192849273x957704501962108400",
+"url":"https://www.florestral.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193744699x589202476353207800/Florestral_Logo-2.png%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"<p>demodemo</p>",
+"label":"Florestral"
+    },{
+        "id": "1646192852010x631035004009890200",
+"url":"https://ibogausa.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193741434x622617229520424700/logo-discover-ibogar-church-america.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Life changing retreat in the USA. Reset your mind with Iboga. Discover Iboga Church of America 1-407-619-1026",
+"label":"Iboga Church of America"
+    },{
+        "id": "1646192854305x503196932956106100",
+"url":"https://alohasaltspring.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193737647x901332877373789400/DSC_0216.jpg%3Fresize%3D400%252C250%26ssl%3D1",
+"type":"Organization",
+"tags":[],
+"description":"A farm community and homestead on Salt Spring Island that teaches and empowers the new generation of community leaders and peace workers.",
+"label":"Aloha Salt Spring"
+    },{
+        "id": "1646192856641x837269738516585500",
+"url":"https://psychedelicsociety.org.uk/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193735207x281773000379249120/Logo.jpg%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"We run events and retreats for deeper connection to ourselves, each other, our living planet and to the mystery of existence.",
+"label":"The Psychedelic Society"
+    },{
+        "id": "1646192859347x396685373711662000",
+"url":"https://rythmialifeadvancementcenters.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193732374x349614505456725900/Rythmia-share.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Naturopathic Healing Center in Guanacaste, Costa Rica focusing on spirituality, health and wellness.",
+"label":"Rythmia Life Advancement Center"
+    },{
+        "id": "1646192862577x591133143902737900",
+"url":"https://www.earthaven.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193728404x499096287299821250/patricia-tour-albert-bates.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Earthaven is an aspiring ecovillage in a mountain forest setting near Asheville, North Carolina. Visit in person or online!",
+"label":"Earthaven Ecovillage"
+    },{
+        "id": "1646192864483x146836935020440160",
+"url":"https://www.whatisemerging.com/gathering",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"type":"Event",
+"tags":[],
+"description":"Emerge is an independent, non-profit media platform aiming to explore the emerging cultural narratives of our time.",
+"label":"Emerge Gathering"
+    },{
+        "id": "1646192867324x518379871034391900",
+"url":"https://futurethinkers.org/village/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193722728x868909199698122000/future-thinkers-smart-village.jpg",
+"type":"Organization",
+"tags":[],
+"description":"A vision for a living lab for regenerative civilization redesign in the Interior of British Columbia, Canada.",
+"label":"Future Thinkers Smart Village"
+    },{
+        "id": "1646192869733x209674449374732220",
+"url":"https://www.twinoaks.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193719337x987833647204520300/logo2.png",
+"type":"Organization",
+"tags":[],
+"description":"Twin Oaks Intentional Community, in central Virginia, since 1967.",
+"label":"Twin Oaks"
+    },{
+        "id": "1646192872955x779219716833191600",
+"url":"https://www.fincamorpho.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193716709x114237039558560350/Morpho%2BLogo%2Bv2021%2B%28white%2Bcircle%29.png%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Finca Morpho"
+    },{
+        "id": "1646192877843x291499024992963900",
+"url":"https://www.flowgenomeproject.com/flow-canyons#video?vgo_ee=AKAxg70%2FX3xToQNIisu%2FmkxPSRAErggJfBhVg%2FaWV6s%3D",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193713897x397472211127965000/5ee3f85f18c4d91390e0bf55_InstagramLogo.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Jamie Wheal’s Flow Canyons Leadership Course"
+    },{
+        "id": "1646192881002x757737828747715700",
+"url":"https://www.inanitah.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193706081x816833545215065900/escape-the-maddness.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Inanitah"
+    },{
+        "id": "1646192883714x369714302362424770",
+"url":"https://www.earthfrequency.com.au/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193703079x336429269955275140/music_image_music2.jpg%3Fitok%3D28sxMoCm",
+"type":"Event",
+"tags":[],
+"description":"",
+"label":"Earth Frequency"
+    },{
+        "id": "1646192885942x871890672596112000",
+"url":"https://www.garrisoninstitute.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193699917x781698491336485800/video-background-teal-1112x440.png",
+"type":"Organization",
+"tags":[],
+"description":"The mission of the Garrison Institute is to demonstrate and disseminate the importance of contemplative practices and spiritually grounded values in building sustainable movements for a healthier, safer, and more compassionate world.",
+"label":"Garrison Institute"
+    },{
+        "id": "1646192888706x313748263228063500",
+"url":"https://liminalvillage.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193696519x438648194085730300/UNADJUSTEDNONRAW_thumb_eddc-500x99999.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Liminal Village"
+    },{
+        "id": "1646192891573x773322091036944800",
+"url":"http://terrazadelatierra.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193693702x325998661480270800/healing-and-wellbeing_forside-kopi.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Bienvenido a la web del Refugio Terraza de la Tierra",
+"label":"Refugio Terraza de la Tierra"
+    },{
+        "id": "1646192894310x653842940513747300",
+"url":"https://toko-pa.com/belonging-the-book-by-toko-pa/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193690868x430934635206379840/Belonging-MollysCover-square-small.jpg",
+"type":"Resource",
+"tags":[],
+"description":"Winner of the prestigious 2017 Gold Nautilus Award, ‘Belonging’ is the bestselling debut book from Toko-pa Turner on exile and the search for be﻿longing.",
+"label":"Belonging by Toko-pa Turner"
+    },{
+        "id": "1646192896815x211193073523771700",
+"url":"https://www.recapturetherapture.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193687736x843828970302187400/5ff7686b09ac25b1fc331990_RTR%2520Cover%25203D%2520-%2520Tilt.001.png",
+"type":"Resource",
+"tags":[],
+"description":"Get the Access to the Free Homegrown Humans Toolkit, so you can start learning the tools to make better sense of your life, your purpose and the state of the world",
+"label":"Recapture the Rapture by Jamie Wheal"
+    },{
+        "id": "1646192902244x150882831266728500",
+"url":"https://www.libfestival.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193683957x979883944583329700/ca46d1_1f9ab1f9da424b76a9e1bab2285956ca~mv2.jpg",
+"type":"Event",
+"tags":[],
+"description":"Lightning in a Bottle is an independent California music festival that takes place on Memorial Day Weekend in Southern California.",
+"label":"Lightning In A Bottle"
+    },{
+        "id": "1646192906581x538726001918295800",
+"url":"https://mooji.org/monte-sahaja",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193677138x336995279875448500/5ba0ca2e2b8db.jpg",
+"type":"Organization",
+"tags":[],
+"description":"The Centre for Self-Realisation in Portugal",
+"label":"Mooji’s Monte Sahaja Ashram"
+    },{
+        "id": "1646192909196x676689688155116900",
+"url":"https://www.eastwindblog.co/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193674299x609342495066414600/August2018-1-of-1-250x150.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"East Wind"
+    },{
+        "id": "1646192912092x258216598501677760",
+"url":"https://rainbowserpent.net/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193671513x251482400262149200/Copy-of-Opening-Ceremony-Main-Stage-RSF-2019-OrlandoSydney.com-DSC_4222.jpg",
+"type":"Event",
+"tags":[],
+"description":"Artwork by Lakelurnin Ngarri (Racquel Kerr).",
+"label":"Rainbow Serpent Festival"
+    },{
+        "id": "1646192914656x406797997316703300",
+"url":"http://ecstaticdancefestival.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193668299x771494410759742300/MG_2248.jpg",
+"type":"Event",
+"tags":[],
+"description":"",
+"label":"Ecstatic Dance Festival"
+    },{
+        "id": "1646192919696x192873447029940930",
+"url":"https://tribalvillage.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193665165x368280295009224600/received_10209282972905007.jpeg",
+"type":"Organization",
+"tags":[],
+"description":"Creating an Oasis of Well-being for the New Earth. Tribal Village is a consciously evolving ecovillage. We are joyfully integrating multicultural wisdom and co-creating a healthy world of abundance in symbiosis with Mother Earth.",
+"label":"Tribal Village"
+    },{
+        "id": "1646192921746x700254047404898800",
+"url":"https://www.amoraleza.net/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193662209x658230460347733100/71001b_635ea76284264019b9d080c2381b23bb.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Amoraleza is a community project dedicated to holistic health, conscious nutrition and shamanism. We work to inspire people to a more natural, ecological and conscious way of living.",
+"label":"Amoraleza"
+    },{
+        "id": "1646192924974x382445283417910600",
+"url":"https://www.korinji.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193659321x579626573794215200/ad2cfd_e2ba6da45af1410e98cdc7cb0969b9f4~mv2.gif",
+"type":"Organization",
+"tags":[],
+"description":"The Rinzai Zen Community, led by Meido Moore Roshi: meditation at Korinji monastery near Madison, Wisconsin and other groups worldwide.",
+"label":"The Korinji Rinzai Zen Community"
+    },{
+        "id": "1646192927443x724010881117378400",
+"url":"https://gampoabbey.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193656477x839413877553224700/Gampo-Abbey-Panorama.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Gampo Abbey is a Buddhist monastery in the lineage of Chogyam Trungpa Rinpoche located in Nova Scotia, Canada.",
+"label":"Gampo Abbey"
+    },{
+        "id": "1646192929508x505592971129199300",
+"url":"https://www.yogaville.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193653643x682875089060762000/Sat.Ash_.Yogaville-WHITE-logo-%40500.png",
+"type":"Organization",
+"tags":[],
+"description":"Yogaville is a unique community, spiritual center, and Yoga academy. Yogaville opens doors to spiritual growth through Yoga Teacher Training workshops and residential programs",
+"label":"Yogaville"
+    },{
+        "id": "1646192932783x207310675211153760",
+"url":"https://www.momentomcollective.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193650970x721307939422444700/Momentom-Graphic-Home-Page-min-scaled.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Momentom Collective specialises in retreats, artist residencies, performances and classes in various movement disciplines including acrobatics, circus, aerials and yoga. Come run away with the new age circus today!",
+"label":"Momentum Collective"
+    },{
+        "id": "1646192935076x141252693316234580",
+"url":"https://www.theabode.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193647739x491043264839761150/SmallLogo-BigText.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"The Abode of the Message"
+    },{
+        "id": "1646192936853x125275622243212540",
+"url":"https://www.amritapuri.org/ashram",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Amma’s Amritapuri Ashram"
+    },{
+        "id": "1646192939835x759247072468656600",
+"url":"https://unadillacommunityfarm.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193642395x822735676449077900/Intern-crew-with-veggie-boxes-scaled.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Unadilla Community Farm is an off-grid farm and non-profit permaculture education center, situated on 12 acres in Upstate New York.",
+"label":"Unadilla Community Farm"
+    },{
+        "id": "1646192943195x251177840864014620",
+"url":"https://medium.com/@fredlaloux/we-are-wired-to-raise-children-in-community-103cd4e9e9bf",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193638453x816999109954717600/1%2aUkc0jkGoHP9hiGLG873tzQ.jpeg",
+"type":"Organization",
+"tags":[],
+"description":"Children who are denied the autonomy to roam and play get restless and anxious. Parenting without community is overwhelming and stressful. A personal story of rediscovering parenting in community.",
+"label":"Ecovillage Ithica"
+    },{
+        "id": "1646192945396x194341768189195680",
+"url":"https://ibogawellness.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193635546x476126109007076740/02ccbc0e17b075429fd9f41f4b81707c.new-logo-small.png",
+"type":"Organization",
+"tags":[],
+"description":"Iboga Wellness is the oldest Iboga retreat center in the West. Find out how Iboga can improve your life from depression, anxiety & PTSD",
+"label":"Iboga Wellness Center"
+    },{
+        "id": "1646192947908x222656099480380130",
+"url":"https://satmanavyogaashram.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193632900x793462760915275600/logo.png%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Sat Manav Yoga Ashram"
+    },{
+        "id": "1646192950557x545115341307886400",
+"url":"https://templeofthewayoflight.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Temple Of The Way Of The Light"
+    },{
+        "id": "1646192953004x750786625817526000",
+"url":"https://www.taotantricarts.com/sacred-femininity-womens-training.html",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193627220x822992753552602900/shashi-sgroup-6.jpg%3F1576762776",
+"type":"Organization",
+"tags":[],
+"description":"Join the most comprehensive teacher training in the world in the Tao Tantric Arts, and empower yourself to share these teachings with other women.",
+"label":"Tao Tantric Arts"
+    },{
+        "id": "1646192955597x211564245973230750",
+"url":"https://lostvalley.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193624047x634633615354292900/DSC00058.jpg%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"Permaculture Design Immersion and Holistic Sustainability, natural building, courses near in an intentional community ecovillage, organic regenerative ag, Eugene, Oregon, Pacific Northwest",
+"label":"Lost Valley Education Center"
+    },{
+        "id": "1646192959446x399094033841829800",
+"url":"http://centroceremonialambiwasi.com/index.php/en/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Ambiwasi Ceremonial Center"
+    },{
+        "id": "1646192961575x724843405214311600",
+"url":"https://numundo.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193615609x386082024399291100/social-thumb.jpg",
+"type":"Resource",
+"tags":[],
+"description":"Discover transformational experiences at ecovillages, intentional communities, permaculture farms, social projects and retreat centers across the globe.",
+"label":"NuMundo"
+    },{
+        "id": "1646192963168x799799151247259800",
+"url":"https://oshoafroz.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Osho Afroz"
+    },{
+        "id": "1646192965306x635954973566495700",
+"url":"https://kaluyala.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193610611x594326135729275800/cropped-52A2A319-8CC4-485C-8711-155163AEA186.png",
+"type":"Organization",
+"tags":[],
+"description":"In a lush tropical valley, people from around the world are imagining a new, beautiful way to live. The photos are simply stunning.",
+"label":"Kalu Yala"
+    },{
+        "id": "1646192967508x502605760751496000",
+"url":"https://isha.sadhguru.org/us/en/center/isha-yoga-center-coimbatore",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193607215x249301170141911230/what-is-yoga.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Isha Yoga Center is a sacred space for self-transformation, where you can come dedicate time towards your inner growth.",
+"label":"Sadhguru’s Isha Yoga Center"
+    },{
+        "id": "1646192970212x881494774281770500",
+"url":"https://www.cosmicconvergencefestival.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193604084x862241331737034500/fa8b8e_dc828823fdeb43c5bfb4472fe0efc3f5~mv2.jpg",
+"type":"Event",
+"tags":[],
+"description":"Cosmic Convergence 29 Dec 2021 - 01 Jan 2022 / Transformational Festival in Lake Atitlan, Guatemala.\\nMayan Cosmovision -Visionary Arts - Psychedelic World Music - Workshops - Healing - Yoga - Eco-Conscious & more!",
+"label":"Cosmic Convergence Festival"
+    },{
+        "id": "1646192972752x149251959773605950",
+"url":"https://deerparkmonastery.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193600757x139656315865157140/16581085941_089ba4d980_o.jpg",
+"type":"Organization",
+"tags":[],
+"description":"<p>Please join us for this 5-day mindfulness retreat offering opportunities to come back to ourselves during daily sitting, walking, and eating meditation, in order to touch the nourishing and healing […]</p>\n",
+"label":"Deer Park Monastery"
+    },{
+        "id": "1646192975972x877989384318889300",
+"url":"https://tierramor.co/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193597665x196434376928682270/page-home-wo-overlay.jpg",
+"type":"Organization",
+"tags":[],
+"description":"A portal to potential | Building a living research center and community in Nosara, Costa Rica.",
+"label":"Tierramor"
+    },{
+        "id": "1646192981762x597164299942301700",
+"url":"https://www.envisionfestival.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193594559x722460125546729700/logo-mobile.png",
+"type":"Event",
+"tags":[],
+"description":"What do you Envision for our world? Immerse yourself in music, art, yoga, workshops & surfing in Uvita, Costa Rica. Join us in the jungle February 27 - March 6, 2023.",
+"label":"Envision"
+    },{
+        "id": "1646192984755x488009412965242100",
+"url":"https://www.awakeland.pt/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646681055516x783028104457624600/a5f643_5ee588080899482fa89fde7bfd8baabd~mv2.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Awakeland Portugal is a meditation centre and reforestation project, that offers meditation, yoga and tantra workshops, festivals, gatherings, retreats and therapies, with accommodation and vegetarian meal plans to suit your needs. With the largest geodesic dome in Portugal.",
+"label":"Awakeland"
+    },{
+        "id": "1646192988187x761736948384605700",
+"url":"https://www.dancingrabbit.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193582474x567451031217181000/Untitled-design-10.png",
+"type":"Organization",
+"tags":[],
+"description":"Sustainable Living Visitor Program For over 20 years, Dancing Rabbit Ecovillage has been a thriving sustainability demonstration project in Northeast Missouri. You can experience everything from organic permaculture garden and […]",
+"label":"Dancing Rabbit Ecovillage"
+    },{
+        "id": "1646192990690x242602245790727300",
+"url":"https://ecovillage.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193578821x773646776635305900/unnamed.jpg",
+"type":"Resource",
+"tags":[],
+"description":"The Global Ecovillage Network envisions a world of people designing regenerative futures, building bridges of hope, and forging international solidarity.",
+"label":"Global Ecovillage Network"
+    },{
+        "id": "1646192994171x635041283742085800",
+"url":"https://boomfestival.org/boom2022/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193576061x599843414854663700/facebook-share.png",
+"type":"Event",
+"tags":[],
+"description":"1997-2022 / Oneness | Music | Arts | Environment | Love",
+"label":"Boom Festival"
+    },{
+        "id": "1646192997123x264708247469146240",
+"url":"https://www.tm.org/transcendental-meditation-fairfield",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193572744x675582886268513400/Homepage.jpg",
+"type":"Organization",
+"tags":[],
+"description":"You’re invited to learn about the Transcendental Meditation (TM) technique from your local certified TM teachers in Fairfield, Iowa.",
+"label":"Transcendental Meditation Center"
+    },{
+        "id": "1646192999312x339261151088954940",
+"url":"https://oceanixcity.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193569263x769389226024465300/oceanix-p1.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Oceanix (video)"
+    },{
+        "id": "1646193002180x322693960793064600",
+"url":"https://www1.hai.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193001483x268151492648066370/hai-logo-heads-and-text-with-colors-318x194.png",
+"type":"Organization",
+"tags":[],
+"description":"The Human Awareness Institute (HAI) holds a bold vision of a world where people live together in dignity, respect, understanding, trust, kindness, compassion, reverence, honesty and love. Thousands have transformed their lives through HAI. Come join us and see for yourself.",
+"label":"The Human Awareness Institute (HAI)"
+    },{
+        "id": "1646193005404x874106259030134300",
+"url":"https://www.42acres.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193564946x198185011452442370/609d481b41b3556a80c47070_hero-bg-image.jpg",
+"type":"Organization",
+"tags":[],
+"description":"42 Acres is a wellbeing retreat & regenerative farm stay in rural Somerset. A place to reconnect with nature, self and others.",
+"label":"42 Acres"
+    },{
+        "id": "1646193008057x467049868721511900",
+"url":"https://www.abhayagiri.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193561849x233206356451343800/header-en.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Abhayagiri Monastery"
+    },{
+        "id": "1646193011161x523209065134123900",
+"url":"https://charleseisenstein.org/essays/source-temple-and-the-great-reset/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193558381x888399067926888700/003.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Source Temple Sanctuary"
+    },{
+        "id": "1646193013023x444919136951537540",
+"url":"https://www.terrenity.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193555381x766714321537254100/terrenitylogo_PNG.png",
+"type":"Resource",
+"tags":[],
+"description":"",
+"label":"Terrenity “A Dreamer’s Guide to Ecovillages”"
+    },{
+        "id": "1646193016040x380108196229756540",
+"url":"https://www.nikkilatemple.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193552817x105273103102513810/tour_grounds_cover-1.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Nikkilä Temple"
+    },{
+        "id": "1646193019044x369683176735602370",
+"url":"https://www.bluecliffmonastery.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193549731x186777725768295650/blue%2Bcliff%2Bhor%2Bwhite%2Bfinal.png%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"<p><span style=“font-size:16px”>Blue Cliff Monastery, located in Pine Bush, NY, is a mindfulness practice center and monastic training center founded by the Vietnamese Buddhist monk, author, and peace activist, Thich Nhat Hanh (Thay).</span></p>",
+"label":"Blue Cliff Monastery"
+    },{
+        "id": "1646193021634x193505770535043600",
+"url":"https://damanhur.org/en/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193546453x222301654404706720/099-SALA-DELLA-VITTORIA-RGB-1024x683.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Discover all the activities, events, happenings of DAMANHUR",
+"label":"Damanhur"
+    },{
+        "id": "1646193024095x926513589932110500",
+"url":"https://www.belovedpresents.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193543476x426632098854685000/13ef339f5bf2be1f4672f0793b5ed820773b7d5e-1600x800.jpg%3Fw%3D1024%26fit%3Dmax",
+"type":"Event",
+"tags":[],
+"description":"Beloved presents ritual experiences to explore what sacred art, music, and movement can do to cultivate vulnerability, belonging, and liberation.",
+"label":"Beloved"
+    },{
+        "id": "1646193026561x429030700220199900",
+"url":"https://www.ciranda.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193539794x962848354136216700/908709_66c99ba95e3f1a5468af4852646d9894.jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Carioca’s Ciranda"
+    },{
+        "id": "1646193028891x552007624328225000",
+"url":"https://www.braveearth.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193537070x708603511252462700/Isotipo%2BBE-copper.png%3Fformat%3D1500w",
+"type":"Organization",
+"tags":[],
+"description":"Brave Earth (Tierra Valiente) is a living laboratory for regeneration. We are a self-sufficient community, regenerative farm, and healing arts center based in northern Costa Rica. Here amidst the jungle, thermal pools and cloud forest, we are exploring new and ancient ways of living.",
+"label":"Brave Earth"
+    },{
+        "id": "1646193031734x640851437043213200",
+"url":"https://zmm.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193534079x428126651981450200/ZMM_Header_Logo1_1000.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Zen Mountain Monastery"
+    },{
+        "id": "1646193035466x587235046899746000",
+"url":"https://oaec.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193530791x740401404860976000/gardenandstage.jpg",
+"type":"Organization",
+"tags":[],
+"description":"The Occidental Arts & Ecology Center (OAEC) is an 80-acre research, demonstration, advocacy and organizing center in Sonoma County, California that develops strategies for regional-scale community resilience.",
+"label":"Occidental Arts & Ecology Center"
+    },{
+        "id": "1646193038906x163934836299232540",
+"url":"https://hridaya-yoga.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193527503x434370529421737900/hridaya-yoga-mexico-france.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Hridaya Yoga offers accessible, authentic, heart-opening yoga and meditation retreats in France and Mexico. Live with an Open Heart.",
+"label":"Hridaya Yoga"
+    },{
+        "id": "1646193041243x194427775384397920",
+"url":"https://www.fireflygathering.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193524053x573105214294678200/fireflygathering-home-logo-stacked-3-1024x569.png",
+"type":"Event",
+"tags":[],
+"description":"Instagram Facebook The Firefly Gathering is a grassroots, community-based 501(c)(3) nonprofit organization in Western North Carolina, providing educational and cultural programming to the Asheville area since 2007. By offering a cyclical sharing of traditional craft and wisdom in community, we recon…",
+"label":"Firefly Gathering"
+    },{
+        "id": "1646193044630x165790677529514800",
+"url":"https://www.daybreaker.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193043504x996289707894966200/00_Splash-pic-v2-e1568070080626.png",
+"type":"Event",
+"tags":[],
+"description":"Wake up & dance with DAYBREAKER — a wellness community & sober morning dance party inspiring happiness online and in 28 cities around the world.",
+"label":"Daybreaker"
+    },{
+        "id": "1646193056013x453834444588212300",
+"url":"https://www.animas.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193055143x174753900244891900/Underworld-4.jpg",
+"type":"Organization",
+"tags":[],
+"description":"Guiding wilderness immersions into the wilds of psyche and mystery to discover soul purpose, personal transformation, transformational leadership.",
+"label":"Animas Valley Vision Quests"
+    },{
+        "id": "1646193058936x531025479184854100",
+"url":"http://wahafestival.ro/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193511375x258165962143164900/flyer_homepage-1024x1024.png",
+"type":"Event",
+"tags":[],
+"description":"The mysterious forest, the smooth hillside, the trippy twilights, the starry nights, the cows, the shepherd, the happy people, the smiles and laughter,the bass, the dance, the love, these are few of the main forces that we all play with to create the Waha Experience.",
+"label":"Waha Festival"
+    },{
+        "id": "1646193061216x676103214645990400",
+"url":"https://rizomafieldschool.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193507555x945125290211385300/blank.jpg",
+"type":"Organization",
+"tags":[],
+"description":"experimental learning in Colonia Uruguay",
+"label":"Rizoma Field School"
+    },{
+        "id": "1646193063815x204327488028699800",
+"url":"https://www.osho.com/osho-meditation-resort",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193504985x130598579382543720/visit_0.jpg",
+"type":"Organization",
+"tags":[],
+"description":"OSHO Meditation Resort, where wellness becomes your lifestyle, and relaxation becomes your life. Sincerity replaces seriousness – in the fun of just being.",
+"label":"Osho Meditation Resort"
+    },{
+        "id": "1646193066544x620122455741739100",
+"url":"https://philiacenter.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193501535x816944911765931000/philia-celtic-cr-whitebg-788x1024.png",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Teal Swan’s Philia Center"
+    },{
+        "id": "1646193070129x503408123970690000",
+"url":"https://templeoftheearth.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1646193497771x412471011719379700/eye-1024x553.png",
+"type":"Organization",
+"tags":[],
+"description":"Welcome to our beautiful healing retreat centre in the South West of Portugal ➳ shamanic events, rituals, retreats, initiations & trainings ♥",
+"label":"Temple of the Earth"
+    },{
+        "id": "1646194528985x493358660700340200",
+"url":"https://tuckerwalsh.medium.com/transformational-communities-cd9e41053423",
+"image":"https://miro.medium.com/max/1200/1*5mhJVSD5jQUIcMIkK3Iz5w.jpeg",
+"type":"Resource",
+"tags":[],
+"description":"Over the past few years, I’ve had the blessing of going on a Soul-guided journey around the world visiting, living and participating in various intentional communities and healing centers... This article outlines an ever-evolving map of communities around the globe!",
+"label":"Transformational Communities"
+    },{
+        "id": "1646204372772x122950941341122560",
+"url":"https://www.kripalu.org",
+"image":"https://kripalu.org/sites/default/files/Homepage_Hero._hw4%20(1).jpg",
+"type":"Organization",
+"tags":[],
+"description":"",
+"label":"Kripalu Yoga and Retreat Center"
+    }
+],
+
+  "connections": [
+
+ ]
+}
