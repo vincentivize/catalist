@@ -1,5 +1,73 @@
 {
   "elements": [
+
+{
+"label":"Topic",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"id":"Topic",
+"type":"Element Type",
+"description":"Keywords | Tags"
+},{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Element Type",
+"description":"Project Listings"
+},{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowdourced library"
+},{
+"label":"Relations",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649702422x694809907248845600/images",
+"id":"1647152513785x469083540417545300",
+"type":"Sector",
+"color":""
+},{
+"label":"Justice",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649698736x758454517301181600/images",
+"id":"1647152511849x535210081301751500",
+"type":"Sector",
+"color":""
+},{
+"label":"Worldview",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649707160x411119856758438400/images",
+"id":"1647152454133x619064176998900700",
+"type":"Sector",
+"color":""
+},{
+"label":"Infrastructure",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649696424x409594126033386000/images",
+"id":"1647152511060x835582580126596900",
+"type":"Sector",
+"color":""
+},{
+"label":"Spirituality",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649705569x947375107431533900/images",
+"id":"1647152515573x637553918953792400",
+"type":"Sector",
+"color":""
+},{
+"label":"Environment",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649691660x273258215584094370/images",
+"id":"1647152508480x327475035801030340",
+"type":"Sector",
+"color":""
+},{
+"label":"Economics",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649688168x548719193499528400/images",
+"id":"1647152447125x343484851979146500",
+"type":"Sector",
+"color":""
+},{
+"label":"Health",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649694652x332337189872089300/images",
+"id":"1647152510281x830390284954000100",
+"type":"Sector",
+"color":""
+},
 {
         "id": "1652883792690x878028908094360600",
 "url":"",
