@@ -1,8 +1,28 @@
 {
   "elements": [
+
+{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowdourced library"
+},{
+"label":"Group",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962369452x518543624459538500/multiple-users-silhouette.png",
+"id":"Group",
+"type":"Element Type",
+"description":"Groups with an online community"
+},{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Element Type",
+"description":"Project Listings"
+},
 {
         "id": "1641610530696x594814417988619000",
-"url":"https://drive.google.com/drive/folders/17yRhOPCP4Fz1ScD98nzPbsNaB0qU1Qng?usp=sharing}}\cell",
+"url":"https://drive.google.com/drive/folders/17yRhOPCP4Fz1ScD98nzPbsNaB0qU1Qng?usp=sharing",
 "image":"https://drive-thirdparty.googleusercontent.com/128/type/application/vnd.google-apps.document",
 "type":"Resource",
 "tags":[],
