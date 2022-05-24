@@ -90,6 +90,7 @@
 "locations":[],
 "types":["Element"],
 "description":"",
+"size":"",
 "label":"Opportunities"
     },{
         "id": "1653409465524x551642476676156540",
@@ -101,6 +102,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"",
 "label":"Posting on Social Media"
     },{
         "id": "1653409467166x857231184157105000",
@@ -112,6 +114,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"",
 "label":"Marketing Plan"
     },{
         "id": "1653409468640x480343723376815740",
@@ -123,6 +126,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Branding"
     },{
         "id": "1653409470191x335097863870370300",
@@ -134,6 +138,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Important Brand Decisions"
     },{
         "id": "1653409471411x166463542969155870",
@@ -145,6 +150,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Domain Name"
     },{
         "id": "1653409472773x731277326241834600",
@@ -156,6 +162,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Social Name"
     },{
         "id": "1653409474877x399925275037753340",
@@ -167,6 +174,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Business Plan"
     },{
         "id": "1653409476367x338132173777495600",
@@ -178,6 +186,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Partnerships and Outreach"
     },{
         "id": "1653409477853x125551855923076160",
@@ -189,6 +198,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Current Logo"
     },{
         "id": "1653409479377x336567472172655940",
@@ -200,6 +210,7 @@
 "locations":[],
 "types":["Organization"],
 "description":"",
+"size":"",
 "label":"Design Science Studio"
     },{
         "id": "1653409480862x307908504586973800",
@@ -211,6 +222,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"User Retention"
     },{
         "id": "1653409482196x100733854638511920",
@@ -222,6 +234,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"User Aquisition"
     },{
         "id": "1653409483308x197967714353545200",
@@ -233,6 +246,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Product Metrics"
     },{
         "id": "1653409484853x624822866427835600",
@@ -244,6 +258,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Friction Points"
     },{
         "id": "1653409486182x209373115328821400",
@@ -255,6 +270,7 @@
 "locations":[],
 "types":[],
 "description":"Events are an onboarding experience for new users Make it really easy for people attending an event to create an account and link to their RSVP ticket.",
+"size":"",
 "label":"Getting Users Onboarded Quickly"
     },{
         "id": "1653409487883x394993200882485300",
@@ -266,6 +282,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Making Tiered Approach to profiles"
     },{
         "id": "1653409489045x307032387871988300",
@@ -277,6 +294,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Analytics"
     },{
         "id": "1653409490553x241090529443161120",
@@ -288,6 +306,7 @@
 "locations":[],
 "types":["Element"],
 "description":"",
+"size":"",
 "label":"Ticket Sales"
     },{
         "id": "1653409492162x724276043881600500",
@@ -299,6 +318,7 @@
 "locations":[],
 "types":[],
 "description":"Links, Resources, Bookmarks, Catamark",
+"size":"",
 "label":"Personal Dashboard"
     },{
         "id": "1653409493753x930750782709851400",
@@ -310,6 +330,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Event Calendar"
     },{
         "id": "1653409495275x530543934290921500",
@@ -321,6 +342,7 @@
 "locations":[],
 "types":["Element"],
 "description":"",
+"size":"",
 "label":"Troves"
     },{
         "id": "1653409496804x740637191081676400",
@@ -332,6 +354,7 @@
 "locations":[],
 "types":["Element"],
 "description":"",
+"size":"",
 "label":"Resources"
     },{
         "id": "1653409498358x611733065390939000",
@@ -343,6 +366,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Adding Resources Into Troves"
     },{
         "id": "1653409500224x212154692341860260",
@@ -354,6 +378,7 @@
 "locations":[],
 "types":["Project"],
 "description":"",
+"size":"",
 "label":"LIFT"
     },{
         "id": "1653409501976x943454698817203700",
@@ -365,6 +390,7 @@
 "locations":[],
 "types":[],
 "description":"Also maybe we should have the ability to have labels or connections between each sector with \"how are they related?\" Semantle score?",
+"size":"",
 "label":"Peer Review of connections between"
     },{
         "id": "1653409503405x354202769542211650",
@@ -376,6 +402,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Make It Easy To Create Troves"
     },{
         "id": "1653409505103x785486648567511200",
@@ -387,6 +414,7 @@
 "locations":[],
 "types":["Resource"],
 "description":"Select a creative commons liscence",
+"size":"",
 "label":"Creative Commons"
     },{
         "id": "1653409506873x266580518783093400",
@@ -398,6 +426,7 @@
 "locations":[],
 "types":[],
 "description":"",
+"size":"",
 "label":"Terms and Conditions"
     },{
         "id": "1653409508548x207268800835037860",
@@ -409,6 +438,7 @@
 "locations":[],
 "types":["Element"],
 "description":"consistent site icons for major things will make the site better",
+"size":"",
 "label":"Site Icons"
     },{
         "id": "1653409510695x303862603449140500",
@@ -420,6 +450,7 @@
 "locations":[],
 "types":["Need"],
 "description":"",
+"size":"1",
 "label":"Software Developers"
     },{
         "id": "1653409515679x829943251290301800",
@@ -431,6 +462,7 @@
 "locations":[],
 "types":["Project"],
 "description":"",
+"size":"5",
 "label":"Catalist"
     },{
         "id": "1653409517530x157879391307945700",
@@ -442,6 +474,7 @@
 "locations":[],
 "types":["Project"],
 "description":"",
+"size":"",
 "label":"EOSS"
     },{
         "id": "1653409519521x116690024881270780",
@@ -453,6 +486,7 @@
 "locations":[],
 "types":["Project"],
 "description":"",
+"size":"",
 "label":"Feature To Sync With Personal Google Calendar"
     },{
         "id": "1653409522068x256868193925975360",
@@ -464,6 +498,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Documentation"
     },{
         "id": "1653409523789x894680880309501900",
@@ -475,6 +510,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Project Briefs"
     },{
         "id": "1653409525270x334542687893101060",
@@ -486,6 +522,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Feature Specifications"
     },{
         "id": "1653409526952x502108421521306940",
@@ -497,6 +534,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Prioritization"
     },{
         "id": "1653409528947x146981076550897440",
@@ -508,6 +546,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Schemas"
     },{
         "id": "1653409530506x772865589815682700",
@@ -519,6 +558,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"3",
 "label":"Fields Database"
     },{
         "id": "1653409532398x547048085780739140",
@@ -530,6 +570,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Grants"
     },{
         "id": "1653409534522x257114496492503170",
@@ -541,6 +582,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Conferences"
     },{
         "id": "1653409536344x382482962698414800",
@@ -552,6 +594,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Catabot Clients"
     },{
         "id": "1653409538105x487127228513889200",
@@ -563,6 +606,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Paid Groups"
     },{
         "id": "1653409539780x108123296232464980",
@@ -574,6 +618,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Logo"
     },{
         "id": "1653409541460x748037474063128200",
@@ -585,6 +630,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Legal Protection"
     },{
         "id": "1653409542938x745544253847568000",
@@ -596,6 +642,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"3",
 "label":"Trademarks"
     },{
         "id": "1653409544621x417226970464657150",
@@ -607,6 +654,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Copyrights"
     },{
         "id": "1653409546521x483369614370623000",
@@ -618,6 +666,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"1",
 "label":"Patents"
     },{
         "id": "1653409548632x907176729141368600",
@@ -629,6 +678,7 @@
 "locations":[],
 "types":["Task"],
 "description":"",
+"size":"",
 "label":"User Feedback"
     },{
         "id": "1653409550467x597169627821496400",
@@ -640,6 +690,7 @@
 "locations":[],
 "types":["EIPC"],
 "description":"",
+"size":"1",
 "label":"Revenue Streams"
     },{
         "id": "1653409552269x445305038646966800",
@@ -651,6 +702,7 @@
 "locations":[],
 "types":["EIPC"],
 "description":"",
+"size":"1",
 "label":"Marketing"
     }
 ],
