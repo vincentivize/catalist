@@ -1,5 +1,25 @@
 {
   "elements": [
+
+{
+"label":"Communications & Media",
+"image":"//s3.amazonaws.com/appforest_uf/f1652372634760x144625415909887200/video2-01.svg",
+"id":"1647152358953x530685415702124160",
+"type":"Sector",
+"color":"#FFC04A"
+},{
+"label":"Business",
+"image":"//s3.amazonaws.com/appforest_uf/f1652372572585x585901626619653800/business.svg",
+"id":"1615672041915x458442425408464260",
+"type":"Sector",
+"color":"#566ACC"
+},{
+"label":"Software Internet & Automation",
+"image":"//s3.amazonaws.com/appforest_uf/f1652372650990x675353518222420900/code_black.svg",
+"id":"1617932270744x581573144551531800",
+"type":"Sector",
+"color":"#848384"
+},
 {
         "id": "1653409464021x784217509426117200",
 "url":"",
@@ -8,7 +28,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Element"],
 "description":"",
 "label":"Opportunities"
     },{
@@ -19,7 +39,7 @@
 "tags":[],
 "sectors":["Communications & Media"],
 "locations":[],
-"types":[],
+"types":["Task"],
 "description":"",
 "label":"Posting on Social Media"
     },{
@@ -30,7 +50,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Task"],
 "description":"",
 "label":"Marketing Plan"
     },{
@@ -50,7 +70,7 @@
 "image":"",
 "type":"",
 "tags":[],
-"sectors":[],
+"sectors":["Business"],
 "locations":[],
 "types":[],
 "description":"",
@@ -83,7 +103,7 @@
 "image":"",
 "type":"",
 "tags":[],
-"sectors":[],
+"sectors":["Business"],
 "locations":[],
 "types":[],
 "description":"",
@@ -94,7 +114,7 @@
 "image":"",
 "type":"",
 "tags":[],
-"sectors":[],
+"sectors":["Business"],
 "locations":[],
 "types":[],
 "description":"",
@@ -118,7 +138,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Organization"],
 "description":"",
 "label":"Design Science Studio"
     },{
@@ -206,7 +226,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Element"],
 "description":"",
 "label":"Ticket Sales"
     },{
@@ -239,7 +259,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Element"],
 "description":"",
 "label":"Troves"
     },{
@@ -250,7 +270,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Element"],
 "description":"",
 "label":"Resources"
     },{
@@ -272,7 +292,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Project"],
 "description":"",
 "label":"LIFT"
     },{
@@ -305,7 +325,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Resource"],
 "description":"Select a creative commons liscence",
 "label":"Creative Commons"
     },{
@@ -327,7 +347,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Element"],
 "description":"consistent site icons for major things will make the site better",
 "label":"Site Icons"
     },{
