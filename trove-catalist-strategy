@@ -124,7 +124,7 @@
 "tags":[],
 "sectors":["Business"],
 "locations":[],
-"types":[],
+"types":["Mini-Project"],
 "description":"",
 "size":"",
 "label":"Branding"
@@ -136,7 +136,7 @@
 "tags":[],
 "sectors":["Business"],
 "locations":[],
-"types":[],
+"types":["Task"],
 "description":"",
 "size":"",
 "label":"Important Brand Decisions"
@@ -148,10 +148,10 @@
 "tags":[],
 "sectors":["Software Internet & Automation"],
 "locations":[],
-"types":[],
+"types":["Task"],
 "description":"",
 "size":"",
-"label":"Domain Name"
+"label":"Finalize Domain Name"
     },{
         "id": "1653409472773x731277326241834600",
 "url":"",
@@ -160,10 +160,10 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Task"],
 "description":"",
 "size":"",
-"label":"Social Name"
+"label":"Finalize Social Media Name"
     },{
         "id": "1653409474877x399925275037753340",
 "url":"",
@@ -172,7 +172,7 @@
 "tags":[],
 "sectors":["Business"],
 "locations":[],
-"types":[],
+"types":["Task"],
 "description":"",
 "size":"",
 "label":"Business Plan"
@@ -316,7 +316,7 @@
 "tags":[],
 "sectors":["Design"],
 "locations":[],
-"types":[],
+"types":["Mini-Project"],
 "description":"Links, Resources, Bookmarks, Catamark",
 "size":"",
 "label":"Personal Dashboard"
@@ -853,14 +853,14 @@
         "from": "1653409470191x335097863870370300",
         "to": "1653409472773x731277326241834600",
 "type":"Includes",
-"label":"Important Brand Decisions Includes Social Name"
+"label":"Important Brand Decisions Includes Finalize Social Media Name"
     }
 ,{
         "id": "1653410327534x515039735892894200",
         "from": "1653409470191x335097863870370300",
         "to": "1653409471411x166463542969155870",
 "type":"Includes",
-"label":"Important Brand Decisions Includes Domain Name"
+"label":"Important Brand Decisions Includes Finalize Domain Name"
     }
 ,{
         "id": "1653410328079x366699859875246460",
