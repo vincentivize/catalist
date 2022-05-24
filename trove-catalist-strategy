@@ -1,1 +1,889 @@
-žée
+{
+  "elements": [
+{
+        "id": "1653409464021x784217509426117200",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Opportunities"
+    },{
+        "id": "1653409465524x551642476676156540",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":["Communications & Media"],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Posting on Social Media"
+    },{
+        "id": "1653409467166x857231184157105000",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Marketing Plan"
+    },{
+        "id": "1653409468640x480343723376815740",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":["Business"],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Branding"
+    },{
+        "id": "1653409470191x335097863870370300",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Important Brand Decisions"
+    },{
+        "id": "1653409471411x166463542969155870",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":["Software Internet & Automation"],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Domain Name"
+    },{
+        "id": "1653409472773x731277326241834600",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Social Name"
+    },{
+        "id": "1653409474877x399925275037753340",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Business Plan"
+    },{
+        "id": "1653409476367x338132173777495600",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Partnerships and Outreach"
+    },{
+        "id": "1653409477853x125551855923076160",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Current Logo"
+    },{
+        "id": "1653409479377x336567472172655940",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Design Science Studio"
+    },{
+        "id": "1653409480862x307908504586973800",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"User Retention"
+    },{
+        "id": "1653409482196x100733854638511920",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"User Aquisition"
+    },{
+        "id": "1653409483308x197967714353545200",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Product Metrics"
+    },{
+        "id": "1653409484853x624822866427835600",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Friction Points"
+    },{
+        "id": "1653409486182x209373115328821400",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Events are an onboarding experience for new users Make it really easy for people attending an event to create an account and link to their RSVP ticket.",
+"label":"Getting Users Onboarded Quickly"
+    },{
+        "id": "1653409487883x394993200882485300",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Making Tiered Approach to profiles"
+    },{
+        "id": "1653409489045x307032387871988300",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Analytics"
+    },{
+        "id": "1653409490553x241090529443161120",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Ticket Sales"
+    },{
+        "id": "1653409492162x724276043881600500",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Links, Resources, Bookmarks, Catamark",
+"label":"Personal Dashboard"
+    },{
+        "id": "1653409493753x930750782709851400",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Event Calendar"
+    },{
+        "id": "1653409495275x530543934290921500",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Troves"
+    },{
+        "id": "1653409496804x740637191081676400",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Resources"
+    },{
+        "id": "1653409498358x611733065390939000",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Adding Resources Into Troves"
+    },{
+        "id": "1653409500224x212154692341860260",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"LIFT"
+    },{
+        "id": "1653409501976x943454698817203700",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Also maybe we should have the ability to have labels or connections between each sector with \"how are they related?\" Semantle score?",
+"label":"Peer Review of connections between"
+    },{
+        "id": "1653409503405x354202769542211650",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Make It Easy To Create Troves"
+    },{
+        "id": "1653409505103x785486648567511200",
+"url":"https://chooser-beta.creativecommons.org/",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Select a creative commons liscence",
+"label":"Creative Commons"
+    },{
+        "id": "1653409506873x266580518783093400",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"label":"Terms and Conditions"
+    },{
+        "id": "1653409508548x207268800835037860",
+"url":"https://docs.google.com/document/d/17SBfsgWRp6SfsPd-XXkUzvrVoDMMjFy4uCEoe8CrL6E/edit",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"consistent site icons for major things will make the site better",
+"label":"Site Icons"
+    },{
+        "id": "1653409510695x303862603449140500",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Need"],
+"description":"",
+"label":"Software Developers"
+    },{
+        "id": "1653409515679x829943251290301800",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Project"],
+"description":"",
+"label":"Catalist"
+    },{
+        "id": "1653409517530x157879391307945700",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Project"],
+"description":"",
+"label":"EOSS"
+    },{
+        "id": "1653409519521x116690024881270780",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Project"],
+"description":"",
+"label":"Feature To Sync With Personal Google Calendar"
+    },{
+        "id": "1653409522068x256868193925975360",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Documentation"
+    },{
+        "id": "1653409523789x894680880309501900",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Project Briefs"
+    },{
+        "id": "1653409525270x334542687893101060",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Feature Specifications"
+    },{
+        "id": "1653409526952x502108421521306940",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Prioritization"
+    },{
+        "id": "1653409528947x146981076550897440",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Schemas"
+    },{
+        "id": "1653409530506x772865589815682700",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Fields Database"
+    },{
+        "id": "1653409532398x547048085780739140",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Grants"
+    },{
+        "id": "1653409534522x257114496492503170",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Conferences"
+    },{
+        "id": "1653409536344x382482962698414800",
+"url":"https://www.catalist.network/group-links/ipglab",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Catabot Clients"
+    },{
+        "id": "1653409538105x487127228513889200",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Paid Groups"
+    },{
+        "id": "1653409539780x108123296232464980",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Logo"
+    },{
+        "id": "1653409541460x748037474063128200",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Legal Protection"
+    },{
+        "id": "1653409542938x745544253847568000",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Trademarks"
+    },{
+        "id": "1653409544621x417226970464657150",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Copyrights"
+    },{
+        "id": "1653409546521x483369614370623000",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"Patents"
+    },{
+        "id": "1653409548632x907176729141368600",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Task"],
+"description":"",
+"label":"User Feedback"
+    },{
+        "id": "1653409550467x597169627821496400",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["EIPC"],
+"description":"",
+"label":"Revenue Streams"
+    },{
+        "id": "1653409552269x445305038646966800",
+"url":"",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["EIPC"],
+"description":"",
+"label":"Marketing"
+    }
+],
+
+  "connections": [
+{
+        "id": "1653410314450x566857319454814100",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409510695x303862603449140500",
+"type":"Requires",
+"label":"Catalist Requires Software Developers"
+    }
+,{
+        "id": "1653410315396x317966905236221060",
+        "from": "1653409510695x303862603449140500",
+        "to": "1653409522068x256868193925975360",
+"type":"Requires",
+"label":"Software Developers Requires Documentation"
+    }
+,{
+        "id": "1653410316037x521569365139137340",
+        "from": "1653409510695x303862603449140500",
+        "to": "1653409523789x894680880309501900",
+"type":"Requires",
+"label":"Software Developers Requires Project Briefs"
+    }
+,{
+        "id": "1653410316765x813992727448907400",
+        "from": "1653409523789x894680880309501900",
+        "to": "1653409525270x334542687893101060",
+"type":"Requires",
+"label":"Project Briefs Requires Feature Specifications"
+    }
+,{
+        "id": "1653410317371x423523487080635900",
+        "from": "1653409525270x334542687893101060",
+        "to": "1653409526952x502108421521306940",
+"type":"Requires",
+"label":"Feature Specifications Requires Prioritization"
+    }
+,{
+        "id": "1653410318057x126736055133644500",
+        "from": "1653409522068x256868193925975360",
+        "to": "1653409528947x146981076550897440",
+"type":"Includes",
+"label":"Documentation Includes Schemas"
+    }
+,{
+        "id": "1653410318585x343744372173544450",
+        "from": "1653409528947x146981076550897440",
+        "to": "1653409530506x772865589815682700",
+"type":"Includes",
+"label":"Schemas Includes Fields Database"
+    }
+,{
+        "id": "1653410319136x859331530083526700",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409550467x597169627821496400",
+"type":"Requires",
+"label":"Catalist Requires Revenue Streams"
+    }
+,{
+        "id": "1653410319805x935360367976835200",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409552269x445305038646966800",
+"type":"Requires",
+"label":"Catalist Requires Marketing"
+    }
+,{
+        "id": "1653410320358x681085766403000600",
+        "from": "1653409552269x445305038646966800",
+        "to": "1653409539780x108123296232464980",
+"type":"Includes",
+"label":"Marketing Includes Logo"
+    }
+,{
+        "id": "1653410320932x233610729516775500",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409541460x748037474063128200",
+"type":"Requires",
+"label":"Catalist Requires Legal Protection"
+    }
+,{
+        "id": "1653410321414x696928143622263200",
+        "from": "1653409541460x748037474063128200",
+        "to": "1653409542938x745544253847568000",
+"type":"Includes",
+"label":"Legal Protection Includes Trademarks"
+    }
+,{
+        "id": "1653410321896x430719205045914560",
+        "from": "1653409541460x748037474063128200",
+        "to": "1653409544621x417226970464657150",
+"type":"Includes",
+"label":"Legal Protection Includes Copyrights"
+    }
+,{
+        "id": "1653410322351x421453970429467970",
+        "from": "1653409541460x748037474063128200",
+        "to": "1653409546521x483369614370623000",
+"type":"Includes",
+"label":"Legal Protection Includes Patents"
+    }
+,{
+        "id": "1653410322998x348129785850536300",
+        "from": "1653409517530x157879391307945700",
+        "to": "1653409548632x907176729141368600",
+"type":"Requires",
+"label":"EOSS Requires User Feedback"
+    }
+,{
+        "id": "1653410323491x719554392732868500",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409464021x784217509426117200",
+"type":"Has A",
+"label":"Catalist Has A Opportunities"
+    }
+,{
+        "id": "1653410324091x988613268471105800",
+        "from": "1653409552269x445305038646966800",
+        "to": "1653409465524x551642476676156540",
+"type":"Requires",
+"label":"Marketing Requires Posting on Social Media"
+    }
+,{
+        "id": "1653410324723x240345125230952500",
+        "from": "1653409465524x551642476676156540",
+        "to": "1653409467166x857231184157105000",
+"type":"Requires",
+"label":"Posting on Social Media Requires Marketing Plan"
+    }
+,{
+        "id": "1653410325363x931932422082249300",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409468640x480343723376815740",
+"type":"Requires",
+"label":"Catalist Requires Branding"
+    }
+,{
+        "id": "1653410326046x141294999858886160",
+        "from": "1653409552269x445305038646966800",
+        "to": "1653409470191x335097863870370300",
+"type":"Requires",
+"label":"Marketing Requires Important Brand Decisions"
+    }
+,{
+        "id": "1653410326588x394530288605888800",
+        "from": "1653409470191x335097863870370300",
+        "to": "1653409472773x731277326241834600",
+"type":"Includes",
+"label":"Important Brand Decisions Includes Social Name"
+    }
+,{
+        "id": "1653410327534x515039735892894200",
+        "from": "1653409470191x335097863870370300",
+        "to": "1653409471411x166463542969155870",
+"type":"Includes",
+"label":"Important Brand Decisions Includes Domain Name"
+    }
+,{
+        "id": "1653410328079x366699859875246460",
+        "from": "1653409470191x335097863870370300",
+        "to": "1653409477853x125551855923076160",
+"type":"Includes",
+"label":"Important Brand Decisions Includes Current Logo"
+    }
+,{
+        "id": "1653410328511x470917747547497300",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409474877x399925275037753340",
+"type":"Requires",
+"label":"Catalist Requires Business Plan"
+    }
+,{
+        "id": "1653410329119x563951407164432260",
+        "from": "1653409474877x399925275037753340",
+        "to": "1653409550467x597169627821496400",
+"type":"Includes",
+"label":"Business Plan Includes Revenue Streams"
+    }
+,{
+        "id": "1653410329777x121078546458359920",
+        "from": "1653409534522x257114496492503170",
+        "to": "1653409476367x338132173777495600",
+"type":"Requires",
+"label":"Conferences Requires Partnerships and Outreach"
+    }
+,{
+        "id": "1653410330863x554251861884558200",
+        "from": "1653409476367x338132173777495600",
+        "to": "1653409479377x336567472172655940",
+"type":"Includes",
+"label":"Partnerships and Outreach Includes Design Science Studio"
+    }
+,{
+        "id": "1653410332654x240995239733343700",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409483308x197967714353545200",
+"type":"Includes",
+"label":"Catalist Includes Product Metrics"
+    }
+,{
+        "id": "1653410333324x403185666874712500",
+        "from": "1653409483308x197967714353545200",
+        "to": "1653409480862x307908504586973800",
+"type":"Includes",
+"label":"Product Metrics Includes User Retention"
+    }
+,{
+        "id": "1653410333895x152041761203877570",
+        "from": "1653409483308x197967714353545200",
+        "to": "1653409482196x100733854638511920",
+"type":"Includes",
+"label":"Product Metrics Includes User Aquisition"
+    }
+,{
+        "id": "1653410334674x986932483264315600",
+        "from": "1653409480862x307908504586973800",
+        "to": "1653409484853x624822866427835600",
+"type":"Fixed By",
+"label":"User Retention Fixed By Friction Points"
+    }
+,{
+        "id": "1653410335292x913490228178556200",
+        "from": "1653409484853x624822866427835600",
+        "to": "1653409486182x209373115328821400",
+"type":"Includes",
+"label":"Friction Points Includes Getting Users Onboarded Quickly"
+    }
+,{
+        "id": "1653410335838x405335891719600400",
+        "from": "1653409486182x209373115328821400",
+        "to": "1653409487883x394993200882485300",
+"type":"Includes",
+"label":"Getting Users Onboarded Quickly Includes Making Tiered Approach to profiles"
+    }
+,{
+        "id": "1653410336333x750453737960749700",
+        "from": "1653409534522x257114496492503170",
+        "to": "1653409489045x307032387871988300",
+"type":"Includes",
+"label":"Conferences Includes Analytics"
+    }
+,{
+        "id": "1653410337035x376363575734808260",
+        "from": "1653409534522x257114496492503170",
+        "to": "1653409490553x241090529443161120",
+"type":"Includes",
+"label":"Conferences Includes Ticket Sales"
+    }
+,{
+        "id": "1653410337598x212541619188171500",
+        "from": "1653409515679x829943251290301800",
+        "to": "1653409492162x724276043881600500",
+"type":"Requires",
+"label":"Catalist Requires Personal Dashboard"
+    }
+,{
+        "id": "1653410338264x267805353398154140",
+        "from": "1653409492162x724276043881600500",
+        "to": "1653409493753x930750782709851400",
+"type":"Includes",
+"label":"Personal Dashboard Includes Event Calendar"
+    }
+,{
+        "id": "1653410338784x359380982464616600",
+        "from": "1653409493753x930750782709851400",
+        "to": "1653409519521x116690024881270780",
+"type":"Includes",
+"label":"Event Calendar Includes Feature To Sync With Personal Google Calendar"
+    }
+,{
+        "id": "1653410339262x573402073311625860",
+        "from": "1653409525270x334542687893101060",
+        "to": "1653409498358x611733065390939000",
+"type":"",
+"label":"Feature Specifications  Adding Resources Into Troves"
+    }
+,{
+        "id": "1653410340643x765608541589054000",
+        "from": "1653409500224x212154692341860260",
+        "to": "1653409501976x943454698817203700",
+"type":"Requires",
+"label":"LIFT Requires Peer Review of connections between"
+    }
+,{
+        "id": "1653410341126x448490639513250400",
+        "from": "1653409525270x334542687893101060",
+        "to": "1653409503405x354202769542211650",
+"type":"",
+"label":"Feature Specifications  Make It Easy To Create Troves"
+    }
+,{
+        "id": "1653410341800x437004059572075000",
+        "from": "1653409544621x417226970464657150",
+        "to": "1653409505103x785486648567511200",
+"type":"Includes",
+"label":"Copyrights Includes Creative Commons"
+    }
+,{
+        "id": "1653410342494x607335174793744800",
+        "from": "1653409500224x212154692341860260",
+        "to": "1653409506873x266580518783093400",
+"type":"Requires",
+"label":"LIFT Requires Terms and Conditions"
+    }
+,{
+        "id": "1653410343246x382188659256392300",
+        "from": "1653409468640x480343723376815740",
+        "to": "1653409508548x207268800835037860",
+"type":"",
+"label":"Branding  Site Icons"
+    }
+
+ ]
+}
