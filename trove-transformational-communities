@@ -1,6 +1,25 @@
 {
   "elements": [
+
 {
+"label":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"id":"Organization",
+"type":"Element Type",
+"description":"Public organization directory"
+},{
+"label":"Event",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"id":"Event",
+"type":"Element Type",
+"description":"Cross-organization calendar"
+},{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowdourced library"
+},{
 "label":"Regenerative Economy & Systems",
 "image":"//s3.amazonaws.com/appforest_uf/f1652372546894x907705076453318300/regen_black.svg",
 "id":"1615672041902x625853127508537100",
@@ -314,6 +333,7 @@
 "locations":["Costa Rica"],
 "types":["Community"],
 "description":"…far, far away, there’s magic that manifests in a portal of Soul-shaping transformation. This gateway is both a glimpse of humanity’s future potential, and simultaneously, a present reality available… Learn more with this article: https://tuckerwalsh.medium.com/mapping-the-magic-of-pachamama-1cb0b9eb1346",
+"size":"",
 "label":"PachaMama"
     },{
         "id": "1646192122582x938708827567529100",
@@ -325,6 +345,7 @@
 "locations":["Scotland"],
 "types":["Spirituality & Healing Community"],
 "description":"<p>Our signature on-site workshop, Findhorn Experience Week, is returning in a new format from March 2022.</p>\n",
+"size":"",
 "label":"Findhorn Foundation"
     },{
         "id": "1646192320634x182866877782247740",
@@ -336,6 +357,7 @@
 "locations":["Maine"],
 "types":["Ecological Community"],
 "description":"A tragedy in childhood led Ethan Hughes to a realization: “You give up something small for something larger.”",
+"size":"",
 "label":"Possibility Alliance"
     },{
         "id": "1646192326279x328426090141737960",
@@ -347,6 +369,7 @@
 "locations":["USA"],
 "types":["Festival/Gathering"],
 "description":"Designing experiences that connect and inspire a community of today’s brightest leaders.",
+"size":"",
 "label":"Summit"
     },{
         "id": "1646192331619x193155539741192600",
@@ -358,6 +381,7 @@
 "locations":["California"],
 "types":["Festival/Gathering"],
 "description":"Join us at the next chapter of the Lucidity story: Re-generation Earth in April 2020. Get your tickets early to swoop up those savings!",
+"size":"",
 "label":"Lucidity Festival"
     },{
         "id": "1646192336542x421990440876844900",
@@ -369,6 +393,7 @@
 "locations":["California"],
 "types":["CoLiving Community"],
 "description":"Oakland and Sheep Ranch, California",
+"size":"",
 "label":"Canticle Farm"
     },{
         "id": "1646192340000x830986557764409100",
@@ -380,6 +405,7 @@
 "locations":["Canada"],
 "types":["Festival/Gathering"],
 "description":"Born in the heart of the Kootenay Mountains, hosted at the Salmo River Ranch, Shambhala offers epic music and stunning natural surroundings without the corporate hangover.",
+"size":"",
 "label":"Shambhala Music Festival"
     },{
         "id": "1646192343385x680591148016453900",
@@ -391,6 +417,7 @@
 "locations":["Mexico"],
 "types":["Plant Medicine Community"],
 "description":"A truely magical place filled with loving people and healing from sacred medicines.",
+"size":"",
 "label":"Portal Xibalba"
     },{
         "id": "1646192345447x129706320251759870",
@@ -402,6 +429,7 @@
 "locations":["Worldwide"],
 "types":["In-Person Workshops & Trainings"],
 "description":"",
+"size":"",
 "label":"International School of Temple Arts (ISTA)"
     },{
         "id": "1646192470896x669951644227837700",
@@ -413,6 +441,7 @@
 "locations":["Portugal"],
 "types":["Spirituality & Healing Community"],
 "description":"We work for global system change: from war to peace, from exploitation to cooperation, from fear to trust. Help to build a nonviolent human culture.",
+"size":"",
 "label":"Tamera Peace Research & Education Center"
     },{
         "id": "1646192475728x500889501643879700",
@@ -424,6 +453,7 @@
 "locations":["Bali"],
 "types":["CoLiving Community"],
 "description":"A sustainable eco community in Ubud, Bali.",
+"size":"",
 "label":"Desa Alam Indah"
     },{
         "id": "1646192480176x669245912419497000",
@@ -435,6 +465,7 @@
 "locations":["New York"],
 "types":["CoLiving Community"],
 "description":"A community of mentors, collaborators, and friends committed to contributing to each other’s lives. We collaborate to create meaningful, life-expanding, connective experiences.",
+"size":"",
 "label":"Lightning Society"
     },{
         "id": "1646192486355x307354025131537200",
@@ -446,6 +477,7 @@
 "locations":["Portugal"],
 "types":["Retreat Center"],
 "description":"<p><span style=“font-size:18px”>We invite you on a journey of wholeness & well-being by providing a peaceful space for holistic therapies, transformational workshops, classes & uplifting retreats.</span></p>",
+"size":"",
 "label":"Shanti Space"
     },{
         "id": "1646192491762x609563897679840100",
@@ -457,6 +489,7 @@
 "locations":["Germany"],
 "types":["Festival/Gathering"],
 "description":"",
+"size":"",
 "label":"Fusion Fest"
     },{
         "id": "1646192497383x831762452837298400",
@@ -468,6 +501,7 @@
 "locations":["Brazil"],
 "types":["Retreat Center"],
 "description":"One of the most beautiful and inspiring retreats and meditation centers in the world, located in the northeast Brazilian paradise.",
+"size":"",
 "label":"Osheanic Retreat Center"
     },{
         "id": "1646192503216x332213672144260540",
@@ -479,6 +513,7 @@
 "locations":["California"],
 "types":["Meditation Community"],
 "description":"Spirit Rock is a spiritual training institution grounded in the Buddha’s teachings in order to manifest wisdom and compassion, for the benefit of all beings. Our mediation center is set among 411 acres of oak woodlands in the hills of Marin County, CA.",
+"size":"",
 "label":"Spirit Rock"
     },{
         "id": "1646192507739x759371829286781400",
@@ -490,6 +525,7 @@
 "locations":["Worldwide"],
 "types":["In-Person Workshops & Trainings"],
 "description":"<p>Awakening the Future of Leadership</p>",
+"size":"",
 "label":"Pacific Integral’s Generating Transformative Change"
     },{
         "id": "1646192513766x911659784272016900",
@@ -501,6 +537,7 @@
 "locations":["Brazil"],
 "types":["Plant Medicine Community"],
 "description":"Ayahuasca. Umbanda. Santo Daime. Mountain Flower Spiritist Tent. Lumiar, Nova Friburgo, Rio de Janeiro state. Mãe Baixinha",
+"size":"",
 "label":"Flor da Montanha"
     },{
         "id": "1646192519198x651231874930421800",
@@ -512,6 +549,7 @@
 "locations":["Ecuador"],
 "types":["Ecological Community"],
 "description":"",
+"size":"",
 "label":"Fruit Haven Ecovillage"
     },{
         "id": "1646192523846x493077420262356030",
@@ -523,6 +561,7 @@
 "locations":["California"],
 "types":["CoLiving Community"],
 "description":"",
+"size":"",
 "label":"Los Angeles Ecovillage"
     },{
         "id": "1646192529331x589740960697546800",
@@ -534,6 +573,7 @@
 "locations":["California"],
 "types":["Meditation Community"],
 "description":"Welcome to Tassajara Zen Mountain Center Zenshinji (Zen Heart-Mind Temple) is located in central California, in a remote valley in the heart of the Ventana Wilderness area of the Los Padres National Forest. Tassajara was founded in 1967 by the late Zen teacher Shunryu Suzuki Roshi. Closed to visito…",
+"size":"",
 "label":"Tassajara"
     },{
         "id": "1646192534344x908062518295715600",
@@ -545,6 +585,7 @@
 "locations":["Portugal"],
 "types":["Spirituality & Healing Community"],
 "description":"Ashram Ram Dass Guruat Quinta do Rajo Sat nam, our website is currently under maintenance. ContactGENERAL CONTACT & LOCATIONAddress: Rua do Rajo 1, 2705-736 Santa Susana, São João das Lampas, PortugalTelephone: +351 21 580 64 37 – Mobile phone: +351 911 897 040 ACTIVITIESDaily activities:Aquarian S…",
+"size":"",
 "label":"Ashram Ram Dass Guru"
     },{
         "id": "1646192539360x829822141427074600",
@@ -556,6 +597,7 @@
 "locations":["Thailand"],
 "types":["Spirituality & Healing Community"],
 "description":"The Mindfulness Project is a radical new approach to a holistic live style. We combine proven methods of the fields of meditation, yoga, natural building, arts and combine them to a healing system of transforming ourselves and the environment.",
+"size":"",
 "label":"Mindfulness Project"
     },{
         "id": "1646192542393x494040821913990660",
@@ -567,6 +609,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"",
+"size":"",
 "label":"A Collective Blooming by Joe Lightfoot"
     },{
         "id": "1646192546752x819145379915344100",
@@ -578,6 +621,7 @@
 "locations":["New Mexico"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Lama Foundation"
     },{
         "id": "1646192551513x806059722208354800",
@@ -589,6 +633,7 @@
 "locations":["California"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"San Francisco Zen Center"
     },{
         "id": "1646192557039x980037788160426500",
@@ -600,6 +645,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"BELONG is Daybreaker CEO, Radha Agrawal’s new book that gives you the tools to build your dream community and make friends",
+"size":"",
 "label":"Belong by Radha Agrawal"
     },{
         "id": "1646192562320x785046052148411900",
@@ -611,6 +657,7 @@
 "locations":["Guatemala"],
 "types":["Meditation Community"],
 "description":"The Hermitage is a Solitary and Dark Retreat Center, set on the shores of Lake Atitlan in the highlands of Guatemala. We have several beautiful, peaceful cabins and rooms and two Dark Retreats for…",
+"size":"",
 "label":"The Hermitage"
     },{
         "id": "1646192567995x436553199313137100",
@@ -622,6 +669,7 @@
 "locations":["Costa Rica"],
 "types":["CoLiving Community"],
 "description":"A regenerative living system that uses a holistic approach towards the right use of resources in order to create an integrated solution for a new way of living.",
+"size":"",
 "label":"Zunya"
     },{
         "id": "1646192572950x439416047731629760",
@@ -633,6 +681,7 @@
 "locations":[],
 "types":["Communities In-Development"],
 "description":"A short, dynamic edit of Jordan Hall’s Civium Project #1 video series.Watch the full video here:https://youtu.be/yXBAtdyBto0#GameB #Civium",
+"size":"",
 "label":"Jordan Hall’s Civium (video)"
     },{
         "id": "1646192577879x835472416845835000",
@@ -644,6 +693,7 @@
 "locations":["New Zealand"],
 "types":["In-Person Workshops & Trainings"],
 "description":"Highden Temple is a modern day mystery school located in New Zealand. We offer soul initiation and education trainings and events.",
+"size":"",
 "label":"Highden Temple Mystery School"
     },{
         "id": "1646192582904x612507996300552200",
@@ -655,6 +705,7 @@
 "locations":["Virginia"],
 "types":["Ecological Community"],
 "description":"An egalitarian, income-sharing, secular, anarchist, feminist, consensus-based intentional community. Supporting radical sharing, positive communication, compassion, consent culture, sustainability,…",
+"size":"",
 "label":"Acorn Community"
     },{
         "id": "1646192587408x472021859218357400",
@@ -666,6 +717,7 @@
 "locations":["Utah"],
 "types":["Meditation Community"],
 "description":"January 18 - March 8, 2022\\nTuesdays, 3:30 - 5:00 pm MT\\n90-minute class Via Zoom\\n+ Optional weekly practice groups MT and AEDT Join Diane Musho Hamilton, author of Everything",
+"size":"",
 "label":"Two Arrows Zen"
     },{
         "id": "1646192591786x350118741730616200",
@@ -677,6 +729,7 @@
 "locations":["California"],
 "types":["Festival/Gathering"],
 "description":"SAND honors and nurtures the exploration and experience of nonduality as a pathway to greater wisdom and wellbeing.",
+"size":"",
 "label":"Science & Nonduality (SAND)"
     },{
         "id": "1646192596390x280854106881900360",
@@ -688,6 +741,7 @@
 "locations":["Worldwide"],
 "types":["Festival/Gathering"],
 "description":"rainbow gatherings 2015, list of directions and forums to find out the location of the European rainbow gathering and others",
+"size":"",
 "label":"Rainbow Gathering"
     },{
         "id": "1646192603428x243136433629753700",
@@ -699,6 +753,7 @@
 "locations":["Panama"],
 "types":["Festival/Gathering"],
 "description":"<p>18 days on the most beautiful Caribbean beach. Over 150 international music acts on three stages. Cabaret, Circus, Carnival, Curiositiesand wonderments abound.</p><p> </p><p>Nowhere on earth can you experience the collective wisdom of over 60 tribes from 30 countries in one place. Many of these t…",
+"size":"",
 "label":"Tribal Gathering"
     },{
         "id": "1646192609448x531393130728486700",
@@ -710,6 +765,7 @@
 "locations":["Australia"],
 "types":["Spirituality & Healing Community"],
 "description":"For All COVID-19 Related Questions Please Call 02 6672 7876 Krishna Village endeavours to provide the blueprint of a simple mindful, spiritually based lifestyle. BEGIN YOUR JOURNEY Affordable Weekend Retreats!Are you desperate for a change? Are stress, anxiety, or frustration dragging you down? Are …",
+"size":"",
 "label":"Krishna Village Eco Yoga Community"
     },{
         "id": "1646192614048x999902947483196000",
@@ -721,6 +777,7 @@
 "locations":["Australia"],
 "types":["Festival/Gathering"],
 "description":"The Town Festival, The Town is an immersive, theatrical and sustainable festival ..., Licola Wilderness Village, Licola, Victoria, 1 May 2020 - 4 May 2020,",
+"size":"",
 "label":"The Town"
     },{
         "id": "1646192618941x438046830484969400",
@@ -732,6 +789,7 @@
 "locations":["Colorado"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Rocky Mountain Ecodharma"
     },{
         "id": "1646192621493x192217317143978500",
@@ -743,6 +801,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"",
+"size":"",
 "label":"Microsolidarity"
     },{
         "id": "1646192626686x237715832188409630",
@@ -754,6 +813,7 @@
 "locations":["Maine"],
 "types":["CoLiving Community"],
 "description":"",
+"size":"",
 "label":"Belfast Cohousing & Ecovillage"
     },{
         "id": "1646192630461x533516496406766900",
@@ -765,6 +825,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"Listen to Possibility Now! on Spotify. Possibility Now! features Ethan Hughes. Hosted by Tucker Walsh. Ethan runs the Possibility Alliance in Belfast, Maine, an educational center and electricity-free intentional community operating in the Gift Economy. This podcast explores the topics that are mo…",
+"size":"",
 "label":"Possibility Now! Podcast"
     },{
         "id": "1646192635344x518789693097543300",
@@ -776,6 +837,7 @@
 "locations":["France"],
 "types":["Meditation Community"],
 "description":"A global community of mindfulness practice centers and monasteries offering retreats and teachings on engaged Buddhism and the art of mindful living.",
+"size":"",
 "label":"Plum Village"
     },{
         "id": "1646192639727x549440469887561040",
@@ -787,6 +849,7 @@
 "locations":["New York City"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Bhakti Center"
     },{
         "id": "1646192644248x194940238787879580",
@@ -798,6 +861,7 @@
 "locations":["Costa Rica"],
 "types":["Retreat Center"],
 "description":"Discover the mountain retreat, Finca Mia buried in the foothills of Chirripo National Park in Costa Rica.",
+"size":"",
 "label":"Finca Mia"
     },{
         "id": "1646192648361x357828177296751740",
@@ -809,6 +873,7 @@
 "locations":[],
 "types":["Communities In-Development"],
 "description":"",
+"size":"",
 "label":"ReGen Villages"
     },{
         "id": "1646192654423x824037591575105900",
@@ -820,6 +885,7 @@
 "locations":["San Cristobal de las Casas"],
 "types":["Meditation Community"],
 "description":"Silent meditation retreats,Hridaya yoga retreats; individual yoga&meditation&detox retreats\\nin San Cristobal de las Casas, Mexico",
+"size":"",
 "label":"Hridaya Family"
     },{
         "id": "1646192658848x279579767784124960",
@@ -831,6 +897,7 @@
 "locations":["Denmark"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Osho Risk"
     },{
         "id": "1646192663352x240986993082466620",
@@ -842,6 +909,7 @@
 "locations":["Massachusetts"],
 "types":["Ecological Community"],
 "description":"",
+"size":"",
 "label":"Sirius Ecovillage"
     },{
         "id": "1646192668513x692738525740168200",
@@ -853,6 +921,7 @@
 "locations":["Vermont"],
 "types":["Meditation Community"],
 "description":"Karme Choling is a Shambhala Buddhist community in Vermont founded by Chogyam Trungpa Rinpoche. If offers solitary retreats and programs. %",
+"size":"",
 "label":"Karme-Choling"
     },{
         "id": "1646192673182x644683565038338400",
@@ -864,6 +933,7 @@
 "locations":["Worldwide"],
 "types":["In-Person Workshops & Trainings"],
 "description":"Discover personal growth retreats & meditation workshops. Our personal development courses help you to achieve joy, meaning and a deeply enriching renewed sense of self & relationships.",
+"size":"",
 "label":"Path of Love"
     },{
         "id": "1646192677687x951528954754661300",
@@ -875,6 +945,7 @@
 "locations":["Sweden"],
 "types":["CoLiving Community"],
 "description":"",
+"size":"",
 "label":"K9 CoLiving"
     },{
         "id": "1646192683312x695609516546097200",
@@ -886,6 +957,7 @@
 "locations":["Costa Rica"],
 "types":["Ecological Community"],
 "description":"",
+"size":"",
 "label":"Alegría Village"
     },{
         "id": "1646192687221x347820247216537040",
@@ -897,6 +969,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"Combining history, psychology, and anthropology, TRIBE explores what we can learn from tribal societies about loyalty, belonging, and the eternal human quest for meaning. It explains the irony that-for many veterans as well as civilians-war feels better than peace, adversity can turn out to be a ble",
+"size":"",
 "label":"Tribe by Sebastian Junger"
     },{
         "id": "1646192691375x135129205490708720",
@@ -908,6 +981,7 @@
 "locations":["Bahamas"],
 "types":["Meditation Community"],
 "description":"Sivananda Ashram Yoga Retreat Bahamas is a beautiful and spiritual environment for yoga teacher training and yoga vacation programs.",
+"size":"",
 "label":"Sivananda Ashram"
     },{
         "id": "1646192695885x784021644155013200",
@@ -919,6 +993,7 @@
 "locations":["California"],
 "types":["Festival/Gathering"],
 "description":"CELEBRATING 12 YEARS OF BHAKTI FEST! To our beautiful Bhakti family! We hope this message finds you well. In response to the pandemic, and in an effort to keep our",
+"size":"",
 "label":"Bhakti & Shakti Fest"
     },{
         "id": "1646192701320x259001782756020920",
@@ -930,6 +1005,7 @@
 "locations":["New Hampshire"],
 "types":["Ecological Community"],
 "description":"",
+"size":"",
 "label":"Sacred Nectar Sanctuary"
     },{
         "id": "1646192706809x411429778412571800",
@@ -941,6 +1017,7 @@
 "locations":["Germany & Costa Rica"],
 "types":["Festival/Gathering"],
 "description":"Pura Vida Festival is an experience for personal wellbeing, collective awakening and planetary regeneration.",
+"size":"",
 "label":"Pura Vida Festival"
     },{
         "id": "1646192711445x151608218498181280",
@@ -952,6 +1029,7 @@
 "locations":["California"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Ananda Village"
     },{
         "id": "1646192715718x849510675758560900",
@@ -963,6 +1041,7 @@
 "locations":["New Zealand"],
 "types":["Resources & Inspiration"],
 "description":"",
+"size":"",
 "label":"Enspiral"
     },{
         "id": "1646192720862x417785561892441340",
@@ -974,6 +1053,7 @@
 "locations":["Australia"],
 "types":["Ecological Community"],
 "description":"The Queensland Crystal Waters Eco Village of over 230 residents was developed 32 years ago, founded on Permaculture principles and is world renowned as a pioneer in Eco living",
+"size":"",
 "label":"Crystal Waters Community Cooperative"
     },{
         "id": "1646192725304x361048489421451200",
@@ -985,6 +1065,7 @@
 "locations":["India"],
 "types":["Spirituality & Healing Community"],
 "description":"Auroville is a universal city in the making in south-India dedicated to the ideal of human unity based on the vision of Sri Aurobindo and The Mother.",
+"size":"",
 "label":"Auroville"
     },{
         "id": "1646192730516x380765131272067460",
@@ -996,6 +1077,7 @@
 "locations":["Worldwide"],
 "types":["In-Person Workshops & Trainings"],
 "description":"",
+"size":"",
 "label":"Awaken As Love"
     },{
         "id": "1646192735323x664067094813409000",
@@ -1007,6 +1089,7 @@
 "locations":["Tennessee"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Sadhguru’s Isha Institute of Inner-Sciences"
     },{
         "id": "1646192739320x830931698932697900",
@@ -1018,6 +1101,7 @@
 "locations":["Iowa"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Integral Zen"
     },{
         "id": "1646192743411x252131718288999300",
@@ -1029,6 +1113,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"details of Daniel Wahl’s Designing Regenerative Cultures: Living the Questions Together, published by Triarchy Press",
+"size":"",
 "label":"Designing Regenerative Cultures by Daniel Christian Wahl"
     },{
         "id": "1646192748792x913462911724072200",
@@ -1040,6 +1125,7 @@
 "locations":["Peru"],
 "types":["Plant Medicine Community"],
 "description":"Novalis is a legal association dedicated to conservation and culture, protecting 2,000 hectares of Amazonian rainforest in Peru. We provide a home-base for research and community-building related to conservation, cultural preservation, healing arts, sustainable design, and indigenous knowledge.",
+"size":"",
 "label":"Novalis"
     },{
         "id": "1646192753037x942955078979703200",
@@ -1051,6 +1137,7 @@
 "locations":["California"],
 "types":["Retreat Center"],
 "description":"Esalen is a not-for-profit holistic educational center offering wild comfort and space for emergent transformation and internal exploration since 1962.",
+"size":"",
 "label":"Esalen Institute"
     },{
         "id": "1646192757804x222730418304772030",
@@ -1062,6 +1149,7 @@
 "locations":["Costa Rica"],
 "types":["Ecological Community"],
 "description":"",
+"size":"",
 "label":"Punta Mona"
     },{
         "id": "1646192762526x669644568905343200",
@@ -1073,6 +1161,7 @@
 "locations":["Florida"],
 "types":["Plant Medicine Community"],
 "description":"",
+"size":"",
 "label":"Soul Quest Ayahuasca Church of Mother Earth"
     },{
         "id": "1646192765709x627262721551703300",
@@ -1084,6 +1173,7 @@
 "locations":["USA"],
 "types":["In-Person Workshops & Trainings"],
 "description":"With Jose, Lena and Anna Stevens. The purpose of this program is to learn about the shamanic path, from ancient to modern, how it interfaces with modern quantum physics, and, through powerful practices, ceremonies, wilderness solos and other shamanic experiences, to assimilate its wisdom and integra…",
+"size":"",
 "label":"Power Path One Year Shamanic Studies Program"
     },{
         "id": "1646192768541x902774688522412500",
@@ -1095,6 +1185,7 @@
 "locations":["California"],
 "types":["Plant Medicine Community"],
 "description":"",
+"size":"",
 "label":"Sacred Garden Community"
     },{
         "id": "1646192769919x669779540237966500",
@@ -1106,6 +1197,7 @@
 "locations":["Portugal"],
 "types":["Festival/Gathering"],
 "description":"",
+"size":"",
 "label":"Primavera Sound"
     },{
         "id": "1646192774332x117716259811113660",
@@ -1117,6 +1209,7 @@
 "locations":["New Mexico"],
 "types":["In-Person Workshops & Trainings"],
 "description":"Do you seek contemplative grounding and purpose? Do you long for wisdom elders and companions to share your spiritual journey? Are you willing to be",
+"size":"",
 "label":"Richard Rohr’s Living School for Action & Contemplation"
     },{
         "id": "1646192776778x730545630679291900",
@@ -1128,6 +1221,7 @@
 "locations":["Vermont"],
 "types":["Meditation Community"],
 "description":"The Monastic Academy is a full-time residential program designed to create wise, powerful, and loving leaders.",
+"size":"",
 "label":"Monastic Academy"
     },{
         "id": "1646192778890x679635168022078700",
@@ -1139,6 +1233,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"‘The overall purpose of human communication is - or should be - reconciliation. It should ultimately serve to lower or remove the walls of misunderstanding which unduly separate us human beings, one from another...’ Although we have developed the technology to make communication more efficent and to…",
+"size":"",
 "label":"The Different Drum: Community Making and Peace by M. Scott Peck"
     },{
         "id": "1646192781382x897107031526603900",
@@ -1150,6 +1245,7 @@
 "locations":["Sweden"],
 "types":["Retreat Center"],
 "description":"Ekskäret Foundation strives to be a catalyst and an active co-creator of social development by stimulating individuals’ personal development and lifelong learning.",
+"size":"",
 "label":"The Ekskaret Foundation"
     },{
         "id": "1646192783885x773037404539749000",
@@ -1161,6 +1257,7 @@
 "locations":["Portugal"],
 "types":["Plant Medicine Community"],
 "description":"Alquimia is an educational space in the heart of Portugal where creative arts and healing are combined for self-realization and metamorphosis to occur.",
+"size":"",
 "label":"Alquimia Centre of Healing Arts"
     },{
         "id": "1646192786375x749931160927841800",
@@ -1172,6 +1269,7 @@
 "locations":[],
 "types":["Communities In-Development"],
 "description":"The Venus Project is a non-profit organization that presents a new socio-economic model utilizing science and technology toward social betterment to achieve a sustainable civilization of abundance for all, without exception.",
+"size":"",
 "label":"The Venus Project (video)"
     },{
         "id": "1646192789043x248888055026377020",
@@ -1183,6 +1281,7 @@
 "locations":["New York"],
 "types":["Retreat Center"],
 "description":"awakening the best in the human spirit",
+"size":"",
 "label":"Omega Institute"
     },{
         "id": "1646192790573x744548211852454000",
@@ -1194,6 +1293,7 @@
 "locations":["Peru"],
 "types":["Ecological Community"],
 "description":"",
+"size":"",
 "label":"Eco Truly Park"
     },{
         "id": "1646192795466x827797400293459600",
@@ -1205,6 +1305,7 @@
 "locations":["Canada"],
 "types":["Meditation Community"],
 "description":"During these provocative times, offering renowned yoga and meditation training in BC, Canada for years to transform yourself into a mindfulness, relaxed, and focused individuals.",
+"size":"",
 "label":"Anuttara Ashram"
     },{
         "id": "1646192798404x947565153913247700",
@@ -1216,6 +1317,7 @@
 "locations":["Portugal"],
 "types":["Festival/Gathering"],
 "description":"A space for artistic experimentation, spirited self-expression and collective imagineering of the type of society we could cultivate if there was freedom to diverge from default reality.",
+"size":"",
 "label":"Waking Life"
     },{
         "id": "1646192801524x581134785206361300",
@@ -1227,6 +1329,7 @@
 "locations":["Sweden"],
 "types":["Spirituality & Healing Community"],
 "description":"Ängsbacka is a Course and Festival Center for personal and spiritual growth located in the beautiful deep forests of Värmland, Sweden. We support people in their paths to sustainable development, well-being and harmony.",
+"size":"",
 "label":"Ängsbacka"
     },{
         "id": "1646192803398x242308854549987840",
@@ -1238,6 +1341,7 @@
 "locations":["Germany"],
 "types":["Festival/Gathering"],
 "description":"",
+"size":"",
 "label":"VOOV Festival"
     },{
         "id": "1646192805647x978533430912853900",
@@ -1249,6 +1353,7 @@
 "locations":[],
 "types":["Meditation Community"],
 "description":"Insight Meditation in the Buddhist Tradition",
+"size":"",
 "label":"Gaia House"
     },{
         "id": "1646192808262x214072319699098780",
@@ -1260,6 +1365,7 @@
 "locations":["USA"],
 "types":["In-Person Workshops & Trainings"],
 "description":"",
+"size":"",
 "label":"Luminous Awareness Institute"
     },{
         "id": "1646192810777x829446396679406600",
@@ -1271,6 +1377,7 @@
 "locations":["Worldwide"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Vipassana Goenka Meditation Centers"
     },{
         "id": "1646192813294x623592719679051100",
@@ -1282,6 +1389,7 @@
 "locations":["Peru"],
 "types":["Plant Medicine Community"],
 "description":"",
+"size":"",
 "label":"Lotus Vine Journeys"
     },{
         "id": "1646192816054x266947400485900030",
@@ -1293,6 +1401,7 @@
 "locations":["Nevada"],
 "types":["Festival/Gathering"],
 "description":"A global quantum kaleidoscope of possibility.",
+"size":"",
 "label":"Burning Man"
     },{
         "id": "1646192818600x879486266417199200",
@@ -1304,6 +1413,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"Learn about ecovillages, cohousing, cooperative housing, and more forms of intentional community living!",
+"size":"",
 "label":"Foundation for Intentional Community"
     },{
         "id": "1646192820984x913339024338612400",
@@ -1315,6 +1425,7 @@
 "locations":["USA"],
 "types":["Meditation Community"],
 "description":"Welcome to the Zen Community of OregonThe Resilient HeartCompassion, Inquiry, & Spiritual Practice; a retreat grounded in “The Work”of Byron Katie, January 17-23. In person with PCR test, please schedule your test now so it can be taken within three days of the retreat!Click HereWhen Bad News Is Goo…",
+"size":"",
 "label":"Zen Community of Oregon"
     },{
         "id": "1646192823382x451371096131757630",
@@ -1326,6 +1437,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"1 Book = 8 Stories = 250 pages = Over 500 | IllustrationsNavigate the eight universal stages of human development with lively, illustrated stories of challenge and success",
+"size":"",
 "label":"The Turquoise Brick Road by Rhys Marc Photis"
     },{
         "id": "1646192824993x994848465689754900",
@@ -1337,6 +1449,7 @@
 "locations":["Costa Rica"],
 "types":["Retreat Center"],
 "description":"",
+"size":"",
 "label":"Blue Spirit"
     },{
         "id": "1646192826130x639504045437136400",
@@ -1348,6 +1461,7 @@
 "locations":[],
 "types":["Communities In-Development"],
 "description":"Remembering our wholeness Learn More",
+"size":"",
 "label":"Coalesce Ecovillage"
     },{
         "id": "1646192829221x307659244436398340",
@@ -1359,6 +1473,7 @@
 "locations":["Maine"],
 "types":["Festival/Gathering"],
 "description":"",
+"size":"",
 "label":"Healing Turtle Island"
     },{
         "id": "1646192831894x162185033468780000",
@@ -1370,6 +1485,7 @@
 "locations":["Tennessee"],
 "types":["Ecological Community"],
 "description":"An off-grid intentional community",
+"size":"",
 "label":"The Garden"
     },{
         "id": "1646192834608x378870426689832400",
@@ -1381,6 +1497,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"What really causes depression and anxiety - and how can we really solve them? LOST CONNECTIONS is an epic journey that will change how we think about one of the biggest crises in our culture today.",
+"size":"",
 "label":"Lost Connections by Johann Hari"
     },{
         "id": "1646192837297x783357847629456000",
@@ -1392,6 +1509,7 @@
 "locations":["Canada"],
 "types":["Retreat Center"],
 "description":"Stephen Jenkinson’s teaching and learning house for the skills of deep living and making human",
+"size":"",
 "label":"Orphan Wisdom School"
     },{
         "id": "1646192839943x657562273415279700",
@@ -1403,6 +1521,7 @@
 "locations":["Poland"],
 "types":["Festival/Gathering"],
 "description":"",
+"size":"",
 "label":"Garbicz"
     },{
         "id": "1646192842668x301568788899416060",
@@ -1414,6 +1533,7 @@
 "locations":["Costa Rica"],
 "types":["Meditation Community"],
 "description":"“Sat Yoga is dedicated to raising human consciousness, offering teachings and retreats (online/onsite) to aid in healing and Self-realization.”",
+"size":"",
 "label":"Shunyamurti’s Sat Yoga Ashram"
     },{
         "id": "1646192846031x697898022778624600",
@@ -1425,6 +1545,7 @@
 "locations":["Costa Rica"],
 "types":["Plant Medicine Community"],
 "description":"Sacred medicine healing center. We are a family run retreat center in Costa Rica. We specialize in Ayahuasca and other Sacred Medicines for people who want to experience their healing power in a peaceful and intimate Costa Rica setting.",
+"size":"",
 "label":"Munto Gente Medicina"
     },{
         "id": "1646192849273x957704501962108400",
@@ -1436,6 +1557,7 @@
 "locations":["Costa Rica"],
 "types":["Plant Medicine Community"],
 "description":"<p>demodemo</p>",
+"size":"",
 "label":"Florestral"
     },{
         "id": "1646192852010x631035004009890200",
@@ -1447,6 +1569,7 @@
 "locations":["Florida"],
 "types":["Plant Medicine Community"],
 "description":"Life changing retreat in the USA. Reset your mind with Iboga. Discover Iboga Church of America 1-407-619-1026",
+"size":"",
 "label":"Iboga Church of America"
     },{
         "id": "1646192854305x503196932956106100",
@@ -1458,6 +1581,7 @@
 "locations":["Canada"],
 "types":["Ecological Community"],
 "description":"A farm community and homestead on Salt Spring Island that teaches and empowers the new generation of community leaders and peace workers.",
+"size":"",
 "label":"Aloha Salt Spring"
     },{
         "id": "1646192856641x837269738516585500",
@@ -1469,6 +1593,7 @@
 "locations":[],
 "types":["Plant Medicine Community"],
 "description":"We run events and retreats for deeper connection to ourselves, each other, our living planet and to the mystery of existence.",
+"size":"",
 "label":"The Psychedelic Society"
     },{
         "id": "1646192859347x396685373711662000",
@@ -1480,6 +1605,7 @@
 "locations":["Costa Rica"],
 "types":["Plant Medicine Community"],
 "description":"Naturopathic Healing Center in Guanacaste, Costa Rica focusing on spirituality, health and wellness.",
+"size":"",
 "label":"Rythmia Life Advancement Center"
     },{
         "id": "1646192862577x591133143902737900",
@@ -1491,6 +1617,7 @@
 "locations":["North Carolina"],
 "types":["Ecological Community"],
 "description":"Earthaven is an aspiring ecovillage in a mountain forest setting near Asheville, North Carolina. Visit in person or online!",
+"size":"",
 "label":"Earthaven Ecovillage"
     },{
         "id": "1646192864483x146836935020440160",
@@ -1502,6 +1629,7 @@
 "locations":["Europe"],
 "types":["Festival/Gathering"],
 "description":"Emerge is an independent, non-profit media platform aiming to explore the emerging cultural narratives of our time.",
+"size":"",
 "label":"Emerge Gathering"
     },{
         "id": "1646192867324x518379871034391900",
@@ -1513,6 +1641,7 @@
 "locations":["Canada"],
 "types":["Communities In-Development"],
 "description":"A vision for a living lab for regenerative civilization redesign in the Interior of British Columbia, Canada.",
+"size":"",
 "label":"Future Thinkers Smart Village"
     },{
         "id": "1646192869733x209674449374732220",
@@ -1524,6 +1653,7 @@
 "locations":["Virginia"],
 "types":["Ecological Community"],
 "description":"Twin Oaks Intentional Community, in central Virginia, since 1967.",
+"size":"",
 "label":"Twin Oaks"
     },{
         "id": "1646192872955x779219716833191600",
@@ -1535,6 +1665,7 @@
 "locations":["Costa Rica"],
 "types":["Ecological Community"],
 "description":"",
+"size":"",
 "label":"Finca Morpho"
     },{
         "id": "1646192877843x291499024992963900",
@@ -1546,6 +1677,7 @@
 "locations":["USA"],
 "types":["In-Person Workshops & Trainings"],
 "description":"",
+"size":"",
 "label":"Jamie Wheal’s Flow Canyons Leadership Course"
     },{
         "id": "1646192881002x757737828747715700",
@@ -1557,6 +1689,7 @@
 "locations":["Nicaragua"],
 "types":["Spirituality & Healing Community"],
 "description":"",
+"size":"",
 "label":"Inanitah"
     },{
         "id": "1646192883714x369714302362424770",
@@ -1568,6 +1701,7 @@
 "locations":["Australia"],
 "types":["Festival/Gathering"],
 "description":"",
+"size":"",
 "label":"Earth Frequency"
     },{
         "id": "1646192885942x871890672596112000",
@@ -1579,6 +1713,7 @@
 "locations":["New York"],
 "types":["Retreat Center"],
 "description":"The mission of the Garrison Institute is to demonstrate and disseminate the importance of contemplative practices and spiritually grounded values in building sustainable movements for a healthier, safer, and more compassionate world.",
+"size":"",
 "label":"Garrison Institute"
     },{
         "id": "1646192888706x313748263228063500",
@@ -1590,6 +1725,7 @@
 "locations":["Italy"],
 "types":["CoLiving Community"],
 "description":"",
+"size":"",
 "label":"Liminal Village"
     },{
         "id": "1646192891573x773322091036944800",
@@ -1601,6 +1737,7 @@
 "locations":["Mexico"],
 "types":["Ecological Community"],
 "description":"Bienvenido a la web del Refugio Terraza de la Tierra",
+"size":"",
 "label":"Refugio Terraza de la Tierra"
     },{
         "id": "1646192894310x653842940513747300",
@@ -1612,6 +1749,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"Winner of the prestigious 2017 Gold Nautilus Award, ‘Belonging’ is the bestselling debut book from Toko-pa Turner on exile and the search for be﻿longing.",
+"size":"",
 "label":"Belonging by Toko-pa Turner"
     },{
         "id": "1646192896815x211193073523771700",
@@ -1623,6 +1761,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"Get the Access to the Free Homegrown Humans Toolkit, so you can start learning the tools to make better sense of your life, your purpose and the state of the world",
+"size":"",
 "label":"Recapture the Rapture by Jamie Wheal"
     },{
         "id": "1646192902244x150882831266728500",
@@ -1634,6 +1773,7 @@
 "locations":["California"],
 "types":["Festival/Gathering"],
 "description":"Lightning in a Bottle is an independent California music festival that takes place on Memorial Day Weekend in Southern California.",
+"size":"",
 "label":"Lightning In A Bottle"
     },{
         "id": "1646192906581x538726001918295800",
@@ -1645,6 +1785,7 @@
 "locations":["Portugal"],
 "types":["Meditation Community"],
 "description":"The Centre for Self-Realisation in Portugal",
+"size":"",
 "label":"Mooji’s Monte Sahaja Ashram"
     },{
         "id": "1646192909196x676689688155116900",
@@ -1656,6 +1797,7 @@
 "locations":["Missouri"],
 "types":["Ecological Community"],
 "description":"",
+"size":"",
 "label":"East Wind"
     },{
         "id": "1646192912092x258216598501677760",
@@ -1667,6 +1809,7 @@
 "locations":["Australia"],
 "types":["Festival/Gathering"],
 "description":"Artwork by Lakelurnin Ngarri (Racquel Kerr).",
+"size":"",
 "label":"Rainbow Serpent Festival"
     },{
         "id": "1646192914656x406797997316703300",
@@ -1678,6 +1821,7 @@
 "locations":["Greece"],
 "types":["Festival/Gathering"],
 "description":"",
+"size":"",
 "label":"Ecstatic Dance Festival"
     },{
         "id": "1646192919696x192873447029940930",
@@ -1689,6 +1833,7 @@
 "locations":["Lake Atitlán"],
 "types":["Spirituality & Healing Community"],
 "description":"Creating an Oasis of Well-being for the New Earth. Tribal Village is a consciously evolving ecovillage. We are joyfully integrating multicultural wisdom and co-creating a healthy world of abundance in symbiosis with Mother Earth.",
+"size":"",
 "label":"Tribal Village"
     },{
         "id": "1646192921746x700254047404898800",
@@ -1700,6 +1845,7 @@
 "locations":["Spain"],
 "types":["Plant Medicine Community"],
 "description":"Amoraleza is a community project dedicated to holistic health, conscious nutrition and shamanism. We work to inspire people to a more natural, ecological and conscious way of living.",
+"size":"",
 "label":"Amoraleza"
     },{
         "id": "1646192924974x382445283417910600",
@@ -1711,6 +1857,7 @@
 "locations":["Wisconsin"],
 "types":["Meditation Community"],
 "description":"The Rinzai Zen Community, led by Meido Moore Roshi: meditation at Korinji monastery near Madison, Wisconsin and other groups worldwide.",
+"size":"",
 "label":"The Korinji Rinzai Zen Community"
     },{
         "id": "1646192927443x724010881117378400",
@@ -1722,6 +1869,7 @@
 "locations":["Canada"],
 "types":["Meditation Community"],
 "description":"Gampo Abbey is a Buddhist monastery in the lineage of Chogyam Trungpa Rinpoche located in Nova Scotia, Canada.",
+"size":"",
 "label":"Gampo Abbey"
     },{
         "id": "1646192929508x505592971129199300",
@@ -1733,6 +1881,7 @@
 "locations":["Virginia"],
 "types":["Meditation Community"],
 "description":"Yogaville is a unique community, spiritual center, and Yoga academy. Yogaville opens doors to spiritual growth through Yoga Teacher Training workshops and residential programs",
+"size":"",
 "label":"Yogaville"
     },{
         "id": "1646192932783x207310675211153760",
@@ -1744,6 +1893,7 @@
 "locations":["Central America"],
 "types":["Spirituality & Healing Community"],
 "description":"Momentom Collective specialises in retreats, artist residencies, performances and classes in various movement disciplines including acrobatics, circus, aerials and yoga. Come run away with the new age circus today!",
+"size":"",
 "label":"Momentum Collective"
     },{
         "id": "1646192935076x141252693316234580",
@@ -1755,6 +1905,7 @@
 "locations":["New York"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"The Abode of the Message"
     },{
         "id": "1646192936853x125275622243212540",
@@ -1766,6 +1917,7 @@
 "locations":["Southern India"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Amma’s Amritapuri Ashram"
     },{
         "id": "1646192939835x759247072468656600",
@@ -1777,6 +1929,7 @@
 "locations":["New York"],
 "types":["Ecological Community"],
 "description":"Unadilla Community Farm is an off-grid farm and non-profit permaculture education center, situated on 12 acres in Upstate New York.",
+"size":"",
 "label":"Unadilla Community Farm"
     },{
         "id": "1646192943195x251177840864014620",
@@ -1788,6 +1941,7 @@
 "locations":["New York"],
 "types":["Ecological Community"],
 "description":"Children who are denied the autonomy to roam and play get restless and anxious. Parenting without community is overwhelming and stressful. A personal story of rediscovering parenting in community.",
+"size":"",
 "label":"Ecovillage Ithica"
     },{
         "id": "1646192945396x194341768189195680",
@@ -1799,6 +1953,7 @@
 "locations":["Costa Rica"],
 "types":["Plant Medicine Community"],
 "description":"Iboga Wellness is the oldest Iboga retreat center in the West. Find out how Iboga can improve your life from depression, anxiety & PTSD",
+"size":"",
 "label":"Iboga Wellness Center"
     },{
         "id": "1646192947908x222656099480380130",
@@ -1810,6 +1965,7 @@
 "locations":["Maine"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Sat Manav Yoga Ashram"
     },{
         "id": "1646192950557x545115341307886400",
@@ -1821,6 +1977,7 @@
 "locations":["Peru"],
 "types":["Plant Medicine Community"],
 "description":"",
+"size":"",
 "label":"Temple Of The Way Of The Light"
     },{
         "id": "1646192953004x750786625817526000",
@@ -1832,6 +1989,7 @@
 "locations":["Costa Rica"],
 "types":["In-Person Workshops & Trainings"],
 "description":"Join the most comprehensive teacher training in the world in the Tao Tantric Arts, and empower yourself to share these teachings with other women.",
+"size":"",
 "label":"Tao Tantric Arts"
     },{
         "id": "1646192955597x211564245973230750",
@@ -1843,6 +2001,7 @@
 "locations":["Oregon"],
 "types":["Retreat Center"],
 "description":"Permaculture Design Immersion and Holistic Sustainability, natural building, courses near in an intentional community ecovillage, organic regenerative ag, Eugene, Oregon, Pacific Northwest",
+"size":"",
 "label":"Lost Valley Education Center"
     },{
         "id": "1646192959446x399094033841829800",
@@ -1854,6 +2013,7 @@
 "locations":["Colombia"],
 "types":["Plant Medicine Community"],
 "description":"",
+"size":"",
 "label":"Ambiwasi Ceremonial Center"
     },{
         "id": "1646192961575x724843405214311600",
@@ -1865,6 +2025,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"Discover transformational experiences at ecovillages, intentional communities, permaculture farms, social projects and retreat centers across the globe.",
+"size":"",
 "label":"NuMundo"
     },{
         "id": "1646192963168x799799151247259800",
@@ -1876,6 +2037,7 @@
 "locations":["Greece"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Osho Afroz"
     },{
         "id": "1646192965306x635954973566495700",
@@ -1887,6 +2049,7 @@
 "locations":["Panama"],
 "types":["Ecological Community"],
 "description":"In a lush tropical valley, people from around the world are imagining a new, beautiful way to live. The photos are simply stunning.",
+"size":"",
 "label":"Kalu Yala"
     },{
         "id": "1646192967508x502605760751496000",
@@ -1898,6 +2061,7 @@
 "locations":["India"],
 "types":["Meditation Community"],
 "description":"Isha Yoga Center is a sacred space for self-transformation, where you can come dedicate time towards your inner growth.",
+"size":"",
 "label":"Sadhguru’s Isha Yoga Center"
     },{
         "id": "1646192970212x881494774281770500",
@@ -1909,6 +2073,7 @@
 "locations":["Guatemala"],
 "types":["Festival/Gathering"],
 "description":"Cosmic Convergence 29 Dec 2021 - 01 Jan 2022 / Transformational Festival in Lake Atitlan, Guatemala.\\nMayan Cosmovision -Visionary Arts - Psychedelic World Music - Workshops - Healing - Yoga - Eco-Conscious & more!",
+"size":"",
 "label":"Cosmic Convergence Festival"
     },{
         "id": "1646192972752x149251959773605950",
@@ -1920,6 +2085,7 @@
 "locations":["California"],
 "types":["Meditation Community"],
 "description":"<p>Please join us for this 5-day mindfulness retreat offering opportunities to come back to ourselves during daily sitting, walking, and eating meditation, in order to touch the nourishing and healing […]</p>\n",
+"size":"",
 "label":"Deer Park Monastery"
     },{
         "id": "1646192975972x877989384318889300",
@@ -1931,6 +2097,7 @@
 "locations":["Costa Rica"],
 "types":["Spirituality & Healing Community"],
 "description":"A portal to potential | Building a living research center and community in Nosara, Costa Rica.",
+"size":"",
 "label":"Tierramor"
     },{
         "id": "1646192981762x597164299942301700",
@@ -1942,6 +2109,7 @@
 "locations":["Costa Rica"],
 "types":["Festival/Gathering"],
 "description":"What do you Envision for our world? Immerse yourself in music, art, yoga, workshops & surfing in Uvita, Costa Rica. Join us in the jungle February 27 - March 6, 2023.",
+"size":"",
 "label":"Envision"
     },{
         "id": "1646192984755x488009412965242100",
@@ -1953,6 +2121,7 @@
 "locations":["Portugal"],
 "types":["Spirituality & Healing Community"],
 "description":"Awakeland Portugal is a meditation centre and reforestation project, that offers meditation, yoga and tantra workshops, festivals, gatherings, retreats and therapies, with accommodation and vegetarian meal plans to suit your needs. With the largest geodesic dome in Portugal.",
+"size":"",
 "label":"Awakeland"
     },{
         "id": "1646192988187x761736948384605700",
@@ -1964,6 +2133,7 @@
 "locations":["Missouri"],
 "types":["Ecological Community"],
 "description":"Sustainable Living Visitor Program For over 20 years, Dancing Rabbit Ecovillage has been a thriving sustainability demonstration project in Northeast Missouri. You can experience everything from organic permaculture garden and […]",
+"size":"",
 "label":"Dancing Rabbit Ecovillage"
     },{
         "id": "1646192990690x242602245790727300",
@@ -1975,6 +2145,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"The Global Ecovillage Network envisions a world of people designing regenerative futures, building bridges of hope, and forging international solidarity.",
+"size":"",
 "label":"Global Ecovillage Network"
     },{
         "id": "1646192994171x635041283742085800",
@@ -1986,6 +2157,7 @@
 "locations":["Portugal"],
 "types":["Festival/Gathering"],
 "description":"1997-2022 / Oneness | Music | Arts | Environment | Love",
+"size":"",
 "label":"Boom Festival"
     },{
         "id": "1646192997123x264708247469146240",
@@ -1997,6 +2169,7 @@
 "locations":["Iowa"],
 "types":["Meditation Community"],
 "description":"You’re invited to learn about the Transcendental Meditation (TM) technique from your local certified TM teachers in Fairfield, Iowa.",
+"size":"",
 "label":"Transcendental Meditation Center"
     },{
         "id": "1646192999312x339261151088954940",
@@ -2008,6 +2181,7 @@
 "locations":[],
 "types":["Communities In-Development"],
 "description":"",
+"size":"",
 "label":"Oceanix (video)"
     },{
         "id": "1646193002180x322693960793064600",
@@ -2019,6 +2193,7 @@
 "locations":["Worldwide"],
 "types":["In-Person Workshops & Trainings"],
 "description":"The Human Awareness Institute (HAI) holds a bold vision of a world where people live together in dignity, respect, understanding, trust, kindness, compassion, reverence, honesty and love. Thousands have transformed their lives through HAI. Come join us and see for yourself.",
+"size":"",
 "label":"The Human Awareness Institute (HAI)"
     },{
         "id": "1646193005404x874106259030134300",
@@ -2030,6 +2205,7 @@
 "locations":[],
 "types":["Ecological Community"],
 "description":"42 Acres is a wellbeing retreat & regenerative farm stay in rural Somerset. A place to reconnect with nature, self and others.",
+"size":"",
 "label":"42 Acres"
     },{
         "id": "1646193008057x467049868721511900",
@@ -2041,6 +2217,7 @@
 "locations":["California"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Abhayagiri Monastery"
     },{
         "id": "1646193011161x523209065134123900",
@@ -2052,6 +2229,7 @@
 "locations":["Brazil"],
 "types":["Spirituality & Healing Community"],
 "description":"",
+"size":"",
 "label":"Source Temple Sanctuary"
     },{
         "id": "1646193013023x444919136951537540",
@@ -2063,6 +2241,7 @@
 "locations":[],
 "types":["Resources & Inspiration"],
 "description":"",
+"size":"",
 "label":"Terrenity “A Dreamer’s Guide to Ecovillages”"
     },{
         "id": "1646193016040x380108196229756540",
@@ -2074,6 +2253,7 @@
 "locations":["Finland"],
 "types":["Spirituality & Healing Community"],
 "description":"",
+"size":"",
 "label":"Nikkilä Temple"
     },{
         "id": "1646193019044x369683176735602370",
@@ -2085,6 +2265,7 @@
 "locations":["New York"],
 "types":["Meditation Community"],
 "description":"<p><span style=“font-size:16px”>Blue Cliff Monastery, located in Pine Bush, NY, is a mindfulness practice center and monastic training center founded by the Vietnamese Buddhist monk, author, and peace activist, Thich Nhat Hanh (Thay).</span></p>",
+"size":"",
 "label":"Blue Cliff Monastery"
     },{
         "id": "1646193021634x193505770535043600",
@@ -2096,6 +2277,7 @@
 "locations":["Italy"],
 "types":["Spirituality & Healing Community"],
 "description":"Discover all the activities, events, happenings of DAMANHUR",
+"size":"",
 "label":"Damanhur"
     },{
         "id": "1646193024095x926513589932110500",
@@ -2107,6 +2289,7 @@
 "locations":["Oregon"],
 "types":["Festival/Gathering"],
 "description":"Beloved presents ritual experiences to explore what sacred art, music, and movement can do to cultivate vulnerability, belonging, and liberation.",
+"size":"",
 "label":"Beloved"
     },{
         "id": "1646193026561x429030700220199900",
@@ -2118,6 +2301,7 @@
 "locations":["Brazil"],
 "types":["Plant Medicine Community"],
 "description":"",
+"size":"",
 "label":"Carioca’s Ciranda"
     },{
         "id": "1646193028891x552007624328225000",
@@ -2129,6 +2313,7 @@
 "locations":["Costa Rica"],
 "types":["Plant Medicine Community"],
 "description":"Brave Earth (Tierra Valiente) is a living laboratory for regeneration. We are a self-sufficient community, regenerative farm, and healing arts center based in northern Costa Rica. Here amidst the jungle, thermal pools and cloud forest, we are exploring new and ancient ways of living.",
+"size":"",
 "label":"Brave Earth"
     },{
         "id": "1646193031734x640851437043213200",
@@ -2140,6 +2325,7 @@
 "locations":["New York"],
 "types":["Meditation Community"],
 "description":"",
+"size":"",
 "label":"Zen Mountain Monastery"
     },{
         "id": "1646193035466x587235046899746000",
@@ -2151,6 +2337,7 @@
 "locations":["California"],
 "types":["Ecological Community"],
 "description":"The Occidental Arts & Ecology Center (OAEC) is an 80-acre research, demonstration, advocacy and organizing center in Sonoma County, California that develops strategies for regional-scale community resilience.",
+"size":"",
 "label":"Occidental Arts & Ecology Center"
     },{
         "id": "1646193038906x163934836299232540",
@@ -2162,6 +2349,7 @@
 "locations":["Mexico and France"],
 "types":["Meditation Community"],
 "description":"Hridaya Yoga offers accessible, authentic, heart-opening yoga and meditation retreats in France and Mexico. Live with an Open Heart.",
+"size":"",
 "label":"Hridaya Yoga"
     },{
         "id": "1646193041243x194427775384397920",
@@ -2173,6 +2361,7 @@
 "locations":["North Carolina"],
 "types":["Festival/Gathering"],
 "description":"Instagram Facebook The Firefly Gathering is a grassroots, community-based 501(c)(3) nonprofit organization in Western North Carolina, providing educational and cultural programming to the Asheville area since 2007. By offering a cyclical sharing of traditional craft and wisdom in community, we recon…",
+"size":"",
 "label":"Firefly Gathering"
     },{
         "id": "1646193044630x165790677529514800",
@@ -2184,6 +2373,7 @@
 "locations":["Worldwide"],
 "types":["Festival/Gathering"],
 "description":"Wake up & dance with DAYBREAKER — a wellness community & sober morning dance party inspiring happiness online and in 28 cities around the world.",
+"size":"",
 "label":"Daybreaker"
     },{
         "id": "1646193056013x453834444588212300",
@@ -2195,6 +2385,7 @@
 "locations":["Worldwide"],
 "types":["In-Person Workshops & Trainings"],
 "description":"Guiding wilderness immersions into the wilds of psyche and mystery to discover soul purpose, personal transformation, transformational leadership.",
+"size":"",
 "label":"Animas Valley Vision Quests"
     },{
         "id": "1646193058936x531025479184854100",
@@ -2206,6 +2397,7 @@
 "locations":["Romania"],
 "types":["Festival/Gathering"],
 "description":"The mysterious forest, the smooth hillside, the trippy twilights, the starry nights, the cows, the shepherd, the happy people, the smiles and laughter,the bass, the dance, the love, these are few of the main forces that we all play with to create the Waha Experience.",
+"size":"",
 "label":"Waha Festival"
     },{
         "id": "1646193061216x676103214645990400",
@@ -2217,6 +2409,7 @@
 "locations":["Uruguay"],
 "types":["CoLiving Community"],
 "description":"experimental learning in Colonia Uruguay",
+"size":"",
 "label":"Rizoma Field School"
     },{
         "id": "1646193063815x204327488028699800",
@@ -2228,6 +2421,7 @@
 "locations":["India"],
 "types":["Meditation Community"],
 "description":"OSHO Meditation Resort, where wellness becomes your lifestyle, and relaxation becomes your life. Sincerity replaces seriousness – in the fun of just being.",
+"size":"",
 "label":"Osho Meditation Resort"
     },{
         "id": "1646193066544x620122455741739100",
@@ -2239,6 +2433,7 @@
 "locations":["Costa Rica"],
 "types":["Spirituality & Healing Community"],
 "description":"",
+"size":"",
 "label":"Teal Swan’s Philia Center"
     },{
         "id": "1646193070129x503408123970690000",
@@ -2250,6 +2445,7 @@
 "locations":["Portugal"],
 "types":["Spirituality & Healing Community"],
 "description":"Welcome to our beautiful healing retreat centre in the South West of Portugal ➳ shamanic events, rituals, retreats, initiations & trainings ♥",
+"size":"",
 "label":"Temple of the Earth"
     },{
         "id": "1646194528985x493358660700340200",
@@ -2261,6 +2457,7 @@
 "locations":[],
 "types":["Article","Community Directory","Article"],
 "description":"Over the past few years, I’ve had the blessing of going on a Soul-guided journey around the world visiting, living and participating in various intentional communities and healing centers... This article outlines an ever-evolving map of communities around the globe!",
+"size":"",
 "label":"Transformational Communities"
     },{
         "id": "1646204372772x122950941341122560",
@@ -2272,6 +2469,7 @@
 "locations":[],
 "types":["Retreat Center"],
 "description":"",
+"size":"",
 "label":"Kripalu Yoga and Retreat Center"
     }
 ],
