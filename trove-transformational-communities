@@ -18,7 +18,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "id":"Resource",
 "type":"Element Type",
-"description":"Shared crowdourced library"
+"description":"Shared crowd-sourced library"
 },{
 "label":"Regenerative Economy & Systems",
 "image":"//s3.amazonaws.com/appforest_uf/f1652372546894x907705076453318300/regen_black.svg",
@@ -2471,10 +2471,29 @@
 "description":"",
 "size":"",
 "label":"Kripalu Yoga and Retreat Center"
+    },{
+        "id": "1654804682787x322163362375401500",
+"url":"https://www.humanitysteam.org/global-oneness-day",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"type":"Event",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"A day to celebrate unity in our diversity, as a community consecrated to serving humanity’s collective awakening. (since 2013)",
+"size":"",
+"label":"Humanity's Team - Global Oneness Day"
     }
 ],
 
   "connections": [
+{
+        "id": "1656524123870x825930448517201900",
+        "from": "1646194528985x493358660700340200",
+        "to": "1646192326279x328426090141737960",
+"type":"curated",
+"label":"Transformational Communities curated Summit"
+    }
 
  ]
 }
