@@ -8,6 +8,12 @@
 "type":"Element Type",
 "description":"Public organization directory"
 },{
+"label":"Profile",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"id":"Profile",
+"type":"Element Type",
+"description":"People on Trove"
+},{
 "label":"Environment",
 "image":"//s3.amazonaws.com/appforest_uf/f1647649691660x273258215584094370/images",
 "id":"1647152508480x327475035801030340",
@@ -3512,7 +3518,7 @@
     },{
         "id": "1657828899621x388772452213020000",
 "url":"https://catalyst2030.net/",
-"image":"//s3.amazonaws.com/appforest_uf/f1657828898845x646964203893787900/Catalyst-2030-Movement.png",
+"image":"//s3.amazonaws.com/appforest_uf/f1659370506555x102744774892225220/Catalyst-2030-Movement.png",
 "type":"Organization",
 "tags":["Sustainable Development","Environment","Climate Change","Global Community"],
 "sectors":["Sustainable Cities and Communities","Sustainability","Environment","Climate Environment & Resiliency","Community & Relationships","Big Picture"],
@@ -3896,7 +3902,7 @@
     },{
         "id": "1657828994879x637575905203742800",
 "url":"https://roddenberryfoundation.org/our-work/catalyst-fund/criteria/",
-"image":"//s3.amazonaws.com/appforest_uf/f1657828993868x808906780529317800/Catalyst_SocialShare_Image.png",
+"image":"//s3.amazonaws.com/appforest_uf/f1659370514688x726116814076061000/Catalyst_SocialShare_Image.png",
 "type":"Organization",
 "tags":[],
 "sectors":[],
@@ -3950,7 +3956,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Local, Regional and World Jams: week-long gatherings of people committed to internal, interpersonal and systemic change, taking place all over the world. An Annual Meeting: together as a community, to engage in face-to-face conversations about what we are learning and where we are growing. A Flow Fund: to move resources into the collaborations and local work we are doing, or that other Jamily are doing. The funding supports projects that synthesize at a meeting point of internal, interpersonal and systemic transformation/healing. It supports our collaborations and exploratory probes and envisioning. Stories. Supporting learning exchanges between young changemakers. Providing support for aligned communities. Creating innovative new projects. Mentoring youth from our communities through/with the GC.",
 "size":"",
 "label":"Global Youth Leadership Collaborative"
     },{
@@ -4208,12 +4214,12 @@
     },{
         "id": "1657829064728x253538976914138300",
 "url":"https://www.thecatalystnetwork.co/#Who",
-"image":"//s3.amazonaws.com/appforest_uf/f1657829063891x749177484888551700/slide-01.jpg",
+"image":"//s3.amazonaws.com/appforest_uf/f1659370519564x571452349248953150/slide-01.jpg",
 "type":"Organization",
 "tags":[],
 "sectors":[],
 "locations":["Australia"],
-"types":[],
+"types":["Network"],
 "description":"The Catalyst Network is an experimental membership community of curious, high-impact individuals from different industries and sectors who come together regularly to explore complex business and societal issues. Through our new business Catalyst FX, we now get the opportunity to work together on assignments to help organisations reimagine and reshape their future. **The Catalyst Network** supports individuals who are pioneering new and original approaches to change. We enable and champion breakthrough thinking and practice within organisations, different industries and communities.\\n\\n",
 "size":"",
 "label":"The Catalyst Network"
@@ -5468,7 +5474,7 @@
     },{
         "id": "1657829347633x751487872149268400",
 "url":"http://culturalcatalystnetwork.org/",
-"image":"//s3.amazonaws.com/appforest_uf/f1657829346669x968100579092328700/fullsizeoutput_cc4.jpeg",
+"image":"//s3.amazonaws.com/appforest_uf/f1659370511318x548440214523990400/fullsizeoutput_cc4.jpeg",
 "type":"Organization",
 "tags":[],
 "sectors":[],
@@ -6077,10 +6083,29 @@
 "description":"## Huddlecraft is the practice of combining people to unearth and multiply potential.  We use huddlecraft to help people and organisations climb steep learning curves.\\n\\n",
 "size":"",
 "label":"Huddlecraft"
+    },{
+        "id": "1659488083759x611429546988235800",
+"url":"https://www.catalist.network/profile/june-holley",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Author Network Weaver Handbook, interested in transformation",
+"size":"",
+"label":"June Holley"
     }
 ],
 
   "connections": [
+{
+        "id": "1659488103921x616715560874934300",
+        "from": "1659488083759x611429546988235800",
+        "to": "1653066662911x260596880197808480",
+"type":"curated",
+"label":"June Holley curated Academy for Systems Change"
+    }
 
  ]
 }
