@@ -1,1 +1,77 @@
-žée
+{
+  "elements": [
+
+{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Element Type",
+"description":"Project Listings"
+},
+{
+        "id": "1660151346982x270335483166988640",
+"url":"www.game.civilization2.org",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":["culture"],
+"sectors":[],
+"locations":[],
+"types":["pre-entity"],
+"description":"An immersive experience where players design and play in a world that works for everyone, not just a wealthy few.",
+"size":"",
+"label":"Civilization 2.0 the game"
+    },{
+        "id": "1660151350032x769937635418378900",
+"url":"https://www.everyoneswisdom.com/tapestry",
+"image":"//s3.amazonaws.com/appforest_uf/f1660151349061x222763419735330750/8caaf8_cf05decde82749ce8e88104eac74b561~mv2.jpg",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"If we provide a grid, a framework, to help guide pieces of the puzzle into the right general area, then that greatly increases the chances that we start finding connections.  The faster the connections get made, the sooner new synergies are found.  Now they're not pieces of a puzzle, they're threads in a tapestry.  The act of weaving begins and images start to emerge more clearly.  A flower here, a fence there, a tree and a strawberry.  Transformation comes with the motion, the collaboration, the excitement over what might come next.",
+"size":"",
+"label":"The Tapestry"
+    },{
+        "id": "1660151353379x372974456950709800",
+"url":"https://plex.collectivesensecommons.org/",
+"image":"//s3.amazonaws.com/appforest_uf/f1660151352411x497629262008912640/BPD-182-OGM-and-related-calls---peterkaminski---20220302.jpg",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Newsletter"],
+"description":"The Biweekly Plex Dispatch is an inter-community newspaper published by Collective Sense Commons on first and third Wednesdays of each month.",
+"size":"",
+"label":"Biweekly Plex"
+    },{
+        "id": "1660151354279x765988291194238300",
+"url":"https://chat.collectivesensecommons.org/agora/channels/map-weavers",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Creating a tracking database for open loops/issues; started in Map Weavers, helps The Meta Project",
+"size":"",
+"label":"Open Loop Tracker"
+    },{
+        "id": "1660151359953x914995475148479900",
+"url":"https://chat.collectivesensecommons.org/agora/channels/flotilla-project-clambake",
+"image":"//s3.amazonaws.com/appforest_uf/f1660151358634x731949608568938500/pier-with-beautiful-sky-2021-08-31-11-30-06-utc.jpg",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Clambake is testing out the merger of a dynamic mapping UI, robust web content curation, and powerful project hub to create a knowledge platform that connects people with the information and opportunities at the right time, in the right place and in the right way.",
+"size":"",
+"label":"Project Clambake"
+    }
+],
+
+  "connections": [
+
+ ]
+}
