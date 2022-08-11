@@ -14,6 +14,12 @@
 "type":"Element Type",
 "description":"People on Trove"
 },{
+"label":"Event",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"id":"Event",
+"type":"Element Type",
+"description":"Cross-organization calendar"
+},{
 "label":"Currencies & Funding",
 "image":"//s3.amazonaws.com/appforest_uf/f1652372714690x722690108357238100/finance_black.svg",
 "id":"1647152391687x633197867734409700",
@@ -1234,6 +1240,30 @@
 "description":"Systems designer, social entrepreneur, and knowledge architect. Founder of Catalist",
 "size":"",
 "label":"Vincent Arena"
+    },{
+        "id": "1660253915035x318769811226195400",
+"url":"https://www.catalist.network/event/cta-kumu-ecosystem-map-design-2022-08-11",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"type":"Event",
+"tags":["Mapping"],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"An event to further design the kumu map that is currently holding the collaborative tech alliance.",
+"size":"",
+"label":"CTA Kumu Ecosystem Map Design "
+    },{
+        "id": "1660253916996x814775133691331600",
+"url":"https://www.catalist.network/event/collaborative-technology-alliance-open-meetup-2022-08-11",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"type":"Event",
+"tags":[],
+"sectors":["Collective Action & Collaboration","Software Internet & Automation"],
+"locations":[],
+"types":[],
+"description":"Welcome to the [color=rgb(26, 115, 232)][url=https://www.google.com/url?q=https://www.hylo.com/groups/collaborative-technology-alliance/join/Ns3yUfMuTV&sa=D&source=calendar&usd=2&usg=AOvVaw2IFS1aCd_PIvzAFHEJ9rsq]Collaborative Technology Alliance[/url][/color]! [b]We facilitate collaboration among those building social technology in service to a thriving world. [/b]These regular open community meetups build community among these values aligned technology platforms and move us towards our objective of interoperability between our respective platforms.",
+"size":"",
+"label":"Collaborative Technology Alliance Open Meetup "
     }
 ],
 
@@ -1265,6 +1295,13 @@
         "to": "1660242209362x932654881984030800",
 "type":"is member of",
 "label":"Vincent Arena is member of Collaborative Tech Alliance "
+    }
+,{
+        "id": "1660254013609x726614006815260700",
+        "from": "1660253915035x318769811226195400",
+        "to": "1660242209362x932654881984030800",
+"type":"is related to",
+"label":"CTA Kumu Ecosystem Map Design  is related to Collaborative Tech Alliance "
     }
 
  ]
