@@ -1,0 +1,430 @@
+{
+  "elements": [
+
+{
+"label":"Topic",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"id":"Topic",
+"type":"Element Type",
+"description":"Keywords | Tags"
+},{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Element Type",
+"description":"Project Listings"
+},{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowd-sourced library"
+},{
+"label":"Relations",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649702422x694809907248845600/images",
+"id":"1647152513785x469083540417545300",
+"type":"Sector",
+"color":""
+},{
+"label":"Justice",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649698736x758454517301181600/images",
+"id":"1647152511849x535210081301751500",
+"type":"Sector",
+"color":""
+},{
+"label":"Worldview",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649707160x411119856758438400/images",
+"id":"1647152454133x619064176998900700",
+"type":"Sector",
+"color":""
+},{
+"label":"Infrastructure",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649696424x409594126033386000/images",
+"id":"1647152511060x835582580126596900",
+"type":"Sector",
+"color":""
+},{
+"label":"Governance",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649693162x656872343526251400/images",
+"id":"1647152448910x333419692378226400",
+"type":"Sector",
+"color":""
+},{
+"label":"Spirituality",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649705569x947375107431533900/images",
+"id":"1647152515573x637553918953792400",
+"type":"Sector",
+"color":""
+},{
+"label":"Environment",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649691660x273258215584094370/images",
+"id":"1647152508480x327475035801030340",
+"type":"Sector",
+"color":""
+},{
+"label":"Economics",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649688168x548719193499528400/images",
+"id":"1647152447125x343484851979146500",
+"type":"Sector",
+"color":""
+},{
+"label":"Health",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649694652x332337189872089300/images",
+"id":"1647152510281x830390284954000100",
+"type":"Sector",
+"color":""
+},{
+"label":"Media",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649700299x357358236825752200/images",
+"id":"1647152512587x785904612136461000",
+"type":"Sector",
+"color":""
+},{
+"label":"Sensemaking & Rationality",
+"image":"//s3.amazonaws.com/appforest_uf/f1652372644060x359957905079682800/question.svg",
+"id":"1615672041912x956113185838111600",
+"type":"Sector",
+"color":"#9b59b6"
+},{
+"label":"Collective Action & Collaboration",
+"image":"//s3.amazonaws.com/appforest_uf/f1652372724479x180700121932775970/collaboration.svg",
+"id":"1615672041912x871760549889363100",
+"type":"Sector",
+"color":"#FFC04A"
+},{
+"label":"Global",
+"image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
+"id":"1616721864591x720620861514094600",
+"type":"Location"
+},{
+"label":"United States",
+"image":"https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+"id":"1616721865309x594758950764184200",
+"type":"Location"
+},
+{
+        "id": "1652883792690x878028908094360600",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Relations","Justice"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Including Diversity"
+    },{
+        "id": "1652883794477x970701558963917700",
+"url":"https://www.transformativeimpactsummit.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Relations"],
+"locations":[],
+"types":[],
+"description":"Local and community based change,\\nBringing in influencers to engage the public,\\nInstitutional change,\\nDecember 18, 2022",
+"size":"",
+"label":"Transformative Impact Summit"
+    },{
+        "id": "1652883796606x832719930800096800",
+"url":"https://www.globalunity.org",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Worldview"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Global Unity"
+    },{
+        "id": "1652883798493x399571638540409100",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Infrastructure"],
+"locations":[],
+"types":[],
+"description":"Library system, Help desk, New hierarchy / system of info; \\nLinks to research, insights, methodologies…,\\nWays to categorize and organize the complexity we are dealing with.",
+"size":"",
+"label":"Online Living Library"
+    },{
+        "id": "1652883802200x915974736181591600",
+"url":"https://metamaps.cc/explore/featured",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":[],
+"sectors":["Governance"],
+"locations":[],
+"types":[],
+"description":"MetaMap of a new governance structure",
+"size":"",
+"label":"Alternative Governance Model"
+    },{
+        "id": "1652883804048x750740902840171500",
+"url":"https://conversational-leadership.net/oracy-lab/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Relations"],
+"locations":[],
+"types":[],
+"description":"Convening inspiring, energizing, Powerful online conversations in a New Era of Orality, Visuality, & Experience. How we can re-frame the work done by English Coffehouses, Paris Salons, and Viennese Circles in the age of the Metaverse",
+"size":"",
+"label":"Oracy Labs"
+    },{
+        "id": "1652883805696x963276201812958300",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Spirituality","Environment"],
+"locations":[],
+"types":[],
+"description":"Building the bridge between Mother Earth and modern technology",
+"size":"",
+"label":"Ancestor Wisdom"
+    },{
+        "id": "1652883807578x289447227347289200",
+"url":"https://openglobalmind.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Worldview"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Open Global Mind"
+    },{
+        "id": "1652883809120x560009997756982140",
+"url":"https://www.thebigfungus.org/ ",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Worldview"],
+"locations":[],
+"types":[],
+"description":"A prototype platform to help us relate ideas, people, projects.\\nAnd now also at Rel8, ",
+"size":"",
+"label":"The Big Fungus"
+    },{
+        "id": "1652883810764x411304649140631800",
+"url":"https://www.jerrysbrain.com/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Infrastructure"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Jerry's Brain"
+    },{
+        "id": "1652883814875x663580885284137900",
+"url":"https://apps.apple.com/us/app/seriously/id1508392202?mt=12",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":[],
+"sectors":["Infrastructure"],
+"locations":[],
+"types":[],
+"description":"A Mac OS X tool to help you think and write",
+"size":"",
+"label":"Seriously"
+    },{
+        "id": "1652883816739x284164611572365280",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"General Feedback"
+    },{
+        "id": "1652883818707x804154125980491000",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Key Takeaways"
+    },{
+        "id": "1652883820348x629612650978211800",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Relations"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Global Networking w Scientists"
+    },{
+        "id": "1652883822351x966324523454835700",
+"url":"www.Neighborhoodeconomics.org",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Economics"],
+"locations":[],
+"types":[],
+"description":"Network of philanthropic marketplaces",
+"size":"",
+"label":"Neighborhood Economics"
+    },{
+        "id": "1652883824008x533234418575310850",
+"url":"https://gitcoin.co/blog/gitcoin-grants-quadratic-funding-for-the-world/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Economics","Infrastructure"],
+"locations":[],
+"types":[],
+"description":"Networking with Kevin O'??, founder of GitCoin and quadratic funding, wrote \"Green Pill\" and now is mapping impact.",
+"size":"",
+"label":"Impact Cartography"
+    },{
+        "id": "1652883825683x119539007728634020",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Spirituality"],
+"locations":[],
+"types":[],
+"description":"Sometimes the exact right thing you need next shows up right in the room",
+"size":"",
+"label":"Exact Right Thing Shows Up"
+    },{
+        "id": "1652883828343x389776936889943740",
+"url":"www.alliancehf.org",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Justice","Health"],
+"locations":[],
+"types":[],
+"description":"Working with social impact, wellness, and social determinants of health through local foundation. Very interested in connecting with others innovating in that space",
+"size":"",
+"label":"Innovation & Social Impact"
+    },{
+        "id": "1652883830604x264332457357696160",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Spirituality"],
+"locations":[],
+"types":[],
+"description":"Connecting people and ideas, consciousness, impact.",
+"size":"",
+"label":"Emergence, Superconnectors, and Transformation"
+    },{
+        "id": "1652883832573x606446926214580400",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Relations"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Truth"
+    },{
+        "id": "1652883834230x762054080813225900",
+"url":"https://strongertogetherx.com",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Relations","Spirituality"],
+"locations":[],
+"types":[],
+"description":"conscious COmmUNITY network of Super Connectors, Changemakers & Light Leaders with a Mission to Uplift Humanity Together through Peace Cafe wisdom healing circles, Global Peace Movements & Seeding the Future Together initiatives. ",
+"size":"",
+"label":"StrongerTogetherX"
+    },{
+        "id": "1652883836237x267890162838053220",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Relations","Media"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Factr and Figuring out How to Work Together"
+    },{
+        "id": "1652883837882x560565107020513340",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Relations"],
+"locations":[],
+"types":[],
+"description":"work is an expression of our being, finding the optimal higher self expression",
+"size":"",
+"label":"Work as Our Highest Expression"
+    },{
+        "id": "1652883839536x932879187301093100",
+"url":"https://www.catalist.network/explore-frameworks",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Worldview"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"List of Interconnected Frameworks (LIFT)"
+    },{
+        "id": "1652883841434x836716255927885200",
+"url":"https://www.everyoneswisdom.com/emergence",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Worldview"],
+"locations":[],
+"types":[],
+"description":"Research and establishment of an interoperable category system for projects, people and resources to align by their stage of co-creation.  Among the chaos and constant change, the cycle of emergence is a constant.",
+"size":"",
+"label":"The Cycle of Emergence"
+    },{
+        "id": "1660495518717x157383880495430180",
+"url":"https://www.catalist.network/project/trove",
+"image":"//s3.amazonaws.com/appforest_uf/f1615662318065x646576659705896600/Catalist%20Home%20Page%20Illustration-02-min.jpg",
+"type":"Project",
+"tags":["Collaboration","Regenerative"],
+"sectors":["Sensemaking & Rationality","Collective Action & Collaboration"],
+"locations":["Global","United States"],
+"types":[],
+"description":"Trove is a project to catalyze action by connecting people to the resources, information, projects and opportunities to create social impact. Join Us!",
+"size":"",
+"label":"Trove "
+    }
+],
+
+  "connections": [
+{
+        "id": "1660495542572x899502459583201300",
+        "from": "1660495518717x157383880495430180",
+        "to": "1652883814875x663580885284137900",
+"type":"is building an integration with",
+"label":"Trove  is building an integration with Seriously"
+    }
+
+ ]
+}
