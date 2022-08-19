@@ -1,18 +1,18 @@
 BEGIN:VCALENDAR
 PRODID:-//Catalist//Trove Calendar
-VERSION:1.0
+VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Catalist Trove Calendar
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:Collaborative Tech Alliance Ecosystem Map Events
 BEGIN:VEVENT
-DTSTART:20220811152608Z
-DTEND:20221011152608Z
-DTSTAMP:20220819134612Z
+DTSTART:20220811T152608Z
+DTEND:20221011T152608Z
+DTSTAMP:20220819T134612Z
 UID:1660253915035x318769811226195400
 URL:https://www.catalist.network/event/cta-kumu-ecosystem-map-design-2022-08-11
-CREATED:20220811173835Z
+CREATED:20220811T173835Z
 DESCRIPTION:An event to further design the kumu map that is currently holding the collaborative tech alliance.
 LAST-MODIFIED:20220811173835Z
 LOCATION:
@@ -22,13 +22,13 @@ SUMMARY:CTA Kumu Ecosystem Map Design
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20220811180000Z
-DTEND:20220811193000Z
-DTSTAMP:20220819134612Z
+DTSTART:20220811T180000Z
+DTEND:20220811T193000Z
+DTSTAMP:20220819T134612Z
 UID:1660253916996x814775133691331600
 URL:https://www.catalist.network/event/collaborative-technology-alliance-open-meetup-2022-08-11
 CREATED:20220811173837Z
-DESCRIPTION:Welcome to the [color=rgb(26, 115, 232)][url=https://www.google.com/url?q=https://www.hylo.com/groups/collaborative-technology-alliance/join/Ns3yUfMuTV&sa=D&source=calendar&usd=2&usg=AOvVaw2IFS1aCd_PIvzAFHEJ9rsq]Collaborative Technology Alliance[/url][/color]! [b]We facilitate collaboration among those building social technology in service to a thriving world. [/b]These regular open community meetups build community among these values aligned technology platforms and move us towards our objective of interoperability between our respective platforms.
+DESCRIPTION:Welcome to the [color=rgb(26, 115, 232)][url=https://www.google.com/url?q=https://www.hylo.com/groups/collaborative-technology-alliance/join/Ns3yUfMuTV&sa=D&source=calendar&usd=2&usg=AOvVaw2IFS1aCd_PIvzAFHEJ9rsq]Collaborative Technology Alliance[/url][/color]! [b]We facilitate collaboration among those building social technology in service to a thriving world. [/b]These regular open community meetups build community among these values aligned technology platforms and move us towards our objective of interoperability between our respective platforms.
 LAST-MODIFIED:20220816140633Z
 LOCATION:
 SEQUENCE:0
@@ -37,14 +37,14 @@ SUMMARY:Collaborative Technology Alliance Open Meetup
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20221022080000Z
-DTEND:20221023080000Z
-DTSTAMP:20220819134612Z
+DTSTART:20221022T080000Z
+DTEND:20221023T080000Z
+DTSTAMP:20220819T134612Z
 UID:1660320418874x698716089624996000
 URL:https://www.catalist.network/event/mapathon22
 CREATED:20220812120658Z
 DESCRIPTION:Join us for the second annual Mapathon, a virtual gathering with opportunities for interactive demonstrations of maps, discussing and developing interoperability of data across maps, and showcasing mapping projects.
-LAST-MODIFIED:20220816135055Z
+LAST-MODIFIED:20220816T135055Z
 LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
