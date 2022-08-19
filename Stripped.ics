@@ -1,5 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+PRODID:-//My Company//NONSGML Event Calendar//EN
+URL:http://my.calendar/url
+NAME:My Calendar Name
+X-WR-CALNAME:My Calendar Name
+DESCRIPTION:A description of my calendar
+X-WR-CALDESC:A description of my calendar
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DTSTART:20220811T152608Z
