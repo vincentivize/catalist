@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Catagora Events
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:A calendar with public events and conferences to be synced ont
+ o catagora.
+BEGIN:VEVENT
+DTSTART:20221013T040000Z
+DTEND:20221017T035900Z
+DTSTAMP:20220819T183710Z
+UID:07euti19b98360uq7r8erpkc1o@google.com
+CREATED:20220314T013042Z
+DESCRIPTION:<p>The general outline for RSD11 is a three-day symposium with 
+ a pre-conference workshop day. The time frame under consideration is mid-Oc
+ tober\, and there’s hope that we can once again convene in person. RSD9 and
+  RSD10 were online events\, with a small in-person delegation at TU Delft i
+ n 2021\; Brighton plans to flip this and favour a place-based event. Howeve
+ r\, the team is mindful of the requirement to make presentations accessible
+  to systemic designers worldwide. The preliminary plan is to livestream key
+ note and plenary presentations and coordinate a dedicated online program ru
+ nning parallel over the conference days. A space will be made available on 
+ campus for in-person delegates to gather for the online program.</p><p><a h
+ ref="https://mailchi.mp/094b991e9c7c/rsd-updates"><u><b><i><i>Subscribe to 
+ the RSD Symposium newsletter for RSD11 updates.</i></i></b></u></a></p><p><
+ br></p><p>URL:&nbsp\;https://rsdsymposium.org/</p><p>Topics: Systems Design
+ <br>Locations: Brighton</p><p>Types: Symposium</p><p><br></p>
+LAST-MODIFIED:20220314T013042Z
+LOCATION:Hybrid Event
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hold the date: RSD11
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220405T133000Z
+DTEND:20220405T150000Z
+DTSTAMP:20220819T183710Z
+ORGANIZER;CN=Catagora Events:mailto:c_vjvc2aauj0ik9mac00jubvurl4@group.cale
+ ndar.google.com
+UID:6qi0umef1mus7g6cqg98o26038@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ ex@oncecollective.com;X-NUM-GUESTS=0:mailto:alex@oncecollective.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=we
+ ndy@everyoneswisdom.com;X-NUM-GUESTS=0:mailto:wendy@everyoneswisdom.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=domin
+ icgelfuso@gmail.com;X-NUM-GUESTS=0:mailto:dominicgelfuso@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ niel@seaworthycollective.com;X-NUM-GUESTS=0:mailto:daniel@seaworthycollecti
+ ve.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=everwi
+ seone@gmail.com;X-NUM-GUESTS=0:mailto:everwiseone@gmail.com
+CREATED:20220401T195100Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/8496
+ 5876723?pwd=dG10a0MzNk1xWGJxd3FDTmI3U0JjZz09 (ID: 84965876723\, passcode: 8
+ 04998)\n\nJoin by phone\n(US) +1 929-205-6099 (passcode: 804998)\n\nJoining
+  instructions: https://www.google.com/url?q=https://applications.zoom.us/ad
+ don/invitation/detail?meetingUuid%3DFz%252Bxr50rQVqTgDOp0BVMow%253D%253D%26
+ signature%3D786366c0c9d01a4fb0c7005646b13700a8fb8ba0a64b3179b83269699225db8
+ 8%26v%3D1&sa=D&source=calendar&usg=AOvVaw0PNxSGXDOGGfyHCZCcZIlv\n\nMeeting 
+ host: <a href="mailto:commons@catalist.org" target="_blank">commons@catalis
+ t.org</a>\n\nDo not edit this section of the description.\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220405T015353Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Catalist Collective Weekly Team/Advisor Meeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
