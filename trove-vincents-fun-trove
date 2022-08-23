@@ -1,1 +1,54 @@
-žée
+{
+  "elements": [
+
+{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowd-sourced library"
+},{
+"label":"Group",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962369452x518543624459538500/multiple-users-silhouette.png",
+"id":"Group",
+"type":"Element Type",
+"description":"Groups with an online community"
+},
+{
+        "id": "1661276890126x727042756784422900",
+"url":"https://www.humanetech.com/get-involved",
+"image":"https://assets-global.website-files.com/5f0e1294f002b15080e1f2ff/61324eee1a35c93bb61758dc_two-people-smiling-get-involved.png",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Event List"],
+"description":"Join Center for Humane Technologyâ€™s email list and attend free online events.",
+"size":"",
+"label":"Events List - Center for Humane Technology"
+    },{
+        "id": "1661276922167x647356197275435000",
+"url":"https://www.collaborative.tech/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962369452x518543624459538500/multiple-users-silhouette.png",
+"type":"Group",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Organization"],
+"description":"",
+"size":"",
+"label":"Collaborative Technology Alliance"
+    }
+],
+
+  "connections": [
+{
+        "id": "1661276944772x330356116902903800",
+        "from": "1661276922167x647356197275435000",
+        "to": "1661276890126x727042756784422900",
+"type":"could be funded by",
+"label":"Collaborative Technology Alliance could be funded by Events List - Center for Humane Technology"
+    }
+
+ ]
+}
