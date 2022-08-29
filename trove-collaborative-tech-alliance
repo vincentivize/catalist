@@ -20,6 +20,24 @@
 "type":"Element Type",
 "description":"Cross-organization calendar"
 },{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowd-sourced library"
+},{
+"label":"Link",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962126841x937328034580616300/034-link.svg",
+"id":"Link",
+"type":"Element Type",
+"description":"Links are group-specific urls crowdsourced from different group chats and events."
+},{
+"label":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"id":"Organization",
+"type":"Element Type",
+"description":"Public organization directory"
+},{
 "label":"Currencies & Funding",
 "image":"//s3.amazonaws.com/appforest_uf/f1652372714690x722690108357238100/finance_black.svg",
 "id":"1647152391687x633197867734409700",
@@ -79,6 +97,18 @@
 "id":"1617932270744x581573144551531800",
 "type":"Sector",
 "color":"#848384"
+},{
+"label":"Tools & Technology",
+"image":"",
+"id":"1656462683857x692740583462290600",
+"type":"Sector",
+"color":""
+},{
+"label":"Ethics",
+"image":"",
+"id":"1656462471614x108865993040546670",
+"type":"Sector",
+"color":""
 },{
 "label":"Global",
 "image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
@@ -1264,6 +1294,126 @@
 "description":"Welcome to the [color=rgb(26, 115, 232)][url=https://www.google.com/url?q=https://www.hylo.com/groups/collaborative-technology-alliance/join/Ns3yUfMuTV&sa=D&source=calendar&usd=2&usg=AOvVaw2IFS1aCd_PIvzAFHEJ9rsq]Collaborative Technology Alliance[/url][/color]! [b]We facilitate collaboration among those building social technology in service to a thriving world. [/b]These regular open community meetups build community among these values aligned technology platforms and move us towards our objective of interoperability between our respective platforms.",
 "size":"",
 "label":"Collaborative Technology Alliance Open Meetup "
+    },{
+        "id": "1660255843375x921187119912714200",
+"url":"https://www.nestr.io",
+"image":"https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/1147749/551626_187530.png",
+"type":"Project",
+"tags":["Decentralization"],
+"sectors":["Tools & Technology"],
+"locations":[],
+"types":[],
+"description":"Nestr.io is here to serve decentralised organisations get work done and to make sure the impact they create is aligned with your personal values.",
+"size":"",
+"label":"Decentralised collaboration. Create & find organisations you actually care for!"
+    },{
+        "id": "1660256798214x196405248897159040",
+"url":"https://www.collaborative.tech/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Collaborative Technology Alliance"
+    },{
+        "id": "1660256800007x750867831650021800",
+"url":"https://docs.google.com/document/d/16pJNHH8djewyvgQyVaHyYSi5l--R6D6MtoaVt5fQ41c/edit#heading=h.dbdo03tlgic5",
+"image":"https://lh3.googleusercontent.com/dUjC5NTk131QRCZNEY9y14ScdYz0GtRdJOQp1Dtw7he8mZ6-SB3OfZ_uPttrBmM3F9VL3HrGM1Nbuw=w1200-h630-p",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Google Doc"],
+"description":"Important Links CTA Landing page: https://www.collaborative.tech Meeting Link: https://zoom.us/j/98579753712?pwd=WkIxdHE2Y2V0ai9kNk9sbVYyUjJSQT09 👈☎️ In progress list of represented platforms Join the Hylo group Principles and values (previous era): http://198.38.77.184/~collaborative/principles...",
+"size":"",
+"label":"🤝📱⭕️ CTA Open Community Meeting notes"
+    },{
+        "id": "1660256805876x767601442984250100",
+"url":"https://dwebcamp.org",
+"image":"https://dwebcamp.org/static/img/fb-dwebcamp.png?year=2022a",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"We invite you to join us at the DWeb Camp!",
+"size":"",
+"label":"DWeb Camp 2022"
+    },{
+        "id": "1660256811920x651717626389299200",
+"url":"https://gnosisguild.mirror.xyz/WPcf59PdKVwCvKpBjqzXcGGx_UJazRrjFCch_22UhWk",
+"image":"https://mirror-media.imgix.net/publication-images/AkoPaqW77wICZzT79xokA.png?height=1000&width=1999&h=1000&w=1999&auto=compress",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"zodiac.wiki is a living resource for DAOs. The wiki houses documentation, a library, and a pattern language for organizations.",
+"size":"",
+"label":"Zodiac.wiki Begins"
+    },{
+        "id": "1660256832823x926683772981506600",
+"url":"https://murmurations.network",
+"image":"https://murmurations.network/wp-content/uploads/2021/02/profile-icons4.gif",
+"type":"Project",
+"tags":["Resource Aggregator"],
+"sectors":["Software Internet & Automation"],
+"locations":["Global"],
+"types":["Platform Website","Protocol"],
+"description":"The Murmurations protocol is a new way to manage directories and maps.",
+"size":"",
+"label":"Murmurations – Making Movements Visible"
+    },{
+        "id": "1660256842569x350189356486010560",
+"url":"https://www.catalist.network/framework/the-encyclopedia-of-world-problems-and-human-potential-1647141703525x383193510163831940",
+"image":"https://dd7tel2830j4w.cloudfront.net/f1637688036873x574664730130787000/Icon%20Color.svg",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"The Encyclopedia of World Problems and Human Potential is an online platform with profiles or world problems, action strategies, and human values that are interlinked in novel and innovative ways.\\n",
+"size":"",
+"label":"THE ENCYCLOPEDIA of World Problems and Human Potential"
+    },{
+        "id": "1660320418874x698716089624996000",
+"url":"https://www.catalist.network/event/mapathon22",
+"image":"//s3.amazonaws.com/appforest_uf/f1660153472315x696755507093088900/Screen%20Shot%202022-08-03%20at%2011.59.04%20AM.png",
+"type":"Event",
+"tags":[],
+"sectors":["Systems Design & Thinking","Regenerative Economy & Systems"],
+"locations":["Global"],
+"types":["Hackathon Event"],
+"description":"Join us for the second annual Mapathon, a virtual gathering with opportunities for interactive demonstrations of maps, discussing and developing interoperability of data across maps, and showcasing mapping projects.",
+"size":"",
+"label":"MAPATHON22 "
+    },{
+        "id": "1660881187218x399954068410970800",
+"url":"https://docs.google.com/spreadsheets/d/1-FDyQSz2oNnxKbwSb_hvaGG7izFe8J8x9wYqSTvvNCU/htmlview",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962126841x937328034580616300/034-link.svg",
+"type":"Link",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"A list of list sites that are doing mapping",
+"size":"",
+"label":"Database of Maps and directories - Google Drive"
+    },{
+        "id": "1661274276955x502196416566263800",
+"url":"https://www.humanetech.com/",
+"image":"https://assets-global.website-files.com/5f0e1294f002b15080e1f2ff/61324eeea8507b26ff6a411a_people-interacting-home.png",
+"type":"Organization",
+"tags":[],
+"sectors":["Technology Culture & Society","Ethics"],
+"locations":[],
+"types":["Non-Profit"],
+"description":"We’re a nonprofit exposing the negative effects of persuasive technology and social media and empowering people to take action. Discover The Social Dilemma, our podcast, course, and more.",
+"size":"",
+"label":"Center for Humane Technology"
     }
 ],
 
@@ -1302,6 +1452,27 @@
         "to": "1660242209362x932654881984030800",
 "type":"is related to",
 "label":"CTA Kumu Ecosystem Map Design  is related to Collaborative Tech Alliance "
+    }
+,{
+        "id": "1660320238686x153133359135457280",
+        "from": "1660256800007x750867831650021800",
+        "to": "1660242209362x932654881984030800",
+"type":"are related to",
+"label":"🤝📱⭕️ CTA Open Community Meeting notes are related to Collaborative Tech Alliance "
+    }
+,{
+        "id": "1661274296148x709765911209050100",
+        "from": "1661274276955x502196416566263800",
+        "to": "1660242209362x932654881984030800",
+"type":"might partner with",
+"label":"Center for Humane Technology might partner with Collaborative Tech Alliance "
+    }
+,{
+        "id": "1661797251138x728173115827814400",
+        "from": "1660320418874x698716089624996000",
+        "to": "1660242219100x632470605006407600",
+"type":"is being run by",
+"label":"MAPATHON22  is being run by Vincent Arena"
     }
 
  ]
