@@ -8,6 +8,12 @@
 "type":"Element Type",
 "description":"Project Listings"
 },{
+"label":"Profile",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"id":"Profile",
+"type":"Element Type",
+"description":"People on Trove"
+},{
 "label":"Science",
 "image":"//s3.amazonaws.com/appforest_uf/f1647649703976x657608000858449500/images",
 "id":"1647152514608x403814582090233660",
@@ -33,7 +39,7 @@
 "color":""
 },{
 "label":"Economics",
-"image":"//s3.amazonaws.com/appforest_uf/f1662564840694x780524149789647600/regen_black.svg",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401632599x649014382106157200/regen_black.svg",
 "id":"1647152447125x343484851979146500",
 "type":"Sector",
 "color":""
@@ -97,6 +103,21 @@
 "label":"Brazil",
 "image":"https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
 "id":"1616721863961x746649880973713900",
+"type":"Location"
+},{
+"label":"United States",
+"image":"https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+"id":"1616721865309x594758950764184200",
+"type":"Location"
+},{
+"label":"Long Island",
+"image":"",
+"id":"1616721864730x373398047261701300",
+"type":"Location"
+},{
+"label":"Italy",
+"image":"https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+"id":"1616721864726x728397655671531600",
 "type":"Location"
 },
 {
@@ -4935,10 +4956,30 @@
 "description":"",
 "size":"",
 "label":"Co-creators website"
+    },{
+        "id": "1666109648213x974095518837124100",
+"url":"https://www.catalist.network/profile/vincentarena",
+"object url":"https://www.catalist.network/trove/gaianet?object=1666109648213x974095518837124100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1662071266921x839042517086788400/IMG_0798.JPG",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":["United States","Long Island","Italy"],
+"types":[],
+"description":"Systems designer, social entrepreneur, and knowledge architect. Founder of Catalist",
+"size":"",
+"label":"Vincent Arena"
     }
 ],
 
   "connections": [
+{
+        "id": "1666109710907x480990502772801540",
+        "from": "1666109648213x974095518837124100",
+        "to": "1664289167989x723038635742484200",
+"type":"is the founder of",
+"label":"Vincent Arena is the founder of Catalist / Trove"
+    }
 
  ]
 }
