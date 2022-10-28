@@ -1,1 +1,115 @@
-žée
+{
+  "elements": [
+
+{
+"label":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"id":"Organization",
+"type":"Element Type",
+"description":"Public organization directory"
+},{
+"label":"Topic",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"id":"Topic",
+"type":"Element Type",
+"description":"Keywords | Tags"
+},{
+"label":"Cooperative Economics",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401985375x613531896996969000/development.svg",
+"id":"1615672041914x529299116575827400",
+"type":"Sector",
+"color":"#77C98D"
+},
+{
+        "id": "1666990806888x704691603090440200",
+"url":"https://www.start.coop/",
+"image":"http://static1.squarespace.com/static/6050c2097c48962521ffcba9/t/61520796f5fb4f0c9592645d/1632765846129/Stocksy_txp91dc51b2CH6300_Medium_2939090.jpg?format=1500w",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"A new generation of entrepreneurs want to build transformative and scalable businesses that align with their values and which combat - rather than perpetuate - economic and race-based inequality.  But how? Co-ops: a robust and equitable ownership model and an alternative to traditional, winner-takes-all capitalism.",
+"size":"",
+"label":"Start.coop"
+    },{
+        "id": "1666990908418x924395001363562500",
+"url":"https://zebrasunite.coop/",
+"image":"http://static1.squarespace.com/static/588e67e0a5790aa54e649863/t/58bcc141893fc04255ab7040/1607919955562/Screen+Shot+2017-03-05+at+7.50.27+PM.png?format=1500w",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"A founder-led, cooperatively owned movement creating the culture, capital & community for the next economy ",
+"size":"",
+"label":"Zebras Unite Co-Op"
+    },{
+        "id": "1666990927972x246223032706924540",
+"url":"https://slicingpie.com/how-to-use-a-dynamic-equity-split-program-so-everyone-gets-what-they-deserve/",
+"image":"https://slicingpie.com/wp-content/uploads/2015/09/cropped-p11.png",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Slicing Pie is a formula that allows founders to create a PERFECTLY FAIR equity split between founders, investors, partners and employees.",
+"size":"",
+"label":"Slicing Pie: Perfect Equity Splits for Bootstrapped Startups"
+    },{
+        "id": "1666991000971x362419625180528640",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Cooperative Economics"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Workers Cooperative"
+    },{
+        "id": "1666991228325x856083018216374300",
+"url":"https://www.colorado.edu/lab/medlab/exit-to-community#:~:text=Exit%20to%20Community%20(E2C)%20is,by%20their%20community%20of%20stakeholders%3F",
+"image":"https://www.colorado.edu/lab/medlab/sites/default/files/styles/square/public/article-thumbnail/2298-1406-max_2.png?itok=LHusiIzz",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Exit to Community (E2C) is an effort to develop alternatives to the standard model of the startup \"exit.\" Rather than simply aiming for an acquisition by a more established company or a public stock offering, could startups aim to mature into ownership by their community of stakeholders? Through policy research, popular education, and partnership with interested startups, MEDLab is exploring pathways for making the answer a yes.",
+"size":"",
+"label":"Exit To Community | Media Enterprise Design Lab | University of Colorado Boulder"
+    },{
+        "id": "1666991269313x411267523040772100",
+"url":"https://platform.coop/",
+"image":"https://platform.coop/wp-content/uploads/2019/04/LandingPage_Hero.jpg",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"A hub that helps you start, grow, or convert to platform co-ops.",
+"size":"",
+"label":"Platform Cooperativism Consortium | A hub that helps you start, grow, or convert to platform co-ops."
+    }
+],
+
+  "connections": [
+{
+        "id": "1666991017334x624785586239045600",
+        "from": "1666990908418x924395001363562500",
+        "to": "1666991000971x362419625180528640",
+"type":"is a",
+"label":"Zebras Unite Co-Op is a Workers Cooperative"
+    }
+,{
+        "id": "1666991024742x613994001792499700",
+        "from": "1666990806888x704691603090440200",
+        "to": "1666991000971x362419625180528640",
+"type":"teaches",
+"label":"Start.coop teaches Workers Cooperative"
+    }
+
+ ]
+}
