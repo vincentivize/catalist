@@ -1,1 +1,35 @@
-žée
+{
+  "elements": [
+
+{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowd-sourced library"
+},{
+"label":"Collective Action & Collaboration",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401517023x357155348635609860/collaboration.svg",
+"id":"1615672041912x871760549889363100",
+"type":"Sector",
+"color":"#FFC04A"
+},
+{
+        "id": "1667208793518x885171848949530600",
+"url":"https://www.notion.so/F-rum-Popular-de-Cultura-de-Lumiar-e-Biorregi-o-db2ceaeb500044dfa9ac8c6dff5da865",
+"image":"https://www.notion.so/images/meta/default.png",
+"type":"Resource",
+"tags":["Community-building"],
+"sectors":["Collective Action & Collaboration"],
+"locations":[],
+"types":["Aggregation Website"],
+"description":"A new tool that blends your everyday work apps into one. Itâ€™s the all-in-one workspace for you and your team",
+"size":"",
+"label":"Notion â€“ The all-in-one workspace for your notes, tasks, wikis, and databases."
+    }
+],
+
+  "connections": [
+
+ ]
+}
