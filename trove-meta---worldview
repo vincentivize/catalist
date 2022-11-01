@@ -1,1 +1,866 @@
-��e
+{
+  "elements": [
+
+{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowd-sourced library"
+},{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Element Type",
+"description":"Project Listings"
+},{
+"label":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"id":"Organization",
+"type":"Element Type",
+"description":"Public organization directory"
+},{
+"label":"Post",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"id":"Post",
+"type":"Element Type",
+"description":"Photos, quotes, or text"
+},{
+"label":"Product",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961966246x836694866797873900/shopping-bag.svg",
+"id":"Product",
+"type":"Element Type",
+"description":"A product or a service from a Trove member."
+},{
+"label":"Infrastructure",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649696424x409594126033386000/images",
+"id":"1647152511060x835582580126596900",
+"type":"Sector",
+"color":""
+},{
+"label":"Relations",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649702422x694809907248845600/images",
+"id":"1647152513785x469083540417545300",
+"type":"Sector",
+"color":""
+},{
+"label":"Governance",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401634075x546260069486912640/keynote.png",
+"id":"1647152448910x333419692378226400",
+"type":"Sector",
+"color":""
+},{
+"label":"Spirituality",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649705569x947375107431533900/images",
+"id":"1647152515573x637553918953792400",
+"type":"Sector",
+"color":""
+},{
+"label":"Worldview",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401638715x523807631177184400/systems-8.png",
+"id":"1647152454133x619064176998900700",
+"type":"Sector",
+"color":""
+},{
+"label":"Spirituality & Religion",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401557380x355693714545063600/spirit_black.svg",
+"id":"1647152355344x666921787965614500",
+"type":"Sector",
+"color":"#9b59b6"
+},{
+"label":"Mental Health & Emotions",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401994306x703501801017188400/brain.png",
+"id":"1615672041912x583433534843689900",
+"type":"Sector",
+"color":"#E53A4F"
+},{
+"label":"Relations & Economics",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401572367x921388272910944800/date_hires.png",
+"id":"1647152409336x703290781175576800",
+"type":"Sector",
+"color":"#77C98D"
+},{
+"label":"Innovation Invention & Ideation",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401999589x709288069481431800/idea_black.svg",
+"id":"1615672041911x807003397722303500",
+"type":"Sector",
+"color":"#848384"
+},{
+"label":"Sensemaking & Rationality",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401973793x108849560147118660/question.svg",
+"id":"1615672041912x956113185838111600",
+"type":"Sector",
+"color":"#9b59b6"
+},{
+"label":"Environment",
+"image":"//s3.amazonaws.com/appforest_uf/f1647649691660x273258215584094370/images",
+"id":"1647152508480x327475035801030340",
+"type":"Sector",
+"color":""
+},{
+"label":"Regenerative Ecosystems",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401698889x520453535243311500/regenerative-ecosystems.png",
+"id":"1647540087109x125153074792830220",
+"type":"Sector",
+"color":""
+},{
+"label":"Economics",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401632599x649014382106157200/regen_black.svg",
+"id":"1647152447125x343484851979146500",
+"type":"Sector",
+"color":""
+},
+{
+        "id": "1654541959590x970344589858701300",
+"url":"https://www.impactx.co/net/organization/cii",
+"image":"https://www.impactx.co/net/public/sitepage_page/ba/35/38d31af5279e7c2e3084ccf7b06fdbee.png",
+"type":"Resource",
+"tags":["UX Design"],
+"sectors":["Infrastructure","Relations"],
+"locations":[],
+"types":["Platform Website"],
+"description":"(Suggested by Killu) The CII mission is to evolve and deploy models of Mutuality, where self-determined people are strengthened in shaping their own futures, and where they create a ripple-effect of peer-driven change by leading, mentoring, and sharing in a continuous circle.  The Mutuality Platform is a tool that can be used by most communities to showcase and track local efforts, promoting the new social change field of \"peer-driven change\". It is a safe eco-system of residents and supporters who are willing to share and assist one another towards improving their lives and communities.  This platform allows like-minded residents and communities to connect within a region or across continents in support of one another.  It also allows supporters to donate/invest in resident-led efforts.  ",
+"size":"",
+"label":"Community Independence Initiative - ImpactX"
+    },{
+        "id": "1654706396673x136760324459069440",
+"url":"https://docs.google.com/document/d/1NgmAh0URGHvGIjp706n3DYqFAAmQenIFUUtL3NKADvY/edit?usp=sharing",
+"image":"//s3.amazonaws.com/appforest_uf/f1654706238221x274744595899462750/Hands%20over%20the%20Earth.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Google Doc"],
+"description":"Focused on providing meaning, by listening to what's emerging, finding the patterns that are trying to become part of the Meta Project and providing a heads up to the Team when something unseen needs to be highlighted, celebrated or averted.",
+"size":"",
+"label":"Meta Project Wisdom Council - Statement of Intention"
+    },{
+        "id": "1654706757155x723154806315155500",
+"url":"https://youtu.be/LyVFPrlLM94",
+"image":"https://i.ytimg.com/vi/LyVFPrlLM94/maxresdefault.jpg",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Project"],
+"description":"AI engine that is already operational that could support the Map Weavers AND the coordination efforts of the Meta Project as a whole",
+"size":"",
+"label":"Zeek, Wendy, Lisa & Brian Nooverse presentation 2022 June 10"
+    },{
+        "id": "1654706878633x766442784087343100",
+"url":"https://docs.google.com/document/d/1uovTo4SE72GY7t-ZvUsIk6ZJI7iHOn0952lUFeLqVdA/edit#heading=h.6jmq4uuhfz6k",
+"image":"https://lh6.googleusercontent.com/QoFRnSyW4CGHQPaymBCDa-4JEMAhXvc06eZORWX6h0Tp_akEE3jGjAmZkK5WriKqfZSBo3bNTRzviQ=w1200-h630-p",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Startup Project"],
+"description":"Now in Alpha.  Summary of the project\\nThis doc started with a April 1, 2022 demo in Flotilla ",
+"size":"",
+"label":"IndyLab and StopResetGo"
+    },{
+        "id": "1654706993826x898996034253619200",
+"url":"https://www.winfinityframework.com",
+"image":"http://static1.squarespace.com/static/61b03d9060018c53052aab60/t/61b5252b1a6cb63df8ea97ca/1639261483917/WINfinityLogo.png?format=1500w",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Partnering between WINfinity and Meta Project to bring in facilitators for onboarding.",
+"size":"",
+"label":"WINfinity - Facilitator Community"
+    },{
+        "id": "1654722217090x770925765749375000",
+"url":"https://www.everyoneswisdom.com/emergence",
+"image":"//s3.amazonaws.com/appforest_uf/f1655940472098x442792766205638600/Cycle%20of%20Emergence%20-%20Main%20Stages%20-%20May%202022.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"As everything else falls away, what is left?  The cycle of creation is always there.\\nHere we are exploring the Cycle of Emergence, of Co-Creation, that leads to Wisdom, from the understanding that there's something uniquely human and essential about recognizing patterns within the novel and the chaos.  At its best, humanity is creative, innovative, collaborative and wise.  Let's explore more about how this works so we can create the right environments, put it on repeat, mine it for success and be better prepared to meet the challenges ahead.",
+"size":"",
+"label":"Emergence | Everyone’s Wisdom"
+    },{
+        "id": "1654747773319x973461179052326900",
+"url":"https://docs.google.com/document/d/1BR8Iv-O87-WRY2-VhbvB_O0qsWUy_QOGn_2MwNj7xz0/edit#heading=h.q3nlgn2mchu9",
+"image":"http://static1.squarespace.com/static/61b03d9060018c53052aab60/t/61b5252b1a6cb63df8ea97ca/1639261483917/WINfinityLogo.png?format=1500w",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Google Doc"],
+"description":"Meta Project Values & Purpose notes pulled together June 2022 Table of Contents Character Strengths Harvested from Meta Project meeting April Definitions / Clarity Shared Emerging Statements of Shared Purpose Emerging themes - Shared Values Importance of vulnerability & Bringing our whole sel...",
+"size":"",
+"label":"Meta Project - Values & Purpose"
+    },{
+        "id": "1654747892528x574020918585851900",
+"url":"https://www.winfinityframework.com/flint",
+"image":"https://images.squarespace-cdn.com/content/v1/61b03d9060018c53052aab60/7f129c61-fb0d-4a29-9588-0a59f8b27900/WINfinityLogo.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Startup Project"],
+"description":"FLINT for values based decision making.\\nAlpha testing by late summer.  ",
+"size":"",
+"label":"Flint — WINfinity"
+    },{
+        "id": "1654748041855x715650752199786500",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Deep research on governance and finance, providing profound awareness of old systems and propelling us into the new",
+"size":"",
+"label":"Panterra - Governance & Finance"
+    },{
+        "id": "1655095742284x747913015244881900",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"type":"Post",
+"tags":[],
+"sectors":["Governance"],
+"locations":[],
+"types":[],
+"description":"Invite Dick Schulze to share his expertise with those interested.",
+"size":"",
+"label":"Intellectual Property Law"
+    },{
+        "id": "1655934105559x433477793252900860",
+"url":"https://www.amazon.com/Seventh-Sense-Fortune-Survival-Networks/dp/1478909102",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961966246x836694866797873900/shopping-bag.svg",
+"type":"Product",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Amazon Listing","Book","Book","Book"],
+"description":"Harnessing the power of human connections to change the world.",
+"size":"",
+"label":"Seventh Sense Fortune Survival Networks"
+    },{
+        "id": "1655934299960x288237161871573000",
+"url":"https://hypha.earth",
+"image":"https://hypha.earth/wp-content/uploads/2022/05/og-image.jpg",
+"type":"Organization",
+"tags":["DAOs"],
+"sectors":["Governance","Infrastructure"],
+"locations":[],
+"types":["Platform Website"],
+"description":"Building decentralised apps to empower communities with the tools of decentralised and autonomous governance.",
+"size":"",
+"label":"Home - Hypha"
+    },{
+        "id": "1655940074904x312028763865481200",
+"url":"https://www.pinterest.com/pin/563018693363429/",
+"image":"https://i.pinimg.com/736x/e7/41/8c/e7418c72e4c4dbb7c15a6c729040182d.jpg",
+"type":"Post",
+"tags":["Personal development"],
+"sectors":["Spirituality"],
+"locations":[],
+"types":["Tool","Tool"],
+"description":"Calling...\\nMost people live their day to day thinking about nothing more than making sure they have money to pay bills, buy things they want and need. Not many are concerned on figuring out what their calling...",
+"size":"",
+"label":"Find Your Purpose"
+    },{
+        "id": "1656973927280x842588727563780100",
+"url":"https://www.kosmosjournal.org/kj_article/the-holomovement/",
+"image":"https://www.kosmosjournal.org/wp-content/uploads/2021/09/implicate-order-scaled.jpeg",
+"type":"Resource",
+"tags":[],
+"sectors":["Worldview"],
+"locations":[],
+"types":[],
+"description":"In recognition of Bohm’s vision and the subsequent realization of the synergistic energy arising, the term “holomovement” perfectly describes the sociological phenomenon underlying the worldwide movement towards unity.",
+"size":"",
+"label":"The Holomovement"
+    },{
+        "id": "1657043927599x491519625593094140",
+"url":"https://www.everyoneswisdom.com/post/vibration-an-early-detection-system",
+"image":"https://static.wixstatic.com/media/8caaf8_4613b45a5c8c45689b782ce81a570b8a~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpg",
+"type":"Post",
+"tags":[],
+"sectors":["Worldview"],
+"locations":[],
+"types":["Idea"],
+"description":"We are being called to practice making the unseen seen by noticing the slightest change in vibration. We are practicing discerning and feeling into the subtle shifts, so that we can notice emerging patterns sooner. We can learn to “see” them coming from farther down the road, when they’re just a whi…",
+"size":"",
+"label":""Vibration - An Early Detection System""
+    },{
+        "id": "1658175988355x756414207025479700",
+"url":"http://www.resiliencefrontiers.org/objectives-and-pathways/",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":[],
+"sectors":["Governance"],
+"locations":[],
+"types":["Purpose"],
+"description":"Resilience Frontiers legitimacy comes from a sound methodological foresight analysis process that was developed for the 2019 Songdo Resilience Frontiers brainstorming conference. The collective intelligence exercise used an amalgam of foresight methodologies of UNESCO’s Futures Literacy Lab and Futur/io’s moonshot approaches, which helped to distill the core visions for a resilient future.\\n\\nThis effort resulted in a rigorous consideration of the expected paradigm shifts of the coming decade, and in the identification of three cross-cutting objectives and eight solid pathways towards a resilient future.  ",
+"size":"",
+"label":"Resilience Frontiers - 8 interrelated pathways"
+    },{
+        "id": "1658176375430x561125521419927550",
+"url":"https://docs.google.com/document/d/1huyqGH4I9Lcr14IUp68Uu1yf4mrNjm1tdi_VNk7MPf0/edit?usp=sharing",
+"image":"https://lh3.googleusercontent.com/Y6JWkPXcm_6-mgYD3vA3j4PupSVr9cNQ-BdVl86gVGb9wWR6AlOj77OaOKA-Z5RbAAg5udESo3wdSw=w1200-h630-p",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Google Doc"],
+"description":"The Tapestry of Wisdom - A positive vision for a new way to thrive individually andin community with all living things.By Wendy McLean, Everyone’s Wisdom \\n“We cannot live for ourselves alone. Our lives are connected by a thousand invisible threads, and along these sympathetic fibers, our actions ...",
+"size":"",
+"label":"The Tapestry of Wisdom"
+    },{
+        "id": "1658176906095x587493443710484500",
+"url":"https://docs.google.com/document/d/1BR8Iv-O87-WRY2-VhbvB_O0qsWUy_QOGn_2MwNj7xz0/edit?usp=sharing",
+"image":"https://lh4.googleusercontent.com/fDGy9McP1GFaZJpUjz_noa3s3BnW7Ca5bYewyvbZDl5-_31kvHUZnmmx0bwdNLd3HNew70mfWU5gtg=w1200-h630-p",
+"type":"Resource",
+"tags":["Values alignment"],
+"sectors":["Governance"],
+"locations":[],
+"types":["Google Doc"],
+"description":"Meta Project - Values & Purpose \\nnotes pulled together June 2022 ",
+"size":"",
+"label":"Meta Project - Values & Purpose"
+    },{
+        "id": "1658633856240x124548770559426560",
+"url":"https://www.yesmagazine.org/health-happiness/2013/12/28/the-ancient-greeks-6-words-for-love-and-why-knowing-them-can-change-your-life",
+"image":"https://i0.wp.com/www.yesmagazine.org/wp-content/uploads/imports/1d72f5a0078c4b568104cdc0c2e10c87.jpg?fit=650%2C425&quality=90&ssl=1",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Looking for an antidote to modern culture’s emphasis on romantic love? Perhaps we can learn from the diverse forms of emotional attachment prized by the ancient Greeks.",
+"size":"",
+"label":"The Ancient Greeks’ 6 Words for Love (And Why Knowing Them Can Change Your Life) - YES! Magazine"
+    },{
+        "id": "1658634102431x762580435516260400",
+"url":"https://www.5lovelanguages.com",
+"image":"https://5lovelanguages.com/img/e299cb2b-611b-4ae5-bab9-6285a1ec89dd/og_home.jpg?fm=jpg&q=80&fit=max&crop=1200%2C627%2C0%2C0",
+"type":"Resource",
+"tags":[],
+"sectors":["Spirituality & Religion","Relations"],
+"locations":[],
+"types":[],
+"description":"The 5 Love Languages® Quiz is easy, insightful, and always free. Learn your love language, and get equipped to build a love that lasts.",
+"size":"",
+"label":"Discover Your Love Language - The 5 Love Languages®"
+    },{
+        "id": "1658902927024x318261158888865800",
+"url":"https://davidburkus.com/2022/07/how-to-think-strategically-as-a-leader/",
+"image":"https://davidburkus.com/wp-content/uploads/2022/07/How-To-Think-Strategically-As-A-Leader.png",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"In this article, we’ll review five relatively simple questions leaders need to ask often to think strategically.",
+"size":"",
+"label":"How To Think Strategically As A Leader | David Burkus"
+    },{
+        "id": "1658933428387x815734200637325300",
+"url":"https://www.collectivetraumabook.com",
+"image":"https://collectivetraumasummit.com/wp-content/uploads/2020/09/Thomas_Book_FBShare.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":["Mental Health & Emotions"],
+"locations":[],
+"types":[],
+"description":"Activate the evolutionary intelligence of humanity",
+"size":"",
+"label":"Healing Collective Trauma - A New Book by Thomas Hübl"
+    },{
+        "id": "1659015451822x101123607454547970",
+"url":"https://mosheengelberg.com/positive-vibes-positive-energy-positive-results-three-steps-to-bring-more-positivity-into-your-organization/",
+"image":"https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_185,h_80/https://mosheengelberg.com/wp-content/uploads/2020/09/moshe-wave-logo-80px.png",
+"type":"Resource",
+"tags":[],
+"sectors":["Governance","Relations"],
+"locations":[],
+"types":["Blog Website","Newsletter"],
+"description":"Weekly Newsletter / Blog post - \"Be the Chief Vibe Officer\"",
+"size":"",
+"label":"Positive Vibes, Positive Energy, Positive Results: Three Steps to Bring More Positivity into Your Organization | Moshe Engelberg, PhD, MPH"
+    },{
+        "id": "1659043343815x142952365269712900",
+"url":"https://davidburkus.com/2022/07/two-types-of-trust-on-teams/",
+"image":"https://davidburkus.com/wp-content/uploads/2022/07/Two-Types-of-Trust-on-Teams.png",
+"type":"Resource",
+"tags":["Events","Community-building","Co-Creative","Co-Ownership","trust","Human Resources","Communities","Social Good","Social Entrepreneurship","Group","Entrepreneurship","Cooperative Entrepreneurship","Innovation Ecosystems"],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"There isn’t just one form of trust that matters on a team: there’s two. And it’s worth examining each in turn before considering how to build trust on teams.",
+"size":"",
+"label":"Two Types Of Trust On Teams | David Burkus"
+    },{
+        "id": "1659649690492x327119118750711800",
+"url":"https://www.craft.do/s/17Iyvt9sTnx3CZ/b/C80A91A2-90A7-476D-AB2F-127463CA6056/Introduction",
+"image":"https://api.craft.do/render/preview/17Iyvt9sTnx3CZ/b/C80A91A2-90A7-476D-AB2F-127463CA6056/Introduction",
+"type":"Resource",
+"tags":[],
+"sectors":["Relations & Economics","Relations"],
+"locations":[],
+"types":[],
+"description":"A framework, system, and currency originally constructed to be a guide for a family named the Loveroots. Through acknowledging the many ways families are supported in our current American culture and the many ways families are not...",
+"size":"",
+"label":"Family Life Design"
+    },{
+        "id": "1659650246458x276194633926049800",
+"url":"https://www.cipherproxy.com",
+"image":"https://i0.wp.com/www.cipherproxy.com/wp-content/uploads/2022/01/Cipher_Proxy_Logo_-_Long_-_Dark_Mode_-_Web.png?resize=768%2C160&ssl=1",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"A web3 research collective and project laboratory developing decentralized projects and protocols",
+"size":"",
+"label":"Cipher Proxy - Web3 R&D Collective"
+    },{
+        "id": "1659718669554x151913442537635840",
+"url":"https://youtu.be/94wx6xWjQ8o",
+"image":"https://i.ytimg.com/vi/94wx6xWjQ8o/maxresdefault.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":["Innovation Invention & Ideation","Infrastructure"],
+"locations":[],
+"types":["Youtube Video"],
+"description":"Knowledge in Service of Humanity. \\nWe believe the unification of knowledge is one key step on the road to effecting worldwide systems change and bringing about ...",
+"size":"",
+"label":"The Brane - Knowledge Graphs - ISS demo NASA "
+    },{
+        "id": "1659936719328x190683371942707200",
+"url":"https://yellowbarnfarm.typeform.com/to/jvdYLCrf",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":["Gamification","regenerative agriculture","Onboarding"],
+"sectors":["Governance"],
+"locations":[],
+"types":["Website"],
+"description":"You have been invited to create a Player Profile. Please block out 1-2 hours of time to at a computer to complete this form.",
+"size":"",
+"label":"My150 Player Profile"
+    },{
+        "id": "1659937362817x712423894846537700",
+"url":"https://miro.com/app/board/o9J_lSIhBkE=/",
+"image":"https://miro.com/api/v1/boards/o9J_lSIhBkE=/picture?etag=G",
+"type":"Resource",
+"tags":["Gamification","Resource Based Economy","Ecosystems","Ecosystems","Sacred Geometry"],
+"sectors":["Governance","Relations"],
+"locations":[],
+"types":["Miro Board"],
+"description":"Azuraye: \"my braindump on all the theory behind the questions on how people organize\"",
+"size":"",
+"label":"Geometries"
+    },{
+        "id": "1659940579110x276219478479732740",
+"url":"https://plex.collectivesensecommons.org",
+"image":"https://static.ghost.org/v4.0.0/images/publication-cover.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Blog Website","Newsletter"],
+"description":"News and views from around the Plex. Biweekly newsletter",
+"size":"",
+"label":"Biweekly Plex Dispatch"
+    },{
+        "id": "1660192159221x538499537023008800",
+"url":"https://www.positivityresonance.com",
+"image":"https://www.positivityresonance.com/_images/PBcover_tilted.png",
+"type":"Resource",
+"tags":[],
+"sectors":["Relations"],
+"locations":[],
+"types":["Book","Book","Book"],
+"description":"How Our Supreme Emotion Affects Everything We Feel, Think, Do, and Become.  \\nIt's time to upgrade your view of love. Love 2.0 offers new lenses for seeing and more fully appreciating micro-moments of connection. Dr. Barbara Fredrickson gives you the lab-tested tools to unlock more love in your life.",
+"size":"",
+"label":"Love 2.0 - Positivity Resonance"
+    },{
+        "id": "1660222940046x632788676644175900",
+"url":"https://www.udemy.com/course/science-of-success/",
+"image":"https://img-c.udemycdn.com/course/480x270/1502604_5211.jpg",
+"type":"Resource",
+"tags":["Positivity","Parenting Classes","Wellbeing"],
+"sectors":["Relations"],
+"locations":[],
+"types":["Online Course"],
+"description":"Create a better tomorrow now!  Help kids thrive in our stressed-out world with proven tools from Positive Psychology.\\nFor parents and teachers!  Raising responsible, intelligent, well-adjusted children is the toughest job we will ever have. In this course, Wendy shares over 20 science-based tools, requiring only a few minutes each, to empower your kids toward a lifetime of flourishing!",
+"size":"",
+"label":"Science of Success: An intro course in happiness"
+    },{
+        "id": "1660223206663x975642081686192100",
+"url":"https://www.coursera.org/learn/the-science-of-well-being",
+"image":"https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~the-science-of-well-being/XDP~COURSE!~the-science-of-well-being.jpeg",
+"type":"Resource",
+"tags":["Positivity","Wellbeing"],
+"sectors":["Relations"],
+"locations":[],
+"types":["Online Course"],
+"description":"Learn The Science of Well-Being from Yale University. In this course you will engage in a series of challenges designed to increase your own happiness and build more productive habits. As preparation for these tasks, Professor Laurie Santos ...",
+"size":"",
+"label":"The Science of Well-Being"
+    },{
+        "id": "1660309575177x717314164183269400",
+"url":"https://aginnovations.org",
+"image":"https://aginnovations.org/wp-content/uploads/2019/07/ag-innovations.png",
+"type":"Organization",
+"tags":["Innovation","Community / Local / Collaboration","Cooperation","Regenerative Agriculture"],
+"sectors":[],
+"locations":[],
+"types":["Non-Profit","Network","Climate Change Platform"],
+"description":"Helping to build a California ready to thrive in a rapidly changing world. Ideas and actions needed for healthy farms, communities, and ecosystems.",
+"size":"",
+"label":"Ag Innovations | Collaboration with Impact"
+    },{
+        "id": "1661374920267x784624561868505100",
+"url":"https://www.wbcsd.org/Overview/About-us/Vision_2050",
+"image":"https://www.wbcsd.org/bundles/app/images/wbcsd_logo.svg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"WBCSD is a global, CEO-led organization of over 200 leading businesses working together to accelerate the transition to a sustainable world.",
+"size":"",
+"label":"Vision 2050 - World Business Council for Sustainable Development (WBCSD)"
+    },{
+        "id": "1662656133111x930876741523603500",
+"url":"https://nxplorers.com/uploads/docs/en/Scenario-Planning-Quadrant-EN.pdf",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":[],
+"sectors":["Sensemaking & Rationality","Governance"],
+"locations":[],
+"types":["Tool","Tool"],
+"description":"HELPS YOU TO CREATE SCENARIOS IN ORDER TO EXPLORE A VARIETY OF POSSIBLE FUTURES BEFORE MAKING CHOICES ABOUT A PREFERRED FUTURE",
+"size":"",
+"label":"Scenario Planning Quadrant Tool"
+    },{
+        "id": "1662664123855x676030163136806900",
+"url":"https://mariannewilliamson.substack.com/p/now-is-a-magic-hour",
+"image":"https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8791df84-0b33-48ba-bb17-7ec81b54e708_2121x1414.jpeg",
+"type":"Resource",
+"tags":["Values alignment"],
+"sectors":["Governance"],
+"locations":[],
+"types":["/now Page","Blog Article"],
+"description":"The sunset of one world and the dawning of another.  “Any system unaligned with radically humanitarian values will not survive the chaos.” ~MAWilliamson",
+"size":"",
+"label":"NOW IS A MAGIC HOUR"
+    },{
+        "id": "1662667136992x803948661402239000",
+"url":"https://www.ioecorp.com",
+"image":"https://ioecorp.com/assets/images/logo/logo2.jpeg",
+"type":"Organization",
+"tags":["Quantum Computing","Blockchain","web3"],
+"sectors":["Infrastructure"],
+"locations":[],
+"types":["Organization Website"],
+"description":"Internet of Everything Corp. develops and manages an Internet-based decentralized End-to-End service platform, consisting of an infrastructure layer, a service layer, and a service management system. ",
+"size":"",
+"label":"IoE Corp"
+    },{
+        "id": "1662697641444x241064472437325820",
+"url":"https://medium.com/invironment/maines-food-sovereignty-win-is-a-big-deal-for-cities-160762704cc1",
+"image":"https://miro.medium.com/max/1200/1*HxkLlz-OSPU1BKYBtqnMmw.jpeg",
+"type":"Resource",
+"tags":["Regenerative Agriculture"],
+"sectors":["Governance","Environment","Regenerative Ecosystems"],
+"locations":[],
+"types":["News Article"],
+"description":"2017 - Maine’s new law allowing cities to set local food rules shows how smart food laws can unshackle small producers and lead to a more sustainable food system Last month Maine passed an important law…",
+"size":"",
+"label":"Maine’s Food Sovereignty Win Is a Big Deal for Cities"
+    },{
+        "id": "1662697781892x573057977167380500",
+"url":"http://www.thealliancefordemocracy.org/blog/local-food-campaign-wins-across-maine",
+"image":"http://www.thealliancefordemocracy.org/uploads/1/3/4/0/13403615/published/squash.jpg?1523032230",
+"type":"Resource",
+"tags":["Regenerative Agriculture"],
+"sectors":["Governance","Environment","Regenerative Ecosystems"],
+"locations":[],
+"types":["News Article"],
+"description":"2018- Now the ordinance stands up against USDA objections and their lobbyists.  Town meeting season in Maine got off to a great start for Local Food RULES! Four towns passed the ordinance in just one week.",
+"size":"",
+"label":"Local Food campaign wins across Maine - Food Sovereignty Law"
+    },{
+        "id": "1662698388377x306059462222807040",
+"url":"https://podcasts.apple.com/us/podcast/sense-making-in-a-changing-world/id1517044365?i=1000578476742",
+"image":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/c9/26/31/c92631b1-ebc8-fd41-25ee-b0394e0278a1/mza_10558566076853578684.jpg/1200x630wp.png",
+"type":"Resource",
+"tags":["Regenerative Agriculture"],
+"sectors":["Environment"],
+"locations":[],
+"types":["Podcast","Podcast"],
+"description":"Food Connect - \"What they’ve created is an is an inspiring  highly networked localised ethical and regenerative  food system -  one that nourishes growers, consumers, producers, the earth and foregrounds indigenous voices.\"",
+"size":"",
+"label":"‎Sense-making in a Changing World: Episode 80: Local Food Revolution - Robert Pekin with Morag Gamble on Apple Podcasts"
+    },{
+        "id": "1662701710868x811992638485954600",
+"url":"https://docs.google.com/spreadsheets/d/1Wb1hImY0MjPhLIvnCGiojAAF3QCCsOrWaEUPcw86f_c/edit#gid=0",
+"image":"https://lh4.googleusercontent.com/YMXxFrVYrjaQcWfBV8QzwCCduyEIv3238lSIUSdZCQDoGTCJbv-SwCo9OmNkf0WIxDjQm2JSknscvw=w1200-h630-p",
+"type":"Resource",
+"tags":["Regenerative Agriculture"],
+"sectors":["Economics","Environment"],
+"locations":[],
+"types":["Google Sheets"],
+"description":"Funds that invest in regenerative agriculture and food, shown in a spreadsheet.",
+"size":"",
+"label":"Regenerative Agriculture Funds"
+    },{
+        "id": "1662702039945x560127384904007700",
+"url":"https://medium.com/@koen_73445",
+"image":"https://miro.medium.com/max/2400/1*nnGsrUkYxh9KBat1K9_Veg.jpeg",
+"type":"Resource",
+"tags":["Regenerative Agriculture"],
+"sectors":["Economics","Environment"],
+"locations":[],
+"types":["Blog Article"],
+"description":"Fascinated by #regenerativeagriculture and #antifragility. How can we put our money to work in regenerative agriculture?  Most recent article (as of Sept 2022) is from Dec 2021.",
+"size":"",
+"label":"Koen van Seijen – Medium"
+    },{
+        "id": "1662702616829x298993760461127700",
+"url":"https://investinginregenerativeagriculture.com/",
+"image":"https://investinginregenerativeagriculture.com/wp-content/uploads/2020/02/cropped-profile-logo-original-1.jpg",
+"type":"Resource",
+"tags":["Regenerative Agriculture"],
+"sectors":["Economics","Environment"],
+"locations":[],
+"types":["Website","Podcast","Podcast"],
+"description":"Why the focus on soil and regeneration? Because so many of the pressing issues we face today have their roots in how we treat our land, grow our food and what we eat. And it’s time that we, as investors big and small and consumers, start paying much more attention to the dirt/ soil underneath our feet. ",
+"size":"",
+"label":"Investing in regenerative agriculture – A podcast series"
+    },{
+        "id": "1662765479441x196690895380676600",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"type":"Post",
+"tags":[],
+"sectors":["Worldview"],
+"locations":[],
+"types":["Purpose","Description"],
+"description":"I’m working in a team that aims to make the world a more flourishing place for all life by advancing projects toward the UN’s Sustainable Development Goals.  ",
+"size":"",
+"label":"Meta Project Description - "Mom, What do you do?""
+    },{
+        "id": "1664227177997x430748013634781200",
+"url":"https://www.amazon.com/Garden-Awakening-Designs-Nurture-Ourselves/dp/0857843133/ref=sr_1_1?crid=28NJJ9RHUED8T&keywords=mary+reynolds+garden+awakening&qid=1664226971&qu=eyJxc2MiOiIxLjcwIiwicXNhIjoiMS4xNCIsInFzcCI6IjAuODUifQ%3D%3D&sprefix=Mary+raynol%2Caps%2C86&sr=8-1",
+"image":"https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:139-5174506-0369507:G0VEW5F9TV4QEJPMXH1F$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DG0VEW5F9TV4QEJPMXH1F:0",
+"type":"Product",
+"tags":["Ecosystems","Ecosystems","Landscaping","Regenerative Agriculture"],
+"sectors":["Environment"],
+"locations":[],
+"types":["Amazon Listing","Book","Book","Book"],
+"description":"A step-by-step manual to creating a garden in harmony with the life force in the earth, addressing not only what the people in charge of the land want but also asking what the land wants to become.",
+"size":"",
+"label":"The Garden Awakening: Designs to Nurture Our Land and Ourselves by Mary Reynolds"
+    },{
+        "id": "1664401314505x950142582861594600",
+"url":"https://www.artbrock.com/metacurrency",
+"image":"https://www.artbrock.com/images/Levels-of-Wealth_Water.png",
+"type":"Resource",
+"tags":[],
+"sectors":["Relations & Economics","Economics","Relations"],
+"locations":[],
+"types":[],
+"description":"Culture-Hacking, Alt.Education, Targeted Currency Design, NextNet Technologies.",
+"size":"",
+"label":"Metacurrency: Deep Wealth Design"
+    },{
+        "id": "1664631617811x931667474658623500",
+"url":"https://www.greyswanguild.org",
+"image":"https://static.wixstatic.com/media/881398_7eab4c5718944107ad2f0a20ca9fbdca~mv2.png/v1/fill/w_2260,h_1200,al_c/881398_7eab4c5718944107ad2f0a20ca9fbdca~mv2.png",
+"type":"Organization",
+"tags":["Learning","Sensemaking","Love"],
+"sectors":["Worldview"],
+"locations":[],
+"types":["Think Tank","Guild"],
+"description":"The Grey Swan Guild is a community of sensemakers that acts as an action-based think tank rising to the world’s biggest challenges. We are made up of established experts, rising stars, and impassioned agents for positive change across 30+ countries.",
+"size":"",
+"label":"Grey Swan Guild"
+    },{
+        "id": "1664633823879x603831613737140200",
+"url":"https://mailchi.mp/d85322f1d015/grey-swan-weekly-design-the-future-education-disrupted-book-club-societal-debt-houston-7281441?e=be71d67adb",
+"image":"https://dim.mcusercontent.com/cs/a7c0c8d6871b66ea4e8976bc0/images/c3ba90f8-a40f-a93d-3bd1-ba0ecd0f73e7.png?w=267&dpr=2",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Latest email newsletter from Grey Swan Guild.  This shows the areas of movement and energy within the organization.",
+"size":"",
+"label":"Grey Swan Guild Event Announcements - Autumn′22 Event Roster and Announcing the GSG Book Festival"
+    },{
+        "id": "1665009313892x633950559874318300",
+"url":"https://creativecommons.org/",
+"image":"https://creativecommons.org/wp-content/uploads/2022/09/20CC-300x213.png",
+"type":"Organization",
+"tags":["Knowledge Management","repository","Regenerative Agriculture"],
+"sectors":["Infrastructure"],
+"locations":[],
+"types":["Directory","Resource Center","Knowledge"],
+"description":"Creative Commons licenses are 20! Honoring 20 years of open sharing using CC licenses, join us in 2022 to celebrate Better Sharing — advancing universal access to knowledge and culture, and fostering creativity, innovation, and collaboration. Help us reach our goal of raising $15 million for a futur…",
+"size":"",
+"label":"When we share, everyone wins - Creative Commons"
+    },{
+        "id": "1665843364701x350651259680718850",
+"url":"https://euvieivanova.substack.com/p/baba-yaga-shamanism-and-emergence",
+"image":"https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2d15961-ebf6-4962-a82d-3f6a28d7ecff_564x685.jpeg",
+"type":"Resource",
+"tags":["Emergence","Shamanism"],
+"sectors":["Spirituality"],
+"locations":[],
+"types":["Substack URL","Blog Article","Blog Website"],
+"description":"A brief history of the weird ways of knowing the unknown",
+"size":"",
+"label":"Baba Yaga, Shamanism, and Emergence"
+    },{
+        "id": "1665843616347x393110263398662140",
+"url":"https://futurethinkers.org",
+"image":"https://futurethinkers.org/wp-content/uploads/2018/12/Future-Thinkers-logo-wide-Light.png",
+"type":"Organization",
+"tags":["Regenerative Agriculture"],
+"sectors":["Worldview"],
+"locations":[],
+"types":["Podcast","Ecovillage","Podcast"],
+"description":"Start here if you’re new to Future Thinker Podcast. Why we do it, where to listen and subscribe, and how to get involved.",
+"size":"",
+"label":"Getting Started with Future Thinkers"
+    },{
+        "id": "1665867611964x886345818687668200",
+"url":"https://en.wikipedia.org/wiki/Emergence",
+"image":"https://upload.wikimedia.org/wikipedia/commons/c/c2/SnowflakesWilsonBentley.jpg",
+"type":"Resource",
+"tags":["Emergence","Collective Wisdom","Emergent Conversation"],
+"sectors":["Worldview"],
+"locations":[],
+"types":["Wiki Article"],
+"description":"\"Goldstein initially defined emergence as: \"the arising of novel and coherent structures, patterns and properties during the process of self-organization in complex systems\".\"",
+"size":"",
+"label":"Emergence - Wikipedia"
+    },{
+        "id": "1665867804906x144683181929922560",
+"url":"https://euvieivanova.substack.com/p/on-human-geometry-and-coherence",
+"image":"https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1f066f8-e764-4c4a-ab88-cc4201652495_2048x1536.jpeg",
+"type":"Resource",
+"tags":["Facilitation","Emergence","Collective Wisdom","Emergent Conversation"],
+"sectors":["Governance","Worldview"],
+"locations":[],
+"types":["Substack URL","Blog Article"],
+"description":"Insights for facilitating emergence in groups",
+"size":"",
+"label":"On Human Geometry and Coherence"
+    },{
+        "id": "1666044286884x790587318573465600",
+"url":"https://greendreamer.com/podcast/dr-bayo-akomolafe-the-emergence-network",
+"image":"http://static1.squarespace.com/static/5bd3fe687eb88c4d6f4376a3/5cb0dc28343a9b1460839214/60e06ab478f10f24ee1e490e/1631821282485/2021+SPRING+(2).png?format=1500w",
+"type":"Resource",
+"tags":[],
+"sectors":["Relations","Spirituality"],
+"locations":[],
+"types":["Podcast","Podcast"],
+"description":"In this Green Dreamer Podcast episode, Dr. Bayo Akomolafe invites us to surrender human control and centrality and to slow down in times of urgency.",
+"size":"",
+"label":"Bayo Akomolafe speaks about slowing down and surrendering human centrality — GREEN DREAMER"
+    },{
+        "id": "1666049256111x617171179747147800",
+"url":"https://creativecommons.org/2022/03/17/episode-13-open-culture-voices-melissa-terras/",
+"image":"https://creativecommons.org/wp-content/uploads/2022/03/Screenshot-2022-03-16-at-16.16.06-1024x573.png",
+"type":"Resource",
+"tags":["Knowledge Management","Creative Commons"],
+"sectors":["Infrastructure"],
+"locations":[],
+"types":["Podcast","Podcast","Vlog"],
+"description":"A vlog series of short interviews with open GLAM (galleries, libraries, archives, and museums) experts from around the world. The Open Culture Program at Creative Commons aims to promote better sharing of cultural heritage in GLAMs collection…",
+"size":"",
+"label":"Episode 13: Open Culture VOICES – Melissa Terras - Creative Commons"
+    },{
+        "id": "1666278756070x743535602999754800",
+"url":"https://www.youtube.com/watch?v=2fAy18JawYI",
+"image":"https://i.ytimg.com/vi/2fAy18JawYI/maxresdefault.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Youtube Video"],
+"description":"Public Sensemaking.  Jamie Joyce of Society Library . The Society Library is a 501(c)3 nonprofit collective intelligence organization",
+"size":"",
+"label":"Emerging Projects in Public Sensemaking w/ Daniel Schmachtenberger"
+    }
+],
+
+  "connections": [
+{
+        "id": "1658634227198x192704829807656960",
+        "from": "1658634102431x762580435516260400",
+        "to": "1654706396673x136760324459069440",
+"type":"is related to",
+"label":"Discover Your Love Language - The 5 Love Languages® is related to Meta Project Wisdom Council - Statement of Intention"
+    }
+,{
+        "id": "1658634292897x403858521118998500",
+        "from": "1658634102431x762580435516260400",
+        "to": "1658176906095x587493443710484500",
+"type":"is related to",
+"label":"Discover Your Love Language - The 5 Love Languages® is related to Meta Project - Values & Purpose"
+    }
+,{
+        "id": "1658634326529x679777985454932000",
+        "from": "1658634102431x762580435516260400",
+        "to": "1658633856240x124548770559426560",
+"type":"is related to",
+"label":"Discover Your Love Language - The 5 Love Languages® is related to The Ancient Greeks’ 6 Words for Love (And Why Knowing Them Can Change Your Life) - YES! Magazine"
+    }
+,{
+        "id": "1662656388944x697377801358540800",
+        "from": "1662656133111x930876741523603500",
+        "to": "1661374920267x784624561868505100",
+"type":"is from",
+"label":"Scenario Planning Quadrant Tool is from Vision 2050 - World Business Council for Sustainable Development (WBCSD)"
+    }
+,{
+        "id": "1662702105984x878674817541996500",
+        "from": "1662702039945x560127384904007700",
+        "to": "1662701710868x811992638485954600",
+"type":"is from",
+"label":"Koen van Seijen – Medium is from Regenerative Agriculture Funds"
+    }
+,{
+        "id": "1665009455003x573578502691356700",
+        "from": "1664633823879x603831613737140200",
+        "to": "1664631617811x931667474658623500",
+"type":"is presented by",
+"label":"Grey Swan Guild Event Announcements - Autumn′22 Event Roster and Announcing the GSG Book Festival is presented by Grey Swan Guild"
+    }
+,{
+        "id": "1665843659644x898653190426198000",
+        "from": "1665843616347x393110263398662140",
+        "to": "1665843364701x350651259680718850",
+"type":"is related to",
+"label":"Getting Started with Future Thinkers is related to Baba Yaga, Shamanism, and Emergence"
+    }
+,{
+        "id": "1665867836962x978793436820799500",
+        "from": "1665867804906x144683181929922560",
+        "to": "1665843364701x350651259680718850",
+"type":"is related to",
+"label":"On Human Geometry and Coherence is related to Baba Yaga, Shamanism, and Emergence"
+    }
+,{
+        "id": "1665867879934x661050664858419200",
+        "from": "1665867804906x144683181929922560",
+        "to": "1665843616347x393110263398662140",
+"type":"is related to",
+"label":"On Human Geometry and Coherence is related to Getting Started with Future Thinkers"
+    }
+
+ ]
+}
