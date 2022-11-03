@@ -859,7 +859,7 @@
         "id": "1658634227198x192704829807656960",
         "from": "1658634102431x762580435516260400",
         "to": "1654706396673x136760324459069440",
-"strength":,
+"strength":1,
 "type":"is related to",
 "label":"Discover Your Love Language - The 5 Love Languages® is related to Meta Project Wisdom Council - Statement of Intention"
     }
@@ -867,7 +867,7 @@
         "id": "1658634292897x403858521118998500",
         "from": "1658634102431x762580435516260400",
         "to": "1658176906095x587493443710484500",
-"strength":,
+"strength":1,
 "type":"is related to",
 "label":"Discover Your Love Language - The 5 Love Languages® is related to Meta Project - Values & Purpose"
     }
@@ -875,7 +875,7 @@
         "id": "1658634326529x679777985454932000",
         "from": "1658634102431x762580435516260400",
         "to": "1658633856240x124548770559426560",
-"strength":,
+"strength":1,
 "type":"is related to",
 "label":"Discover Your Love Language - The 5 Love Languages® is related to The Ancient Greeks’ 6 Words for Love (And Why Knowing Them Can Change Your Life) - YES! Magazine"
     }
@@ -883,7 +883,7 @@
         "id": "1662656388944x697377801358540800",
         "from": "1662656133111x930876741523603500",
         "to": "1661374920267x784624561868505100",
-"strength":,
+"strength":1,
 "type":"is from",
 "label":"Scenario Planning Quadrant Tool is from Vision 2050 - World Business Council for Sustainable Development (WBCSD)"
     }
@@ -891,7 +891,7 @@
         "id": "1662702105984x878674817541996500",
         "from": "1662702039945x560127384904007700",
         "to": "1662701710868x811992638485954600",
-"strength":,
+"strength":1,
 "type":"is from",
 "label":"Koen van Seijen – Medium is from Regenerative Agriculture Funds"
     }
@@ -899,7 +899,7 @@
         "id": "1665009455003x573578502691356700",
         "from": "1664633823879x603831613737140200",
         "to": "1664631617811x931667474658623500",
-"strength":,
+"strength":1,
 "type":"is presented by",
 "label":"Grey Swan Guild Event Announcements - Autumn′22 Event Roster and Announcing the GSG Book Festival is presented by Grey Swan Guild"
     }
@@ -907,7 +907,7 @@
         "id": "1665843659644x898653190426198000",
         "from": "1665843616347x393110263398662140",
         "to": "1665843364701x350651259680718850",
-"strength":,
+"strength":1,
 "type":"is related to",
 "label":"Getting Started with Future Thinkers is related to Baba Yaga, Shamanism, and Emergence"
     }
@@ -915,7 +915,7 @@
         "id": "1665867836962x978793436820799500",
         "from": "1665867804906x144683181929922560",
         "to": "1665843364701x350651259680718850",
-"strength":,
+"strength":1,
 "type":"is related to",
 "label":"On Human Geometry and Coherence is related to Baba Yaga, Shamanism, and Emergence"
     }
@@ -923,7 +923,7 @@
         "id": "1665867879934x661050664858419200",
         "from": "1665867804906x144683181929922560",
         "to": "1665843616347x393110263398662140",
-"strength":,
+"strength":1,
 "type":"is related to",
 "label":"On Human Geometry and Coherence is related to Getting Started with Future Thinkers"
     }
