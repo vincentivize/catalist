@@ -14,12 +14,6 @@
 "type":"Element Type",
 "description":"Project Listings"
 },{
-"label":"Organization",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
-"id":"Organization",
-"type":"Element Type",
-"description":"Public organization directory"
-},{
 "label":"Post",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
 "id":"Post",
@@ -31,6 +25,12 @@
 "id":"Product",
 "type":"Element Type",
 "description":"A product or a service from a Trove member."
+},{
+"label":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"id":"Organization",
+"type":"Element Type",
+"description":"Public organization directory"
 },{
 "label":"Infrastructure",
 "image":"//s3.amazonaws.com/appforest_uf/f1647649696424x409594126033386000/images",
@@ -109,6 +109,18 @@
 "id":"1647152447125x343484851979146500",
 "type":"Sector",
 "color":""
+},{
+"label":"Education",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401910019x317159366989671740/yelp-logo-2.png",
+"id":"1647125223205x804029848310340100",
+"type":"Sector",
+"color":""
+},{
+"label":"Professional Services",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401916796x292818415087831500/yelp-logo-2.png",
+"id":"1647125267960x217980168986535500",
+"type":"Sector",
+"color":""
 },
 {
         "id": "1654541959590x970344589858701300",
@@ -120,7 +132,7 @@
 "sectors":["Infrastructure","Relations"],
 "locations":[],
 "types":["Platform Website"],
-"description":"(Suggested by Killu) The CII mission is to evolve and deploy models of Mutuality, where self-determined people are strengthened in shaping their own futures, and where they create a ripple-effect of peer-driven change by leading, mentoring, and sharing in a continuous circle.  The Mutuality Platform is a tool that can be used by most communities to showcase and track local efforts, promoting the new social change field of \"peer-driven change\". It is a safe eco-system of residents and supporters who are willing to share and assist one another towards improving their lives and communities.  This platform allows like-minded residents and communities to connect within a region or across continents in support of one another.  It also allows supporters to donate/invest in resident-led efforts.  ",
+"description":"The CII mission is to evolve and deploy models of Mutuality, where self-determined people are strengthened in shaping their own futures, and where they create a ripple-effect of peer-driven change by leading, mentoring, and sharing in a continuous circle.  The Mutuality Platform is a tool that can be used by most communities to showcase and track local efforts, promoting the new social change field of \"peer-driven change\". It is a safe eco-system of residents and supporters who are willing to share and assist one another towards improving their lives and communities.  This platform allows like-minded residents and communities to connect within a region or across continents in support of one another.  It also allows supporters to donate/invest in resident-led efforts.  ",
 "size":"",
 "label":"Community Independence Initiative - ImpactX"
     },{
@@ -129,7 +141,7 @@
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1654706396673x136760324459069440&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1654706238221x274744595899462750/Hands%20over%20the%20Earth.jpg",
 "type":"Resource",
-"tags":[],
+"tags":["Wisdom","Collective Wisdom"],
 "sectors":[],
 "locations":[],
 "types":["Google Doc"],
@@ -167,12 +179,12 @@
 "url":"https://www.winfinityframework.com",
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1654706993826x898996034253619200&view=Net%20Map&filtered=yes",
 "image":"http://static1.squarespace.com/static/61b03d9060018c53052aab60/t/61b5252b1a6cb63df8ea97ca/1639261483917/WINfinityLogo.png?format=1500w",
-"type":"Project",
-"tags":[],
+"type":"Resource",
+"tags":["Collaboration","Values alignment"],
 "sectors":[],
 "locations":[],
-"types":[],
-"description":"Partnering between WINfinity and Meta Project to bring in facilitators for onboarding.",
+"types":["Website"],
+"description":"A space regularly held for people to come into community and practice being in collaborative conversation.  ",
 "size":"",
 "label":"WINfinity - Facilitator Community"
     },{
@@ -181,10 +193,10 @@
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1654722217090x770925765749375000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1655940472098x442792766205638600/Cycle%20of%20Emergence%20-%20Main%20Stages%20-%20May%202022.png",
 "type":"Project",
-"tags":[],
+"tags":["Innovation","co-Creation","Creativity","Emergence","Emergent Conversation"],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Passion Project"],
 "description":"As everything else falls away, what is left?  The cycle of creation is always there.\\nHere we are exploring the Cycle of Emergence, of Co-Creation, that leads to Wisdom, from the understanding that there's something uniquely human and essential about recognizing patterns within the novel and the chaos.  At its best, humanity is creative, innovative, collaborative and wise.  Let's explore more about how this works so we can create the right environments, put it on repeat, mine it for success and be better prepared to meet the challenges ahead.",
 "size":"",
 "label":"Emergence | Everyone’s Wisdom"
@@ -192,13 +204,13 @@
         "id": "1654747773319x973461179052326900",
 "url":"https://docs.google.com/document/d/1BR8Iv-O87-WRY2-VhbvB_O0qsWUy_QOGn_2MwNj7xz0/edit#heading=h.q3nlgn2mchu9",
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1654747773319x973461179052326900&view=Net%20Map&filtered=yes",
-"image":"http://static1.squarespace.com/static/61b03d9060018c53052aab60/t/61b5252b1a6cb63df8ea97ca/1639261483917/WINfinityLogo.png?format=1500w",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "type":"Resource",
-"tags":[],
+"tags":["Values alignment"],
 "sectors":[],
 "locations":[],
 "types":["Google Doc"],
-"description":"Meta Project Values & Purpose notes pulled together June 2022 Table of Contents Character Strengths Harvested from Meta Project meeting April Definitions / Clarity Shared Emerging Statements of Shared Purpose Emerging themes - Shared Values Importance of vulnerability & Bringing our whole sel...",
+"description":"Meta Project Values & Purpose notes pulled together June 2022 ",
 "size":"",
 "label":"Meta Project - Values & Purpose"
     },{
@@ -207,23 +219,23 @@
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1654747892528x574020918585851900&view=Net%20Map&filtered=yes",
 "image":"https://images.squarespace-cdn.com/content/v1/61b03d9060018c53052aab60/7f129c61-fb0d-4a29-9588-0a59f8b27900/WINfinityLogo.png",
 "type":"Project",
-"tags":[],
+"tags":["Collaboration","Decision-making","Values alignment"],
 "sectors":[],
 "locations":[],
 "types":["Startup Project"],
-"description":"FLINT for values based decision making.\\nAlpha testing by late summer.  ",
+"description":"FLINT for values based collaborative decision making.\\nAlpha testing fall 2022.  Beta testing early 2023.  ",
 "size":"",
 "label":"Flint — WINfinity"
     },{
         "id": "1654748041855x715650752199786500",
 "url":"",
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1654748041855x715650752199786500&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
-"type":"Organization",
-"tags":[],
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":["Legal","The Commons"],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Governance Tool"],
 "description":"Deep research on governance and finance, providing profound awareness of old systems and propelling us into the new",
 "size":"",
 "label":"Panterra - Governance & Finance"
@@ -246,7 +258,7 @@
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1655934105559x433477793252900860&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651961966246x836694866797873900/shopping-bag.svg",
 "type":"Product",
-"tags":[],
+"tags":["Connections"],
 "sectors":[],
 "locations":[],
 "types":["Amazon Listing","Book","Book","Book"],
@@ -363,10 +375,10 @@
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1658634102431x762580435516260400&view=Net%20Map&filtered=yes",
 "image":"https://5lovelanguages.com/img/e299cb2b-611b-4ae5-bab9-6285a1ec89dd/og_home.jpg?fm=jpg&q=80&fit=max&crop=1200%2C627%2C0%2C0",
 "type":"Resource",
-"tags":[],
+"tags":["Connections","Relationships","Deep Learning","Love"],
 "sectors":["Spirituality & Religion","Relations"],
 "locations":[],
-"types":[],
+"types":["Website"],
 "description":"The 5 Love Languages® Quiz is easy, insightful, and always free. Learn your love language, and get equipped to build a love that lasts.",
 "size":"",
 "label":"Discover Your Love Language - The 5 Love Languages®"
@@ -376,10 +388,10 @@
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1658902927024x318261158888865800&view=Net%20Map&filtered=yes",
 "image":"https://davidburkus.com/wp-content/uploads/2022/07/How-To-Think-Strategically-As-A-Leader.png",
 "type":"Resource",
-"tags":[],
+"tags":["Leadership"],
 "sectors":[],
 "locations":[],
-"types":[],
+"types":["Blog Article"],
 "description":"In this article, we’ll review five relatively simple questions leaders need to ask often to think strategically.",
 "size":"",
 "label":"How To Think Strategically As A Leader | David Burkus"
@@ -389,10 +401,10 @@
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1658933428387x815734200637325300&view=Net%20Map&filtered=yes",
 "image":"https://collectivetraumasummit.com/wp-content/uploads/2020/09/Thomas_Book_FBShare.jpg",
 "type":"Resource",
-"tags":[],
+"tags":["Mental Health","conscious evolution"],
 "sectors":["Mental Health & Emotions"],
 "locations":[],
-"types":[],
+"types":["Book"],
 "description":"Activate the evolutionary intelligence of humanity",
 "size":"",
 "label":"Healing Collective Trauma - A New Book by Thomas Hübl"
@@ -415,10 +427,10 @@
 "object url":"https://www.catalist.network/trove/meta---worldview?object=1659043343815x142952365269712900&view=Net%20Map&filtered=yes",
 "image":"https://davidburkus.com/wp-content/uploads/2022/07/Two-Types-of-Trust-on-Teams.png",
 "type":"Resource",
-"tags":["Events","Community-building","Co-Creative","Co-Ownership","trust","Human Resources","Communities","Social Good","Social Entrepreneurship","Group","Entrepreneurship","Cooperative Entrepreneurship","Innovation Ecosystems"],
-"sectors":[],
+"tags":["Community-building","Co-Creative","Co-Ownership","trust","Human Resources","Communities","Social Good","Social Entrepreneurship","Group","Entrepreneurship","Cooperative Entrepreneurship","Innovation Ecosystems"],
+"sectors":["Relations"],
 "locations":[],
-"types":[],
+"types":["Blog Article"],
 "description":"There isn’t just one form of trust that matters on a team: there’s two. And it’s worth examining each in turn before considering how to build trust on teams.",
 "size":"",
 "label":"Two Types Of Trust On Teams | David Burkus"
@@ -851,6 +863,32 @@
 "description":"Public Sensemaking.  Jamie Joyce of Society Library . The Society Library is a 501(c)3 nonprofit collective intelligence organization",
 "size":"",
 "label":"Emerging Projects in Public Sensemaking w/ Daniel Schmachtenberger"
+    },{
+        "id": "1667605061415x158214660182507520",
+"url":"https://lecielfoundation.com/watch-the-twelve/",
+"object url":"https://www.catalist.network/trove/meta---worldview?object=1667605061415x158214660182507520&view=Net%20Map&filtered=yes",
+"image":"https://lecielfoundation.com/wp-content/uploads/2019/06/cropped-Header-Twelve-1.jpg",
+"type":"Resource",
+"tags":["Wisdom","Unity"],
+"sectors":["Spirituality"],
+"locations":[],
+"types":["Documentary"],
+"description":"THE TWELVE-Le Ciel Foundation- stream for free, download with media package for free, organise screenings of your own and join our screening community",
+"size":"",
+"label":"The Twelve - Watch and Download for free | LeCiel Foundation"
+    },{
+        "id": "1667853414533x138591998942904320",
+"url":"https://www.catalyticthinkinglabs.com/pages/home",
+"object url":"https://www.catalist.network/trove/meta---worldview?object=1667853414533x138591998942904320&view=Net%20Map&filtered=yes",
+"image":"https://lwfiles000.mycourse.app/school386415-public/06af6adc6bebe1e8c762b3382026d054.png",
+"type":"Resource",
+"tags":["Innovation","E-Learning","Ideation","Knowledge sharing","Transformation"],
+"sectors":["Education","Professional Services","Relations"],
+"locations":[],
+"types":["Website","Learning Tool"],
+"description":"Professional Development in Thinking for Change that Matters ",
+"size":"",
+"label":"Catalytic Thinking Labs"
     }
 ],
 
