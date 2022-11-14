@@ -508,15 +508,15 @@
 "label":"John Hansman"
     },{
         "id": "1668433365402x260325537771332930",
-"url":"",
+"url":"https://tedxboston.com/speakers/jon-foley/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433365402x260325537771332930&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Jon-Foley.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Executive Director @Project Drawdown",
+"description":"Dr. Jonathan Foley is a leading climate scientist, sustainability expert, educator, and public speaker. He is also executive director of Project Drawdown — the world’s leading resource for climate solutions. His work focuses on finding solutions to sustain the climate, ecosystems, and natural resour…",
 "size":"",
 "label":"Jonathan Foley"
     },{
@@ -1234,6 +1234,19 @@
 "description":"The World Energy Council’s Energy Trilemma Index tool, produced in partnership with Oliver Wyman, ranks countries on their ability to provide sustainable energy through 3 dimensions: Energy security, Energy equity (accessibility and affordability), Environmental sustainability. The ranking measures overall performance in achieving a sustainable mix of policies and the balance grade highlights how well a country manages the trade-offs of the Trilemma with \"A\" being the best. Use this interactive Index to assess the sustainability of national energy policies.",
 "size":"",
 "label":"WEC Energy Trilemma Index Tool"
+    },{
+        "id": "1668442166693x531391388442427400",
+"url":"https://wahoobay.org/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668442166693x531391388442427400&view=Net%20Map&filtered=yes",
+"image":"https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/312358131_162689223040088_7859815819555885040_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=tNFgJkiPAXAAX97YNQC&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_ZTDVua2m_5Mz8dYkg64unh8TVA3RCkQVsqLS8i4unvA&oe=635BDEC9",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Educational Marine Park Restoring The Natural Habitat An immersive educational park experience to show the community the importance of keeping our oceans and reefs healthy.",
+"size":"",
+"label":"Home - wahoobay.org"
     }
 ],
 
@@ -1277,6 +1290,22 @@
 "strength":1,
 "type":"mentions",
 "label":"Greg Watson mentions WEC Energy Trilemma Index Tool"
+    }
+,{
+        "id": "1668441965176x302070007229317100",
+        "from": "1668433372205x738222940108005400",
+        "to": "1668433352151x627670435246856100",
+"strength":1,
+"type":"is related to",
+"label":"Landolf Rhode-Barbarigos is related to Daniel Kleinman"
+    }
+,{
+        "id": "1668442184475x439260077775619000",
+        "from": "1668442166693x531391388442427400",
+        "to": "1668433372205x738222940108005400",
+"strength":1,
+"type":"is related to",
+"label":"Home - wahoobay.org is related to Landolf Rhode-Barbarigos"
     }
 
  ]
