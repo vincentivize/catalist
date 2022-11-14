@@ -13,10 +13,35 @@
 "id":"Project",
 "type":"Element Type",
 "description":"Project Listings"
+},{
+"label":"Post",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"id":"Post",
+"type":"Element Type",
+"description":"Photos, quotes, or text"
+},{
+"label":"Topic",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"id":"Topic",
+"type":"Element Type",
+"description":"Keywords | Tags"
+},{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Element Type",
+"description":"Shared crowd-sourced library"
+},{
+"label":"Systems Design & Thinking",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401961046x936294837546569900/system_black.svg",
+"id":"1615672041916x763713299194594700",
+"type":"Sector",
+"color":"#9b59b6"
 },
 {
         "id": "1668391526554x487953636007346200",
 "url":"https://tedxboston.com/speakers/alexander-more/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668391526554x487953636007346200&view=Net%20Map&filtered=yes",
 "image":"https://tedxboston.com/wp-content/uploads/2022/10/Alex-More.jpg",
 "type":"Profile",
 "tags":[],
@@ -29,6 +54,7 @@
     },{
         "id": "1668437410475x287120907033378800",
 "url":"https://www.holdenluntz.com/magazine/photo-spotlight/stephen-wilkes-looking-and-seeing/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668437410475x287120907033378800&view=Net%20Map&filtered=yes",
 "image":"https://s3.amazonaws.com/holdenluntz.com/wp-content/uploads/20200715204123/New-Arrival-Stephen-Wilkes.jpg",
 "type":"Project",
 "tags":["Photography"],
@@ -41,6 +67,7 @@
     },{
         "id": "1668437506083x307752028337602560",
 "url":"https://stephenwilkes.com/fine-art/day-to-night/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668437506083x307752028337602560&view=Net%20Map&filtered=yes",
 "image":"https://stephenwilkes.com/app/uploads/2020/10/Screen-Shot-2020-10-12-at-11.54.45-AM-1024x694.png",
 "type":"Project",
 "tags":[],
@@ -53,6 +80,7 @@
     },{
         "id": "1668396487122x775977325355501800",
 "url":"https://tedxboston.com/speakers/alexis-krauss/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668396487122x775977325355501800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -65,6 +93,7 @@
     },{
         "id": "1668433341342x721035608334043000",
 "url":"https://tedxboston.com/speakers/alexander-more/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433341342x721035608334043000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -77,6 +106,7 @@
     },{
         "id": "1668433343456x601839653616709900",
 "url":"https://tedxboston.com/speakers/alexis-krauss/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433343456x601839653616709900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -89,6 +119,7 @@
     },{
         "id": "1668433344201x160955800940179500",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433344201x160955800940179500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -101,6 +132,7 @@
     },{
         "id": "1668433344947x229675996249399940",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433344947x229675996249399940&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -113,6 +145,7 @@
     },{
         "id": "1668433345857x107866068173867000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433345857x107866068173867000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -125,6 +158,7 @@
     },{
         "id": "1668433346450x620065882994095100",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433346450x620065882994095100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -137,6 +171,7 @@
     },{
         "id": "1668433347264x224598964326911970",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433347264x224598964326911970&view=Net%20Map&filtered=yes",
 "image":"",
 "type":"",
 "tags":[],
@@ -149,6 +184,7 @@
     },{
         "id": "1668433347988x288708268442593200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433347988x288708268442593200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -161,6 +197,7 @@
     },{
         "id": "1668433348731x665701147076838160",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433348731x665701147076838160&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -173,6 +210,7 @@
     },{
         "id": "1668433349408x412673669167349400",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433349408x412673669167349400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -185,6 +223,7 @@
     },{
         "id": "1668433350052x144603382619946880",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433350052x144603382619946880&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -197,6 +236,7 @@
     },{
         "id": "1668433350801x180833627785644380",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433350801x180833627785644380&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -209,6 +249,7 @@
     },{
         "id": "1668433351518x813693790923424800",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433351518x813693790923424800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -221,6 +262,7 @@
     },{
         "id": "1668433352151x627670435246856100",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433352151x627670435246856100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -233,6 +275,7 @@
     },{
         "id": "1668433352930x302127396185838400",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433352930x302127396185838400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -245,6 +288,7 @@
     },{
         "id": "1668433353699x638815965062465800",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433353699x638815965062465800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -257,6 +301,7 @@
     },{
         "id": "1668433354446x690067513817845100",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433354446x690067513817845100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -269,6 +314,7 @@
     },{
         "id": "1668433355075x934224293104842600",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433355075x934224293104842600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -281,6 +327,7 @@
     },{
         "id": "1668433355739x786915595627127200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433355739x786915595627127200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -293,6 +340,7 @@
     },{
         "id": "1668433357131x652714985930313000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433357131x652714985930313000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -305,6 +353,7 @@
     },{
         "id": "1668433357861x113221618241220020",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433357861x113221618241220020&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -316,9 +365,10 @@
 "label":"Greg Kats"
     },{
         "id": "1668433358413x303463716838983080",
-"url":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
-"type":"Profile",
+"url":"https://tedxboston.com/speakers/greg-watson/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433358413x303463716838983080&view=Net%20Map&filtered=yes",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Greg-Watson.png",
+"type":"",
 "tags":[],
 "sectors":[],
 "locations":[],
@@ -329,6 +379,7 @@
     },{
         "id": "1668433359384x233857255623978400",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433359384x233857255623978400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -341,6 +392,7 @@
     },{
         "id": "1668433359999x686679903987407400",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433359999x686679903987407400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -353,6 +405,7 @@
     },{
         "id": "1668433360731x297381612091040830",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433360731x297381612091040830&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -365,6 +418,7 @@
     },{
         "id": "1668433361443x645097274649698200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433361443x645097274649698200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -377,6 +431,7 @@
     },{
         "id": "1668433361986x456656488949971800",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433361986x456656488949971800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -389,6 +444,7 @@
     },{
         "id": "1668433362672x628274006157103700",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433362672x628274006157103700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -401,6 +457,7 @@
     },{
         "id": "1668433363229x671017734219133700",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433363229x671017734219133700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -413,6 +470,7 @@
     },{
         "id": "1668433363769x364331494854069700",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433363769x364331494854069700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -425,6 +483,7 @@
     },{
         "id": "1668433364295x611249035017833200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433364295x611249035017833200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -437,6 +496,7 @@
     },{
         "id": "1668433364868x257562899238143800",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433364868x257562899238143800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -449,6 +509,7 @@
     },{
         "id": "1668433365402x260325537771332930",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433365402x260325537771332930&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -461,6 +522,7 @@
     },{
         "id": "1668433366034x370383478424205250",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433366034x370383478424205250&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -473,6 +535,7 @@
     },{
         "id": "1668433367238x953244552750208000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433367238x953244552750208000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -485,6 +548,7 @@
     },{
         "id": "1668433367941x342756008787009860",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433367941x342756008787009860&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -497,6 +561,7 @@
     },{
         "id": "1668433368860x165296668168443140",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433368860x165296668168443140&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -509,6 +574,7 @@
     },{
         "id": "1668433369454x769751632593130000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433369454x769751632593130000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -521,6 +587,7 @@
     },{
         "id": "1668433370203x315210450075029900",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433370203x315210450075029900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -533,6 +600,7 @@
     },{
         "id": "1668433370934x159511360610981470",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433370934x159511360610981470&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -545,6 +613,7 @@
     },{
         "id": "1668433371539x566589482865205200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433371539x566589482865205200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -556,10 +625,11 @@
 "label":"Kongjian Yu"
     },{
         "id": "1668433372205x738222940108005400",
-"url":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"url":"https://tedxboston.com/speakers/landolf-rhode-barbarigos/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433372205x738222940108005400&view=Net%20Map&filtered=yes",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Landolf-Rhode-Barbarigos-.png",
 "type":"Profile",
-"tags":[],
+"tags":["Climate Change"],
 "sectors":[],
 "locations":[],
 "types":[],
@@ -569,6 +639,7 @@
     },{
         "id": "1668433372794x540016488257957250",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433372794x540016488257957250&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -581,6 +652,7 @@
     },{
         "id": "1668433373375x951262745666768000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433373375x951262745666768000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -593,6 +665,7 @@
     },{
         "id": "1668433373907x506308473987438140",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433373907x506308473987438140&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -605,6 +678,7 @@
     },{
         "id": "1668433374470x237429247333347260",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433374470x237429247333347260&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -617,6 +691,7 @@
     },{
         "id": "1668433375027x414545684287279200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433375027x414545684287279200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -629,6 +704,7 @@
     },{
         "id": "1668433375576x761469715730116900",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433375576x761469715730116900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -641,6 +717,7 @@
     },{
         "id": "1668433376194x861834256996208100",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433376194x861834256996208100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -653,6 +730,7 @@
     },{
         "id": "1668433376845x189925685047527940",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433376845x189925685047527940&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -665,6 +743,7 @@
     },{
         "id": "1668433377397x818263838036981100",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433377397x818263838036981100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -677,6 +756,7 @@
     },{
         "id": "1668433378046x571690153067287300",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433378046x571690153067287300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -689,6 +769,7 @@
     },{
         "id": "1668433378765x465115045856840260",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433378765x465115045856840260&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -701,6 +782,7 @@
     },{
         "id": "1668433379378x404826006630191170",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433379378x404826006630191170&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -713,6 +795,7 @@
     },{
         "id": "1668433380149x359384355088173000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433380149x359384355088173000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -725,6 +808,7 @@
     },{
         "id": "1668433380876x848507290119987300",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433380876x848507290119987300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -737,6 +821,7 @@
     },{
         "id": "1668433381695x364725781930914900",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433381695x364725781930914900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -749,6 +834,7 @@
     },{
         "id": "1668433382234x516637462309850430",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433382234x516637462309850430&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -761,6 +847,7 @@
     },{
         "id": "1668433382878x910676943739091000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433382878x910676943739091000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -773,6 +860,7 @@
     },{
         "id": "1668433384456x103147190796544000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433384456x103147190796544000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -785,6 +873,7 @@
     },{
         "id": "1668433385096x763386755566819500",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433385096x763386755566819500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -797,6 +886,7 @@
     },{
         "id": "1668433385795x645732794105095000",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433385795x645732794105095000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -809,6 +899,7 @@
     },{
         "id": "1668433387207x690174689798672600",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433387207x690174689798672600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -821,6 +912,7 @@
     },{
         "id": "1668433387954x204508355190274200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433387954x204508355190274200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -833,6 +925,7 @@
     },{
         "id": "1668433388539x610766822602520200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433388539x610766822602520200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -845,6 +938,7 @@
     },{
         "id": "1668433389913x709088047678887400",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433389913x709088047678887400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -857,6 +951,7 @@
     },{
         "id": "1668433390517x737503028342059200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433390517x737503028342059200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -869,6 +964,7 @@
     },{
         "id": "1668433391569x721229427119385300",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433391569x721229427119385300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -881,6 +977,7 @@
     },{
         "id": "1668433392105x777234314243077800",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433392105x777234314243077800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -893,6 +990,7 @@
     },{
         "id": "1668433392587x598917717510564900",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433392587x598917717510564900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -905,6 +1003,7 @@
     },{
         "id": "1668433393264x660775035219545200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433393264x660775035219545200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -917,6 +1016,7 @@
     },{
         "id": "1668433393937x166694336391610460",
 "url":"https://tedxboston.com/speakers/sora-kim/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433393937x166694336391610460&view=Net%20Map&filtered=yes",
 "image":"https://tedxboston.com/wp-content/uploads/2022/10/Sora-Kim-.jpg",
 "type":"Profile",
 "tags":[],
@@ -929,6 +1029,7 @@
     },{
         "id": "1668433394636x290585654135928200",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433394636x290585654135928200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -940,9 +1041,10 @@
 "label":"Soumya Sudhakar"
     },{
         "id": "1668433395226x717257336659615760",
-"url":"",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
-"type":"Profile",
+"url":"https://tedxboston.com/speakers/stephen-wilkes/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433395226x717257336659615760&view=Net%20Map&filtered=yes",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Stephen-Wilkes-.jpg",
+"type":"",
 "tags":[],
 "sectors":[],
 "locations":[],
@@ -953,6 +1055,7 @@
     },{
         "id": "1668433395925x616582729593407900",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433395925x616582729593407900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -965,6 +1068,7 @@
     },{
         "id": "1668433396537x334798467351006900",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433396537x334798467351006900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -977,6 +1081,7 @@
     },{
         "id": "1668433397249x568069273959435100",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433397249x568069273959435100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -989,6 +1094,7 @@
     },{
         "id": "1668433398003x152761511620342900",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433398003x152761511620342900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -1001,6 +1107,7 @@
     },{
         "id": "1668433398967x536495794515619260",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433398967x536495794515619260&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -1013,6 +1120,7 @@
     },{
         "id": "1668433399679x117520199128379410",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433399679x117520199128379410&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -1025,6 +1133,7 @@
     },{
         "id": "1668433400215x718092800944500900",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433400215x718092800944500900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -1037,6 +1146,7 @@
     },{
         "id": "1668433401262x832122195378979700",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433401262x832122195378979700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -1049,6 +1159,7 @@
     },{
         "id": "1668433401780x569429482466663230",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433401780x569429482466663230&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -1061,6 +1172,7 @@
     },{
         "id": "1668433402327x828949698446613400",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433402327x828949698446613400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -1073,6 +1185,7 @@
     },{
         "id": "1668433402732x132376457289937740",
 "url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668433402732x132376457289937740&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
@@ -1082,6 +1195,45 @@
 "description":"Co-Executive Director Of HEET",
 "size":"",
 "label":"Zeyneb Magavi"
+    },{
+        "id": "1668439988313x108729947901132800",
+"url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668439988313x108729947901132800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"type":"Post",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Question","Quote"],
+"description":"",
+"size":"",
+"label":"How to reconcile environmental quality and economic equality?"
+    },{
+        "id": "1668440029625x548954431627198460",
+"url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668440029625x548954431627198460&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
+"type":"Topic",
+"tags":[],
+"sectors":["Systems Design & Thinking"],
+"locations":[],
+"types":[],
+"description":"\"Make the world work for 100% of humanity in the shortest possible time\"",
+"size":"",
+"label":"Comprehensive Anticipatory Design"
+    },{
+        "id": "1668440303096x385036853517484000",
+"url":"https://trilemma.worldenergy.org/",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668440303096x385036853517484000&view=Net%20Map&filtered=yes",
+"image":"https://trilemma.worldenergy.org/img/logo-large.png",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"The World Energy Council’s Energy Trilemma Index tool, produced in partnership with Oliver Wyman, ranks countries on their ability to provide sustainable energy through 3 dimensions: Energy security, Energy equity (accessibility and affordability), Environmental sustainability. The ranking measures overall performance in achieving a sustainable mix of policies and the balance grade highlights how well a country manages the trade-offs of the Trilemma with \"A\" being the best. Use this interactive Index to assess the sustainability of national energy policies.",
+"size":"",
+"label":"WEC Energy Trilemma Index Tool"
     }
 ],
 
@@ -1101,6 +1253,30 @@
 "strength":1,
 "type":"is created by",
 "label":"Day to Night Photos is created by Stephen Wilkes"
+    }
+,{
+        "id": "1668440065122x261185636323557380",
+        "from": "1668440029625x548954431627198460",
+        "to": "1668433358413x303463716838983080",
+"strength":1,
+"type":"is discussed by",
+"label":"Comprehensive Anticipatory Design is discussed by Greg Watson"
+    }
+,{
+        "id": "1668440077523x572365134540046340",
+        "from": "1668439988313x108729947901132800",
+        "to": "1668433358413x303463716838983080",
+"strength":1,
+"type":"is quoted in",
+"label":"How to reconcile environmental quality and economic equality? is quoted in Greg Watson"
+    }
+,{
+        "id": "1668440323943x811967869876174800",
+        "from": "1668433358413x303463716838983080",
+        "to": "1668440303096x385036853517484000",
+"strength":1,
+"type":"mentions",
+"label":"Greg Watson mentions WEC Energy Trilemma Index Tool"
     }
 
  ]
