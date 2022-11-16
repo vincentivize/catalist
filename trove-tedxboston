@@ -32,11 +32,41 @@
 "type":"Element Type",
 "description":"Shared crowd-sourced library"
 },{
+"label":"Music & Dancing",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401511546x926815996318176500/music_black.svg",
+"id":"1616099194945x320240183046083300",
+"type":"Sector",
+"color":"#FB7E50"
+},{
+"label":"STEM - Science Tech Engineering & Math",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401542590x837360241452792700/stem_black.svg",
+"id":"1615672041919x568501587193248640",
+"type":"Sector",
+"color":"#848384"
+},{
+"label":"Material Science",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401684556x134174432463725300/material-science.png",
+"id":"1647540072637x288118421583326800",
+"type":"Sector",
+"color":""
+},{
+"label":"Land Air and Ocean Stewardship",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401746045x440173160175421300/steward_black.svg",
+"id":"1647152367510x587535913098413700",
+"type":"Sector",
+"color":"#A3CE56"
+},{
 "label":"Systems Design & Thinking",
 "image":"//s3.amazonaws.com/appforest_uf/f1664401961046x936294837546569900/system_black.svg",
 "id":"1615672041916x763713299194594700",
 "type":"Sector",
 "color":"#9b59b6"
+},{
+"label":"Climate Environment & Resiliency",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401976771x562181693596174100/cloud-sun-rain.svg",
+"id":"1615672041915x633556507161936900",
+"type":"Sector",
+"color":"#A3CE56"
 },
 {
         "id": "1668391526554x487953636007346200",
@@ -84,7 +114,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
-"sectors":[],
+"sectors":["Music & Dancing"],
 "locations":[],
 "types":[],
 "description":"Musician and Outdoor Educator",
@@ -94,7 +124,7 @@
         "id": "1668433341342x721035608334043000",
 "url":"https://tedxboston.com/speakers/alexander-more/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433341342x721035608334043000&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Alex-More.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -110,7 +140,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
-"sectors":[],
+"sectors":["Music & Dancing"],
 "locations":[],
 "types":[],
 "description":"Musician and Outdoor Educator",
@@ -118,9 +148,9 @@
 "label":"Alexis Krauss"
     },{
         "id": "1668433344201x160955800940179500",
-"url":"",
+"url":"https://tedxboston.com/speakers/ann-rosenberg/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433344201x160955800940179500&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Ann-Rosenberg.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -131,9 +161,9 @@
 "label":"Ann Rosenberg"
     },{
         "id": "1668433344947x229675996249399940",
-"url":"",
+"url":"https://tedxboston.com/speakers/ben-schwegler/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433344947x229675996249399940&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Ben-Schwegler-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -144,9 +174,9 @@
 "label":"Ben Schwegler"
     },{
         "id": "1668433345857x107866068173867000",
-"url":"",
+"url":"https://tedxboston.com/speakers/bjorn-lutjens/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433345857x107866068173867000&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Bjo%CC%88rn-Lu%CC%88tjens-.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -157,9 +187,9 @@
 "label":"Björn Lütjens"
     },{
         "id": "1668433346450x620065882994095100",
-"url":"",
+"url":"https://tedxboston.com/speakers/brewster-shaw/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433346450x620065882994095100&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/11/Brewster-Shaw.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -170,12 +200,12 @@
 "label":"Brewster Shaw"
     },{
         "id": "1668433347264x224598964326911970",
-"url":"",
+"url":"https://tedxboston.com/speakers/cady-coleman/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433347264x224598964326911970&view=Net%20Map&filtered=yes",
-"image":"",
-"type":"",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/1200px-Catherine_Coleman.jpeg",
+"type":"Profile",
 "tags":[],
-"sectors":[],
+"sectors":["STEM - Science Tech Engineering & Math"],
 "locations":[],
 "types":[],
 "description":"Former NASA Astronaut, Scientist, Explorer",
@@ -183,12 +213,12 @@
 "label":"Cady Coleman"
     },{
         "id": "1668433347988x288708268442593200",
-"url":"",
+"url":"https://tedxboston.com/speakers/carmichael-roberts/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433347988x288708268442593200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/3hGScDSq_400x400.jpeg",
 "type":"Profile",
 "tags":[],
-"sectors":[],
+"sectors":["Material Science"],
 "locations":[],
 "types":[],
 "description":"Entrepreneur, Founder Material Impact",
@@ -196,7 +226,7 @@
 "label":"Carmichael Roberts"
     },{
         "id": "1668433348731x665701147076838160",
-"url":"",
+"url":"https://tedxboston.com/speakers/caroline-spears/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433348731x665701147076838160&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
@@ -209,9 +239,9 @@
 "label":"Caroline Spears"
     },{
         "id": "1668433349408x412673669167349400",
-"url":"",
+"url":"https://tedxboston.com/speakers/chris-macaskill/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433349408x412673669167349400&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2019/07/Chris-MacAkill-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -222,9 +252,9 @@
 "label":"Chris MacAskill"
     },{
         "id": "1668433350052x144603382619946880",
-"url":"",
+"url":"https://tedxboston.com/speakers/christine-harada/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433350052x144603382619946880&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Christine-Harada-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -235,9 +265,9 @@
 "label":"Christine Harada"
     },{
         "id": "1668433350801x180833627785644380",
-"url":"",
+"url":"https://tedxboston.com/speakers/craig-ratajczyk/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433350801x180833627785644380&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Craig-Ratajczyk-.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -248,9 +278,9 @@
 "label":"Craig Ratajczyk"
     },{
         "id": "1668433351518x813693790923424800",
-"url":"",
+"url":"https://tedxboston.com/speakers/cully-cavness/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433351518x813693790923424800&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Cully-Cavness.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -261,12 +291,12 @@
 "label":"Cully Cavness"
     },{
         "id": "1668433352151x627670435246856100",
-"url":"",
+"url":"https://tedxboston.com/speakers/daniel-kleinman/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433352151x627670435246856100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
 "tags":[],
-"sectors":[],
+"sectors":["Land Air and Ocean Stewardship"],
 "locations":[],
 "types":[],
 "description":"Founder & CEO Of Seaworthy Collective",
@@ -274,7 +304,7 @@
 "label":"Daniel Kleinman"
     },{
         "id": "1668433352930x302127396185838400",
-"url":"",
+"url":"https://tedxboston.com/speakers/david-des-marais/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433352930x302127396185838400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
@@ -287,9 +317,9 @@
 "label":"David Des Marais"
     },{
         "id": "1668433353699x638815965062465800",
-"url":"",
+"url":"https://tedxboston.com/speakers/desriee-plata/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433353699x638815965062465800&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Desriee-Plata-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -300,9 +330,9 @@
 "label":"Desriee Plata"
     },{
         "id": "1668433354446x690067513817845100",
-"url":"",
+"url":"https://tedxboston.com/speakers/donald-plettit/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433354446x690067513817845100&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Donald-Pettit-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -313,9 +343,9 @@
 "label":"Donald Pettit"
     },{
         "id": "1668433355075x934224293104842600",
-"url":"",
+"url":"https://tedxboston.com/speakers/erica-minnihan/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433355075x934224293104842600&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Erica-Minnihan-.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -326,9 +356,9 @@
 "label":"Erica Minnihan"
     },{
         "id": "1668433355739x786915595627127200",
-"url":"",
+"url":"https://tedxboston.com/speakers/frank-hiroshi-ling/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433355739x786915595627127200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/download.jpeg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -339,9 +369,9 @@
 "label":"Frank Hiroshi Ling"
     },{
         "id": "1668433357131x652714985930313000",
-"url":"",
+"url":"https://tedxboston.com/speakers/glenn-weinreb/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433357131x652714985930313000&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Glenn-Weinreb.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -352,9 +382,9 @@
 "label":"Glenn Weinreb"
     },{
         "id": "1668433357861x113221618241220020",
-"url":"",
+"url":"https://tedxboston.com/speakers/greg-kats/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433357861x113221618241220020&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/07/b6cbedbff7a82d41f4a3893e5dab3bdc.webp",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -368,7 +398,7 @@
 "url":"https://tedxboston.com/speakers/greg-watson/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433358413x303463716838983080&view=Net%20Map&filtered=yes",
 "image":"https://tedxboston.com/wp-content/uploads/2022/10/Greg-Watson.png",
-"type":"",
+"type":"Profile",
 "tags":[],
 "sectors":[],
 "locations":[],
@@ -378,9 +408,9 @@
 "label":"Greg Watson"
     },{
         "id": "1668433359384x233857255623978400",
-"url":"",
+"url":"https://tedxboston.com/speakers/gregor-semieniuk/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433359384x233857255623978400&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Gregor-Semieniuk-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -391,7 +421,7 @@
 "label":"Gregor Semieniuk"
     },{
         "id": "1668433359999x686679903987407400",
-"url":"",
+"url":"https://tedxboston.com/speakers/heather-white/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433359999x686679903987407400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
@@ -404,9 +434,9 @@
 "label":"Heather White"
     },{
         "id": "1668433360731x297381612091040830",
-"url":"",
+"url":"https://tedxboston.com/speakers/heidi-bialk/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433360731x297381612091040830&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Heidi-Bialk.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -417,9 +447,9 @@
 "label":"Heidi Bialk"
     },{
         "id": "1668433361443x645097274649698200",
-"url":"",
+"url":"https://tedxboston.com/speakers/hilary-vogelbaum/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433361443x645097274649698200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Hilary-Vogelbaum.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -430,9 +460,9 @@
 "label":"Hilary Vogelbaum"
     },{
         "id": "1668433361986x456656488949971800",
-"url":"",
+"url":"https://tedxboston.com/speakers/jan-georg-rosenboom/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433361986x456656488949971800&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/622b989ad9f1e5c10969ef35_Jan-Georg-Rosenboom.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -443,9 +473,9 @@
 "label":"Jan-Georg Rosenboom"
     },{
         "id": "1668433362672x628274006157103700",
-"url":"",
+"url":"https://tedxboston.com/speakers/jasmina-aganovic/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433362672x628274006157103700&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Jasmina-Aganovic-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -456,9 +486,9 @@
 "label":"Jasmina Aganovic"
     },{
         "id": "1668433363229x671017734219133700",
-"url":"",
+"url":"https://tedxboston.com/speakers/jason-petralia/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433363229x671017734219133700&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Jason-Petralia-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -469,9 +499,9 @@
 "label":"Jason Petralia"
     },{
         "id": "1668433363769x364331494854069700",
-"url":"",
+"url":"https://tedxboston.com/speakers/jeff-hoffman/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433363769x364331494854069700&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Jeffrey-A-Hoffman-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -482,9 +512,9 @@
 "label":"Jeff Hoffman"
     },{
         "id": "1668433364295x611249035017833200",
-"url":"",
+"url":"https://tedxboston.com/speakers/jemila-macewan/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433364295x611249035017833200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Jemila-MacEwan-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -495,9 +525,9 @@
 "label":"Jemila MacEwan"
     },{
         "id": "1668433364868x257562899238143800",
-"url":"",
+"url":"https://tedxboston.com/speakers/john-hansman/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433364868x257562899238143800&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/John-Hansman-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -516,14 +546,14 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Dr. Jonathan Foley is a leading climate scientist, sustainability expert, educator, and public speaker. He is also executive director of Project Drawdown — the world’s leading resource for climate solutions. His work focuses on finding solutions to sustain the climate, ecosystems, and natural resour…",
+"description":"Executive Director @Project Drawdown",
 "size":"",
 "label":"Jonathan Foley"
     },{
         "id": "1668433366034x370383478424205250",
-"url":"",
+"url":"https://tedxboston.com/speakers/jonathan-delong/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433366034x370383478424205250&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Jonathan-DeLong-.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -534,9 +564,9 @@
 "label":"Jonathan DeLong"
     },{
         "id": "1668433367238x953244552750208000",
-"url":"",
+"url":"https://tedxboston.com/speakers/josh-simpson/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433367238x953244552750208000&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2018/02/Josh-Simpson-1.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -547,9 +577,9 @@
 "label":"Josh Simpson"
     },{
         "id": "1668433367941x342756008787009860",
-"url":"",
+"url":"https://tedxboston.com/speakers/juan-enriquez/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433367941x342756008787009860&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2018/02/juanenriquez-300x300.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -560,9 +590,9 @@
 "label":"Juan Enriquez"
     },{
         "id": "1668433368860x165296668168443140",
-"url":"",
+"url":"https://tedxboston.com/speakers/justin-brice/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433368860x165296668168443140&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Justin-Brice-Guariglia_SunriseMvmt-Carlos-Chiosonne-BioImage.jpeg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -573,7 +603,7 @@
 "label":"Justin Brice"
     },{
         "id": "1668433369454x769751632593130000",
-"url":"",
+"url":"https://tedxboston.com/speakers/kelsey-wirth/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433369454x769751632593130000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
@@ -586,9 +616,9 @@
 "label":"Kelsey Wirth"
     },{
         "id": "1668433370203x315210450075029900",
-"url":"",
+"url":"https://tedxboston.com/speakers/ken-pucker/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433370203x315210450075029900&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Ken-Pucker.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -599,9 +629,9 @@
 "label":"Ken Pucker"
     },{
         "id": "1668433370934x159511360610981470",
-"url":"",
+"url":"https://tedxboston.com/speakers/kent-larson/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433370934x159511360610981470&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Kent-Larson.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -612,9 +642,9 @@
 "label":"Kent Larson"
     },{
         "id": "1668433371539x566589482865205200",
-"url":"",
+"url":"https://tedxboston.com/speakers/kongjian-yu/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433371539x566589482865205200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Kongjian-Yu-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -638,7 +668,7 @@
 "label":"Landolf Rhode-Barbarigos"
     },{
         "id": "1668433372794x540016488257957250",
-"url":"",
+"url":"https://tedxboston.com/speakers/laura-turner-seydel/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433372794x540016488257957250&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
@@ -664,9 +694,9 @@
 "label":"Laurel Jackson"
     },{
         "id": "1668433373907x506308473987438140",
-"url":"",
+"url":"https://tedxboston.com/speakers/leah-penniman/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433373907x506308473987438140&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/LeahPenniman1_photocredit_Jamel-Mosely-Mel-eMedia-3-scaled-e1665546430221.webp",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -677,9 +707,9 @@
 "label":"Leah Penniman"
     },{
         "id": "1668433374470x237429247333347260",
-"url":"",
+"url":"https://tedxboston.com/speakers/lejjy-gafour/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433374470x237429247333347260&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Lejjy-Gafour-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -690,9 +720,9 @@
 "label":"Lejjy Gafour"
     },{
         "id": "1668433375027x414545684287279200",
-"url":"",
+"url":"https://tedxboston.com/speakers/lindsey-brannon/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433375027x414545684287279200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Lindsey-Brannon-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -703,9 +733,9 @@
 "label":"Lindsey Brannon"
     },{
         "id": "1668433375576x761469715730116900",
-"url":"",
+"url":"https://tedxboston.com/speakers/lisa-foster/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433375576x761469715730116900&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Lisa-Foster-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -716,9 +746,9 @@
 "label":"Lisa Foster"
     },{
         "id": "1668433376194x861834256996208100",
-"url":"",
+"url":"https://tedxboston.com/speakers/matt-houde/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433376194x861834256996208100&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Matt-Houde.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -729,9 +759,9 @@
 "label":"Matt Houde"
     },{
         "id": "1668433376845x189925685047527940",
-"url":"",
+"url":"https://tedxboston.com/speakers/maya-dutta/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433376845x189925685047527940&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/11/Maya-Dutta-1.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -742,9 +772,9 @@
 "label":"Maya Dutta"
     },{
         "id": "1668433377397x818263838036981100",
-"url":"",
+"url":"https://tedxboston.com/speakers/meghan-olson/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433377397x818263838036981100&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Meghan-Olson.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -755,9 +785,9 @@
 "label":"Meghan Olson"
     },{
         "id": "1668433378046x571690153067287300",
-"url":"",
+"url":"https://tedxboston.com/speakers/melany-kahn/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433378046x571690153067287300&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Melany-Kahn-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -768,9 +798,9 @@
 "label":"Melany Kahn"
     },{
         "id": "1668433378765x465115045856840260",
-"url":"",
+"url":"https://tedxboston.com/speakers/michael-rawlins/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433378765x465115045856840260&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Michael-Rawlins.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -781,9 +811,9 @@
 "label":"Michael Rawlins"
     },{
         "id": "1668433379378x404826006630191170",
-"url":"",
+"url":"https://tedxboston.com/speakers/mindy-lubber/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433379378x404826006630191170&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Mindy-Lubber-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -794,9 +824,9 @@
 "label":"Mindy Lubber"
     },{
         "id": "1668433380149x359384355088173000",
-"url":"",
+"url":"https://tedxboston.com/speakers/molly-burhans/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433380149x359384355088173000&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Molly-Burhans.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -807,9 +837,9 @@
 "label":"Molly Burhans"
     },{
         "id": "1668433380876x848507290119987300",
-"url":"",
+"url":"https://tedxboston.com/speakers/molly-brown/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433380876x848507290119987300&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Molly-Holmberg-Brown.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -820,9 +850,9 @@
 "label":"Molly Holmberg Brown"
     },{
         "id": "1668433381695x364725781930914900",
-"url":"",
+"url":"https://tedxboston.com/speakers/natalie-jeremijenko/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433381695x364725781930914900&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Natalie-Jeremijenko-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -833,9 +863,9 @@
 "label":"Natalie Jeremijenko"
     },{
         "id": "1668433382234x516637462309850430",
-"url":"",
+"url":"https://tedxboston.com/speakers/neil-hunt/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433382234x516637462309850430&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Neil84-high.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -846,9 +876,9 @@
 "label":"Neil Hunt"
     },{
         "id": "1668433382878x910676943739091000",
-"url":"",
+"url":"https://tedxboston.com/speakers/neri-karra-sillaman/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433382878x910676943739091000&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Neri-Karra-Sillaman-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -859,9 +889,9 @@
 "label":"Neri Karra Sillaman"
     },{
         "id": "1668433384456x103147190796544000",
-"url":"",
+"url":"https://tedxboston.com/speakers/nikolas-goodich/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433384456x103147190796544000&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Nikolas-Goodich--e1665547768479.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -872,9 +902,9 @@
 "label":"Nikolas Goodich"
     },{
         "id": "1668433385096x763386755566819500",
-"url":"",
+"url":"https://tedxboston.com/speakers/nora-latorre/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433385096x763386755566819500&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Nora-LaTorre-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -885,9 +915,9 @@
 "label":"Nora LaTorre"
     },{
         "id": "1668433385795x645732794105095000",
-"url":"",
+"url":"https://tedxboston.com/speakers/pablos-holman/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433385795x645732794105095000&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Pablos-Holman.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -898,9 +928,9 @@
 "label":"Pablos Holman"
     },{
         "id": "1668433387207x690174689798672600",
-"url":"",
+"url":"https://tedxboston.com/speakers/paul-shapiro/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433387207x690174689798672600&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/David-Shapiro.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -911,9 +941,9 @@
 "label":"Paul Shapiro"
     },{
         "id": "1668433387954x204508355190274200",
-"url":"",
+"url":"https://tedxboston.com/speakers/perry-raso/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433387954x204508355190274200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/PerryRaso-Headshot-scaled.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -924,9 +954,9 @@
 "label":"Perry Raso"
     },{
         "id": "1668433388539x610766822602520200",
-"url":"",
+"url":"https://tedxboston.com/speakers/peter-demenocal/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433388539x610766822602520200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Peter-DeMenocal-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -937,9 +967,9 @@
 "label":"Peter de Menocal"
     },{
         "id": "1668433389913x709088047678887400",
-"url":"",
+"url":"https://tedxboston.com/speakers/raffaele-ferrari/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433389913x709088047678887400&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Raffaele-Ferrari-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -950,9 +980,9 @@
 "label":"Raffaele Ferrari"
     },{
         "id": "1668433390517x737503028342059200",
-"url":"",
+"url":"https://tedxboston.com/speakers/ranjana-bhandari/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433390517x737503028342059200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Ranjana-Bhandari-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -963,9 +993,9 @@
 "label":"Ranjana Bhandari"
     },{
         "id": "1668433391569x721229427119385300",
-"url":"",
+"url":"https://tedxboston.com/speakers/russ-wilcox/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433391569x721229427119385300&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Russ-Wilcox.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -976,9 +1006,9 @@
 "label":"Russ Wilcox"
     },{
         "id": "1668433392105x777234314243077800",
-"url":"",
+"url":"https://tedxboston.com/speakers/ryan-killackey/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433392105x777234314243077800&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Ryan-Killackey-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -989,9 +1019,9 @@
 "label":"Ryan Killackey"
     },{
         "id": "1668433392587x598917717510564900",
-"url":"",
+"url":"https://tedxboston.com/speakers/sachem-hawkstorm/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433392587x598917717510564900&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Sachem-HawkStorm-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1002,9 +1032,9 @@
 "label":"Sachem HawkStorm"
     },{
         "id": "1668433393264x660775035219545200",
-"url":"",
+"url":"https://tedxboston.com/speakers/shelly-zhang/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433393264x660775035219545200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Shelly-Zhang-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1023,14 +1053,14 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"I explore how animals and plants respond to environmental change. My projects often bridge modern and ancient ecosystems since the past can be the key to understanding the future. I am also interested in broadening participation in science. To date, our academic system promotes certain groups to suc…",
+"description":"Professor, Life and Environmental Sciences At The University of California Merced",
 "size":"",
 "label":"Sora Kim"
     },{
         "id": "1668433394636x290585654135928200",
-"url":"",
+"url":"https://tedxboston.com/speakers/soumya-sudhakar/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433394636x290585654135928200&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/soumya2_0.jpeg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1044,7 +1074,7 @@
 "url":"https://tedxboston.com/speakers/stephen-wilkes/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433395226x717257336659615760&view=Net%20Map&filtered=yes",
 "image":"https://tedxboston.com/wp-content/uploads/2022/10/Stephen-Wilkes-.jpg",
-"type":"",
+"type":"Profile",
 "tags":[],
 "sectors":[],
 "locations":[],
@@ -1054,7 +1084,7 @@
 "label":"Stephen Wilkes"
     },{
         "id": "1668433395925x616582729593407900",
-"url":"",
+"url":"https://tedxboston.com/speakers/steven-donziger/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433395925x616582729593407900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
@@ -1067,9 +1097,9 @@
 "label":"Steven Donziger"
     },{
         "id": "1668433396537x334798467351006900",
-"url":"",
+"url":"https://tedxboston.com/speakers/tania-roa/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433396537x334798467351006900&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Tania-Roa-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1080,9 +1110,9 @@
 "label":"Tania Roa"
     },{
         "id": "1668433397249x568069273959435100",
-"url":"",
+"url":"https://tedxboston.com/speakers/tesha-mccord-poe/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433397249x568069273959435100&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Tesha-McCord-Poe-.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1093,9 +1123,9 @@
 "label":"Tesha McCord Poe"
     },{
         "id": "1668433398003x152761511620342900",
-"url":"",
+"url":"https://tedxboston.com/speakers/togzhan-kassenova/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433398003x152761511620342900&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Togzhan-Kassenova-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1106,9 +1136,9 @@
 "label":"Togzhan Kassenova"
     },{
         "id": "1668433398967x536495794515619260",
-"url":"",
+"url":"https://tedxboston.com/speakers/tu-david-phu/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433398967x536495794515619260&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Tu-David-Phu-.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1119,9 +1149,9 @@
 "label":"Tu David Phu"
     },{
         "id": "1668433399679x117520199128379410",
-"url":"",
+"url":"https://tedxboston.com/speakers/tyler-winkler/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433399679x117520199128379410&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Tyler-Winkler-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1132,9 +1162,9 @@
 "label":"Tyler Winkler"
     },{
         "id": "1668433400215x718092800944500900",
-"url":"",
+"url":"https://tedxboston.com/speakers/valerie-shen/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433400215x718092800944500900&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Valerie-Shen-G2VP-Headshot.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1145,9 +1175,9 @@
 "label":"Valerie Shen"
     },{
         "id": "1668433401262x832122195378979700",
-"url":"",
+"url":"https://tedxboston.com/speakers/vinod-khosla/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433401262x832122195378979700&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Vinod-Khosla-.png",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1158,7 +1188,7 @@
 "label":"Vinod Khosla"
     },{
         "id": "1668433401780x569429482466663230",
-"url":"",
+"url":"https://tedxboston.com/speakers/yaniv-altshuler/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433401780x569429482466663230&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "type":"Profile",
@@ -1171,9 +1201,9 @@
 "label":"Yaniv Altshuler"
     },{
         "id": "1668433402327x828949698446613400",
-"url":"",
+"url":"https://tedxboston.com/speakers/yuly-fuentes/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433402327x828949698446613400&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Yuly-Fuentes-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1184,9 +1214,9 @@
 "label":"Yuly Fuentes"
     },{
         "id": "1668433402732x132376457289937740",
-"url":"",
+"url":"https://tedxboston.com/speakers/zeyneb-magavi/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668433402732x132376457289937740&view=Net%20Map&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"image":"https://tedxboston.com/wp-content/uploads/2022/10/Zeyneb-Magavic-.jpg",
 "type":"Profile",
 "tags":[],
 "sectors":[],
@@ -1247,6 +1277,45 @@
 "description":"Educational Marine Park Restoring The Natural Habitat An immersive educational park experience to show the community the importance of keeping our oceans and reefs healthy.",
 "size":"",
 "label":"Home - wahoobay.org"
+    },{
+        "id": "1668442374811x140406918938624000",
+"url":"https://www.drawdown.org",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668442374811x140406918938624000&view=Net%20Map&filtered=yes",
+"image":"https://www.drawdown.org/sites/default/files/styles/twitter/public/LeadingResource_clouds_1200x630.jpg?itok=16tRsvFa",
+"type":"Resource",
+"tags":["drawdown"],
+"sectors":["Climate Environment & Resiliency"],
+"locations":[],
+"types":[],
+"description":"Leading Climate Solutions",
+"size":"",
+"label":"Project Drawdown"
+    },{
+        "id": "1668443468845x351720246069952500",
+"url":"https://www.greeneatz.com/1/post/2022/11/project-drawdowns-roadmap-to-a-sustainable-world.html",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668443468845x351720246069952500&view=Net%20Map&filtered=yes",
+"image":"https://www.greeneatz.com/wp-content/uploads/2022/11/14_Unit_3_Greenhouse_Gas_Sources.png",
+"type":"Project",
+"tags":["drawdown"],
+"sectors":["Climate Environment & Resiliency"],
+"locations":[],
+"types":["Article","Article"],
+"description":"Project Drawdown’s new roadmap for tackling the #climatecrisis.",
+"size":"",
+"label":"Project Drawdown’s Roadmap to a Sustainable World"
+    },{
+        "id": "1668448456288x651961005195395100",
+"url":"",
+"object url":"https://www.catalist.network/trove/tedxboston?object=1668448456288x651961005195395100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"type":"Post",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Quote"],
+"description":"",
+"size":"",
+"label":"We should really rethink who we are influenced by"
     }
 ],
 
@@ -1306,6 +1375,14 @@
 "strength":1,
 "type":"is related to",
 "label":"Home - wahoobay.org is related to Landolf Rhode-Barbarigos"
+    }
+,{
+        "id": "1668447832548x987807734447845800",
+        "from": "1668443468845x351720246069952500",
+        "to": "1668442374811x140406918938624000",
+"strength":1,
+"type":"is related to",
+"label":"Project Drawdown’s Roadmap to a Sustainable World is related to Project Drawdown"
     }
 
  ]
