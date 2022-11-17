@@ -5,13 +5,13 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"",
 "type":"Object Type",
-"description":"Types of information\\n[[list "Object Type"]]"
+"description":"Types of information\n[[list\"Object Type\"]]"
 },{
   "label": "Sector",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
 "id":"",
 "type":"Object Type",
-"description":"Main sectors of society"
+"description":"Main sectors of society\n[[list\"Sector\"]]","
 },
 {
 "label":"Profile",
