@@ -1,35 +1,47 @@
 {
   "elements": [
-
+{
+  label: "Object Type";
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"",
+"type":"Object Type",
+"description":"Types of information"
+},{
+  label: "Sector";
+"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
+"id":"",
+"type":"Object Type",
+"description":"Main sectors of society"
+},
 {
 "label":"Profile",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "id":"Profile",
-"type":"Element Type",
+"type":"Object Type",
 "description":"People on Trove"
 },{
 "label":"Project",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "id":"Project",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Project Listings"
 },{
 "label":"Post",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
 "id":"Post",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Photos, quotes, or text"
 },{
 "label":"Topic",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
 "id":"Topic",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Keywords | Tags"
 },{
 "label":"Resource",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "id":"Resource",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Shared crowd-sourced library"
 },{
 "label":"Music & Dancing",
@@ -62,11 +74,22 @@
 "type":"Sector",
 "color":"#9b59b6"
 },{
+"label":"Life Below Water",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401584272x232868054447726850/Goal_14_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141882962x722623394599990500",
+"type":"Sector",
+"color":"#0A97D9"
+},{
 "label":"Climate Environment & Resiliency",
 "image":"//s3.amazonaws.com/appforest_uf/f1664401976771x562181693596174100/cloud-sun-rain.svg",
 "id":"1615672041915x633556507161936900",
 "type":"Sector",
 "color":"#A3CE56"
+},{
+"label":"Florida",
+"image":"https://dl.airtable.com/.attachments/c38aa4062b67481374bd6304f9659fd9/0fc85691/Flag_of_the_United_States.svg",
+"id":"1616721864588x276734750949191740",
+"type":"Location"
 },
 {
         "id": "1668391526554x487953636007346200",
@@ -1268,15 +1291,15 @@
         "id": "1668442166693x531391388442427400",
 "url":"https://wahoobay.org/",
 "object url":"https://www.catalist.network/trove/tedxboston?object=1668442166693x531391388442427400&view=Net%20Map&filtered=yes",
-"image":"https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/312358131_162689223040088_7859815819555885040_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=tNFgJkiPAXAAX97YNQC&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_ZTDVua2m_5Mz8dYkg64unh8TVA3RCkQVsqLS8i4unvA&oe=635BDEC9",
+"image":"https://wahoobay.org/wp-content/uploads/2021/05/Wahoo-Bay1b.png",
 "type":"Project",
 "tags":[],
-"sectors":[],
-"locations":[],
+"sectors":["Life Below Water","Land Air and Ocean Stewardship"],
+"locations":["Florida"],
 "types":[],
-"description":"Educational Marine Park Restoring The Natural Habitat An immersive educational park experience to show the community the importance of keeping our oceans and reefs healthy.",
+"description":"An immersive educational park experience to show the community the importance of keeping our oceans and reefs healthy.",
 "size":"",
-"label":"Home - wahoobay.org"
+"label":"Wahoobay"
     },{
         "id": "1668442374811x140406918938624000",
 "url":"https://www.drawdown.org",
@@ -1326,6 +1349,7 @@
         "to": "1668433395226x717257336659615760",
 "strength":1,
 "type":"is created by",
+"description":"",
 "label":"Looking and Seeing is created by Stephen Wilkes"
     }
 ,{
@@ -1334,6 +1358,7 @@
         "to": "1668433395226x717257336659615760",
 "strength":1,
 "type":"is created by",
+"description":"This is one of the main projects covered in his talk.",
 "label":"Day to Night Photos is created by Stephen Wilkes"
     }
 ,{
@@ -1342,6 +1367,7 @@
         "to": "1668433358413x303463716838983080",
 "strength":1,
 "type":"is discussed by",
+"description":"",
 "label":"Comprehensive Anticipatory Design is discussed by Greg Watson"
     }
 ,{
@@ -1350,6 +1376,7 @@
         "to": "1668433358413x303463716838983080",
 "strength":1,
 "type":"is quoted in",
+"description":"",
 "label":"How to reconcile environmental quality and economic equality? is quoted in Greg Watson"
     }
 ,{
@@ -1358,6 +1385,7 @@
         "to": "1668440303096x385036853517484000",
 "strength":1,
 "type":"mentions",
+"description":"",
 "label":"Greg Watson mentions WEC Energy Trilemma Index Tool"
     }
 ,{
@@ -1366,6 +1394,7 @@
         "to": "1668433352151x627670435246856100",
 "strength":1,
 "type":"is related to",
+"description":"Both of these speakers have projects related to the oceans.",
 "label":"Landolf Rhode-Barbarigos is related to Daniel Kleinman"
     }
 ,{
@@ -1374,7 +1403,8 @@
         "to": "1668433372205x738222940108005400",
 "strength":1,
 "type":"is related to",
-"label":"Home - wahoobay.org is related to Landolf Rhode-Barbarigos"
+"description":"",
+"label":"Wahoobay is related to Landolf Rhode-Barbarigos"
     }
 ,{
         "id": "1668447832548x987807734447845800",
@@ -1382,6 +1412,7 @@
         "to": "1668442374811x140406918938624000",
 "strength":1,
 "type":"is related to",
+"description":"The roadmap is an extension of the initial project drawdown categories that lets people know how to achieve them.",
 "label":"Project Drawdown’s Roadmap to a Sustainable World is related to Project Drawdown"
     }
 
