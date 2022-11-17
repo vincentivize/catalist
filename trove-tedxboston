@@ -1,13 +1,13 @@
 {
   "elements": [
 {
-  label: "Object Type";
+  "label": "Object Type",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"",
 "type":"Object Type",
-"description":"Types of information"
+"description":"Types of information\\n[[list "Object Type"]]"
 },{
-  label: "Sector";
+  "label": "Sector",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
 "id":"",
 "type":"Object Type",
@@ -1401,7 +1401,7 @@
         "id": "1668442184475x439260077775619000",
         "from": "1668442166693x531391388442427400",
         "to": "1668433372205x738222940108005400",
-"strength":1,
+"strength":2,
 "type":"is related to",
 "description":"",
 "label":"Wahoobay is related to Landolf Rhode-Barbarigos"
