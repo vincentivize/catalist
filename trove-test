@@ -86,6 +86,60 @@
 "type":"Sector",
 "color":""
 },{
+"label":"Regenerative Economy & Systems",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182586154x888009424398310800/hand-holding-heart.svg",
+"id":"1615672041902x625853127508537100",
+"type":"Sector",
+"color":""
+},{
+"label":"Collective Action & Collaboration",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182619432x315758821910683260/hands-helping.svg",
+"id":"1615672041912x871760549889363100",
+"type":"Sector",
+"color":""
+},{
+"label":"Climate Environment & Resiliency",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182665484x201833210525020450/cloud-sun-rain.svg",
+"id":"1615672041915x633556507161936900",
+"type":"Sector",
+"color":""
+},{
+"label":"Activism",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182652375x709240926207652200/bullhorn.svg",
+"id":"1615672041915x732848251565472600",
+"type":"Sector",
+"color":""
+},{
+"label":"Education",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182563539x542695210418926660/book.svg",
+"id":"1615672041916x259225977303673800",
+"type":"Sector",
+"color":"#56B8CE"
+},{
+"label":"Social Entrepreneurship & Innovation",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182574174x299807349453231170/rocket.svg",
+"id":"1615672041916x779660240572417500",
+"type":"Sector",
+"color":""
+},{
+"label":"Personal Development",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182576942x956878631495222700/user-plus.svg",
+"id":"1615672041918x120755945906354300",
+"type":"Sector",
+"color":""
+},{
+"label":"Technology Culture & Society",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182579695x300273734016329300/atlas.svg",
+"id":"1615672041918x612867375015224000",
+"type":"Sector",
+"color":""
+},{
+"label":"STEM - Science Tech Engineering & Math",
+"image":"//s3.amazonaws.com/appforest_uf/f1646182582723x217965095546532640/charging-station.svg",
+"id":"1615672041919x568501587193248640",
+"type":"Sector",
+"color":""
+},{
 "label":"Global",
 "image":"",
 "id":"1616721864591x720620861514094600",
@@ -94,6 +148,11 @@
 "label":"Online",
 "image":"",
 "id":"1616721864997x688976465036883440",
+"type":"Location"
+},{
+"label":"Africa",
+"image":"",
+"id":"1616721863855x810500369215544200",
 "type":"Location"
 },{
 "label":"Albania",
@@ -125,6 +184,11 @@
 "image":"https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
 "id":"1616721864726x728397655671531600",
 "type":"Location"
+},{
+"label":"Online (US only)",
+"image":"",
+"id":"1616721864997x680918769417518100",
+"type":"Location"
 },
 {
         "id": "1638065475726x167331045122244600",
@@ -145,10 +209,10 @@
 "type":"Event",
 "tags":["Change"],
 "sectors":["Design"],
-"locations":["Albania"],
+"locations":["Africa","Albania"],
 "types":["Event List"],
 "description":"Don’t miss Decipher - the inaugural convening of the Algorand community.",
-"size":"",
+"size":"34",
 "label":"Decipher"
     },{
         "id": "1638067287060x314012205193887740",
@@ -171,7 +235,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"",
+"description":"The East Rockaway School District respects our diverse community and proud traditions by engaging every student in an innovative and challenging educational program which inspires learners to become self-directed, ethical, creative and globally conscious citizens.\\n",
 "size":"",
 "label":"East Rockaway School District"
     },{
@@ -551,7 +615,7 @@
 "url":"https://opencollective.com/great-works-alliance",
 "image":"https://images.opencollective.com/great-works-alliance/e7da040/background.png",
 "type":"",
-"tags":["collective Intelligence"],
+"tags":["collective Intelligence","whatever you want"],
 "sectors":[],
 "locations":[],
 "types":[],
@@ -564,7 +628,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
 "type":"Topic",
 "tags":[],
-"sectors":[],
+"sectors":["Innovation Invention & Ideation"],
 "locations":[],
 "types":[],
 "description":"",
@@ -716,7 +780,7 @@
 "label":""
     },{
         "id": "1653437994983x261001795038619420",
-"url":"https://www.visiontrain.org/",
+"url":"https://www.visiontrain.org",
 "image":"https://www.visiontrain.org/uploads/1/1/6/9/116991368/published/2022-launch-facebook-post.png?1650515184",
 "type":"",
 "tags":[],
@@ -774,14 +838,239 @@
 "description":"Systems designer, entrepreneur, and information architect. Founder of Catalist and Trove.",
 "size":"",
 "label":"Vincent Arena"
+    },{
+        "id": "1659474811353x517383428824135230",
+"url":"https://www.catalist.network/version-test/profile/kennykencan",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Alex Kennedy"
+    },{
+        "id": "1638301177204x737154583128178700",
+"url":"https://sdgs.un.org/goals",
+"image":"https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-01.jpg",
+"type":"Topic",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Framework"],
+"description":"The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, provides a shared blueprint for peace and prosperity for people and the planet, now and into the future. At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries - developed and developing - in a global partnership. They recognize that ending poverty and other deprivations must go hand-in-hand with strategies that improve health and education, reduce inequality, and spur economic growth – all while tackling climate change and working to preserve our oceans and forests.",
+"size":"",
+"label":"THE 17 Sustainable Development Goals"
+    },{
+        "id": "1639199230827x596946602874634200",
+"url":"https://vincentarena.com",
+"image":"https://uploads-ssl.webflow.com/5dbef36b5ad64f1f73862645/5ec34ddb544c77d77d032adb_Screen%20Shot%202020-05-18%20at%2011.08.15%20PM.png",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Designer. Engineer. Social Entrepreneur.",
+"size":"",
+"label":"Override Title"
+    },{
+        "id": "1653436525027x333422111583199400",
+"url":"https://www.instagram.com/wahinya.mwirikia/",
+"image":"",
+"type":"",
+"tags":["Business Information Systems"],
+"sectors":["Regenerative Economy & Systems","Innovation Invention & Ideation"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":""
+    },{
+        "id": "1653436649987x434362445202537200",
+"url":"https://www.youtube.com/channel/UCCGdVDJSRRzaq4t1WvcKpLA",
+"image":"https://yt3.ggpht.com/F8exMZXZHLZ-gafWWKPe690eSVdZcn_XvXfIfQO5nzcjg7Q9UD9cjl0ycG_Fj6ZFIcDVvycJ=s900-c-k-c0x00ffffff-no-rj",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":""
+    },{
+        "id": "1660237129548x323823522097900700",
+"url":"https://www.catalist.network/version-test/profile/1654722038088x595514559045415600",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Hey Yaqh"
+    },{
+        "id": "1660241003091x132809698871472210",
+"url":"https://www.catalist.network/version-test/profile/1647029401360x559561419657723460",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"type":"Event",
+"tags":[],
+"sectors":[],
+"locations":["Online (US only)"],
+"types":[],
+"description":"symbiotic relationships co-evolves\\n",
+"size":"",
+"label":"Reimagining Wealth Initiative "
+    },{
+        "id": "1660241677249x858200176251711700",
+"url":"https://www.catalist.network/version-test/profile/dont-do-nonsense",
+"image":"//s3.amazonaws.com/appforest_uf/f1618886583585x413615686185094340/colored_Paperclips.jpeg",
+"type":"Event",
+"tags":["Creative","Social Entrepreneurship","Design","Climate Change","Social Impact and Invention"],
+"sectors":["Innovation Invention & Ideation","Design","Collective Action & Collaboration","Climate Environment & Resiliency","Activism","Education","Systems Design & Thinking","Social Entrepreneurship & Innovation","Personal Development","Technology Culture & Society","STEM - Science Tech Engineering & Math"],
+"locations":["Global","New York","United States"],
+"types":["Tool"],
+"description":"A creative workbook aimed at teaching changemakers to find the right problems, to think and see the world differently, to understand their values, and to have the creative confidence to take action\\n\\nChangemakers\\n\\nCreative",
+"size":"",
+"label":"Don't Do Nonsense "
+    },{
+        "id": "1660249754299x442441643803017200",
+"url":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"type":"Post",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"asdfasdf",
+"size":"",
+"label":"It's a thing!"
+    },{
+        "id": "1660527063930x201377023259836400",
+"url":"https://www.stripe.com",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"tags":["Learning","Learning"],
+"sectors":["Innovation Invention & Ideation"],
+"locations":[],
+"types":["Tool","Fellowship","Course","Non-Profit","Design Tool","Book","Argument Mapping Tool"],
+"description":"1-2 sentence summary",
+"size":"",
+"label":"Stripe"
+    },{
+        "id": "1667456775482x967582269157719000",
+"url":"https://wd-pl.com/",
+"image":"https://www.wd-pl.com/wp-content/uploads/home-1-shutterstock_456640909-2000.jpg",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Creating a more participatory, powerful and wise democracy!",
+"size":"",
+"label":"Home - Our Wise Democracy Project and Pattern Language"
+    },{
+        "id": "1667456775511x891998545688354800",
+"url":"https://www.co-intelligence.institute/deep-democracy",
+"image":"https://lh5.googleusercontent.com/RfnVaTtr3dErACN_aWEQEaxYLXGVezY890ICLXIjFh5C8cAWpr6NlrZnUiKypv52edpKzTRm1aaaWw=w1200-h630-p",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":". The Core of this model is (a) a map of the landscape of perspectives (Yellow post-it) on the issue being considered, generated by anyone who wants to participate and (b) a small sense-making group (Teal post-it) that is a cross section of the whole population and is supported by enhanced i...",
+"size":"",
+"label":"Collective Sensemaking model - detailed version"
+    },{
+        "id": "1667456777396x267264803674932540",
+"url":"https://docs.google.com/document/d/1LIMvlYPHTnHQ7toSieJ0CpXkY0YI7Lp4HefQtY8qMYw/edit",
+"image":"https://lh5.googleusercontent.com/RfnVaTtr3dErACN_aWEQEaxYLXGVezY890ICLXIjFh5C8cAWpr6NlrZnUiKypv52edpKzTRm1aaaWw=w1200-h630-p",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":". The Core of this model is (a) a map of the landscape of perspectives (Yellow post-it) on the issue being considered, generated by anyone who wants to participate and (b) a small sense-making group (Teal post-it) that is a cross section of the whole population and is supported by enhanced i...",
+"size":"",
+"label":"Collective Sensemaking model - detailed version"
+    },{
+        "id": "1667456780216x743466807262694700",
+"url":"https://youtu.be/YnhNg6sS_D8?t=2544",
+"image":"https://i.ytimg.com/vi/YnhNg6sS_D8/hqdefault.jpg",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"MetaCAugs Meeting 2020-09-08 - w/ Tom Atlee on Collective Sensemaking",
+"size":"",
+"label":"MetaCAugs Meeting 2020-09-08 - w/ Tom Atlee on Collective Sensemaking"
+    },{
+        "id": "1667456783764x540753641068491460",
+"url":"https://www.youtube.com/watch?v=xfpz3VBgP-4&t=245s",
+"image":"https://i.ytimg.com/vi/xfpz3VBgP-4/hqdefault.jpg",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Selected highlights from Doug Engelbart’s 2002 interview in which he succinctly describes his vision for the future of humanity. For more on Doug Engelbart’...",
+"size":"",
+"label":"Engelbart Vision Highlights"
+    },{
+        "id": "1667456785111x403180997822363260",
+"url":"https://youtu.be/2nm47PFALc8",
+"image":"https://i.ytimg.com/vi/2nm47PFALc8/maxresdefault.jpg",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"https://en.wikipedia.org/wiki/The_Mother_of_All_DemosThe versions available on youtube or Stanford’s own website were all 360p or lower, making it difficult ...",
+"size":"",
+"label":"The Mother of All Demos, presented by Douglas Engelbart (1968) [HD 720p 2020 reupload]"
+    },{
+        "id": "1667456789075x786158700925094700",
+"url":"https://youtu.be/_7ZtISeGyCY",
+"image":"https://i.ytimg.com/vi/_7ZtISeGyCY/maxresdefault.jpg",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"A film on Douglas Engelbart, inventor of the computer mouse whose vision was to augment the collective IQ of humans using the computer as a tool to accomplis...",
+"size":"",
+"label":"The Augmentation of Douglas Engelbart | Full Documentary"
+    },{
+        "id": "1667456792660x849799402383477000",
+"url":"https://youtu.be/3AjKhinNhkU",
+"image":"https://i.ytimg.com/vi/3AjKhinNhkU/maxresdefault.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Youtube Video"],
+"description":"Doug Engelbart’s lecture at the The Brown/MIT Vannevar Bush Symposium in 1995, celebrating the 50th anniversary of Bush’s groundbreaking article “As We May T...",
+"size":"",
+"label":"The Strategic Pursuit of Collective IQ (1995)"
     }
 ],
 
   "connections": [
 {
+        "id": "1639206701884x468752907808568800",
+        "from": "1639199510682x555130299479490600",
+        "to": "1638301177204x737154583128178700",
+"strength":1,
+"type":"is related to",
+"label":"Trove Powered By Catalist is related to THE 17 Sustainable Development Goals"
+    }
+,{
         "id": "1639207111010x473710109927669800",
         "from": "",
         "to": "1638065475726x167331045122244600",
+"strength":1,
 "type":"Know Of",
 "label":" Know Of Systems Innovators"
     }
@@ -789,20 +1078,47 @@
         "id": "1639207298128x886377311240978400",
         "from": "1638065475726x167331045122244600",
         "to": "1638088192588x218709207267672060",
+"strength":1,
 "type":"Actively Collaborates With",
 "label":"Systems Innovators Actively Collaborates With The Weaving Lab"
+    }
+,{
+        "id": "1641087606425x839010038350872600",
+        "from": "1638065541221x839152360082636800",
+        "to": "1639199230827x596946602874634200",
+"strength":1,
+"type":"was curated by",
+"label":"Decipher was curated by Override Title"
     }
 ,{
         "id": "1641089048103x146274188990873600",
         "from": "1638067287060x314012205193887740",
         "to": "1638065475726x167331045122244600",
+"strength":1,
 "type":"loves",
 "label":"Trove Powered By Catalist loves Systems Innovators"
+    }
+,{
+        "id": "1641090244780x524507592734015500",
+        "from": "1638070640216x683821043871645700",
+        "to": "1639199230827x596946602874634200",
+"strength":1,
+"type":"educated",
+"label":"East Rockaway School District educated Override Title"
+    }
+,{
+        "id": "1641325081612x978638089062449200",
+        "from": "1638065475726x167331045122244600",
+        "to": "1639199230827x596946602874634200",
+"strength":1,
+"type":"was made by",
+"label":"Systems Innovators was made by Override Title"
     }
 ,{
         "id": "1641829267695x579635964260909000",
         "from": "1640651974053x949519787082001400",
         "to": "1638065475726x167331045122244600",
+"strength":1,
 "type":"presented at",
 "label":"Jerry’s Brain presented at Systems Innovators"
     }
@@ -810,6 +1126,7 @@
         "id": "1644680087008x863763731660668900",
         "from": "1644680036551x535326048446578700",
         "to": "1644679908075x413696057779683300",
+"strength":1,
 "type":"is a subcircle",
 "label":"Co-creating the Holomovement: Technologies and Social Modalities is a subcircle Synergy Circles"
     }
@@ -817,15 +1134,73 @@
         "id": "1644680166562x976904478791827500",
         "from": "1639199230827x596946602874634200",
         "to": "1644680036551x535326048446578700",
+"strength":1,
 "type":"wants to join",
-"label":"Vincent Arena wants to join Co-creating the Holomovement: Technologies and Social Modalities"
+"label":"Override Title wants to join Co-creating the Holomovement: Technologies and Social Modalities"
     }
 ,{
         "id": "1659474237852x339221052569157600",
         "from": "1659473772253x776519165278519700",
         "to": "1638067287060x314012205193887740",
+"strength":1,
 "type":"designed",
 "label":"Vincent Arena designed Trove Powered By Catalist"
+    }
+,{
+        "id": "1660233176802x682106238333878300",
+        "from": "1638065541221x839152360082636800",
+        "to": "1638065475726x167331045122244600",
+"strength":1,
+"type":"",
+"label":"Decipher  Systems Innovators"
+    }
+,{
+        "id": "1660233632451x701224165310464000",
+        "from": "1638065541221x839152360082636800",
+        "to": "1638070640216x683821043871645700",
+"strength":1,
+"type":"blah",
+"label":"Decipher blah East Rockaway School District"
+    }
+,{
+        "id": "1660234213096x329912233119449100",
+        "from": "1639802402140x385845586957434900",
+        "to": "1640489263216x420477205849047040",
+"strength":1,
+"type":"wants to join",
+"label":"New Post wants to join blue cards"
+    }
+,{
+        "id": "1660236844534x132682502576275460",
+        "from": "1638065541221x839152360082636800",
+        "to": "1638165976522x543545434594607100",
+"strength":1,
+"type":"curates",
+"label":"Decipher curates ARTBASEL2021 + BTCMIAMI"
+    }
+,{
+        "id": "1660237090779x403358510998093800",
+        "from": "1644679908075x413696057779683300",
+        "to": "1638165976522x543545434594607100",
+"strength":1,
+"type":"was destroyed by",
+"label":"Synergy Circles was destroyed by ARTBASEL2021 + BTCMIAMI"
+    }
+,{
+        "id": "1660237139151x248585389685080060",
+        "from": "1660237129548x323823522097900700",
+        "to": "1638065541221x839152360082636800",
+"strength":1,
+"type":"designed",
+"label":"Hey Yaqh designed Decipher"
+    }
+,{
+        "id": "1660244844736x775465884873130000",
+        "from": "1660241677249x858200176251711700",
+        "to": "1639199230827x596946602874634200",
+"strength":1,
+"type":"was written by",
+"label":"Don't Do Nonsense  was written by Override Title"
     }
 
  ]
