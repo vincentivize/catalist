@@ -26,6 +26,12 @@
 "type":"Object Type",
 "description":"People on Trove"
 },{
+"label":"Opportunity",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962146632x605832000456921600/001-door-open.svg",
+"id":"Opportunity",
+"type":"Object Type",
+"description":"Offers or requests"
+},{
 "label":"Science",
 "image":"//s3.amazonaws.com/appforest_uf/f1647649703976x657608000858449500/images",
 "id":"1647152514608x403814582090233660",
@@ -92,6 +98,12 @@
 "type":"Sector",
 "color":""
 },{
+"label":"Software Internet & Automation",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401552561x240469734088797800/code_black.svg",
+"id":"1617932270744x581573144551531800",
+"type":"Sector",
+"color":"#848384"
+},{
 "label":"Global",
 "image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
 "id":"1616721864591x720620861514094600",
@@ -115,6 +127,11 @@
 "label":"Brazil",
 "image":"https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
 "id":"1616721863961x746649880973713900",
+"type":"Location"
+},{
+"label":"Costa Rica",
+"image":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+"id":"1616721864449x118837711430189950",
 "type":"Location"
 },{
 "label":"United States",
@@ -147,7 +164,7 @@
 "label":"Catalyst 2030"
     },{
         "id": "1664289167989x723038635742484200",
-"url":"www.catalist.directory",
+"url":"https://www.catalist.directory",
 "object url":"https://www.catalist.network/trove/gaianet?object=1664289167989x723038635742484200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1664290145692x207427189825650780/Catalist%20Icons_logo%20256%20gradientt.png",
 "type":"Project",
@@ -4937,7 +4954,7 @@
 "type":"Project",
 "tags":[],
 "sectors":["Arts","Infrastructure","Relations"],
-"locations":[],
+"locations":["Costa Rica"],
 "types":[],
 "description":"### **Center For Applied Cultural Transition**\\nAt Brave Earth we are in an inquiry about how to adapt, create more resiliency and become more attuned to the current cultural context. This context is referred to as the Anthropocene, late-stage capitalism or the Kali Yuga.  \\nRegardless of the description, to be a contributing force for cultural evolution we will need to embody new and ancient ways of being. This requires great acts of courage as we shed our old belief systems and programming.\\nAs a living laboratory we are holding the questions of how do we decolonize our minds from the dominant culture of capitalism, patriarchy, racialized hierarchies, scarcity logic and oppressive systems of control? How do we become stewards in service to all Life? \\n",
 "size":"",
@@ -4981,6 +4998,19 @@
 "description":"Systems designer, social entrepreneur, and knowledge architect. Founder of Catalist",
 "size":"",
 "label":"Vincent Arena"
+    },{
+        "id": "1668706807588x489630909710729200",
+"url":"",
+"object url":"https://www.catalist.network/trove/gaianet?object=1668706807588x489630909710729200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962146632x605832000456921600/001-door-open.svg",
+"type":"Opportunity",
+"tags":["Web Development"],
+"sectors":["Software Internet & Automation"],
+"locations":["Global"],
+"types":["Help Needed"],
+"description":"Catalist is looking for someone who can help with creating HTML email templates and design newsletters.",
+"size":"",
+"label":"Seeking Email Designer"
     }
 ],
 
@@ -4993,6 +5023,15 @@
 "type":"is the founder of",
 "description":"",
 "label":"Vincent Arena is the founder of Catalist / Trove"
+    }
+,{
+        "id": "1668706864020x614744086072000500",
+        "from": "1668706807588x489630909710729200",
+        "to": "1664289167989x723038635742484200",
+"strength":1,
+"type":"applies to",
+"description":"",
+"label":"Seeking Email Designer applies to Catalist / Trove"
     }
 
  ]
