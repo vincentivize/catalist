@@ -1,63 +1,75 @@
 {
   "elements": [
-
+{
+  "label": "Object Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"",
+"type":"Object Type",
+"description":"Types of information\n[[list\"Object Type\"]]"
+},{
+  "label": "Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
+"id":"",
+"type":"Object Type",
+"description":"Main sectors of society\n[[list\"Sector\"]]"
+},
 {
 "label":"Resource",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "id":"Resource",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Shared crowd-sourced library"
 },{
 "label":"Project",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "id":"Project",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Project Listings"
 },{
 "label":"Post",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
 "id":"Post",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Photos, quotes, or text"
 },{
 "label":"Product",
 "image":"//s3.amazonaws.com/appforest_uf/f1651961966246x836694866797873900/shopping-bag.svg",
 "id":"Product",
-"type":"Element Type",
+"type":"Object Type",
 "description":"A product or a service from a Trove member."
 },{
 "label":"Organization",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "id":"Organization",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Public organization directory"
 },{
 "label":"Infrastructure",
-"image":"//s3.amazonaws.com/appforest_uf/f1647649696424x409594126033386000/images",
+"image":"//s3.amazonaws.com/appforest_uf/f1668709989422x757515191547306900/idea_black.svg",
 "id":"1647152511060x835582580126596900",
 "type":"Sector",
 "color":""
 },{
 "label":"Relations",
-"image":"//s3.amazonaws.com/appforest_uf/f1647649702422x694809907248845600/images",
+"image":"//s3.amazonaws.com/appforest_uf/f1668709985227x396926948890598400/date_hires.png",
 "id":"1647152513785x469083540417545300",
 "type":"Sector",
 "color":""
 },{
 "label":"Governance",
-"image":"//s3.amazonaws.com/appforest_uf/f1664401634075x546260069486912640/keynote.png",
+"image":"//s3.amazonaws.com/appforest_uf/f1668709972443x228596739978733400/keynote.png",
 "id":"1647152448910x333419692378226400",
 "type":"Sector",
 "color":""
 },{
 "label":"Spirituality",
-"image":"//s3.amazonaws.com/appforest_uf/f1647649705569x947375107431533900/images",
+"image":"//s3.amazonaws.com/appforest_uf/f1668709983680x831717363549101300/002-zen.svg",
 "id":"1647152515573x637553918953792400",
 "type":"Sector",
 "color":""
 },{
 "label":"Worldview",
-"image":"//s3.amazonaws.com/appforest_uf/f1664401638715x523807631177184400/systems-8.png",
+"image":"//s3.amazonaws.com/appforest_uf/f1668709974759x477359459533887040/systems-8.png",
 "id":"1647152454133x619064176998900700",
 "type":"Sector",
 "color":""
@@ -93,7 +105,7 @@
 "color":"#9b59b6"
 },{
 "label":"Environment",
-"image":"//s3.amazonaws.com/appforest_uf/f1647649691660x273258215584094370/images",
+"image":"//s3.amazonaws.com/appforest_uf/f1668709982222x532887141691503740/steward_black.svg",
 "id":"1647152508480x327475035801030340",
 "type":"Sector",
 "color":""
@@ -105,7 +117,7 @@
 "color":""
 },{
 "label":"Economics",
-"image":"//s3.amazonaws.com/appforest_uf/f1664401632599x649014382106157200/regen_black.svg",
+"image":"//s3.amazonaws.com/appforest_uf/f1668709969745x987090592873926000/regen_black.svg",
 "id":"1647152447125x343484851979146500",
 "type":"Sector",
 "color":""
@@ -899,6 +911,7 @@
         "to": "1654706396673x136760324459069440",
 "strength":1,
 "type":"is related to",
+"description":"",
 "label":"Discover Your Love Language - The 5 Love Languages® is related to Meta Project Wisdom Council - Statement of Intention"
     }
 ,{
@@ -907,6 +920,7 @@
         "to": "1658176906095x587493443710484500",
 "strength":1,
 "type":"is related to",
+"description":"",
 "label":"Discover Your Love Language - The 5 Love Languages® is related to Meta Project - Values & Purpose"
     }
 ,{
@@ -915,6 +929,7 @@
         "to": "1658633856240x124548770559426560",
 "strength":1,
 "type":"is related to",
+"description":"",
 "label":"Discover Your Love Language - The 5 Love Languages® is related to The Ancient Greeks’ 6 Words for Love (And Why Knowing Them Can Change Your Life) - YES! Magazine"
     }
 ,{
@@ -923,6 +938,7 @@
         "to": "1661374920267x784624561868505100",
 "strength":1,
 "type":"is from",
+"description":"",
 "label":"Scenario Planning Quadrant Tool is from Vision 2050 - World Business Council for Sustainable Development (WBCSD)"
     }
 ,{
@@ -931,6 +947,7 @@
         "to": "1662701710868x811992638485954600",
 "strength":1,
 "type":"is from",
+"description":"",
 "label":"Koen van Seijen – Medium is from Regenerative Agriculture Funds"
     }
 ,{
@@ -939,6 +956,7 @@
         "to": "1664631617811x931667474658623500",
 "strength":1,
 "type":"is presented by",
+"description":"",
 "label":"Grey Swan Guild Event Announcements - Autumn′22 Event Roster and Announcing the GSG Book Festival is presented by Grey Swan Guild"
     }
 ,{
@@ -947,6 +965,7 @@
         "to": "1665843364701x350651259680718850",
 "strength":1,
 "type":"is related to",
+"description":"",
 "label":"Getting Started with Future Thinkers is related to Baba Yaga, Shamanism, and Emergence"
     }
 ,{
@@ -955,6 +974,7 @@
         "to": "1665843364701x350651259680718850",
 "strength":1,
 "type":"is related to",
+"description":"",
 "label":"On Human Geometry and Coherence is related to Baba Yaga, Shamanism, and Emergence"
     }
 ,{
@@ -963,6 +983,7 @@
         "to": "1665843616347x393110263398662140",
 "strength":1,
 "type":"is related to",
+"description":"",
 "label":"On Human Geometry and Coherence is related to Getting Started with Future Thinkers"
     }
 
