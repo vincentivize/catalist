@@ -1,17 +1,29 @@
 {
   "elements": [
-
+{
+  "label": "Object Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"",
+"type":"Object Type",
+"description":"Types of information\n[[list\"Object Type\"]]"
+},{
+  "label": "Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
+"id":"",
+"type":"Object Type",
+"description":"Main sectors of society\n[[list\"Sector\"]]"
+},
 {
 "label":"Presentation",
 "image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
 "id":"Presentation",
-"type":"Element Type",
+"type":"Object Type",
 "description":""
 },{
 "label":"Profile",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "id":"Profile",
-"type":"Element Type",
+"type":"Object Type",
 "description":"People on Trove"
 },{
 "label":"Sustainable cities and communities",
@@ -113,6 +125,7 @@
 {
         "id": "1669857723194x295446999300432700",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857723194x295446999300432700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858661530x703236411281525500/Adam%20headshot.jpg",
 "type":"Presentation",
 "tags":[],
@@ -125,6 +138,7 @@
     },{
         "id": "1669857759214x759059143324899500",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857759214x759059143324899500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858652335x710037380318562700/Rick%20Weinstein.jpg",
 "type":"Presentation",
 "tags":["Tech For Good Spotlight"],
@@ -138,6 +152,7 @@
     },{
         "id": "1669857761966x213790473826163100",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857761966x213790473826163100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858655060x792420141284282400/HLCNPQQTSVAUJP54OPPMVIU5F4.png",
 "type":"Presentation",
 "tags":[],
@@ -150,6 +165,7 @@
     },{
         "id": "1669857765377x839330041424192000",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857765377x839330041424192000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858658752x811551080030794600/IMG_4032.JPG",
 "type":"Presentation",
 "tags":["Community Change Maker Spotlight"],
@@ -162,6 +178,7 @@
     },{
         "id": "1669857768666x772458195420475400",
 "url":"bloomtreewellness.com",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857768666x772458195420475400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858664856x995188491200554900/Me%20and%20tinkshas.jpg",
 "type":"Profile",
 "tags":["Inner Changer Roundtable"],
@@ -174,6 +191,7 @@
     },{
         "id": "1669857770671x625497757670998600",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857770671x625497757670998600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858667664x242600001519585280/FE8AFB4C-E93B-4FDE-ADAD-BB2AFDC11A04.jpeg",
 "type":"Presentation",
 "tags":["Africa Change Maker Spotlight"],
@@ -186,6 +204,7 @@
     },{
         "id": "1669857776076x951158924554371700",
 "url":"sukhi222.org",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857776076x951158924554371700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858674069x768999774575228700/6B74BC8F-A78B-4A70-A32A-ECB76AE9BAE5.jpeg",
 "type":"Profile",
 "tags":["Africa Change Maker Spotlight"],
@@ -198,6 +217,7 @@
     },{
         "id": "1669857777699x990263506914975500",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857777699x990263506914975500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858678665x685662457255508100/1654969108530.jpg",
 "type":"Presentation",
 "tags":[],
@@ -210,6 +230,7 @@
     },{
         "id": "1669857779027x231198019262671040",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857779027x231198019262671040&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858681172x540208480244608300/Daniel%20Awomnab%20Picture.jpg",
 "type":"Presentation",
 "tags":[],
@@ -222,6 +243,7 @@
     },{
         "id": "1669857780632x107933242036214460",
 "url":"www.carboncaptureshield.com",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857780632x107933242036214460&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858683204x494289890776848960/DJ_Georgia_002.jpg",
 "type":"Presentation",
 "tags":[],
@@ -234,6 +256,7 @@
     },{
         "id": "1669857782747x996740761601180000",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857782747x996740761601180000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858686013x700914582827125800/David%20Ehrlichman%20-%20author%20photo%2C%203-18-21%20cropped.jpg",
 "type":"Presentation",
 "tags":[],
@@ -246,6 +269,7 @@
     },{
         "id": "1669857785446x331151724060959600",
 "url":"https://globalcarbonreward.org/",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857785446x331151724060959600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858690085x633403647645639000/Delton-Chen-1-Sample.png",
 "type":"Presentation",
 "tags":["New Economic Models"],
@@ -258,6 +282,7 @@
     },{
         "id": "1669857788849x198249989148322270",
 "url":"www.pradissitto.com",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857788849x198249989148322270&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858693158x323377944592114100/jasmine%20profile%20picture.jpg",
 "type":"Profile",
 "tags":["Art, Games, and Memetics"],
@@ -270,6 +295,7 @@
     },{
         "id": "1669857790656x174159822769282000",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857790656x174159822769282000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858696496x759883850147704300/DSC_0166%5B1%5D.JPG",
 "type":"Presentation",
 "tags":["Revolutionary Green Tech"],
@@ -282,6 +308,7 @@
     },{
         "id": "1669857792888x722753952373390000",
 "url":"convincingcrypto.com",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857792888x722753952373390000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858700087x836834199954940400/DE086373-FEF6-4D45-B6FB-7F4425735C7E.png",
 "type":"Profile",
 "tags":[],
@@ -294,6 +321,7 @@
     },{
         "id": "1669857795422x526503349442610800",
 "url":"https://www.regen.network/",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857795422x526503349442610800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858703708x791572015971890800/GLandua%20Headshot.jpeg",
 "type":"Presentation",
 "tags":["Revolutionary Green Tech"],
@@ -306,6 +334,7 @@
     },{
         "id": "1669857797103x711240081530779500",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857797103x711240081530779500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858706870x477735949787206660/heart%20in%20airplane-GriffGreen.png",
 "type":"Profile",
 "tags":[],
@@ -318,6 +347,7 @@
     },{
         "id": "1669857797917x808150189821402100",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857797917x808150189821402100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
 "type":"Presentation",
 "tags":[],
@@ -330,6 +360,7 @@
     },{
         "id": "1669857800040x650222724544794000",
 "url":"https://www.linkedin.com/in/jakehirschallen/",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857800040x650222724544794000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858710526x190879544723565600/-IMG_0008.JPG",
 "type":"Presentation",
 "tags":[],
@@ -342,6 +373,7 @@
     },{
         "id": "1669857801932x931392020648840600",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857801932x931392020648840600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858714730x303350439035499970/DB25F608-CEFF-44D9-8662-1C1A59202E00.jpg",
 "type":"Profile",
 "tags":["Impact Mapping Roundtable"],
@@ -350,11 +382,11 @@
 "types":[],
 "description":"",
 "size":"",
-"label":"Jenn Baez
-"
+"label":"Jenn Baez"
     },{
         "id": "1669857805176x428311240639756000",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857805176x428311240639756000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858717727x225407202118981020/552362BD-AF16-4DDA-A9A8-AB1B712AC1B7.png",
 "type":"Presentation",
 "tags":["WORKSHOP: Social Media For Change Makers"],
@@ -367,6 +399,7 @@
     },{
         "id": "1669857806417x999406342966169100",
 "url":"anagram.xyz",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857806417x999406342966169100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858720402x945280681475172000/Joseph%20Eagan.webp",
 "type":"Presentation",
 "tags":[],
@@ -379,6 +412,7 @@
     },{
         "id": "1669857808047x995979576907035900",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857808047x995979576907035900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858722287x910162694198434000/Kelsey_Driscoll-230x230.jpg",
 "type":"Profile",
 "tags":["Community Change Maker Spotlight"],
@@ -391,6 +425,7 @@
     },{
         "id": "1669857809747x372316484976844100",
 "url":"https://giveth.io/",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857809747x372316484976844100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858726974x843140872341258100/profile%20pic.jpg",
 "type":"Presentation",
 "tags":[],
@@ -403,6 +438,7 @@
     },{
         "id": "1669857811899x158488521126019840",
 "url":"https://www.theflowpartnership.org",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857811899x158488521126019840&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858729241x195812803100803300/minni%20jain.jpg",
 "type":"Presentation",
 "tags":["Regen Ag Superheroes"],
@@ -415,6 +451,7 @@
     },{
         "id": "1669857813500x958760390442472400",
 "url":"regenerativeresources.co",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857813500x958760390442472400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858731941x137452023605979070/Neal%20Caux.jpeg",
 "type":"Presentation",
 "tags":[],
@@ -427,6 +464,7 @@
     },{
         "id": "1669857816098x310503706155670600",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857816098x310503706155670600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858734944x980864596692262300/PXL_20211207_111257742.PORTRAIT~2.jpg",
 "type":"Presentation",
 "tags":["Green Project Spotlight"],
@@ -439,6 +477,7 @@
     },{
         "id": "1669857818770x890978035672024700",
 "url":"citypeople.durban",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857818770x890978035672024700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858739649x612018997767691800/Sikho%20Msomi.png",
 "type":"Presentation",
 "tags":["Africa Change Maker Spotlight"],
@@ -451,6 +490,7 @@
     },{
         "id": "1669857820673x679440162740433200",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857820673x679440162740433200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858743807x113690887890841810/profile_wtk.png",
 "type":"Presentation",
 "tags":[],
@@ -463,6 +503,7 @@
     },{
         "id": "1669857822883x551592785907258700",
 "url":"",
+"object url":"https://www.catalist.network/version-test/trove/tis?object=1669857822883x551592785907258700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669858747960x513318018410420240/Wesley%20Teter%20-%20bio%20pic.jpg",
 "type":"Presentation",
 "tags":["Barriers, Innovations, and Breakthroughs in institutional change"],
