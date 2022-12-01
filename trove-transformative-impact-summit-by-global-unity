@@ -1,1 +1,614 @@
-��e
+{
+  "elements": [
+
+{
+"label":"Profile",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"id":"Profile",
+"type":"Element Type",
+"description":"People on Trove"
+},{
+"label":"Presentation",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"id":"Presentation",
+"type":"Element Type",
+"description":""
+},{
+"label":"Partnerships for the goals",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401623808x790599364853025800/Goal_17_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141915520x886840410265817300",
+"type":"Sector",
+"color":"#19486A"
+},{
+"label":"Reducing inequalities",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401590233x154959580593037040/Goal_10_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141887717x307991172083124740",
+"type":"Sector",
+"color":"#DD1367"
+},{
+"label":"Industry Innovation and Infrastructure",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401614167x517255786431255040/Sustainable_Development_GoalsSDG9_-_Wikiversity",
+"id":"1647141907835x455679015736123000",
+"type":"Sector",
+"color":"#FD6925"
+},{
+"label":"Decentralized Web",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401715199x441805192597800400/decentralized%20web.svg",
+"id":"1647152361241x126474341539950960",
+"type":"Sector",
+"color":"#848384"
+},{
+"label":"No Poverty",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401580853x941868965074423200/Sustainable_Development_GoalsSDG1_-_Wikiversity",
+"id":"1647141880204x366355171649944450",
+"type":"Sector",
+"color":"#e5243b"
+},{
+"label":"Climate Action",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401617504x956427363140029300/Sustainable_Development_GoalsSDG13_-_Wikiversity",
+"id":"1647141910836x281819022696265120",
+"type":"Sector",
+"color":"#3F7E44"
+},{
+"label":"Sustainable cities and communities",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401611090x322912131353212400/Goal_11_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141905180x535468426374840100",
+"type":"Sector",
+"color":"#FD9D24"
+},{
+"label":"Good health and well-being for people",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401607553x132476053493926220/Sustainable_Development_GoalsSDG3_-_Wikiversity",
+"id":"1647141902944x763194704601223300",
+"type":"Sector",
+"color":"#4C9F38"
+},{
+"label":"Clean Water and Sanitation",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401626519x300417604747773100/Goal_6_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141917918x377181658512487600",
+"type":"Sector",
+"color":"#26BDE2"
+},{
+"label":"Quality Education",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401598088x450288682965459100/SDG_4_Indicators-_2017_Updates_-_SDG_resources_-_Medium",
+"id":"1647141895550x884210361325979300",
+"type":"Sector",
+"color":"#C5192D"
+},{
+"label":"Zero hunger",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401587455x886520688529093900/Support_SDG2__SDG2_Advocacy_Hub",
+"id":"1647141885641x139358460073491620",
+"type":"Sector",
+"color":"#DDA63A"
+},{
+"label":"Life on Land",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401629353x254559885232318530/Goal_15_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141920204x424791417948657400",
+"type":"Sector",
+"color":"#56C02B"
+},{
+"label":"Decent work and economic growth",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401601626x140335206814681470/Goal_8_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141898136x891162232972716000",
+"type":"Sector",
+"color":"#A21942"
+},{
+"label":"Gender equality",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401621226x613267293535270800/Goal_5_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141913100x689763904775104700",
+"type":"Sector",
+"color":"#FF3A21"
+},{
+"label":"Peace Justice & Strong Institutions",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401593039x943888202803974100/Goal_16_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141890984x231093560995825570",
+"type":"Sector",
+"color":"#00689D"
+},{
+"label":"Affordable and Clean Energy",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401595595x508076697203921900/SDG_7_Affordable_and_clean_energy__Open_Development_Cambodia_ODC",
+"id":"1647141893268x838606064708052000",
+"type":"Sector",
+"color":"#FCC30B"
+},{
+"label":"Responsible consumption and production",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401604399x899737444951011000/ISO_-_Responsible_Consumption_and_Production",
+"id":"1647141900184x137527476377358400",
+"type":"Sector",
+"color":"#BF8B2E"
+},{
+"label":"Climate Environment & Resiliency",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401976771x562181693596174100/cloud-sun-rain.svg",
+"id":"1615672041915x633556507161936900",
+"type":"Sector",
+"color":"#A3CE56"
+},{
+"label":"Action",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401680490x667753859178027400/6-Action-1-e1554141141192.png",
+"id":"1647540054854x456231365943024100",
+"type":"Sector",
+"color":""
+},{
+"label":"Global",
+"image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
+"id":"1616721864591x720620861514094600",
+"type":"Location"
+},{
+"label":"Online",
+"image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
+"id":"1616721864997x688976465036883440",
+"type":"Location"
+},{
+"label":"Bermuda",
+"image":"",
+"id":"1616721863959x438454533898847940",
+"type":"Location"
+},{
+"label":"Africa",
+"image":"https://dl.airtable.com/.attachments/5b814e4c79947e673e7ab1e0303daa05/7b54f6a2/noun_africa_662036.svg",
+"id":"1616721863855x810500369215544200",
+"type":"Location"
+},{
+"label":"USA",
+"image":"",
+"id":"1646192321762x654053844447208000",
+"type":"Location"
+},{
+"label":"Address",
+"image":"",
+"id":"1616721863555x736687657971160300",
+"type":"Location"
+},{
+"label":"Ecuador",
+"image":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+"id":"1616721864453x573469244246058500",
+"type":"Location"
+},{
+"label":"Guatemala",
+"image":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+"id":"1616721864593x293938149687172900",
+"type":"Location"
+},{
+"label":"California",
+"image":"https://dl.airtable.com/.attachments/c38aa4062b67481374bd6304f9659fd9/0fc85691/Flag_of_the_United_States.svg",
+"id":"1616721864393x714619005249126100",
+"type":"Location"
+},{
+"label":"New York City",
+"image":"",
+"id":"1646192636292x892553173503480400",
+"type":"Location"
+},{
+"label":"North America",
+"image":"https://dl.airtable.com/.attachments/499744f9981409cf1eceebfc20a216f2/55396f7b/noun_NorthAmerica_662033.svg",
+"id":"1616721864994x297991299233824100",
+"type":"Location"
+},{
+"label":"Colombia",
+"image":"https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+"id":"1616721864448x811723191431245400",
+"type":"Location"
+},{
+"label":"Zambia",
+"image":"https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+"id":"1616721865314x598436137890116600",
+"type":"Location"
+},{
+"label":"Brazil",
+"image":"https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+"id":"1616721863961x746649880973713900",
+"type":"Location"
+},{
+"label":"United States",
+"image":"",
+"id":"1645567427437x867576227422535700",
+"type":"Location"
+},{
+"label":"South Africa",
+"image":"https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+"id":"1616721865163x305074504100945000",
+"type":"Location"
+},
+{
+        "id": "1669920447688x629209494239215200",
+"url":"https://www.catalist.network/eventpage/1669919956496x180023134152220700",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920748252x634351040776127900/DB25F608-CEFF-44D9-8662-1C1A59202E00.jpg",
+"type":"Profile",
+"tags":["Impact Maps & Measurement"],
+"sectors":["Partnerships for the goals","Reducing inequalities","Industry Innovation and Infrastructure"],
+"locations":["Global"],
+"types":["Session"],
+"description":"",
+"size":"",
+"label":"Jenn Baez"
+    },{
+        "id": "1669920677050x782780535371075100",
+"url":"https://www.catalist.network/eventpage/1669741342876x178195842007469200",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920676201x862362263963103200/Rick%20Weinstein.jpg",
+"type":"Presentation",
+"tags":["Business For Good"],
+"sectors":["Reducing inequalities"],
+"locations":["Global","Online"],
+"types":["Session"],
+"description":"My leukemia diagnosis in 2011 was my wake up call for my Purposeful Act III a/k/a SERVICE. I am a son, sibling to two brothers, father to a cherished son and daughter, transformed grandfather to three light beings a/k/a grandchildren, ex husband to an amazing mother of our children, and last but not least -- lifetime student of the metaphysical realms. ",
+"size":"",
+"label":"Big Heart Social Ecosystem -- A Blueprint for the New Era of Equity by Rick Weinstein"
+    },{
+        "id": "1669920681345x455865819851213300",
+"url":"https://www.catalist.network/eventpage/1657032297821x832120320605576400",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920680217x601074046292685800/HLCNPQQTSVAUJP54OPPMVIU5F4.png",
+"type":"Presentation",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Decentralized Web"],
+"locations":[],
+"types":["Session"],
+"description":"Founder, Gitcoin, Author, GreenPilled, Impact DAOs",
+"size":"",
+"label":"How Web3 *Could* Regenerate The World by Kevin Owocki"
+    },{
+        "id": "1669920686538x330010773633202520",
+"url":"https://www.catalist.network/eventpage/1669392925751x619604690281918300",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920684931x306346271655122200/IMG_4032.JPG",
+"type":"Presentation",
+"tags":["Community & Local Impact"],
+"sectors":["Reducing inequalities","No Poverty","Climate Action"],
+"locations":["Bermuda"],
+"types":["Session"],
+"description":"I am the founder of Bermuda Is Love, a community organisation, dedicated to promoting responsibility, action, and love for the community and the environment, through events like trash cleanups, blood drives, clothing drives/giveaways, up-cycling events, community gardens, food programs, and more. \\n\\nBermuda Is Love is a group that believes in creating a social and economic system that provides equal access to opportunities and resources for all individuals, promotes human responsibility and dignity, and advances human flourishing and sustainability.\\n\\nI also sit on the Greenrock Youth Council which aims to give young environmental activists a platform to express their interests, propose solutions and collaborate with like-minded peers.\\n\\nI am an associate attorney at Cox Hallett Wilkinson, a Bermuda law firm, and hold an LPC MSc in Law, Business and Management from The University of Law, a Bachelor of Laws from the University of Kent, and a Bachelor of Arts in Philosophy from Dalhousie University.\\n",
+"size":"",
+"label":"The Philosophy of Bermuda Is Love by Aaron Crichlow"
+    },{
+        "id": "1669920689092x778031660619486300",
+"url":"https://www.catalist.network/eventpage/1669741122730x254861656377005400",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920688367x167052562119107230/Adam%20headshot.jpg",
+"type":"Presentation",
+"tags":["Education & Culture"],
+"sectors":["Sustainable cities and communities","Climate Action","Good health and well-being for people"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Adam is the collaborative founder of Onora, a research & action lab exploring how to create a more vibrant planet while leading with love rather than fear. Most recently discovered Gratitude-Based Learning & Innovation, a refreshingly new approach to education, problem-solving, and development. Former Fortune 500 market research & strategy consultant.",
+"size":"",
+"label":"Systems Change Starts with a Thank You by Adam Fishman"
+    },{
+        "id": "1669920691876x696859243656619300",
+"url":"https://www.catalist.network/eventpage/1669392469024x176858338282899650",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920691121x334186568820821000/Me%20and%20tinkshas.jpg",
+"type":"Profile",
+"tags":["Inner Change"],
+"sectors":["Good health and well-being for people"],
+"locations":["Online","Global"],
+"types":["Session"],
+"description":"Community builder, wellness advocate, sound healer, kundalini yogi, and dance ceremony facilitator. Founder of Bloomtree Wellness. Advisor to Celo.org",
+"size":"",
+"label":"Adriana Cerundolo"
+    },{
+        "id": "1669920696806x949121556284426600",
+"url":"https://www.catalist.network/eventpage/1669756364195x824346688199346700",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920695772x497209035879011140/FE8AFB4C-E93B-4FDE-ADAD-BB2AFDC11A04.jpeg",
+"type":"Presentation",
+"tags":["Change In Africa","Institutions & Infrastructure","Ecology & Food","Community & Local Impact","Education & Culture","Inner Change"],
+"sectors":["No Poverty","Clean Water and Sanitation","Quality Education"],
+"locations":["Global","Africa","USA"],
+"types":["Session"],
+"description":"I am a servant leader, a philanthropist, Founder & CEO of the 501c3 Tax-Exempt organization: ‘Mumzys Children Relief Foundation’ aka ‘MumzyCRF’ a humanitarian mission that empowers communities & children living in extreme poverty. ",
+"size":"",
+"label":"Helping Children living in extremely poor remote rural villages get access to education and to basic human needs by Albertine Scray ‘Mumzy’"
+    },{
+        "id": "1669920704283x449242552608716000",
+"url":"https://www.catalist.network/eventpage/1657032306711x145761330847786760",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920702680x146771546577961800/6B74BC8F-A78B-4A70-A32A-ECB76AE9BAE5.jpeg",
+"type":"Profile",
+"tags":["Ecology & Food","Inner Change"],
+"sectors":["Clean Water and Sanitation","Zero hunger","Sustainable cities and communities"],
+"locations":["Address","Global"],
+"types":["Session"],
+"description":"Charles holsopple \\n\\n Visionary, Philanthropist,\\nFounder CEO, Sukhi 222,\\n Rotarian, Student at USF 1972. \\n\\n   In 2005 after a successful career in building materials and real estate Charles retired to begin research and networking to address the existential threats of this and future generations. \\nHis first work included collaboration with cross disciplinary faculty and students at Univ. of Akron polymer engineering school focused on emerging shelter technology. \\n  He soon expanded his project to include the other basic needs of nutrition and clean water as common denominators \\n His work has resulted in collaboration of individuals forming a cross disciplinary self organizing team in 22 countries and growing. \\n Charles is the host and producer of an upcoming podcast from WMNF.org Studios \\n\\n \\n ",
+"size":"",
+"label":"It's all coming together... by Charles Hosloppe"
+    },{
+        "id": "1669920706336x126771454802423700",
+"url":"https://www.catalist.network/eventpage/1669741141019x190858941294333570",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920705608x770570838299583500/1654969108530.jpg",
+"type":"Presentation",
+"tags":[],
+"sectors":["Sustainable cities and communities","Reducing inequalities","Life on Land","Good health and well-being for people","Climate Action"],
+"locations":["Ecuador","Guatemala","California","Global"],
+"types":["Session"],
+"description":"A designer of buildings, communities and businesses, Dakotah's training at The Frank Lloyd Wright School has informed his passion for using built environments to create regenerative systems that restore the health of ecosystems and communities.",
+"size":"",
+"label":"Growing a global network of community owned innovation co-living properties.  by Dakotah Joseph Apostolou"
+    },{
+        "id": "1669920709095x314832045689247500",
+"url":"https://www.catalist.network/eventpage/1669574566849x465038161940305200",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920708398x384569908321240400/Daniel%20Awomnab%20Picture.jpg",
+"type":"Presentation",
+"tags":["Change In Africa","Ecology & Food"],
+"sectors":["Climate Action","Decent work and economic growth","Gender equality","Reducing inequalities","Industry Innovation and Infrastructure"],
+"locations":["Africa"],
+"types":["Speaker"],
+"description":"Daniel Awomnab is an SDG Advocate from Ghana. He holds a Master's degree in Political Analysis and Public Policy from the Higher School of Economics. ",
+"size":"",
+"label":"Africa Changemaker Spotlight by Daniel Awomnab"
+    },{
+        "id": "1669920712884x142472845240553920",
+"url":"https://www.catalist.network/eventpage/1669392960554x471351615372458600",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920712212x359767470825041340/ITEaddresswithaudiencecloseup.jpeg",
+"type":"Presentation",
+"tags":["Regenerative Finance & Impact Investing","Media & Memetics","Business For Good","Inner Change","Institutions & Infrastructure","Education & Culture","Web3 & Tech For Good"],
+"sectors":["Partnerships for the goals","Peace Justice & Strong Institutions","Reducing inequalities"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Founder of #IsThereEnough, a content studio of an evolutionary conversation of human survival, and the co Founder of Impact Launchpad, a venture studio with a proposed new model of impact finance. Articulating a practical 21st century response to Buckminster Fuller's model for The World Game.",
+"size":"",
+"label":"Do We Need An Ownerless Impact Bank ? by Daniel T. Matalon
+"
+    },{
+        "id": "1669920718474x895498925278223500",
+"url":"https://www.catalist.network/eventpage/1669392454893x620327025120713600",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920717609x320901054102521900/DJ_Georgia_002.jpg",
+"type":"Presentation",
+"tags":["Civilization Design","Business For Good","Ecology & Food","Web3 & Tech For Good","Change In Africa","Community & Local Impact","Education & Culture","Inner Change","Institutions & Infrastructure","Regenerative Finance & Impact Investing"],
+"sectors":["Affordable and Clean Energy","Climate Action","Sustainable cities and communities","No Poverty","Life on Land"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Darryl J. Nicke II is CEO of Carbon Capture Shield, Inc. - which aims to transition 1 billion acres of earth to regenerative stewardship worldwide by 2030.\\n \\nDarryl J. (DJ) is also founder of multiple nonprofit organizations and an international media company. He was born in Detroit, Michigan, but he has lived and worked in 7 countries on 3 continents.",
+"size":"",
+"label":"Stewarding a Future of Abundance by Darryl J. Nicke II"
+    },{
+        "id": "1669920721271x900752995711466100",
+"url":"https://www.catalist.network/eventpage/1669392972561x786722796189825200",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920720268x505920792787931650/David%20Ehrlichman%20-%20author%20photo%2C%203-18-21%20cropped.jpg",
+"type":"Presentation",
+"tags":["Civilization Design"],
+"sectors":["Sustainable cities and communities","Partnerships for the goals","Decent work and economic growth"],
+"locations":["Online","Global"],
+"types":["Session"],
+"description":"Author of Impact Networks. Co-founder of Hats Protocol. Catalyst of the Converge network. Contributor to Cabin and DAOstar One. It's all about coordination.",
+"size":"",
+"label":"Blending networks and hierarchies for more effective coordination by David Ehrlichman"
+    },{
+        "id": "1669920724236x372683321745817200",
+"url":"https://www.catalist.network/eventpage/1669392454390x238461513210511680",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920723290x239964863700459230/Delton-Chen-1-Sample.png",
+"type":"Presentation",
+"tags":[],
+"sectors":["Climate Action"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Delton Chen founded the Global Carbon Reward initiative. Delton is a qualified civil engineer and geo-hydrologist, and he holds a Ph.D. in engineering from the University of Queensland, Australia. Delton did his doctoral research on the hydrology of a coral cay in the Great Barrier Reef, and he has 20 years of combined experience in groundwater management, environmental impact assessment, geothermal energy and climate mitigation. Delton is a thought-leader in the development of public policies based on Central Bank Digital Currencies, and is a member of the Blockchain Climate Institute. Delton developed the “Global Carbon Reward” policy to help reduce and remove carbon at the speed and scale that are needed to stabilize the climate and meet the 2015 Paris Agreement. Delton believes that the Global Carbon Reward can fill the funding gap for climate mitigation and help protect communities and ecosystems from the ravages of climate change and over-consumption.",
+"size":"",
+"label":"Global Carbon Reward by Delton Chen"
+    },{
+        "id": "1669920726853x829451258296875400",
+"url":"https://www.catalist.network/eventpage/1669842054955x733872444743776100",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920725853x553939962416389000/jasmine%20profile%20picture.jpg",
+"type":"Profile",
+"tags":[],
+"sectors":["Industry Innovation and Infrastructure","Life on Land","Sustainable cities and communities"],
+"locations":[],
+"types":["Session"],
+"description":"Jasmine is an award-winning London based British artist, scientist, speaker, and environmentalist. A polymath, her critical practice spans painting, sculpture, public art and technology and since 2017 she has been pioneering the use of a pollution absorbing ceramic in order to find new ways of adapting to a more, holistic symbiocene era.",
+"size":"",
+"label":"Evolutionary Arms Race by Dr Jasmine Pradissitto"
+    },{
+        "id": "1669920729612x295918505456333400",
+"url":"https://www.catalist.network/eventpage/1669392922057x473160276537396540",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920728800x722999806993643900/DSC_0166%5B1%5D.JPG",
+"type":"Presentation",
+"tags":["Ecology & Food","Civilization Design"],
+"sectors":["Sustainable cities and communities","Good health and well-being for people","Partnerships for the goals"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Technology and community builder on a spiritual journey. Yeah, it's complicated. Also, plant-based, wilderness addict with a penchant for silence most of the time but happy to speak my mind and heart when asked to do so.",
+"size":"",
+"label":"Regenerative Communities: Uncompromising Purpose in Critical Times by Eric Amyot"
+    },{
+        "id": "1669920732149x173261431118933120",
+"url":"https://www.catalist.network/eventpage/1669392455831x505236239091113340",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920731276x237172580763783680/DE086373-FEF6-4D45-B6FB-7F4425735C7E.png",
+"type":"Profile",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Climate Action","No Poverty"],
+"locations":["New York City","Online","Global"],
+"types":["Session"],
+"description":"Gianna serves as Chief Climate Officer of Convincing Crypto and is driving a crypto movement that addresses economic and environmental injustices. She founded the nonprofit Albedo Climate Solutions and is committed to making climate change education more accessible while sparking both local and global action. Previously, she served in the nonprofit sector as an Executive Director and Lead Facilitator and worked on climate models at the NASA Goddard Institute for Space Studies. She earned two bachelor’s in earth system science and urban studies from UC Irvine, as well as a master’s in climate and society from Columbia University. ",
+"size":"",
+"label":"Climate Justice & Economic Empowerment Through Blockchain Technology by Gianna Lum"
+    },{
+        "id": "1669920735687x999933509421790200",
+"url":"https://www.catalist.network/eventpage/1669392456271x885479912430326100",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920734800x721778219108833300/GLandua%20Headshot.jpeg",
+"type":"Presentation",
+"tags":["Community & Local Impact","Regenerative Finance & Impact Investing","Web3 & Tech For Good"],
+"sectors":["Climate Action","Responsible consumption and production","Partnerships for the goals"],
+"locations":["Global","Online"],
+"types":["Session"],
+"description":"Gregory is co-founder of Regen Network, an application specific public blockchain built with the Cosmos SDK. Regen Network is designed to support carbon markets and other ecological markets with ecological state verification and ecological asset issuance. Before founding Regen Network, Gregory co-wrote Regenerative Enterprise (2013) as well as co-founded and grew Terra Genesis International, from a Regenerative Agriculture consultancy and design firm into a leader in the Regenerative Movement. Gregory is also the host of the Planetary Regeneration Podcast.\\n",
+"size":"",
+"label":"TBD by Gregory Landua"
+    },{
+        "id": "1669920739442x842096360425286000",
+"url":"https://www.catalist.network/eventpage/1669741254831x985362733628917900",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920738519x739926851543296400/heart%20in%20airplane-GriffGreen.png",
+"type":"Profile",
+"tags":["Regenerative Finance & Impact Investing","Web3 & Tech For Good","Institutions & Infrastructure"],
+"sectors":["Decent work and economic growth","Quality Education","Sustainable cities and communities"],
+"locations":["Online","Global"],
+"types":["Session"],
+"description":"Cofounder of Giveth, Commons Stack, Trusted Seed, Praise & dappnode. Community manager for TheDAO, led the crisis response effort for TheDAO Hack and first Parity Multisig Hack from every angle, co-founder of the White Hat Group and led the creation of Token Engineering Commons. Advisor for PolygonID, PolygonHermez, brightID, Doingud, and steward for Gitcoin, ENS & Optimism.\\n\\nI also lead 2 crypto focused burning man camps ;-) ",
+"size":"",
+"label":"I would love to be on some panels, no talks please :-D by Griff Green"
+    },{
+        "id": "1669920740585x319638329911254400",
+"url":"https://www.catalist.network/eventpage/1669756487140x241413058639516220",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Presentation",
+"tags":[],
+"sectors":["Climate Environment & Resiliency","Action"],
+"locations":[],
+"types":["Session"],
+"description":"Description of presentation",
+"size":"",
+"label":"Barriers, Innovations, and Breakthroughs in Institutional Change by Hélène Papper, Wesley Teeter, Nicholas Niggli "
+    },{
+        "id": "1669920744815x701799385421874300",
+"url":"https://www.catalist.network/eventpage/1669392457218x350912116147761540",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920743831x428350397855134600/-IMG_0008.JPG",
+"type":"Presentation",
+"tags":["Business For Good","Civilization Design","Education & Culture","Institutions & Infrastructure","Web3 & Tech For Good"],
+"sectors":["Partnerships for the goals","Reducing inequalities","Quality Education"],
+"locations":["North America"],
+"types":["Session"],
+"description":"Jake Hirsch-Allen builds public private partnerships between North America’s governments, workforce development organizations, colleges and universities, and LinkedIn Talent Solutions. \\n\\nJake advises several startups including the Learning Economy Foundation, Hireguide and Readocracy. Jake is a Director on the Boards of the Ontario Tech Talent and the Canadian Club. He founded Lighthouse Labs, Canada’s foremost software development bootcamp and Hacking Health. \\n\\nA former intellectual property and international criminal lawyer, Jake was also Chair of the Technology Committee of the Global Education Platform, taught Global Health at McMaster University and clerked at the Supreme Court of Israel.    ",
+"size":"",
+"label":"Public Private Partnerships for a more sustainable future of work by Jake Hirsch-Allen"
+    },{
+        "id": "1669920754237x287193459972901340",
+"url":"https://www.catalist.network/eventpage/1669392962583x248489323824993900",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920752834x862430475626722400/552362BD-AF16-4DDA-A9A8-AB1B712AC1B7.png",
+"type":"Presentation",
+"tags":["Education & Culture","Inner Change","Media & Memetics","Web3 & Tech For Good"],
+"sectors":["Good health and well-being for people","Reducing inequalities","Quality Education"],
+"locations":["California","Online"],
+"types":["Session"],
+"description":"I have been a professional memer (a person who posts memes online) since the age of 12, amassing huge audiences across various niches. The beginning of the pandemic marked a huge shift in me that now has me focusing on utilizing the internet, creative story telling, humor, and networking to help others find a healthy balance between nature, technology, and personal well being.",
+"size":"",
+"label":"Introduction to SolarPunk by Johnny Rapp"
+    },{
+        "id": "1669920756396x840302426894752300",
+"url":"https://www.catalist.network/eventpage/1669392456737x793408486996556300",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920755809x966588489290367100/Joseph%20Eagan.webp",
+"type":"Presentation",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Reducing inequalities"],
+"locations":["Global","Online"],
+"types":["Session"],
+"description":"Prior to launching Anagram, Joe was the president of Polychain Capital, one of the first and largest crypto focused investment groups globally. Before getting into crypto in 2017, Joe spent 17 years in traditional finance - most recently as the COO of a long/short equity fund, Tiger Legatus.  From 2008 to 2014, Joe was a Principal at Investcorp focusing on the Firm’s Hedge Fund seeding business. Prior to joining Investcorp, Joe managed risk arbitrage and special situations portfolios at several hedge funds.  Joe began his career at Bank of America in the media and telecom investment banking division. Joe holds a BA in political science from Georgetown University, Washington DC.",
+"size":"",
+"label":"Web 3 and New Socio Economic orders by Joseph Eagan"
+    },{
+        "id": "1669920758935x639567807818786700",
+"url":"https://www.catalist.network/eventpage/1657032307318x662673347807858800",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920757890x359956766494030400/Kelsey_Driscoll-230x230.jpg",
+"type":"Profile",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Decentralized Web"],
+"locations":[],
+"types":["Session"],
+"description":"Using Web 3 to revoutionize child services in Austin, and co-founder, ChangeDAO",
+"size":"",
+"label":"Kelsey Driscoll"
+    },{
+        "id": "1669920761257x594790182939867400",
+"url":"https://www.catalist.network/eventpage/1669392458686x518435671712016200",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920760505x349143005463803400/profile%20pic.jpg",
+"type":"Presentation",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Sustainable cities and communities"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Product Lead & GIVeconomy Steward at Giveth. Passionate about using web3 tooling to create regenerative systems around the creation of public goods.",
+"size":"",
+"label":"Tranforming IRL Public Goods Funding Using Web3 by Lauren Luz"
+    },{
+        "id": "1669920763224x822844431705014100",
+"url":"https://www.catalist.network/eventpage/1669392473052x344315735954925100",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920762568x383892437475523100/minni%20jain.jpg",
+"type":"Presentation",
+"tags":["Ecology & Food","Community & Local Impact"],
+"sectors":["Clean Water and Sanitation","Climate Action","Reducing inequalities","Good health and well-being for people"],
+"locations":["Global"],
+"types":["Session"],
+"description":"\"For over 25 years Minni Jain has been working with communities to regenerate their landscapes and lives. As Operations Director of the Flow Partnership, she works on community-led management of floods and droughts using simple, successful, low-cost, traditional methods. She coordinates Waterways World, a practical water school of landscape regeneration skills and methods to achieve replenishment of the world’s water bank and has also helped set up the One Pond Fund to enable communities worldwide to resource their water projects. \"\\n",
+"size":"",
+"label":"Action for Transformation  by Minni Jain"
+    },{
+        "id": "1669920765957x488207358447681000",
+"url":"https://www.catalist.network/eventpage/1669392473509x141486491099808160",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920765240x494580715681352640/Neal%20Caux.jpeg",
+"type":"Presentation",
+"tags":["Ecology & Food","Regenerative Finance & Impact Investing","Civilization Design"],
+"sectors":["Climate Action","No Poverty","Zero hunger"],
+"locations":["Global"],
+"types":["Session"],
+"description":"I'm a terraformer.  I transform degraded or barren lands into forests & agroforestry.  \\n\\n",
+"size":"",
+"label":"It doesn't make sense to grow trees unless we address why people are cutting down trees in the first place.   by Neal Spackman"
+    },{
+        "id": "1669920767868x982280052289202200",
+"url":"https://www.catalist.network/eventpage/1669392921225x744024713981639200",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920767259x903861114184130200/Preeti%20Shetty.jpeg",
+"type":"Presentation",
+"tags":["Impact Maps & Measurement","Web3 & Tech For Good"],
+"sectors":["Decent work and economic growth","Gender equality","Good health and well-being for people","Partnerships for the goals","Peace Justice & Strong Institutions","Reducing inequalities","Quality Education"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Preeti is the CEO and founder of Upshot, a tech social enterprise that helps non profit organisations manage, monitor and evidence the community work they deliver. Preeti focuses her efforts on proving the difference non profits can make to people's lives and communities through impact measurement and evaluation and Upshot is now used by over 1000 organizations across the UK and internationally. A well-respected figure particularly in the sport for development space, Preeti was named one of The Sport Industry Group Next Generation Leaders in Sport, is the Vice Chair of Street Child United and sits on the Board of Brentford Football club.",
+"size":"",
+"label":"Measuring the impact of sport as a tool for development by Preeti Shetty"
+    },{
+        "id": "1669920770688x777861493851467000",
+"url":"https://www.catalist.network/eventpage/1669741343905x359545637241388350",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920769862x288074337721275760/linkedin-DESKTOP-M8OFGQO.jpg",
+"type":"Presentation",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Reducing inequalities","Peace Justice & Strong Institutions","Partnerships for the goals"],
+"locations":["Global"],
+"types":["Speaker"],
+"description":"I am a venture architect and ecosystem builder that is passionate about the intersection between business, technology and nature. I worked as an engineer for 15 years at Robert Bosch and Ford Motor Company, and as a management consultant for Roland Berger for 4 years. Over the last 2 years, I built and/or scaled ventures for energy and automotive companies in the US and Europe, and invested in my own ventures including Shala that I would like to share with you today.",
+"size":"",
+"label":"If you don't have one figured out yet, please put your project/company name by An Internet Built and Owned by Users by Roman Fernandez"
+    },{
+        "id": "1669920774786x222546286030679260",
+"url":"https://www.catalist.network/eventpage/1669790676759x409633413970451400",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920773685x502633311207482400/PXL_20211207_111257742.PORTRAIT~2.jpg",
+"type":"Presentation",
+"tags":["Ecology & Food","Regenerative Finance & Impact Investing","Community & Local Impact","Impact Maps & Measurement","Web3 & Tech For Good"],
+"sectors":["Climate Action","Sustainable cities and communities","Life on Land"],
+"locations":["Colombia","Zambia","Global","Brazil","United States"],
+"types":["Session"],
+"description":"Highly collaborative entrepreneur focused on scaling regenerative efforts who is deeply connected & highly active in the ReFi (Regenerative Finance) movement.",
+"size":"",
+"label":"Scaling smallholder eco asset origination by Sev Nightingale"
+    },{
+        "id": "1669920778588x306904043740273000",
+"url":"https://www.catalist.network/eventpage/1669392461932x358239585312706500",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920777416x519876424009025900/Sikho%20Msomi.png",
+"type":"Presentation",
+"tags":["Change In Africa"],
+"sectors":["Industry Innovation and Infrastructure","Sustainable cities and communities","Quality Education"],
+"locations":["Global","South Africa"],
+"types":["Session"],
+"description":"An active global citizen invested in high impact ventures and projects. Passionate about entrepreneurship as well as digital technologies and what both can do to unlock and transform the potential of Africa and its people. Inspired by the living principles of Ubuntu.\\n",
+"size":"",
+"label":"Africa Change Maker Spotlight by Sikho Msomi"
+    },{
+        "id": "1669920781374x137368595307154830",
+"url":"https://www.catalist.network/eventpage/1669741363756x487326715652925500",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920780586x134083089627909040/profile_wtk.png",
+"type":"Presentation",
+"tags":["Institutions & Infrastructure","Education & Culture","Web3 & Tech For Good"],
+"sectors":["Quality Education","Partnerships for the goals","Industry Innovation and Infrastructure","Decent work and economic growth"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Systems thinker; work in progress; thoughts derivative.\\nPresident, Learning Economy Foundation & Steward, ETHDenver + Opolis",
+"size":"",
+"label":"Creating an Open Architecture for the Learning Economy by Taylor Kendal"
+    },{
+        "id": "1669920783952x680812836287469900",
+"url":"https://www.catalist.network/eventpage/1669790243979x903987554780697100",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920782870x756780545051150000/Wesley%20Teter%20-%20bio%20pic.jpg",
+"type":"Presentation",
+"tags":["Education & Culture"],
+"sectors":["Quality Education","Decent work and economic growth"],
+"locations":[],
+"types":["Session"],
+"description":"Dr. Wesley Teter is Senior Consultant for Educational Innovation and Skills Development at UNESCO’s Asia and Pacific Regional Bureau for Education in Bangkok, Thailand. He supports 46 countries in the region to ensure the relevance and fair recognition of qualifications for learning and employment. He is co-editor of the Handbook of Education Policy by Edward Elgar Publishing (forthcoming in 2023), and was a member of the Blockchain for Education Community of Practice led by the World Bank and Learning Economy Foundation in 2020-2021. With support from the Asian Development Bank, he provides technical assistance to Indonesia on digital and micro-credentials and monitors implementation in the Asia-Pacific region. ",
+"size":"",
+"label":"Building an Open Architecture for Learning and Employment - Barriers, Innovations, and Breakthroughs in institutional change by Wesley Teter"
+    }
+],
+
+  "connections": [
+
+ ]
+}
