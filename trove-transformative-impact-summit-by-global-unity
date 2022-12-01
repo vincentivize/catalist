@@ -1,17 +1,29 @@
 {
   "elements": [
-
+{
+  "label": "Object Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"",
+"type":"Object Type",
+"description":"Types of information\n[[list\"Object Type\"]]"
+},{
+  "label": "Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
+"id":"",
+"type":"Object Type",
+"description":"Main sectors of society\n[[list\"Sector\"]]"
+},
 {
 "label":"Profile",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
 "id":"Profile",
-"type":"Element Type",
+"type":"Object Type",
 "description":"People on Trove"
 },{
 "label":"Presentation",
 "image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
 "id":"Presentation",
-"type":"Element Type",
+"type":"Object Type",
 "description":""
 },{
 "label":"Partnerships for the goals",
@@ -211,6 +223,7 @@
 {
         "id": "1669920447688x629209494239215200",
 "url":"https://www.catalist.network/eventpage/1669919956496x180023134152220700",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920447688x629209494239215200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920748252x634351040776127900/DB25F608-CEFF-44D9-8662-1C1A59202E00.jpg",
 "type":"Profile",
 "tags":["Impact Maps & Measurement"],
@@ -223,7 +236,8 @@
     },{
         "id": "1669920677050x782780535371075100",
 "url":"https://www.catalist.network/eventpage/1669741342876x178195842007469200",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920676201x862362263963103200/Rick%20Weinstein.jpg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920677050x782780535371075100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920889473x279227702358392450/Rick%20Weinstein.jpg",
 "type":"Presentation",
 "tags":["Business For Good"],
 "sectors":["Reducing inequalities"],
@@ -235,7 +249,8 @@
     },{
         "id": "1669920681345x455865819851213300",
 "url":"https://www.catalist.network/eventpage/1657032297821x832120320605576400",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920680217x601074046292685800/HLCNPQQTSVAUJP54OPPMVIU5F4.png",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920681345x455865819851213300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920893414x174427875332170180/HLCNPQQTSVAUJP54OPPMVIU5F4.png",
 "type":"Presentation",
 "tags":["Web3 & Tech For Good"],
 "sectors":["Decentralized Web"],
@@ -247,7 +262,8 @@
     },{
         "id": "1669920686538x330010773633202520",
 "url":"https://www.catalist.network/eventpage/1669392925751x619604690281918300",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920684931x306346271655122200/IMG_4032.JPG",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920686538x330010773633202520&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920899222x279876449796718800/IMG_4032.JPG",
 "type":"Presentation",
 "tags":["Community & Local Impact"],
 "sectors":["Reducing inequalities","No Poverty","Climate Action"],
@@ -259,7 +275,8 @@
     },{
         "id": "1669920689092x778031660619486300",
 "url":"https://www.catalist.network/eventpage/1669741122730x254861656377005400",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920688367x167052562119107230/Adam%20headshot.jpg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920689092x778031660619486300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920903034x171960535430188960/Adam%20headshot.jpg",
 "type":"Presentation",
 "tags":["Education & Culture"],
 "sectors":["Sustainable cities and communities","Climate Action","Good health and well-being for people"],
@@ -271,7 +288,8 @@
     },{
         "id": "1669920691876x696859243656619300",
 "url":"https://www.catalist.network/eventpage/1669392469024x176858338282899650",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920691121x334186568820821000/Me%20and%20tinkshas.jpg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920691876x696859243656619300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920905649x757381185837080400/Me%20and%20tinkshas.jpg",
 "type":"Profile",
 "tags":["Inner Change"],
 "sectors":["Good health and well-being for people"],
@@ -283,9 +301,10 @@
     },{
         "id": "1669920696806x949121556284426600",
 "url":"https://www.catalist.network/eventpage/1669756364195x824346688199346700",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920695772x497209035879011140/FE8AFB4C-E93B-4FDE-ADAD-BB2AFDC11A04.jpeg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920696806x949121556284426600&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920910957x432825327360957700/FE8AFB4C-E93B-4FDE-ADAD-BB2AFDC11A04.jpeg",
 "type":"Presentation",
-"tags":["Change In Africa","Institutions & Infrastructure","Ecology & Food","Community & Local Impact","Education & Culture","Inner Change"],
+"tags":["Community & Local Impact","Change In Africa","Education & Culture","Inner Change","Institutions & Infrastructure","Ecology & Food"],
 "sectors":["No Poverty","Clean Water and Sanitation","Quality Education"],
 "locations":["Global","Africa","USA"],
 "types":["Session"],
@@ -295,7 +314,8 @@
     },{
         "id": "1669920704283x449242552608716000",
 "url":"https://www.catalist.network/eventpage/1657032306711x145761330847786760",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920702680x146771546577961800/6B74BC8F-A78B-4A70-A32A-ECB76AE9BAE5.jpeg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920704283x449242552608716000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920916942x616412977725313300/6B74BC8F-A78B-4A70-A32A-ECB76AE9BAE5.jpeg",
 "type":"Profile",
 "tags":["Ecology & Food","Inner Change"],
 "sectors":["Clean Water and Sanitation","Zero hunger","Sustainable cities and communities"],
@@ -307,7 +327,8 @@
     },{
         "id": "1669920706336x126771454802423700",
 "url":"https://www.catalist.network/eventpage/1669741141019x190858941294333570",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920705608x770570838299583500/1654969108530.jpg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920706336x126771454802423700&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920921063x300069452835199200/1654969108530.jpg",
 "type":"Presentation",
 "tags":[],
 "sectors":["Sustainable cities and communities","Reducing inequalities","Life on Land","Good health and well-being for people","Climate Action"],
@@ -319,7 +340,8 @@
     },{
         "id": "1669920709095x314832045689247500",
 "url":"https://www.catalist.network/eventpage/1669574566849x465038161940305200",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920708398x384569908321240400/Daniel%20Awomnab%20Picture.jpg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920709095x314832045689247500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920924008x945797407622600600/Daniel%20Awomnab%20Picture.jpg",
 "type":"Presentation",
 "tags":["Change In Africa","Ecology & Food"],
 "sectors":["Climate Action","Decent work and economic growth","Gender equality","Reducing inequalities","Industry Innovation and Infrastructure"],
@@ -331,22 +353,23 @@
     },{
         "id": "1669920712884x142472845240553920",
 "url":"https://www.catalist.network/eventpage/1669392960554x471351615372458600",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920712212x359767470825041340/ITEaddresswithaudiencecloseup.jpeg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920712884x142472845240553920&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920927850x937257772922866800/ITEaddresswithaudiencecloseup.jpeg",
 "type":"Presentation",
-"tags":["Regenerative Finance & Impact Investing","Media & Memetics","Business For Good","Inner Change","Institutions & Infrastructure","Education & Culture","Web3 & Tech For Good"],
+"tags":["Business For Good","Inner Change","Institutions & Infrastructure","Regenerative Finance & Impact Investing","Media & Memetics","Education & Culture","Web3 & Tech For Good"],
 "sectors":["Partnerships for the goals","Peace Justice & Strong Institutions","Reducing inequalities"],
 "locations":["Global"],
 "types":["Session"],
 "description":"Founder of #IsThereEnough, a content studio of an evolutionary conversation of human survival, and the co Founder of Impact Launchpad, a venture studio with a proposed new model of impact finance. Articulating a practical 21st century response to Buckminster Fuller's model for The World Game.",
 "size":"",
-"label":"Do We Need An Ownerless Impact Bank ? by Daniel T. Matalon
-"
+"label":"Do We Need An Ownerless Impact Bank? by Daniel T. Matalon"
     },{
         "id": "1669920718474x895498925278223500",
 "url":"https://www.catalist.network/eventpage/1669392454893x620327025120713600",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920717609x320901054102521900/DJ_Georgia_002.jpg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920718474x895498925278223500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920933320x416387310716617400/DJ_Georgia_002.jpg",
 "type":"Presentation",
-"tags":["Civilization Design","Business For Good","Ecology & Food","Web3 & Tech For Good","Change In Africa","Community & Local Impact","Education & Culture","Inner Change","Institutions & Infrastructure","Regenerative Finance & Impact Investing"],
+"tags":["Business For Good","Ecology & Food","Web3 & Tech For Good","Change In Africa","Civilization Design","Community & Local Impact","Education & Culture","Inner Change","Institutions & Infrastructure","Regenerative Finance & Impact Investing"],
 "sectors":["Affordable and Clean Energy","Climate Action","Sustainable cities and communities","No Poverty","Life on Land"],
 "locations":["Global"],
 "types":["Session"],
@@ -356,7 +379,8 @@
     },{
         "id": "1669920721271x900752995711466100",
 "url":"https://www.catalist.network/eventpage/1669392972561x786722796189825200",
-"image":"//s3.amazonaws.com/appforest_uf/f1669920720268x505920792787931650/David%20Ehrlichman%20-%20author%20photo%2C%203-18-21%20cropped.jpg",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920721271x900752995711466100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920938024x245076980825589060/David%20Ehrlichman%20-%20author%20photo%2C%203-18-21%20cropped.jpg",
 "type":"Presentation",
 "tags":["Civilization Design"],
 "sectors":["Sustainable cities and communities","Partnerships for the goals","Decent work and economic growth"],
@@ -368,6 +392,7 @@
     },{
         "id": "1669920724236x372683321745817200",
 "url":"https://www.catalist.network/eventpage/1669392454390x238461513210511680",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920724236x372683321745817200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920723290x239964863700459230/Delton-Chen-1-Sample.png",
 "type":"Presentation",
 "tags":[],
@@ -380,6 +405,7 @@
     },{
         "id": "1669920726853x829451258296875400",
 "url":"https://www.catalist.network/eventpage/1669842054955x733872444743776100",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920726853x829451258296875400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920725853x553939962416389000/jasmine%20profile%20picture.jpg",
 "type":"Profile",
 "tags":[],
@@ -392,6 +418,7 @@
     },{
         "id": "1669920729612x295918505456333400",
 "url":"https://www.catalist.network/eventpage/1669392922057x473160276537396540",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920729612x295918505456333400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920728800x722999806993643900/DSC_0166%5B1%5D.JPG",
 "type":"Presentation",
 "tags":["Ecology & Food","Civilization Design"],
@@ -404,6 +431,7 @@
     },{
         "id": "1669920732149x173261431118933120",
 "url":"https://www.catalist.network/eventpage/1669392455831x505236239091113340",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920732149x173261431118933120&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920731276x237172580763783680/DE086373-FEF6-4D45-B6FB-7F4425735C7E.png",
 "type":"Profile",
 "tags":["Web3 & Tech For Good"],
@@ -416,6 +444,7 @@
     },{
         "id": "1669920735687x999933509421790200",
 "url":"https://www.catalist.network/eventpage/1669392456271x885479912430326100",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920735687x999933509421790200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920734800x721778219108833300/GLandua%20Headshot.jpeg",
 "type":"Presentation",
 "tags":["Community & Local Impact","Regenerative Finance & Impact Investing","Web3 & Tech For Good"],
@@ -428,6 +457,7 @@
     },{
         "id": "1669920739442x842096360425286000",
 "url":"https://www.catalist.network/eventpage/1669741254831x985362733628917900",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920739442x842096360425286000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920738519x739926851543296400/heart%20in%20airplane-GriffGreen.png",
 "type":"Profile",
 "tags":["Regenerative Finance & Impact Investing","Web3 & Tech For Good","Institutions & Infrastructure"],
@@ -440,6 +470,7 @@
     },{
         "id": "1669920740585x319638329911254400",
 "url":"https://www.catalist.network/eventpage/1669756487140x241413058639516220",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920740585x319638329911254400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
 "type":"Presentation",
 "tags":[],
@@ -452,6 +483,7 @@
     },{
         "id": "1669920744815x701799385421874300",
 "url":"https://www.catalist.network/eventpage/1669392457218x350912116147761540",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920744815x701799385421874300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920743831x428350397855134600/-IMG_0008.JPG",
 "type":"Presentation",
 "tags":["Business For Good","Civilization Design","Education & Culture","Institutions & Infrastructure","Web3 & Tech For Good"],
@@ -464,6 +496,7 @@
     },{
         "id": "1669920754237x287193459972901340",
 "url":"https://www.catalist.network/eventpage/1669392962583x248489323824993900",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920754237x287193459972901340&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920752834x862430475626722400/552362BD-AF16-4DDA-A9A8-AB1B712AC1B7.png",
 "type":"Presentation",
 "tags":["Education & Culture","Inner Change","Media & Memetics","Web3 & Tech For Good"],
@@ -476,6 +509,7 @@
     },{
         "id": "1669920756396x840302426894752300",
 "url":"https://www.catalist.network/eventpage/1669392456737x793408486996556300",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920756396x840302426894752300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920755809x966588489290367100/Joseph%20Eagan.webp",
 "type":"Presentation",
 "tags":["Web3 & Tech For Good"],
@@ -488,6 +522,7 @@
     },{
         "id": "1669920758935x639567807818786700",
 "url":"https://www.catalist.network/eventpage/1657032307318x662673347807858800",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920758935x639567807818786700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920757890x359956766494030400/Kelsey_Driscoll-230x230.jpg",
 "type":"Profile",
 "tags":["Web3 & Tech For Good"],
@@ -500,6 +535,7 @@
     },{
         "id": "1669920761257x594790182939867400",
 "url":"https://www.catalist.network/eventpage/1669392458686x518435671712016200",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920761257x594790182939867400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920760505x349143005463803400/profile%20pic.jpg",
 "type":"Presentation",
 "tags":["Web3 & Tech For Good"],
@@ -512,6 +548,7 @@
     },{
         "id": "1669920763224x822844431705014100",
 "url":"https://www.catalist.network/eventpage/1669392473052x344315735954925100",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920763224x822844431705014100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920762568x383892437475523100/minni%20jain.jpg",
 "type":"Presentation",
 "tags":["Ecology & Food","Community & Local Impact"],
@@ -524,6 +561,7 @@
     },{
         "id": "1669920765957x488207358447681000",
 "url":"https://www.catalist.network/eventpage/1669392473509x141486491099808160",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920765957x488207358447681000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920765240x494580715681352640/Neal%20Caux.jpeg",
 "type":"Presentation",
 "tags":["Ecology & Food","Regenerative Finance & Impact Investing","Civilization Design"],
@@ -536,6 +574,7 @@
     },{
         "id": "1669920767868x982280052289202200",
 "url":"https://www.catalist.network/eventpage/1669392921225x744024713981639200",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920767868x982280052289202200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920767259x903861114184130200/Preeti%20Shetty.jpeg",
 "type":"Presentation",
 "tags":["Impact Maps & Measurement","Web3 & Tech For Good"],
@@ -548,6 +587,7 @@
     },{
         "id": "1669920770688x777861493851467000",
 "url":"https://www.catalist.network/eventpage/1669741343905x359545637241388350",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920770688x777861493851467000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920769862x288074337721275760/linkedin-DESKTOP-M8OFGQO.jpg",
 "type":"Presentation",
 "tags":["Web3 & Tech For Good"],
@@ -560,6 +600,7 @@
     },{
         "id": "1669920774786x222546286030679260",
 "url":"https://www.catalist.network/eventpage/1669790676759x409633413970451400",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920774786x222546286030679260&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920773685x502633311207482400/PXL_20211207_111257742.PORTRAIT~2.jpg",
 "type":"Presentation",
 "tags":["Ecology & Food","Regenerative Finance & Impact Investing","Community & Local Impact","Impact Maps & Measurement","Web3 & Tech For Good"],
@@ -572,6 +613,7 @@
     },{
         "id": "1669920778588x306904043740273000",
 "url":"https://www.catalist.network/eventpage/1669392461932x358239585312706500",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920778588x306904043740273000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920777416x519876424009025900/Sikho%20Msomi.png",
 "type":"Presentation",
 "tags":["Change In Africa"],
@@ -584,6 +626,7 @@
     },{
         "id": "1669920781374x137368595307154830",
 "url":"https://www.catalist.network/eventpage/1669741363756x487326715652925500",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920781374x137368595307154830&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920780586x134083089627909040/profile_wtk.png",
 "type":"Presentation",
 "tags":["Institutions & Infrastructure","Education & Culture","Web3 & Tech For Good"],
@@ -596,6 +639,7 @@
     },{
         "id": "1669920783952x680812836287469900",
 "url":"https://www.catalist.network/eventpage/1669790243979x903987554780697100",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit-by-global-unity?object=1669920783952x680812836287469900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1669920782870x756780545051150000/Wesley%20Teter%20-%20bio%20pic.jpg",
 "type":"Presentation",
 "tags":["Education & Culture"],
