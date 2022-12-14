@@ -1,0 +1,2256 @@
+{
+  "elements": [
+{
+  "label": "Object Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"",
+"type":"Object Type",
+"description":"Types of information\n[[list\"Object Type\"]]"
+},{
+  "label": "Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
+"id":"",
+"type":"Object Type",
+"description":"Main sectors of society\n[[list\"Sector\"]]"
+},
+{
+"label":"Profile",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"id":"Profile",
+"type":"Object Type",
+"description":"People on Trove"
+},{
+"label":"Presentation",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"id":"Presentation",
+"type":"Object Type",
+"description":""
+},{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Object Type",
+"description":"Project Listings"
+},{
+"label":"Group",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962369452x518543624459538500/multiple-users-silhouette.png",
+"id":"Group",
+"type":"Object Type",
+"description":"Groups with an online community"
+},{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Object Type",
+"description":"Shared crowd-sourced library"
+},{
+"label":"Event",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"id":"Event",
+"type":"Object Type",
+"description":"Cross-organization calendar"
+},{
+"label":"Partnerships for the goals",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401623808x790599364853025800/Goal_17_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141915520x886840410265817300",
+"type":"Sector",
+"color":"#19486A"
+},{
+"label":"Reducing inequalities",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401590233x154959580593037040/Goal_10_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141887717x307991172083124740",
+"type":"Sector",
+"color":"#DD1367"
+},{
+"label":"Industry Innovation and Infrastructure",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401614167x517255786431255040/Sustainable_Development_GoalsSDG9_-_Wikiversity",
+"id":"1647141907835x455679015736123000",
+"type":"Sector",
+"color":"#FD6925"
+},{
+"label":"Decentralized Web",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401715199x441805192597800400/decentralized%20web.svg",
+"id":"1647152361241x126474341539950960",
+"type":"Sector",
+"color":"#848384"
+},{
+"label":"No Poverty",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401580853x941868965074423200/Sustainable_Development_GoalsSDG1_-_Wikiversity",
+"id":"1647141880204x366355171649944450",
+"type":"Sector",
+"color":"#e5243b"
+},{
+"label":"Climate Action",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401617504x956427363140029300/Sustainable_Development_GoalsSDG13_-_Wikiversity",
+"id":"1647141910836x281819022696265120",
+"type":"Sector",
+"color":"#3F7E44"
+},{
+"label":"Sustainable cities and communities",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401611090x322912131353212400/Goal_11_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141905180x535468426374840100",
+"type":"Sector",
+"color":"#FD9D24"
+},{
+"label":"Good health and well-being for people",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401607553x132476053493926220/Sustainable_Development_GoalsSDG3_-_Wikiversity",
+"id":"1647141902944x763194704601223300",
+"type":"Sector",
+"color":"#4C9F38"
+},{
+"label":"Clean Water and Sanitation",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401626519x300417604747773100/Goal_6_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141917918x377181658512487600",
+"type":"Sector",
+"color":"#26BDE2"
+},{
+"label":"Quality Education",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401598088x450288682965459100/SDG_4_Indicators-_2017_Updates_-_SDG_resources_-_Medium",
+"id":"1647141895550x884210361325979300",
+"type":"Sector",
+"color":"#C5192D"
+},{
+"label":"Zero hunger",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401587455x886520688529093900/Support_SDG2__SDG2_Advocacy_Hub",
+"id":"1647141885641x139358460073491620",
+"type":"Sector",
+"color":"#DDA63A"
+},{
+"label":"Life on Land",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401629353x254559885232318530/Goal_15_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141920204x424791417948657400",
+"type":"Sector",
+"color":"#56C02B"
+},{
+"label":"Decent work and economic growth",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401601626x140335206814681470/Goal_8_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141898136x891162232972716000",
+"type":"Sector",
+"color":"#A21942"
+},{
+"label":"Gender equality",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401621226x613267293535270800/Goal_5_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141913100x689763904775104700",
+"type":"Sector",
+"color":"#FF3A21"
+},{
+"label":"Peace Justice & Strong Institutions",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401593039x943888202803974100/Goal_16_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141890984x231093560995825570",
+"type":"Sector",
+"color":"#00689D"
+},{
+"label":"Affordable and Clean Energy",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401595595x508076697203921900/SDG_7_Affordable_and_clean_energy__Open_Development_Cambodia_ODC",
+"id":"1647141893268x838606064708052000",
+"type":"Sector",
+"color":"#FCC30B"
+},{
+"label":"Responsible consumption and production",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401604399x899737444951011000/ISO_-_Responsible_Consumption_and_Production",
+"id":"1647141900184x137527476377358400",
+"type":"Sector",
+"color":"#BF8B2E"
+},{
+"label":"Climate Environment & Resiliency",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401976771x562181693596174100/cloud-sun-rain.svg",
+"id":"1615672041915x633556507161936900",
+"type":"Sector",
+"color":"#A3CE56"
+},{
+"label":"Action",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401680490x667753859178027400/6-Action-1-e1554141141192.png",
+"id":"1647540054854x456231365943024100",
+"type":"Sector",
+"color":""
+},{
+"label":"Collective Action & Collaboration",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401517023x357155348635609860/collaboration.svg",
+"id":"1615672041912x871760549889363100",
+"type":"Sector",
+"color":"#FFC04A"
+},{
+"label":"Life Below Water",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401584272x232868054447726850/Goal_14_.._Sustainable_Development_Knowledge_Platform",
+"id":"1647141882962x722623394599990500",
+"type":"Sector",
+"color":"#0A97D9"
+},{
+"label":"Global",
+"image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
+"id":"1616721864591x720620861514094600",
+"type":"Location"
+},{
+"label":"Online",
+"image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
+"id":"1616721864997x688976465036883440",
+"type":"Location"
+},{
+"label":"Bermuda",
+"image":"",
+"id":"1616721863959x438454533898847940",
+"type":"Location"
+},{
+"label":"Africa",
+"image":"https://dl.airtable.com/.attachments/5b814e4c79947e673e7ab1e0303daa05/7b54f6a2/noun_africa_662036.svg",
+"id":"1616721863855x810500369215544200",
+"type":"Location"
+},{
+"label":"USA",
+"image":"",
+"id":"1646192321762x654053844447208000",
+"type":"Location"
+},{
+"label":"Address",
+"image":"",
+"id":"1616721863555x736687657971160300",
+"type":"Location"
+},{
+"label":"Ecuador",
+"image":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+"id":"1616721864453x573469244246058500",
+"type":"Location"
+},{
+"label":"Guatemala",
+"image":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+"id":"1616721864593x293938149687172900",
+"type":"Location"
+},{
+"label":"California",
+"image":"https://dl.airtable.com/.attachments/c38aa4062b67481374bd6304f9659fd9/0fc85691/Flag_of_the_United_States.svg",
+"id":"1616721864393x714619005249126100",
+"type":"Location"
+},{
+"label":"New York City",
+"image":"",
+"id":"1646192636292x892553173503480400",
+"type":"Location"
+},{
+"label":"North America",
+"image":"https://dl.airtable.com/.attachments/499744f9981409cf1eceebfc20a216f2/55396f7b/noun_NorthAmerica_662033.svg",
+"id":"1616721864994x297991299233824100",
+"type":"Location"
+},{
+"label":"Colombia",
+"image":"https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+"id":"1616721864448x811723191431245400",
+"type":"Location"
+},{
+"label":"Zambia",
+"image":"https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+"id":"1616721865314x598436137890116600",
+"type":"Location"
+},{
+"label":"Brazil",
+"image":"https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+"id":"1616721863961x746649880973713900",
+"type":"Location"
+},{
+"label":"United States",
+"image":"",
+"id":"1645567427437x867576227422535700",
+"type":"Location"
+},{
+"label":"South Africa",
+"image":"https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+"id":"1616721865163x305074504100945000",
+"type":"Location"
+},{
+"label":"Europe",
+"image":"https://dl.airtable.com/.attachments/804ad7195815df763ead33087c642857/58410f0c/noun_europe_2430585.svg",
+"id":"1616721864455x596840095716311300",
+"type":"Location"
+},{
+"label":"Florida",
+"image":"https://dl.airtable.com/.attachments/c38aa4062b67481374bd6304f9659fd9/0fc85691/Flag_of_the_United_States.svg",
+"id":"1616721864588x276734750949191740",
+"type":"Location"
+},{
+"label":"Australia",
+"image":"https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+"id":"1616721863911x105595320624970900",
+"type":"Location"
+},{
+"label":"Indonesia",
+"image":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+"id":"1616721864596x609110659116579000",
+"type":"Location"
+},{
+"label":"Canada",
+"image":"https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg",
+"id":"1616721864394x480460405518347260",
+"type":"Location"
+},{
+"label":"Uganda",
+"image":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+"id":"1616721865309x817696724697244400",
+"type":"Location"
+},{
+"label":"Kenya",
+"image":"https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+"id":"1616721864728x459455719561741040",
+"type":"Location"
+},{
+"label":"Rwanda",
+"image":"https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+"id":"1616721865006x743203782968566300",
+"type":"Location"
+},{
+"label":"Tanzania",
+"image":"https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+"id":"1616721865168x238925311604939680",
+"type":"Location"
+},{
+"label":"Switzerland",
+"image":"https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg",
+"id":"1616721865168x758171747292341000",
+"type":"Location"
+},{
+"label":"New York State",
+"image":"",
+"id":"1652146596897x933335321170347400",
+"type":"Location"
+},{
+"label":"Sub-Saharan Africa",
+"image":"",
+"id":"1653519854823x716006877396621400",
+"type":"Location"
+},{
+"label":"Nigeria",
+"image":"https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+"id":"1616721864994x627643428610324400",
+"type":"Location"
+},{
+"label":"Netherlands",
+"image":"https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+"id":"1616721864865x238273617407976260",
+"type":"Location"
+},{
+"label":"Costa Rica",
+"image":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+"id":"1616721864449x118837711430189950",
+"type":"Location"
+},{
+"label":"Germany & Costa Rica",
+"image":"",
+"id":"1646192702396x509448872001778900",
+"type":"Location"
+},{
+"label":"Germany",
+"image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+"id":"1616721864591x222935075263093200",
+"type":"Location"
+},{
+"label":"Colorado",
+"image":"https://dl.airtable.com/.attachments/c38aa4062b67481374bd6304f9659fd9/0fc85691/Flag_of_the_United_States.svg",
+"id":"1616721864448x250942134069652260",
+"type":"Location"
+},
+{
+        "id": "1669920447688x629209494239215200",
+"url":"https://www.catalist.network/eventpage/1669919956496x180023134152220700",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920447688x629209494239215200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920966880x151114703398432130/DB25F608-CEFF-44D9-8662-1C1A59202E00.jpg",
+"type":"Profile",
+"tags":["Impact Maps & Measurement"],
+"sectors":["Partnerships for the goals","Reducing inequalities","Industry Innovation and Infrastructure"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Catalist connects you to the opportunities to create impact. Our ecosystem of tools allows communities of changemakers to build collective intelligence, encourage collaboration, and enable coordinated action.",
+"size":"",
+"label":"Jenn Baez"
+    },{
+        "id": "1669920677050x782780535371075100",
+"url":"https://www.catalist.network/eventpage/1669741342876x178195842007469200",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920677050x782780535371075100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920889473x279227702358392450/Rick%20Weinstein.jpg",
+"type":"Presentation",
+"tags":["Business For Good"],
+"sectors":["Reducing inequalities"],
+"locations":["Global","Online"],
+"types":["Session"],
+"description":"My leukemia diagnosis in 2011 was my wake up call for my Purposeful Act III a/k/a SERVICE. I am a son, sibling to two brothers, father to a cherished son and daughter, transformed grandfather to three light beings a/k/a grandchildren, ex husband to an amazing mother of our children, and last but not least -- lifetime student of the metaphysical realms. ",
+"size":"",
+"label":"Big Heart Social Ecosystem -- A Blueprint for the New Era of Equity by Rick Weinstein"
+    },{
+        "id": "1669920681345x455865819851213300",
+"url":"https://www.catalist.network/eventpage/1657032297821x832120320605576400",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920681345x455865819851213300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920893414x174427875332170180/HLCNPQQTSVAUJP54OPPMVIU5F4.png",
+"type":"Presentation",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Decentralized Web"],
+"locations":[],
+"types":["Session"],
+"description":"Founder, Gitcoin, Author, GreenPilled, Impact DAOs",
+"size":"",
+"label":"How Web3 *Could* Regenerate The World by Kevin Owocki"
+    },{
+        "id": "1669920686538x330010773633202520",
+"url":"https://www.catalist.network/eventpage/1669392925751x619604690281918300",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920686538x330010773633202520&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920899222x279876449796718800/IMG_4032.JPG",
+"type":"Presentation",
+"tags":["Community & Local Impact"],
+"sectors":["Reducing inequalities","No Poverty","Climate Action"],
+"locations":["Bermuda"],
+"types":["Session"],
+"description":"I am the founder of Bermuda Is Love, a community organisation, dedicated to promoting responsibility, action, and love for the community and the environment, through events like trash cleanups, blood drives, clothing drives/giveaways, up-cycling events, community gardens, food programs, and more. \\n\\nBermuda Is Love is a group that believes in creating a social and economic system that provides equal access to opportunities and resources for all individuals, promotes human responsibility and dignity, and advances human flourishing and sustainability.\\n\\nI also sit on the Greenrock Youth Council which aims to give young environmental activists a platform to express their interests, propose solutions and collaborate with like-minded peers.\\n\\nI am an associate attorney at Cox Hallett Wilkinson, a Bermuda law firm, and hold an LPC MSc in Law, Business and Management from The University of Law, a Bachelor of Laws from the University of Kent, and a Bachelor of Arts in Philosophy from Dalhousie University.\\n",
+"size":"",
+"label":"The Philosophy of Bermuda Is Love by Aaron Crichlow"
+    },{
+        "id": "1669920689092x778031660619486300",
+"url":"https://www.catalist.network/eventpage/1669741122730x254861656377005400",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920689092x778031660619486300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920903034x171960535430188960/Adam%20headshot.jpg",
+"type":"Presentation",
+"tags":["Education & Culture"],
+"sectors":["Sustainable cities and communities","Climate Action","Good health and well-being for people"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Adam is the collaborative founder of Onora, a research & action lab exploring how to create a more vibrant planet while leading with love rather than fear. Most recently discovered Gratitude-Based Learning & Innovation, a refreshingly new approach to education, problem-solving, and development. Former Fortune 500 market research & strategy consultant.",
+"size":"",
+"label":"Systems Change Starts with a Thank You by Adam Fishman"
+    },{
+        "id": "1669920691876x696859243656619300",
+"url":"https://www.catalist.network/eventpage/1669392469024x176858338282899650",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920691876x696859243656619300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920905649x757381185837080400/Me%20and%20tinkshas.jpg",
+"type":"Profile",
+"tags":["Inner Change"],
+"sectors":["Good health and well-being for people"],
+"locations":["Online","Global"],
+"types":["Session"],
+"description":"Community builder, wellness advocate, sound healer, kundalini yogi, and dance ceremony facilitator. Founder of Bloomtree Wellness. Advisor to Celo.org",
+"size":"",
+"label":"Adriana Cerundolo"
+    },{
+        "id": "1669920696806x949121556284426600",
+"url":"https://www.catalist.network/eventpage/1669756364195x824346688199346700",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920696806x949121556284426600&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920910957x432825327360957700/FE8AFB4C-E93B-4FDE-ADAD-BB2AFDC11A04.jpeg",
+"type":"Presentation",
+"tags":["Community & Local Impact","Change In Africa","Education & Culture","Inner Change","Institutions & Infrastructure","Ecology & Food"],
+"sectors":["No Poverty","Clean Water and Sanitation","Quality Education"],
+"locations":["Global","Africa","USA"],
+"types":["Session"],
+"description":"I am a servant leader, a philanthropist, Founder & CEO of the 501c3 Tax-Exempt organization: ‘Mumzys Children Relief Foundation’ aka ‘MumzyCRF’ a humanitarian mission that empowers communities & children living in extreme poverty. ",
+"size":"",
+"label":"Helping Children living in extremely poor remote rural villages get access to education and to basic human needs by Albertine Scray ‘Mumzy’"
+    },{
+        "id": "1669920704283x449242552608716000",
+"url":"https://www.catalist.network/eventpage/1657032306711x145761330847786760",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920704283x449242552608716000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920916942x616412977725313300/6B74BC8F-A78B-4A70-A32A-ECB76AE9BAE5.jpeg",
+"type":"Profile",
+"tags":["Ecology & Food","Inner Change"],
+"sectors":["Clean Water and Sanitation","Zero hunger","Sustainable cities and communities"],
+"locations":["Address","Global"],
+"types":["Session"],
+"description":"Charles holsopple \\n\\n Visionary, Philanthropist,\\nFounder CEO, Sukhi 222,\\n Rotarian, Student at USF 1972. \\n\\n   In 2005 after a successful career in building materials and real estate Charles retired to begin research and networking to address the existential threats of this and future generations. \\nHis first work included collaboration with cross disciplinary faculty and students at Univ. of Akron polymer engineering school focused on emerging shelter technology. \\n  He soon expanded his project to include the other basic needs of nutrition and clean water as common denominators \\n His work has resulted in collaboration of individuals forming a cross disciplinary self organizing team in 22 countries and growing. \\n Charles is the host and producer of an upcoming podcast from WMNF.org Studios \\n\\n \\n ",
+"size":"",
+"label":"It's all coming together... by Charles Hosloppe"
+    },{
+        "id": "1669920706336x126771454802423700",
+"url":"https://www.catalist.network/eventpage/1669741141019x190858941294333570",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920706336x126771454802423700&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920921063x300069452835199200/1654969108530.jpg",
+"type":"Presentation",
+"tags":[],
+"sectors":["Sustainable cities and communities","Reducing inequalities","Life on Land","Good health and well-being for people","Climate Action"],
+"locations":["Ecuador","Guatemala","California","Global"],
+"types":["Session"],
+"description":"A designer of buildings, communities and businesses, Dakotah's training at The Frank Lloyd Wright School has informed his passion for using built environments to create regenerative systems that restore the health of ecosystems and communities.",
+"size":"",
+"label":"Growing a global network of community owned innovation co-living properties.  by Dakotah Joseph Apostolou"
+    },{
+        "id": "1669920709095x314832045689247500",
+"url":"https://www.catalist.network/eventpage/1669574566849x465038161940305200",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920709095x314832045689247500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920924008x945797407622600600/Daniel%20Awomnab%20Picture.jpg",
+"type":"Presentation",
+"tags":["Change In Africa","Ecology & Food"],
+"sectors":["Climate Action","Decent work and economic growth","Gender equality","Reducing inequalities","Industry Innovation and Infrastructure"],
+"locations":["Africa"],
+"types":["Speaker"],
+"description":"Daniel Awomnab is an SDG Advocate from Ghana. He holds a Master's degree in Political Analysis and Public Policy from the Higher School of Economics. ",
+"size":"",
+"label":"Africa Changemaker Spotlight by Daniel Awomnab"
+    },{
+        "id": "1669920712884x142472845240553920",
+"url":"https://www.catalist.network/eventpage/1669392960554x471351615372458600",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920712884x142472845240553920&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920927850x937257772922866800/ITEaddresswithaudiencecloseup.jpeg",
+"type":"Presentation",
+"tags":["Business For Good","Inner Change","Institutions & Infrastructure","Regenerative Finance & Impact Investing","Media & Memetics","Education & Culture","Web3 & Tech For Good"],
+"sectors":["Partnerships for the goals","Peace Justice & Strong Institutions","Reducing inequalities"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Founder of #IsThereEnough, a content studio of an evolutionary conversation of human survival, and the co Founder of Impact Launchpad, a venture studio with a proposed new model of impact finance. Articulating a practical 21st century response to Buckminster Fuller's model for The World Game.",
+"size":"",
+"label":"Do We Need An Ownerless Impact Bank? by Daniel T. Matalon"
+    },{
+        "id": "1669920718474x895498925278223500",
+"url":"https://www.catalist.network/eventpage/1669392454893x620327025120713600",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920718474x895498925278223500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920933320x416387310716617400/DJ_Georgia_002.jpg",
+"type":"Presentation",
+"tags":["Business For Good","Ecology & Food","Web3 & Tech For Good","Change In Africa","Civilization Design","Community & Local Impact","Education & Culture","Inner Change","Institutions & Infrastructure","Regenerative Finance & Impact Investing"],
+"sectors":["Affordable and Clean Energy","Climate Action","Sustainable cities and communities","No Poverty","Life on Land"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Darryl J. Nicke II is CEO of Carbon Capture Shield, Inc. - which aims to transition 1 billion acres of earth to regenerative stewardship worldwide by 2030.\\n \\nDarryl J. (DJ) is also founder of multiple nonprofit organizations and an international media company. He was born in Detroit, Michigan, but he has lived and worked in 7 countries on 3 continents.",
+"size":"",
+"label":"Stewarding a Future of Abundance by Darryl J. Nicke II"
+    },{
+        "id": "1669920721271x900752995711466100",
+"url":"https://www.catalist.network/eventpage/1669392972561x786722796189825200",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920721271x900752995711466100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920938024x245076980825589060/David%20Ehrlichman%20-%20author%20photo%2C%203-18-21%20cropped.jpg",
+"type":"Presentation",
+"tags":["Civilization Design"],
+"sectors":["Sustainable cities and communities","Partnerships for the goals","Decent work and economic growth"],
+"locations":["Online","Global"],
+"types":["Session"],
+"description":"Author of Impact Networks. Co-founder of Hats Protocol. Catalyst of the Converge network. Contributor to Cabin and DAOstar One. It's all about coordination.",
+"size":"",
+"label":"Blending networks and hierarchies for more effective coordination by David Ehrlichman"
+    },{
+        "id": "1669920724236x372683321745817200",
+"url":"https://www.catalist.network/eventpage/1669392454390x238461513210511680",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920724236x372683321745817200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920940888x226074225971169200/Delton-Chen-1-Sample.png",
+"type":"Presentation",
+"tags":[],
+"sectors":["Climate Action"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Delton Chen founded the Global Carbon Reward initiative. Delton is a qualified civil engineer and geo-hydrologist, and he holds a Ph.D. in engineering from the University of Queensland, Australia. Delton did his doctoral research on the hydrology of a coral cay in the Great Barrier Reef, and he has 20 years of combined experience in groundwater management, environmental impact assessment, geothermal energy and climate mitigation. Delton is a thought-leader in the development of public policies based on Central Bank Digital Currencies, and is a member of the Blockchain Climate Institute. Delton developed the “Global Carbon Reward” policy to help reduce and remove carbon at the speed and scale that are needed to stabilize the climate and meet the 2015 Paris Agreement. Delton believes that the Global Carbon Reward can fill the funding gap for climate mitigation and help protect communities and ecosystems from the ravages of climate change and over-consumption.",
+"size":"",
+"label":"Global Carbon Reward by Delton Chen"
+    },{
+        "id": "1669920726853x829451258296875400",
+"url":"https://www.catalist.network/eventpage/1669842054955x733872444743776100",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920726853x829451258296875400&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920944086x260776644448477160/jasmine%20profile%20picture.jpg",
+"type":"Profile",
+"tags":[],
+"sectors":["Industry Innovation and Infrastructure","Life on Land","Sustainable cities and communities"],
+"locations":[],
+"types":["Session"],
+"description":"Jasmine is an award-winning London based British artist, scientist, speaker, and environmentalist. A polymath, her critical practice spans painting, sculpture, public art and technology and since 2017 she has been pioneering the use of a pollution absorbing ceramic in order to find new ways of adapting to a more, holistic symbiocene era.",
+"size":"",
+"label":"Evolutionary Arms Race by Dr Jasmine Pradissitto"
+    },{
+        "id": "1669920729612x295918505456333400",
+"url":"https://www.catalist.network/eventpage/1669392922057x473160276537396540",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920729612x295918505456333400&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920946974x533776273869287740/DSC_0166%5B1%5D.JPG",
+"type":"Presentation",
+"tags":["Ecology & Food","Civilization Design"],
+"sectors":["Sustainable cities and communities","Good health and well-being for people","Partnerships for the goals"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Technology and community builder on a spiritual journey. Yeah, it's complicated. Also, plant-based, wilderness addict with a penchant for silence most of the time but happy to speak my mind and heart when asked to do so.",
+"size":"",
+"label":"Regenerative Communities: Uncompromising Purpose in Critical Times by Eric Amyot"
+    },{
+        "id": "1669920732149x173261431118933120",
+"url":"https://www.catalist.network/eventpage/1669392455831x505236239091113340",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920732149x173261431118933120&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920950025x445021389815274600/DE086373-FEF6-4D45-B6FB-7F4425735C7E.png",
+"type":"Profile",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Climate Action","No Poverty"],
+"locations":["New York City","Online","Global"],
+"types":["Session"],
+"description":"Gianna serves as Chief Climate Officer of Convincing Crypto and is driving a crypto movement that addresses economic and environmental injustices. She founded the nonprofit Albedo Climate Solutions and is committed to making climate change education more accessible while sparking both local and global action. Previously, she served in the nonprofit sector as an Executive Director and Lead Facilitator and worked on climate models at the NASA Goddard Institute for Space Studies. She earned two bachelor’s in earth system science and urban studies from UC Irvine, as well as a master’s in climate and society from Columbia University. ",
+"size":"",
+"label":"Climate Justice & Economic Empowerment Through Blockchain Technology by Gianna Lum"
+    },{
+        "id": "1669920735687x999933509421790200",
+"url":"https://www.catalist.network/eventpage/1669392456271x885479912430326100",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920735687x999933509421790200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920953432x690703081261041000/GLandua%20Headshot.jpeg",
+"type":"Presentation",
+"tags":["Community & Local Impact","Regenerative Finance & Impact Investing","Web3 & Tech For Good"],
+"sectors":["Climate Action","Responsible consumption and production","Partnerships for the goals"],
+"locations":["Global","Online"],
+"types":["Session"],
+"description":"Gregory is co-founder of Regen Network, an application specific public blockchain built with the Cosmos SDK. Regen Network is designed to support carbon markets and other ecological markets with ecological state verification and ecological asset issuance. Before founding Regen Network, Gregory co-wrote Regenerative Enterprise (2013) as well as co-founded and grew Terra Genesis International, from a Regenerative Agriculture consultancy and design firm into a leader in the Regenerative Movement. Gregory is also the host of the Planetary Regeneration Podcast.\\n",
+"size":"",
+"label":"TBD by Gregory Landua"
+    },{
+        "id": "1669920739442x842096360425286000",
+"url":"https://www.catalist.network/eventpage/1669741254831x985362733628917900",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920739442x842096360425286000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920956792x715600650346461800/heart%20in%20airplane-GriffGreen.png",
+"type":"Profile",
+"tags":["Regenerative Finance & Impact Investing","Web3 & Tech For Good","Institutions & Infrastructure"],
+"sectors":["Decent work and economic growth","Quality Education","Sustainable cities and communities"],
+"locations":["Online","Global"],
+"types":["Session"],
+"description":"Cofounder of Giveth, Commons Stack, Trusted Seed, Praise & dappnode. Community manager for TheDAO, led the crisis response effort for TheDAO Hack and first Parity Multisig Hack from every angle, co-founder of the White Hat Group and led the creation of Token Engineering Commons. Advisor for PolygonID, PolygonHermez, brightID, Doingud, and steward for Gitcoin, ENS & Optimism.\\n\\nI also lead 2 crypto focused burning man camps ;-) ",
+"size":"",
+"label":"I would love to be on some panels, no talks please :-D by Griff Green"
+    },{
+        "id": "1669920740585x319638329911254400",
+"url":"https://www.catalist.network/eventpage/1669756487140x241413058639516220",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920740585x319638329911254400&view=Net%20Map&filtered=yes",
+"image":"https://dd7tel2830j4w.cloudfront.net/f1637688036873x574664730130787000/Icon%20Color.svg",
+"type":"Presentation",
+"tags":[],
+"sectors":["Climate Environment & Resiliency","Action"],
+"locations":[],
+"types":["Session"],
+"description":"Description of presentation",
+"size":"",
+"label":"Barriers, Innovations, and Breakthroughs in Institutional Change by Hélène Papper, Wesley Teeter, Nicholas Niggli "
+    },{
+        "id": "1669920744815x701799385421874300",
+"url":"https://www.catalist.network/eventpage/1669392457218x350912116147761540",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920744815x701799385421874300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920963379x650153314754523800/-IMG_0008.JPG",
+"type":"Presentation",
+"tags":["Business For Good","Civilization Design","Education & Culture","Institutions & Infrastructure","Web3 & Tech For Good"],
+"sectors":["Partnerships for the goals","Reducing inequalities","Quality Education"],
+"locations":["North America"],
+"types":["Session"],
+"description":"Jake Hirsch-Allen builds public private partnerships between North America’s governments, workforce development organizations, colleges and universities, and LinkedIn Talent Solutions. \\n\\nJake advises several startups including the Learning Economy Foundation, Hireguide and Readocracy. Jake is a Director on the Boards of the Ontario Tech Talent and the Canadian Club. He founded Lighthouse Labs, Canada’s foremost software development bootcamp and Hacking Health. \\n\\nA former intellectual property and international criminal lawyer, Jake was also Chair of the Technology Committee of the Global Education Platform, taught Global Health at McMaster University and clerked at the Supreme Court of Israel.    ",
+"size":"",
+"label":"Public Private Partnerships for a more sustainable future of work by Jake Hirsch-Allen"
+    },{
+        "id": "1669920754237x287193459972901340",
+"url":"https://www.catalist.network/eventpage/1669392962583x248489323824993900",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920754237x287193459972901340&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920972053x558261129191942850/552362BD-AF16-4DDA-A9A8-AB1B712AC1B7.png",
+"type":"Presentation",
+"tags":["Education & Culture","Inner Change","Media & Memetics","Web3 & Tech For Good"],
+"sectors":["Good health and well-being for people","Reducing inequalities","Quality Education"],
+"locations":["California","Online"],
+"types":["Session"],
+"description":"I have been a professional memer (a person who posts memes online) since the age of 12, amassing huge audiences across various niches. The beginning of the pandemic marked a huge shift in me that now has me focusing on utilizing the internet, creative story telling, humor, and networking to help others find a healthy balance between nature, technology, and personal well being.",
+"size":"",
+"label":"Introduction to SolarPunk by Johnny Rapp"
+    },{
+        "id": "1669920756396x840302426894752300",
+"url":"https://www.catalist.network/eventpage/1669392456737x793408486996556300",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920756396x840302426894752300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920975202x188448643052427700/Joseph%20Eagan.webp",
+"type":"Presentation",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Reducing inequalities"],
+"locations":["Global","Online"],
+"types":["Session"],
+"description":"Prior to launching Anagram, Joe was the president of Polychain Capital, one of the first and largest crypto focused investment groups globally. Before getting into crypto in 2017, Joe spent 17 years in traditional finance - most recently as the COO of a long/short equity fund, Tiger Legatus.  From 2008 to 2014, Joe was a Principal at Investcorp focusing on the Firm’s Hedge Fund seeding business. Prior to joining Investcorp, Joe managed risk arbitrage and special situations portfolios at several hedge funds.  Joe began his career at Bank of America in the media and telecom investment banking division. Joe holds a BA in political science from Georgetown University, Washington DC.",
+"size":"",
+"label":"Web 3 and New Socio Economic orders by Joseph Eagan"
+    },{
+        "id": "1669920758935x639567807818786700",
+"url":"https://www.catalist.network/eventpage/1657032307318x662673347807858800",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920758935x639567807818786700&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920977329x113568976398527470/Kelsey_Driscoll-230x230.jpg",
+"type":"Profile",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Decentralized Web"],
+"locations":[],
+"types":["Session"],
+"description":"Using Web 3 to revoutionize child services in Austin, and co-founder, ChangeDAO",
+"size":"",
+"label":"Kelsey Driscoll"
+    },{
+        "id": "1669920761257x594790182939867400",
+"url":"https://www.catalist.network/eventpage/1669392458686x518435671712016200",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920761257x594790182939867400&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920979776x108138270574353440/profile%20pic.jpg",
+"type":"Presentation",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Sustainable cities and communities"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Product Lead & GIVeconomy Steward at Giveth. Passionate about using web3 tooling to create regenerative systems around the creation of public goods.",
+"size":"",
+"label":"Tranforming IRL Public Goods Funding Using Web3 by Lauren Luz"
+    },{
+        "id": "1669920763224x822844431705014100",
+"url":"https://www.catalist.network/eventpage/1669392473052x344315735954925100",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920763224x822844431705014100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920982230x814702065391999000/minni%20jain.jpg",
+"type":"Presentation",
+"tags":["Ecology & Food","Community & Local Impact"],
+"sectors":["Clean Water and Sanitation","Climate Action","Reducing inequalities","Good health and well-being for people"],
+"locations":["Global"],
+"types":["Session"],
+"description":"\"For over 25 years Minni Jain has been working with communities to regenerate their landscapes and lives. As Operations Director of the Flow Partnership, she works on community-led management of floods and droughts using simple, successful, low-cost, traditional methods. She coordinates Waterways World, a practical water school of landscape regeneration skills and methods to achieve replenishment of the world’s water bank and has also helped set up the One Pond Fund to enable communities worldwide to resource their water projects. \"\\n",
+"size":"",
+"label":"Action for Transformation  by Minni Jain"
+    },{
+        "id": "1669920765957x488207358447681000",
+"url":"https://www.catalist.network/eventpage/1669392473509x141486491099808160",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920765957x488207358447681000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920985061x519808837378553400/Neal%20Caux.jpeg",
+"type":"Presentation",
+"tags":["Ecology & Food","Regenerative Finance & Impact Investing","Civilization Design"],
+"sectors":["Climate Action","No Poverty","Zero hunger"],
+"locations":["Global"],
+"types":["Session"],
+"description":"I'm a terraformer.  I transform degraded or barren lands into forests & agroforestry.  \\n\\n",
+"size":"",
+"label":"It doesn't make sense to grow trees unless we address why people are cutting down trees in the first place.   by Neal Spackman"
+    },{
+        "id": "1669920767868x982280052289202200",
+"url":"https://www.catalist.network/eventpage/1669392921225x744024713981639200",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920767868x982280052289202200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920988104x726848992824816300/Preeti%20Shetty.jpeg",
+"type":"Presentation",
+"tags":["Impact Maps & Measurement","Web3 & Tech For Good"],
+"sectors":["Decent work and economic growth","Gender equality","Good health and well-being for people","Partnerships for the goals","Peace Justice & Strong Institutions","Reducing inequalities","Quality Education"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Preeti is the CEO and founder of Upshot, a tech social enterprise that helps non profit organisations manage, monitor and evidence the community work they deliver. Preeti focuses her efforts on proving the difference non profits can make to people's lives and communities through impact measurement and evaluation and Upshot is now used by over 1000 organizations across the UK and internationally. A well-respected figure particularly in the sport for development space, Preeti was named one of The Sport Industry Group Next Generation Leaders in Sport, is the Vice Chair of Street Child United and sits on the Board of Brentford Football club.",
+"size":"",
+"label":"Measuring the impact of sport as a tool for development by Preeti Shetty"
+    },{
+        "id": "1669920770688x777861493851467000",
+"url":"https://www.catalist.network/eventpage/1669741343905x359545637241388350",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920770688x777861493851467000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920990738x801062057582874600/linkedin-DESKTOP-M8OFGQO.jpg",
+"type":"Presentation",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Reducing inequalities","Peace Justice & Strong Institutions","Partnerships for the goals"],
+"locations":["Global"],
+"types":["Speaker"],
+"description":"I am a venture architect and ecosystem builder that is passionate about the intersection between business, technology and nature. I worked as an engineer for 15 years at Robert Bosch and Ford Motor Company, and as a management consultant for Roland Berger for 4 years. Over the last 2 years, I built and/or scaled ventures for energy and automotive companies in the US and Europe, and invested in my own ventures including Shala that I would like to share with you today.",
+"size":"",
+"label":"If you don't have one figured out yet, please put your project/company name by An Internet Built and Owned by Users by Roman Fernandez"
+    },{
+        "id": "1669920774786x222546286030679260",
+"url":"https://www.catalist.network/eventpage/1669790676759x409633413970451400",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920774786x222546286030679260&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920995887x507147411526830660/PXL_20211207_111257742.PORTRAIT~2.jpg",
+"type":"Presentation",
+"tags":["Ecology & Food","Regenerative Finance & Impact Investing","Community & Local Impact","Impact Maps & Measurement","Web3 & Tech For Good"],
+"sectors":["Climate Action","Sustainable cities and communities","Life on Land"],
+"locations":["Colombia","Zambia","Global","Brazil","United States"],
+"types":["Session"],
+"description":"Highly collaborative entrepreneur focused on scaling regenerative efforts who is deeply connected & highly active in the ReFi (Regenerative Finance) movement.",
+"size":"",
+"label":"Scaling smallholder eco asset origination by Sev Nightingale"
+    },{
+        "id": "1669920778588x306904043740273000",
+"url":"https://www.catalist.network/eventpage/1669392461932x358239585312706500",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920778588x306904043740273000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669920999737x621026030535287300/Sikho%20Msomi.png",
+"type":"Presentation",
+"tags":["Change In Africa"],
+"sectors":["Industry Innovation and Infrastructure","Sustainable cities and communities","Quality Education"],
+"locations":["Global","South Africa"],
+"types":["Session"],
+"description":"An active global citizen invested in high impact ventures and projects. Passionate about entrepreneurship as well as digital technologies and what both can do to unlock and transform the potential of Africa and its people. Inspired by the living principles of Ubuntu.\\n",
+"size":"",
+"label":"Africa Change Maker Spotlight by Sikho Msomi"
+    },{
+        "id": "1669920781374x137368595307154830",
+"url":"https://www.catalist.network/eventpage/1669741363756x487326715652925500",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920781374x137368595307154830&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669921003445x393864882388793600/profile_wtk.png",
+"type":"Presentation",
+"tags":["Institutions & Infrastructure","Education & Culture","Web3 & Tech For Good"],
+"sectors":["Quality Education","Partnerships for the goals","Industry Innovation and Infrastructure","Decent work and economic growth"],
+"locations":["Global"],
+"types":["Session"],
+"description":"Systems thinker; work in progress; thoughts derivative.\\nPresident, Learning Economy Foundation & Steward, ETHDenver + Opolis",
+"size":"",
+"label":"Creating an Open Architecture for the Learning Economy by Taylor Kendal"
+    },{
+        "id": "1669920783952x680812836287469900",
+"url":"https://www.catalist.network/eventpage/1669790243979x903987554780697100",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669920783952x680812836287469900&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669921006049x873766516114276900/Wesley%20Teter%20-%20bio%20pic.jpg",
+"type":"Presentation",
+"tags":["Education & Culture"],
+"sectors":["Quality Education","Decent work and economic growth"],
+"locations":[],
+"types":["Session"],
+"description":"Dr. Wesley Teter is Senior Consultant for Educational Innovation and Skills Development at UNESCO’s Asia and Pacific Regional Bureau for Education in Bangkok, Thailand. He supports 46 countries in the region to ensure the relevance and fair recognition of qualifications for learning and employment. He is co-editor of the Handbook of Education Policy by Edward Elgar Publishing (forthcoming in 2023), and was a member of the Blockchain for Education Community of Practice led by the World Bank and Learning Economy Foundation in 2020-2021. With support from the Asian Development Bank, he provides technical assistance to Indonesia on digital and micro-credentials and monitors implementation in the Asia-Pacific region. ",
+"size":"",
+"label":"Building an Open Architecture for Learning and Employment - Barriers, Innovations, and Breakthroughs in institutional change by Wesley Teter"
+    },{
+        "id": "1669921725575x745019487071172300",
+"url":"https://www.pozzleplanet.com/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669921725575x745019487071172300&view=Net%20Map&filtered=yes",
+"image":"https://pozzleplanet.com/img/Welcome_preview.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Pozzle Planet is an Impact-2-Earn protocol and mobile-app where you can earn POZ by joining and sharing positive actions via video",
+"size":"",
+"label":"Pozzle Planet"
+    },{
+        "id": "1669922212012x931134619064240900",
+"url":"www.poweredbyaction.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922212012x931134619064240900&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Reducing inequalities"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Big Heart Ventures and Powered by Action"
+    },{
+        "id": "1669922212660x651381858872504800",
+"url":"www.onoraglobal.com/fft",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922212660x651381858872504800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Sustainable cities and communities","Climate Action","Good health and well-being for people"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Onora Global"
+    },{
+        "id": "1669922213421x145552890952302270",
+"url":"bloomtreewellness.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922213421x145552890952302270&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Good health and well-being for people"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Bloomtree Wellness"
+    },{
+        "id": "1669922214111x149618074770968320",
+"url":"https://mumzycrf.org/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922214111x149618074770968320&view=Net%20Map&filtered=yes",
+"image":"https://mumzycrf.org/wp-content/uploads/2022/08/open-letter-mumzy.jpg",
+"type":"Project",
+"tags":[],
+"sectors":["No Poverty","Clean Water and Sanitation","Quality Education"],
+"locations":[],
+"types":[],
+"description":"Mumzys Children Relief Foundation focuses on Poor Children’s Education, Water & Healthcare to communities in USA & Africa via DONATE $10 Campaign",
+"size":"",
+"label":"Mumzys Children Relief Foundation aka MumzyCRF"
+    },{
+        "id": "1669922214823x181964669761173630",
+"url":"sukhi222.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922214823x181964669761173630&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Clean Water and Sanitation","Zero hunger","Sustainable cities and communities"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Sukhi 222"
+    },{
+        "id": "1669922215800x890310389422570400",
+"url":"https://www.cohere.network/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922215800x890310389422570400&view=Net%20Map&filtered=yes",
+"image":"https://uploads-ssl.webflow.com/603d25a7e350810e91e2b444/606cdb506ab7703f255331dd_opengraph.jpg",
+"type":"Project",
+"tags":[],
+"sectors":["Sustainable cities and communities","Reducing inequalities","Life on Land","Good health and well-being for people","Climate Action"],
+"locations":[],
+"types":[],
+"description":"Cohere is a member-owned network of conscious co-living communities that provide the flexibility of renting, the value of owning and a sense of belonging wherever you go. From the locations we’ve chosen to the amenities we provide, our spaces have been intelligently designed for high-functioning rem…",
+"size":"",
+"label":"Cohere"
+    },{
+        "id": "1669922216684x833464859511481300",
+"url":"100percent.site",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922216684x833464859511481300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Partnerships for the goals","Peace Justice & Strong Institutions","Reducing inequalities"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"#IsThereEnough / Impact Launchpad"
+    },{
+        "id": "1669922217136x949898044188678000",
+"url":"www.carboncaptureshield.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922217136x949898044188678000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Affordable and Clean Energy","Climate Action","Sustainable cities and communities","No Poverty","Life on Land"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Carbon Capture Shield"
+    },{
+        "id": "1669922218193x154624672203511600",
+"url":"davidehrlichman.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922218193x154624672203511600&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Sustainable cities and communities","Partnerships for the goals","Decent work and economic growth"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Impact Networks"
+    },{
+        "id": "1669922219144x549600629151342000",
+"url":"davidehrlichman.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922219144x549600629151342000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Sustainable cities and communities","Partnerships for the goals","Decent work and economic growth"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Hats Protocol"
+    },{
+        "id": "1669922219888x999039406869771300",
+"url":"davidehrlichman.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922219888x999039406869771300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Sustainable cities and communities","Partnerships for the goals","Decent work and economic growth"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Converge"
+    },{
+        "id": "1669922220574x473993933139010800",
+"url":"https://globalcarbonreward.org/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922220574x473993933139010800&view=Net%20Map&filtered=yes",
+"image":"https://globalcarbonreward.org/wp-content/uploads/2021/05/GCR_Feature_Home.png",
+"type":"Project",
+"tags":[],
+"sectors":["Climate Action"],
+"locations":[],
+"types":[],
+"description":"The Global Carbon Reward is a system-changing policy for funding climate mitigation together with healthy ecosystems, vibrant communities, and reliable clean energy.",
+"size":"",
+"label":"Global Carbon Reward"
+    },{
+        "id": "1669922221467x375487423325460800",
+"url":"www.pradissitto.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922221467x375487423325460800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Industry Innovation and Infrastructure","Life on Land","Sustainable cities and communities"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Jasmine Pradissitto Studio"
+    },{
+        "id": "1669922222202x940109968481553300",
+"url":"www.GlobalUnity.org, www.GlobalUnity.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922222202x940109968481553300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Global Unity"
+    },{
+        "id": "1669922222914x896756504015198100",
+"url":"www.thrijv.co",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922222914x896756504015198100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Sustainable cities and communities","Good health and well-being for people","Partnerships for the goals"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Thrijv"
+    },{
+        "id": "1669922224070x651316431774258800",
+"url":"commonwealth.ca",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922224070x651316431774258800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Common Wealth Canada"
+    },{
+        "id": "1669922224938x429133616231132100",
+"url":"commonwealth.ca",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922224938x429133616231132100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"C4Media"
+    },{
+        "id": "1669922226048x407606038393674400",
+"url":"commonwealth.ca",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922226048x407606038393674400&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"UBI Works"
+    },{
+        "id": "1669922226716x743745079207653400",
+"url":"convincingcrypto.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922226716x743745079207653400&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Climate Action","No Poverty"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Convincing Crypto"
+    },{
+        "id": "1669922227664x641433228863018000",
+"url":"https://www.regen.network/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922227664x641433228863018000&view=Net%20Map&filtered=yes",
+"image":"https://www.regen.network/static/141a0026c930ce60d3a9daace303dba4/science.png",
+"type":"Project",
+"tags":[],
+"sectors":["Climate Action","Responsible consumption and production","Partnerships for the goals"],
+"locations":[],
+"types":[],
+"description":"Buy and sell ecosystem service credits at the open marketplace for climate solutions.",
+"size":"",
+"label":"Regen Network Development"
+    },{
+        "id": "1669922228507x271321059751776130",
+"url":"https://www.regen.network/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922228507x271321059751776130&view=Net%20Map&filtered=yes",
+"image":"https://www.regen.network/static/141a0026c930ce60d3a9daace303dba4/science.png",
+"type":"Project",
+"tags":[],
+"sectors":["Climate Action","Responsible consumption and production","Partnerships for the goals"],
+"locations":[],
+"types":[],
+"description":"Buy and sell ecosystem service credits at the open marketplace for climate solutions.",
+"size":"",
+"label":"Inc"
+    },{
+        "id": "1669922229444x998134283784586800",
+"url":"https://giveth.io/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922229444x998134283784586800&view=Net%20Map&filtered=yes",
+"image":"https://giveth.mypinata.cloud/ipfs/QmQ9sfdevs9vS7czBXBfDaRRPhU8a6T5gXxF3NDGSnQe1c",
+"type":"Project",
+"tags":[],
+"sectors":["Decent work and economic growth","Quality Education","Sustainable cities and communities"],
+"locations":[],
+"types":[],
+"description":"Get rewarded for giving to for-good projects with zero added fees. Donate crypto directly to over 1,000 for-good projects, non profits & charities!",
+"size":"",
+"label":"Giveth & Commons Stack"
+    },{
+        "id": "1669922230142x948255141142272600",
+"url":"https://www.linkedin.com/in/jakehirschallen/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922230142x948255141142272600&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Partnerships for the goals","Reducing inequalities","Quality Education"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"LinkedIn"
+    },{
+        "id": "1669922230773x295412767719838600",
+"url":"https://www.linkedin.com/in/jakehirschallen/, https://www.learningeconomy.io",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922230773x295412767719838600&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Partnerships for the goals","Reducing inequalities","Quality Education","Industry Innovation and Infrastructure","Decent work and economic growth"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Learning Economy Foundation"
+    },{
+        "id": "1669922231673x477726225895625660",
+"url":"https://www.linkedin.com/in/jakehirschallen/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922231673x477726225895625660&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Partnerships for the goals","Reducing inequalities","Quality Education"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Lighthouse Labs"
+    },{
+        "id": "1669922232421x297803682744578050",
+"url":"SolarPunkPark.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922232421x297803682744578050&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Good health and well-being for people","Reducing inequalities","Quality Education"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"SolarPunk Park"
+    },{
+        "id": "1669922233217x841238893019993300",
+"url":"https://nestr.io",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922233217x841238893019993300&view=Net%20Map&filtered=yes",
+"image":"https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/1147749/551626_187530.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Nestr.io is here to serve decentralised organisations get work done and to make sure the impact they create is aligned with your personal values.",
+"size":"",
+"label":"Nestr"
+    },{
+        "id": "1669922233973x614415104916565800",
+"url":"anagram.xyz",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922233973x614415104916565800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Reducing inequalities"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Anagram"
+    },{
+        "id": "1669922234597x514226658485834800",
+"url":"growthplatform.me",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922234597x514226658485834800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Growth Platform"
+    },{
+        "id": "1669922235390x357920849132775700",
+"url":"growthplatform.me",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922235390x357920849132775700&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Bank of Industry"
+    },{
+        "id": "1669922236316x834746993231549900",
+"url":"https://giveth.io/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922236316x834746993231549900&view=Net%20Map&filtered=yes",
+"image":"https://giveth.mypinata.cloud/ipfs/QmQ9sfdevs9vS7czBXBfDaRRPhU8a6T5gXxF3NDGSnQe1c",
+"type":"Project",
+"tags":[],
+"sectors":["Sustainable cities and communities"],
+"locations":[],
+"types":[],
+"description":"Get rewarded for giving to for-good projects with zero added fees. Donate crypto directly to over 1,000 for-good projects, non profits & charities!",
+"size":"",
+"label":"Giveth"
+    },{
+        "id": "1669922236943x905355792463955700",
+"url":"https://www.passages.earth/sacredsites",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922236943x905355792463955700&view=Net%20Map&filtered=yes",
+"image":"https://static.wixstatic.com/media/624690_3fb386cbac464b6c80a3a796949307d0~mv2.jpg/v1/fill/w_650,h_650,al_c/624690_3fb386cbac464b6c80a3a796949307d0~mv2.jpg",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Join us as we preserve our collective legacy: Our Mother Earth. And help advocate for her current guardians.",
+"size":"",
+"label":"Passages"
+    },{
+        "id": "1669922237555x907354979993306500",
+"url":"https://planetarycare.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922237555x907354979993306500&view=Net%20Map&filtered=yes",
+"image":"https://planetarycare.org/wp-content/uploads/2021/08/system.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Planetary CARE"
+    },{
+        "id": "1669922238304x572189363003194900",
+"url":"https://www.theflowpartnership.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922238304x572189363003194900&view=Net%20Map&filtered=yes",
+"image":"http://static1.squarespace.com/static/538c8ae0e4b0ef2df549ab42/t/558be276e4b087e32d60491c/1435230844047/the-flow-partnership-logo+inverted+200px.png?format=1500w",
+"type":"Project",
+"tags":[],
+"sectors":["Clean Water and Sanitation","Climate Action","Reducing inequalities","Good health and well-being for people"],
+"locations":[],
+"types":[],
+"description":"<p>The <strong>Flow Partnership</strong> is a UK based charity taking radical action towards the increasing threat of floods, droughts, soil erosion and habitat loss <strong>at their source</strong>.</p>",
+"size":"",
+"label":"The Flow Partnership"
+    },{
+        "id": "1669922238970x852510943214814300",
+"url":"regenerativeresources.co",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922238970x852510943214814300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Climate Action","No Poverty","Zero hunger"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Regenerative Resources"
+    },{
+        "id": "1669922239626x144627161083997100",
+"url":"https://panvala.com/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922239626x144627161083997100&view=Net%20Map&filtered=yes",
+"image":"https://uploads-ssl.webflow.com/61aea7e06198b36f6f43f16d/61b3a90027ed32615c8a4a30_og-image.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Panvala powers communities with a share of its community endowment & connections to a vast network of like-minded individuals & projects.",
+"size":"",
+"label":"Panvala"
+    },{
+        "id": "1669922240352x103064583459874690",
+"url":"www.upshot.org.uk",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922240352x103064583459874690&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Decent work and economic growth","Gender equality","Good health and well-being for people","Partnerships for the goals","Peace Justice & Strong Institutions","Reducing inequalities","Quality Education"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Upshot"
+    },{
+        "id": "1669922241152x754664379179096300",
+"url":"https://www.eco-labs.xyz/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922241152x754664379179096300&view=Net%20Map&filtered=yes",
+"image":"http://static1.squarespace.com/static/61bc34bb87b3df7ab0b740ee/t/62e0cdd0c81ec66824d99142/1658899920057/Untitled-Artwork+(43).jpg?format=1500w",
+"type":"Project",
+"tags":[],
+"sectors":["Climate Action","Sustainable cities and communities","Life on Land"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Eco Labs"
+    },{
+        "id": "1669922242091x376012708458886000",
+"url":"citypeople.durban",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922242091x376012708458886000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Industry Innovation and Infrastructure","Sustainable cities and communities","Quality Education"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"City People"
+    },{
+        "id": "1669922243606x532238657575083100",
+"url":"thomasmorales.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922243606x532238657575083100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"ThomasMorales.com"
+    },{
+        "id": "1669922244288x402416509842359100",
+"url":"www.carbotura.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922244288x402416509842359100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Gravitas Infinitum - Sustainable Impact Holding Company"
+    },{
+        "id": "1669922244900x952496756037497400",
+"url":"https://www.schoolexcellence.p.u-tokyo.ac.jp/en/event/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922244900x952496756037497400&view=Net%20Map&filtered=yes",
+"image":"https://www.schoolexcellence.p.u-tokyo.ac.jp/img/hdr_logo_en.png",
+"type":"Project",
+"tags":[],
+"sectors":["Quality Education","Decent work and economic growth"],
+"locations":[],
+"types":[],
+"description":"The Page of Events. Center for Advanced School Education and Evidence-based Research (CASEER), The University of Tokyo",
+"size":"",
+"label":"Center for Advanced School Education and Evidenced-based Research (CASEER)"
+    },{
+        "id": "1669922245523x525516798314596740",
+"url":"https://www.schoolexcellence.p.u-tokyo.ac.jp/en/event/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922245523x525516798314596740&view=Net%20Map&filtered=yes",
+"image":"https://www.schoolexcellence.p.u-tokyo.ac.jp/img/hdr_logo_en.png",
+"type":"Project",
+"tags":[],
+"sectors":["Quality Education","Decent work and economic growth"],
+"locations":[],
+"types":[],
+"description":"The Page of Events. Center for Advanced School Education and Evidence-based Research (CASEER), The University of Tokyo",
+"size":"",
+"label":"University of Tokyo"
+    },{
+        "id": "1669922246203x548915348906997570",
+"url":"https://www.schoolexcellence.p.u-tokyo.ac.jp/en/event/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922246203x548915348906997570&view=Net%20Map&filtered=yes",
+"image":"https://www.schoolexcellence.p.u-tokyo.ac.jp/img/hdr_logo_en.png",
+"type":"Project",
+"tags":[],
+"sectors":["Quality Education","Decent work and economic growth"],
+"locations":[],
+"types":[],
+"description":"The Page of Events. Center for Advanced School Education and Evidence-based Research (CASEER), The University of Tokyo",
+"size":"",
+"label":"Japan"
+    },{
+        "id": "1669922246837x916398388015526000",
+"url":"https://www.catalist.network",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922246837x916398388015526000&view=Net%20Map&filtered=yes",
+"image":"https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1628037462478x801117214202725600%2FCatalist%20Home%20Page%20Illustration-02-min.jpg?w=&h=&auto=compress&dpr=1&fit=max",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"We are trying to get a view of all the Global Unity projects based on this framework.",
+"size":"",
+"label":"Periodic Impact For Good"
+    },{
+        "id": "1669922247439x153740412391346850",
+"url":"garysheng.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922247439x153740412391346850&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Industry Innovation and Infrastructure","Affordable and Clean Energy","Sustainable cities and communities"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Gary Sheng's Website"
+    },{
+        "id": "1669922248892x516061014352100300",
+"url":"www.democraci.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922248892x516061014352100300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Peace Justice & Strong Institutions","Reducing inequalities"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Democraci Matters"
+    },{
+        "id": "1669922249516x207970288496452480",
+"url":"https://wiki.quorum.one",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922249516x207970288496452480&view=Net%20Map&filtered=yes",
+"image":"https://super-static-assets.s3.amazonaws.com/c60c08a9-0623-4659-8af4-0a0c4e3eb220/uploads/cover/5dad091a-dd0c-4779-bdc8-fe3481b0d3e1.png",
+"type":"Project",
+"tags":[],
+"sectors":["Decent work and economic growth","Industry Innovation and Infrastructure","Responsible consumption and production"],
+"locations":[],
+"types":[],
+"description":"Quorum1 is a technology collective of entrepreneurs, engineers, business operations experts, and lots of others. We’re working to create a new model for ethical business. This is our shared knowledge library.",
+"size":"",
+"label":"Quorum1"
+    },{
+        "id": "1669922250116x938255506261412600",
+"url":"warmspace.io",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922250116x938255506261412600&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":["Good health and well-being for people","Peace Justice & Strong Institutions"],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Warmspace"
+    },{
+        "id": "1669922251534x547816716502665500",
+"url":"https://silentrich.com/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922251534x547816716502665500&view=Net%20Map&filtered=yes",
+"image":"https://silentrich.com/wp-content/uploads/2022/06/SilentRichMousePad-1024x850.png",
+"type":"Project",
+"tags":[],
+"sectors":["Affordable and Clean Energy","Industry Innovation and Infrastructure","Sustainable cities and communities"],
+"locations":[],
+"types":[],
+"description":"Silent Rich is a private membership offering exclusive masterminds that connect you with relevant people and invite them to your opportunities.",
+"size":"",
+"label":"Y Jungle(Stealth)"
+    },{
+        "id": "1669922252140x377853279583979260",
+"url":"https://silentrich.com/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669922252140x377853279583979260&view=Net%20Map&filtered=yes",
+"image":"https://silentrich.com/wp-content/uploads/2022/06/SilentRichMousePad-1024x850.png",
+"type":"Project",
+"tags":[],
+"sectors":["Affordable and Clean Energy","Industry Innovation and Infrastructure","Sustainable cities and communities"],
+"locations":[],
+"types":[],
+"description":"Silent Rich is a private membership offering exclusive masterminds that connect you with relevant people and invite them to your opportunities.",
+"size":"",
+"label":"Silent Rich"
+    },{
+        "id": "1669923259243x234921588847280130",
+"url":"https://globalunity.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1669923259243x234921588847280130&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962369452x518543624459538500/multiple-users-silhouette.png",
+"type":"Group",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"The problems we face cannot be solved without global cooperation.\\nIt’s step one in addressing the great threats in front of us.",
+"size":"",
+"label":"Global Unity"
+    },{
+        "id": "1670099010537x727991916972212200",
+"url":"https://impactoracle.io",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670099010537x727991916972212200&view=Net%20Map&filtered=yes",
+"image":"https://impactoracle.io/images/68233387e82734120f83031cf7035ad9.png",
+"type":"Resource",
+"tags":[],
+"sectors":["Responsible consumption and production","Industry Innovation and Infrastructure","Partnerships for the goals"],
+"locations":["Global"],
+"types":["Tool"],
+"description":"All impact, simply accounted for - Impact Oracle is an evolving, live, ledger of impact accounting for businesses.",
+"size":"",
+"label":"Impact Oracle"
+    },{
+        "id": "1670099231958x691434677563293700",
+"url":"",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670099231958x691434677563293700&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670099067585x925961411456905200/Or1.png",
+"type":"Profile",
+"tags":[],
+"sectors":["Responsible consumption and production","Industry Innovation and Infrastructure","Partnerships for the goals"],
+"locations":["USA"],
+"types":[],
+"description":"Or Katzman writes the Blockchain Bridge blog, is the founder of Impact Oracle, and is the director and co-founder of SDGIsrael. With over a decade of experience in leadership training, facilitation, and impact work, he has worked with a variety of organizations on mapping, measuring, and communicating their impact through the SDGs. He has experience and certification from the EU in circular economics and green business planning, he has consulted the UNDP on SDG Impact Standards and taken part in the UNGC’s SDG Accelerator program. \\n",
+"size":"",
+"label":"Or Katzman "
+    },{
+        "id": "1670275800404x198049049943212830",
+"url":"https://www.catalist.network/event/transformative-impact-summit",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670275800404x198049049943212830&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669050589676x843073060827176200/TIS-Catalist_Cover_1920x1080.jpg",
+"type":"Event",
+"tags":[],
+"sectors":["Collective Action & Collaboration"],
+"locations":[],
+"types":[],
+"description":"A gathering featuring grand-scale changemakers from across the world who are affecting transformative change in various ways.",
+"size":"",
+"label":"Transformative Impact Summit "
+    },{
+        "id": "1670679929513x961441928479768600",
+"url":"https:://frontierdao.xyz",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670679929513x961441928479768600&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670678826286x701394618073447600/FrontierDAO%20Logo%20.jpg",
+"type":"Project",
+"tags":["Space","Clean Energy","Impact & Social Justice","Climate Action","Regenerative Finance & Impact Investing","STEM"],
+"sectors":["Affordable and Clean Energy","Sustainable cities and communities","Climate Action","Clean Water and Sanitation"],
+"locations":["Europe","Florida"],
+"types":["Climate Pledge Network","Organization Website","Initiative","Innovation Collaborative"],
+"description":"FrontierDAO - Unlocking space, science, fusion energy research and exploration through #DeSci & Web3 tooling. Help make a positive impact on this and off-world. Contributors & collaborators welcome! ",
+"size":"",
+"label":"FrontierDAO"
+    },{
+        "id": "1670994134548x875886438370752800",
+"url":"https://linktr.ee/gaoanetwork",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994134548x875886438370752800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995309454x541765480080204740/GAOA.jpg",
+"type":"Profile",
+"tags":["Business For Good","Civilization Design","Institutions & Infrastructure","Regenerative Finance & Impact Investing","Web3 & Tech For Good"],
+"sectors":["Quality Education","Decent work and economic growth","Reducing inequalities","Good health and well-being for people","Sustainable cities and communities"],
+"locations":["Australia","Colombia","Global","Online"],
+"types":["Attendee"],
+"description":"I'm a knowlede worker / systems thinker with background in Mechatronics Engineering, while gaining engineering knowledge and mental models, I became passionate about Blockchain Technology and decided to transition into the Web3 industry with the intention of contributing to the rise of freedom and collective sovereignty.",
+"size":"",
+"label":"Gabriel Orrego"
+    },{
+        "id": "1670994138921x683568223428238100",
+"url":"https://linktr.ee/kokonutnetwork",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994138921x683568223428238100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995313029x454311182890837250/IMG_5043%20%281%29.JPG",
+"type":"Profile",
+"tags":["Business For Good","Community & Local Impact","Ecology & Food","Regenerative Finance & Impact Investing"],
+"sectors":["Climate Action","Decent work and economic growth","Good health and well-being for people","No Poverty","Partnerships for the goals","Reducing inequalities","Sustainable cities and communities","Zero hunger"],
+"locations":["Global"],
+"types":["Attendee"],
+"description":"I’m Alejandro, the Founder of Kokonut Network.\\n\\nMy story initiated at 15 yrs old when I was still in high school. I learned about VoIP technology, and I was just a teenager full of dreams looking for ways to make money without a diploma. One year later, I had almost 50 call centers as customers and multiple independent sellers working under me. Can you imagine a 16-year-old schoolboy in 2005-2006 making this kind of income?! By just using a phone and sometimes the school computer lab. I remember my teachers were bothered by how much time I wanted to spend in the lab to service my customers. VoIP business in my country started to fade due to local regulations, and I moved on to other things.\\n\\nI then decided to get into website development with one of my oldest friends, whom I met at college in 2008. I started developing websites as a freelancer to gain experience in everything internet related until 2014 when I became an eBay Power Seller.\\n\\nOver the years, I had many opportunities to work in different areas, plus my passion was the internet. Today I run a tech company with two of my oldest friends, which is how Kokonut Network came to life.\\n\\nKokonut Network is our company's first project, so we started this journey with a big hit, and we have grand plans for the agriculture sector in the Dominican Republic. Our soil and weather are perfect for growing different vegetables and fruits.",
+"size":"",
+"label":"Alejandro Adon"
+    },{
+        "id": "1670994142246x424296697437465340",
+"url":"https://www.parchmet.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994142246x424296697437465340&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995315908x673815397092371700/C8D1C67A-C67C-403F-BEE2-CF4FDE082F87.jpeg",
+"type":"Profile",
+"tags":[],
+"sectors":["Quality Education","Decent work and economic growth"],
+"locations":["Global"],
+"types":["Attendee"],
+"description":"Serendipity Engineer\\nCredentialing Ecosystem Mentalist\\nKernel Fellow #KB7\\nCo-Chair W3C Verifiable Credentials for Education",
+"size":"",
+"label":"Simone Ravaioli"
+    },{
+        "id": "1670994145301x827334104770001800",
+"url":"https://www.learnlysociety.xyz/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994145301x827334104770001800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995318799x592023970490646700/Indra%20Avatar%20rounded.png",
+"type":"Profile",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Quality Education","Decent work and economic growth"],
+"locations":["Indonesia"],
+"types":["Attendee"],
+"description":"Business Development Professional who has a passion for nurturing startups’ ecosystems, product innovation, and helping people to scale up their digital skills for the future of work.",
+"size":"",
+"label":"Indra Kusuma"
+    },{
+        "id": "1670994148415x651415414372296000",
+"url":"https://www.gravitasinfinitum.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994148415x651415414372296000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995322072x453570242519460740/Tyler%20Wood%20headshot.png",
+"type":"Profile",
+"tags":["Business For Good"],
+"sectors":[],
+"locations":[],
+"types":["Attendee"],
+"description":"Tyler Wood has served in various leadership roles within the hedge fund industry for 20 years. He believes that the transition towards decarbonization and electrification are the largest trends and biggest opportunity in modern human history that will transition the world economy from linear and extractive to circular and regenerative. \\nMr. Wood has been characterized throughout his 20+ year career with a personal and positive communication style that inspires people to act decisively towards a common goal. \\n\\nMr. Wood's Specialties include: ESG, SDG's, Sustainability, Circular Economy, Carbon Capture, Nature based solutions, Renewable energy, Capital Formation, Business Development. \\n\\nHis international business education includes studies in England, France, Panama, Venezuela, Brazil, South Africa, India, Malaysia, Singapore, Japan, China, and New Zealand. ",
+"size":"",
+"label":"Tyler Wood"
+    },{
+        "id": "1670994152514x304510520443050240",
+"url":"https://www.Centree.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994152514x304510520443050240&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995326902x958274980227630500/profile-pic.png",
+"type":"Profile",
+"tags":["Regenerative Finance & Impact Investing","Web3 & Tech For Good","Community & Local Impact"],
+"sectors":["Climate Action","Life on Land","Partnerships for the goals"],
+"locations":["Canada"],
+"types":["Attendee"],
+"description":"Activist and entrepreneur. Working in web3 on regenerative economics.  Working on stewarding old growth forests at Centree.  ",
+"size":"",
+"label":"Darren Zal"
+    },{
+        "id": "1670994156957x219628468880563650",
+"url":"https://Spacerox.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994156957x219628468880563650&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995331170x224549793638882270/Screen%20Shot%202022-10-19%20at%204.26.00%20PM.png",
+"type":"Profile",
+"tags":["Business For Good","Civilization Design","Institutions & Infrastructure","Regenerative Finance & Impact Investing","Web3 & Tech For Good"],
+"sectors":["Industry Innovation and Infrastructure","Reducing inequalities","Responsible consumption and production"],
+"locations":["Global"],
+"types":["Attendee"],
+"description":"Adam is a web3 native and founder of Spacerox DAO, a decentralized community dedicated to building a sustainable and equitable future in space with blockchain technology. A Solution Engineer/Architect by trade, Adam enjoys solving complex problems that cross multiple industries and technologies. HIs professional background includes Banking, Fintech, Crypto, and Automation and his personal projects touch on Graphic Design, Web Development, and Marketing. When not working, Adam enjoys learning about Philosophy, Economics and Space.",
+"size":"",
+"label":"Adam Boyle"
+    },{
+        "id": "1670994160171x391552398558165060",
+"url":"https://www.usfca.edu/lane-center/lo-schiavo-chair",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994160171x391552398558165060&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995334224x489170002553602300/9704ED0F-C4D6-4380-9681-900D8417F82A_1_105_c.jpeg",
+"type":"Profile",
+"tags":["Change In Africa"],
+"sectors":["Good health and well-being for people","Quality Education","Partnerships for the goals"],
+"locations":["Uganda","Kenya","Rwanda","Tanzania"],
+"types":["Attendee"],
+"description":"Cyrus P. Olsen III, D.Phil. (Oxon.) is working on multi-year, multi-institution Templeton World Charity Foundation grant with Harvard Medical School and Brigham and Women's Hospital for work in Uganda: https://www.templetonworldcharity.org/projects-database/20714",
+"size":"",
+"label":"Cyrus Paul Olsen III"
+    },{
+        "id": "1670994164970x285777072919241700",
+"url":"https://link.bar/cb",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994164970x285777072919241700&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995338023x268824429834770620/A20748E2-3AD3-4A21-B8F2-2832EBCE79F6.jpeg",
+"type":"Profile",
+"tags":["Community & Local Impact","Education & Culture","Impact Maps & Measurement","Media & Memetics","Web3 & Tech For Good"],
+"sectors":["Clean Water and Sanitation","Reducing inequalities","Quality Education"],
+"locations":["Global","Online","Switzerland","New York City","New York State"],
+"types":["Attendee"],
+"description":"Charles Blass is a curator-activator and mapper at the intersection of movement weaving, system and network transformation, community wisdom gardening and interoperability flow. Author, founder, producer, broadcaster, archivist, oral historian, and nonprofit director, Charles is based in Zurich, Switzerland.",
+"size":"",
+"label":"charles blass"
+    },{
+        "id": "1670994168243x412374190182811260",
+"url":"https://impactoracle.io",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994168243x412374190182811260&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995341825x546054750756965300/Or1.png",
+"type":"Profile",
+"tags":["Impact Maps & Measurement"],
+"sectors":["Partnerships for the goals","Responsible consumption and production","Industry Innovation and Infrastructure"],
+"locations":["Global"],
+"types":["Attendee"],
+"description":"Or Katzman writes the Blockchain Bridge blog, is the founder of Impact Oracle, and is the director and co-founder of SDGIsrael. With over a decade of experience in leadership training, facilitation, and impact work, he has worked with a variety of organizations on mapping, measuring, and communicating their impact through the SDGs. He has experience and certification from the EU in circular economics and green business planning, he has consulted the UNDP on SDG Impact Standards and taken part in the UNGC’s SDG Accelerator program.",
+"size":"",
+"label":"Or Katzman "
+    },{
+        "id": "1670994169327x680298912944142100",
+"url":"www.bio4climate.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994169327x680298912944142100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Attendee"],
+"description":"Professor of Sociology.  Teach courses in ecological restoration and societal development.  Board member of www.bio4climate.org and of www.agrariacenter.org.  Connected with EcoRestoration Alliance - Jon Schull.",
+"size":"",
+"label":"Nancy Lee Wood"
+    },{
+        "id": "1670994173016x738848114874281300",
+"url":"https://planetarycare.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994173016x738848114874281300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995347497x211809099157248770/Forrist.beard.no.background-sq.png",
+"type":"Profile",
+"tags":["Business For Good","Ecology & Food","Community & Local Impact","Regenerative Finance & Impact Investing"],
+"sectors":["Good health and well-being for people","Clean Water and Sanitation","Partnerships for the goals"],
+"locations":["Global"],
+"types":["Attendee"],
+"description":"An innovation super-connector, business architect, scholar, researcher, synergist and strategist, I’m passionate about the causes I invest in and dedicated to the ExO platform development that will enable acceleration of Regenerative Agriculture. ",
+"size":"",
+"label":"Forrist Tanner Lytehaause"
+    },{
+        "id": "1670994175777x505184227173469250",
+"url":"https://EcoRestorationAlliance.net",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994175777x505184227173469250&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995350579x894672992054195000/Pasted_Image_6_1_21__2_40_PM.jpg",
+"type":"Profile",
+"tags":[],
+"sectors":["Climate Action","Life on Land","Sustainable cities and communities"],
+"locations":["Global"],
+"types":["Attendee"],
+"description":"co-Founder EcoRestorationAlliance.net\\nco-Founder e-NABLE.org\\ncreator, https://tinyurl.com/BigMapToSaveTheFuture",
+"size":"",
+"label":"Jon Schull"
+    },{
+        "id": "1670994179587x694819907243348500",
+"url":"https://regenerativelaw.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994179587x694819907243348500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995354356x951034603081764900/Screen%20Shot%202022-09-27%20at%208.00.40%20AM.png",
+"type":"Profile",
+"tags":["Business For Good","Community & Local Impact","Civilization Design","Inner Change","Institutions & Infrastructure"],
+"sectors":[],
+"locations":["United States","Online"],
+"types":["Attendee"],
+"description":"Founder of the regenerative law institute; 2014 Goldman Environmental Prize Winner (N. America, NY Fracking Ban); Empowers 🐛transformative change🦋 through alignment with nature’s principles; Experienced and Effective Counsel and Thinking Partner; TEDx and Keynote Speaker.",
+"size":"",
+"label":"Helen Holden Slottje"
+    },{
+        "id": "1670994183039x204879499028172160",
+"url":"https://www.growthplatform.me",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994183039x204879499028172160&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995357823x218373475790818240/WhatsApp%20Image%202022-12-02%20at%2022.33.17.jpeg",
+"type":"Profile",
+"tags":["Change In Africa","Institutions & Infrastructure"],
+"sectors":["No Poverty","Decent work and economic growth","Reducing inequalities"],
+"locations":["Sub-Saharan Africa"],
+"types":["Attendee"],
+"description":"A transformation enthusiast, working in development finance to design and deliver interventions for financial inclusion, as well as building resilience for poor and vulnerable socio-economic groups.",
+"size":"",
+"label":"Ladi Amusu"
+    },{
+        "id": "1670994184267x513176796702593540",
+"url":"https://www.linkedin.com/in/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994184267x513176796702593540&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962377002x906467271293769600/user.png",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Attendee"],
+"description":"A serious instructional technology specialist of 20 years in rural eastern NC USA. My student only thrive through facilitation and choices. Web3 challenged.",
+"size":"",
+"label":"Frank Rice"
+    },{
+        "id": "1670994188141x575178137375236300",
+"url":"https://www.linkedin.com/in/daniellefarrell",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994188141x575178137375236300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995362214x897189672675749500/OJVG8290.JPG",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Attendee"],
+"description":"Background in human development in higher education. Quit almost two years ago.",
+"size":"",
+"label":"Danielle Farrell"
+    },{
+        "id": "1670994191501x772859165101142000",
+"url":"https://www.linkedin.com/in/jan-hendrik-scheufen-a7259b/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994191501x772859165101142000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995365819x951162067381592800/PFP.png",
+"type":"Profile",
+"tags":["Regenerative Finance & Impact Investing","Web3 & Tech For Good"],
+"sectors":["Climate Action","Sustainable cities and communities"],
+"locations":["Online","Global"],
+"types":["Attendee"],
+"description":"Long-time builder and product officer in the blockchain space. Working in the regenerative crypto industry to build the digital tools to enable global coordination and alignment. Focusing on getting the people on the ground the help they need.",
+"size":"",
+"label":"Jan H. Scheufen"
+    },{
+        "id": "1670994193800x991522545636431800",
+"url":"https://symbioticculturelab.com/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994193800x991522545636431800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995368679x121296639722213490/Richard%20Photo.jpg",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Attendee"],
+"description":"A community networking and development specialist whose work is based on spirituality, consciousness, and embodying universal principles and values. He’s been building local, bioregional community for 40+ years. ",
+"size":"",
+"label":"Richard Flyer"
+    },{
+        "id": "1670994195946x758793642377553200",
+"url":"https://www.bloomtreewellness.com/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994195946x758793642377553200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995371704x987652037363790700/Me%20and%20tinkshas.jpg",
+"type":"Profile",
+"tags":[],
+"sectors":["Good health and well-being for people"],
+"locations":["Online","Global"],
+"types":["Attendee"],
+"description":"Founder of Bloomtree Wellness, Web3 enthusiast, kundalini yoga teacher, sound healer, group facilitator, nature lover. ",
+"size":"",
+"label":"Adriana Cerundolo"
+    },{
+        "id": "1670994198779x672040629081512800",
+"url":"https://symbioticculturelab.com/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994198779x672040629081512800&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995374194x240455043417454820/Richard%20Photo.jpg",
+"type":"Profile",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":["Attendee"],
+"description":"",
+"size":"",
+"label":"Richard Flyer"
+    },{
+        "id": "1670994201900x531667498327449200",
+"url":"https://www.facebook.com/TheFutureNavigators",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994201900x531667498327449200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995377360x881407986944386700/Captain%20Future%202022.jpg",
+"type":"Profile",
+"tags":["Civilization Design","Inner Change"],
+"sectors":["Partnerships for the goals","Quality Education"],
+"locations":["Online"],
+"types":["Attendee"],
+"description":" I’m Captain Future - Connecting the dots with curiosity, playfulness, authenticity, humor, kindness & wisdom in navigating a global complex world in motion. Spreading good vibes and magic wherever I go.\\n",
+"size":"",
+"label":"Michael Sillion"
+    },{
+        "id": "1670994205500x248766766723333980",
+"url":"https://goediphi.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994205500x248766766723333980&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995380919x396247862069400770/CIC%20Headshot.jpg",
+"type":"Profile",
+"tags":[],
+"sectors":["Reducing inequalities","Decent work and economic growth","Industry Innovation and Infrastructure"],
+"locations":["Online","Global"],
+"types":["Attendee"],
+"description":"An unexpected edtech start up founder. \\n\\nMy identity as a first generation immigrant gives me the drive, passion and resourcefulness to want to help smooth the bumps for others on the same journey. I found a home in the hospitality industry and I am now building tools for those in underserved communities to gain access to training and skills through technology.",
+"size":"",
+"label":"Cristina Imperial Carl"
+    },{
+        "id": "1670994209255x664157057086870300",
+"url":"linkedin.com/in/victor-matthew-ayegba-81082391/",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994209255x664157057086870300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995384701x886670621615097000/IMG_20221207_201450.png",
+"type":"Profile",
+"tags":["Education & Culture","Regenerative Finance & Impact Investing","Change In Africa"],
+"sectors":["Climate Action","Quality Education","Partnerships for the goals"],
+"locations":["Nigeria"],
+"types":["Attendee"],
+"description":"Victor Ayegba Mathew is a community development and environmental educator with more than 7 years of experience in promoting eco-friendly solutions and creating programs for environmental learning across schools in Nigeria. \\n",
+"size":"",
+"label":"Victor Ayegba Mathew "
+    },{
+        "id": "1670994212736x218113009153180200",
+"url":"https://boiler.cloud",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994212736x218113009153180200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995388098x403354473680954430/portret_clr_300x300.jpg",
+"type":"Profile",
+"tags":["Business For Good"],
+"sectors":["Reducing inequalities","Industry Innovation and Infrastructure","Decent work and economic growth"],
+"locations":["Online","Netherlands"],
+"types":["Attendee"],
+"description":"Building a future where innovation is an inclusive game. Interested in systems thinking, future thinking, gamification, ecosystems and innovation.",
+"size":"",
+"label":"Jeroen Koomen"
+    },{
+        "id": "1670994215513x294643276749281300",
+"url":"https://www.voiceofhumanity.one",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994215513x294643276749281300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995391256x186813037229201400/GraceInKran.jpg",
+"type":"Profile",
+"tags":[],
+"sectors":["Good health and well-being for people","Life on Land","Life Below Water"],
+"locations":["Online","Europe"],
+"types":["Attendee"],
+"description":"Digital democracy, DAO, alternative economies, elevating life and aliveness. Experience in blockchain, technology, economics, research, and organizational structures. ",
+"size":"",
+"label":"Grace Rachmany"
+    },{
+        "id": "1670994218559x254378033334609730",
+"url":"https://www.gaia.gives",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994218559x254378033334609730&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995394320x391850775155461800/Matt%20Gillespie%20Headshot%20Cropped.jpg",
+"type":"Profile",
+"tags":["Web3 & Tech For Good"],
+"sectors":["Affordable and Clean Energy","Decent work and economic growth","Industry Innovation and Infrastructure"],
+"locations":["Costa Rica","Germany & Costa Rica","Germany"],
+"types":["Attendee"],
+"description":"CoFounder @Gaia Gives | Industrial Designer turned Green Energy Entrepreneur | Philomath Hobbyist",
+"size":"",
+"label":"Matt Gillespie"
+    },{
+        "id": "1670994222908x918971357075097100",
+"url":"https://innovo-network.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994222908x918971357075097100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995398418x805620412721060500/Yangbo%20Du%20headshot.jpg",
+"type":"Profile",
+"tags":["Business For Good","Institutions & Infrastructure","Regenerative Finance & Impact Investing","Community & Local Impact"],
+"sectors":["Sustainable cities and communities","Industry Innovation and Infrastructure","Climate Action"],
+"locations":["Global"],
+"types":["Attendee"],
+"description":"Former academic turned entrepreneur currently focused on bringing impact finance mainstream through net-zero-carbon supply chaining and climate-smart, equitable infrastructure project preparation.",
+"size":"",
+"label":"Yangbo Du"
+    },{
+        "id": "1670994225956x467087867959136100",
+"url":"https://Cocreators.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994225956x467087867959136100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995402725x474063651088730600/David.jpg",
+"type":"Profile",
+"tags":["Business For Good","Impact Maps & Measurement","Inner Change","Institutions & Infrastructure"],
+"sectors":["Climate Action","Good health and well-being for people","Sustainable cities and communities"],
+"locations":["Colorado"],
+"types":["Attendee"],
+"description":"Designing Cocreators.com in bubble.io for connecting changemakers and collaborating at scale.",
+"size":"",
+"label":"David Mabelle"
+    },{
+        "id": "1670994229355x493530621504381950",
+"url":"https://www.theaccountabilitygroup.com",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994229355x493530621504381950&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995405692x376554791860871800/L3G8H-5613GW0T_McDonellL%20%282%29%20-%20thumbnail.jpg",
+"type":"Profile",
+"tags":["Institutions & Infrastructure","Education & Culture","Community & Local Impact","Civilization Design"],
+"sectors":["Partnerships for the goals","Peace Justice & Strong Institutions","Life on Land","Responsible consumption and production"],
+"locations":["Canada","Online"],
+"types":["Attendee"],
+"description":"Concerned governance and management consultant. The conventional governance field is disconnected from the grand societal and ecological transformation we need. And walled off from both new and ancient ground of learning . I’m aiming myself with resources, heart, will and connections towards how classic governance must evolve and bridhe over to a regenerative future.  H1 to H2+ especially. Course leader at York University. Facilitator. ",
+"size":"",
+"label":"Lyn McDonell"
+    },{
+        "id": "1670994232402x439737152900860500",
+"url":"https://www.centree.org",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994232402x439737152900860500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995408397x475474182952162500/profile-pic.png",
+"type":"Profile",
+"tags":["Web3 & Tech For Good","Regenerative Finance & Impact Investing"],
+"sectors":["Life on Land","Climate Action"],
+"locations":["Canada"],
+"types":["Attendee"],
+"description":"Activist and entrepreneur.  Working on regenerative economics and culture.  Facilitating stewardship of forests at Centree.",
+"size":"",
+"label":"Darren Zal"
+    },{
+        "id": "1670994235895x655722414786916500",
+"url":"https://frontierdao.xyz",
+"object url":"https://www.catalist.network/trove/transformative-impact-summit?object=1670994235895x655722414786916500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1670995411812x209581266608170020/Paige%20in%20Paris%20%282%29.jpeg",
+"type":"Profile",
+"tags":["Business For Good","Institutions & Infrastructure","Regenerative Finance & Impact Investing","Web3 & Tech For Good"],
+"sectors":["Affordable and Clean Energy","Sustainable cities and communities","Climate Action"],
+"locations":["Global"],
+"types":["Attendee"],
+"description":"co-Founder\\nFrontierDAO.xyz\\nlinktr.ee/frontierdao",
+"size":"",
+"label":"Paige Donner"
+    }
+],
+
+  "connections": [
+{
+        "id": "1669922262347x581936252479976700",
+        "from": "1669920740585x319638329911254400",
+        "to": "1669920783952x680812836287469900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Barriers, Innovations, and Breakthroughs in Institutional Change by Hélène Papper, Wesley Teeter, Nicholas Niggli  is related to Building an Open Architecture for Learning and Employment - Barriers, Innovations, and Breakthroughs in institutional change by Wesley Teter"
+    }
+,{
+        "id": "1669922264495x957179823329105300",
+        "from": "1669922212012x931134619064240900",
+        "to": "1669920677050x782780535371075100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Big Heart Ventures and Powered by Action is related to Big Heart Social Ecosystem -- A Blueprint for the New Era of Equity by Rick Weinstein"
+    }
+,{
+        "id": "1669922267364x539848351489470700",
+        "from": "1669922212660x651381858872504800",
+        "to": "1669920689092x778031660619486300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Onora Global is related to Systems Change Starts with a Thank You by Adam Fishman"
+    }
+,{
+        "id": "1669922270286x970420276097669000",
+        "from": "1669922213421x145552890952302270",
+        "to": "1669920691876x696859243656619300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Bloomtree Wellness is related to Adriana Cerundolo"
+    }
+,{
+        "id": "1669922273247x321071513377093600",
+        "from": "1669922214111x149618074770968320",
+        "to": "1669920696806x949121556284426600",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Mumzys Children Relief Foundation aka MumzyCRF is related to Helping Children living in extremely poor remote rural villages get access to education and to basic human needs by Albertine Scray ‘Mumzy’"
+    }
+,{
+        "id": "1669922276908x968040371098469500",
+        "from": "1669922214823x181964669761173630",
+        "to": "1669920704283x449242552608716000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Sukhi 222 is related to It's all coming together... by Charles Hosloppe"
+    }
+,{
+        "id": "1669922279407x772415066013752300",
+        "from": "1669922215800x890310389422570400",
+        "to": "1669920706336x126771454802423700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Cohere is related to Growing a global network of community owned innovation co-living properties.  by Dakotah Joseph Apostolou"
+    }
+,{
+        "id": "1669922282521x177139238396235580",
+        "from": "1669922216684x833464859511481300",
+        "to": "1669920712884x142472845240553920",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"#IsThereEnough / Impact Launchpad is related to Do We Need An Ownerless Impact Bank? by Daniel T. Matalon"
+    }
+,{
+        "id": "1669922285259x271954319083917540",
+        "from": "1669922217136x949898044188678000",
+        "to": "1669920718474x895498925278223500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Carbon Capture Shield is related to Stewarding a Future of Abundance by Darryl J. Nicke II"
+    }
+,{
+        "id": "1669922288502x189367344061860380",
+        "from": "1669922218193x154624672203511600",
+        "to": "1669920721271x900752995711466100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Impact Networks is related to Blending networks and hierarchies for more effective coordination by David Ehrlichman"
+    }
+,{
+        "id": "1669922291351x829226782624669700",
+        "from": "1669922219144x549600629151342000",
+        "to": "1669920721271x900752995711466100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Hats Protocol is related to Blending networks and hierarchies for more effective coordination by David Ehrlichman"
+    }
+,{
+        "id": "1669922294566x718437356716314800",
+        "from": "1669922219888x999039406869771300",
+        "to": "1669920721271x900752995711466100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Converge is related to Blending networks and hierarchies for more effective coordination by David Ehrlichman"
+    }
+,{
+        "id": "1669922297444x149711451447988030",
+        "from": "1669922220574x473993933139010800",
+        "to": "1669920724236x372683321745817200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Global Carbon Reward is related to Global Carbon Reward by Delton Chen"
+    }
+,{
+        "id": "1669922300496x526680124048334500",
+        "from": "1669922221467x375487423325460800",
+        "to": "1669920726853x829451258296875400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Jasmine Pradissitto Studio is related to Evolutionary Arms Race by Dr Jasmine Pradissitto"
+    }
+,{
+        "id": "1669922303325x490119857497093060",
+        "from": "1669922222914x896756504015198100",
+        "to": "1669920729612x295918505456333400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Thrijv is related to Regenerative Communities: Uncompromising Purpose in Critical Times by Eric Amyot"
+    }
+,{
+        "id": "1669922306628x493036109980381700",
+        "from": "1669922226716x743745079207653400",
+        "to": "1669920732149x173261431118933120",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Convincing Crypto is related to Climate Justice & Economic Empowerment Through Blockchain Technology by Gianna Lum"
+    }
+,{
+        "id": "1669922309397x193040892569871000",
+        "from": "1669922227664x641433228863018000",
+        "to": "1669920735687x999933509421790200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Regen Network Development is related to TBD by Gregory Landua"
+    }
+,{
+        "id": "1669922312585x865946209656192500",
+        "from": "1669922228507x271321059751776130",
+        "to": "1669920735687x999933509421790200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Inc is related to TBD by Gregory Landua"
+    }
+,{
+        "id": "1669922315779x490409196072270700",
+        "from": "1669922229444x998134283784586800",
+        "to": "1669920739442x842096360425286000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Giveth & Commons Stack is related to I would love to be on some panels, no talks please :-D by Griff Green"
+    }
+,{
+        "id": "1669922318382x584105220308726700",
+        "from": "1669922230142x948255141142272600",
+        "to": "1669920744815x701799385421874300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"LinkedIn is related to Public Private Partnerships for a more sustainable future of work by Jake Hirsch-Allen"
+    }
+,{
+        "id": "1669922321575x631124442044941000",
+        "from": "1669922230773x295412767719838600",
+        "to": "1669920744815x701799385421874300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Learning Economy Foundation is related to Public Private Partnerships for a more sustainable future of work by Jake Hirsch-Allen"
+    }
+,{
+        "id": "1669922324528x938140896838870000",
+        "from": "1669922230773x295412767719838600",
+        "to": "1669920781374x137368595307154830",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Learning Economy Foundation is related to Creating an Open Architecture for the Learning Economy by Taylor Kendal"
+    }
+,{
+        "id": "1669922324832x782235225627528100",
+        "from": "1669922231673x477726225895625660",
+        "to": "1669920744815x701799385421874300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Lighthouse Labs is related to Public Private Partnerships for a more sustainable future of work by Jake Hirsch-Allen"
+    }
+,{
+        "id": "1669922327592x312327324054000800",
+        "from": "1669922232421x297803682744578050",
+        "to": "1669920754237x287193459972901340",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"SolarPunk Park is related to Introduction to SolarPunk by Johnny Rapp"
+    }
+,{
+        "id": "1669922330513x835164253971761000",
+        "from": "1669922233973x614415104916565800",
+        "to": "1669920756396x840302426894752300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Anagram is related to Web 3 and New Socio Economic orders by Joseph Eagan"
+    }
+,{
+        "id": "1669922333617x642681978938234100",
+        "from": "1669922236316x834746993231549900",
+        "to": "1669920761257x594790182939867400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Giveth is related to Tranforming IRL Public Goods Funding Using Web3 by Lauren Luz"
+    }
+,{
+        "id": "1669922336530x162677267239243600",
+        "from": "1669922238304x572189363003194900",
+        "to": "1669920763224x822844431705014100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"The Flow Partnership is related to Action for Transformation  by Minni Jain"
+    }
+,{
+        "id": "1669922339569x119116584323010640",
+        "from": "1669922238970x852510943214814300",
+        "to": "1669920765957x488207358447681000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Regenerative Resources is related to It doesn't make sense to grow trees unless we address why people are cutting down trees in the first place.   by Neal Spackman"
+    }
+,{
+        "id": "1669922342637x476421800560684400",
+        "from": "1669922240352x103064583459874690",
+        "to": "1669920767868x982280052289202200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Upshot is related to Measuring the impact of sport as a tool for development by Preeti Shetty"
+    }
+,{
+        "id": "1669922345430x316929300737194300",
+        "from": "1669922241152x754664379179096300",
+        "to": "1669920774786x222546286030679260",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Eco Labs is related to Scaling smallholder eco asset origination by Sev Nightingale"
+    }
+,{
+        "id": "1669922348855x436550359362197570",
+        "from": "1669922242091x376012708458886000",
+        "to": "1669920778588x306904043740273000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"City People is related to Africa Change Maker Spotlight by Sikho Msomi"
+    }
+,{
+        "id": "1669922351553x985600347450853600",
+        "from": "1669922244900x952496756037497400",
+        "to": "1669920783952x680812836287469900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Center for Advanced School Education and Evidenced-based Research (CASEER) is related to Building an Open Architecture for Learning and Employment - Barriers, Innovations, and Breakthroughs in institutional change by Wesley Teter"
+    }
+,{
+        "id": "1669922354820x811000626432998100",
+        "from": "1669922245523x525516798314596740",
+        "to": "1669920783952x680812836287469900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"University of Tokyo is related to Building an Open Architecture for Learning and Employment - Barriers, Innovations, and Breakthroughs in institutional change by Wesley Teter"
+    }
+,{
+        "id": "1669922357693x326600564710109760",
+        "from": "1669922246203x548915348906997570",
+        "to": "1669920783952x680812836287469900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Japan is related to Building an Open Architecture for Learning and Employment - Barriers, Innovations, and Breakthroughs in institutional change by Wesley Teter"
+    }
+,{
+        "id": "1670077044578x917611325045342200",
+        "from": "1669922246837x916398388015526000",
+        "to": "1669922222202x940109968481553300",
+"strength":1,
+"type":"is partners with",
+"description":"We are trying to get a view of all the Global Unity projects based on this framework.",
+"label":"Periodic Impact For Good is partners with Global Unity"
+    }
+
+ ]
+}
