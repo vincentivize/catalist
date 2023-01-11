@@ -26,6 +26,12 @@
 "type":"Object Type",
 "description":"People on Trove"
 },{
+"label":"Opportunity",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962146632x605832000456921600/001-door-open.svg",
+"id":"Opportunity",
+"type":"Object Type",
+"description":"Offers or requests"
+},{
 "label":"Science",
 "image":"//s3.amazonaws.com/appforest_uf/f1668709990955x761179726860286500/Beaker.png",
 "id":"1647152514608x403814582090233660",
@@ -5230,8 +5236,8 @@
         "id": "1668706807588x489630909710729200",
 "url":"",
 "object url":"https://www.catalist.network/trove/gaianet?object=1668706807588x489630909710729200&view=Net%20Map&filtered=yes",
-"image":"",
-"type":"",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962146632x605832000456921600/001-door-open.svg",
+"type":"Opportunity",
 "tags":["Web Development"],
 "sectors":["Software Internet & Automation"],
 "locations":["Global"],
