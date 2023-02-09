@@ -24,7 +24,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"The goal of this project is to put together a database of resources related to social platform interoperability, and a process by which it can stay up to date and useful to the CTA. Topics of information covered by library would include:\\n- Existing standards and protocols that support and enable interoperability\\n- Research, standards, protocols, tools and ideas related to sovereign identity, data portability, data schemas, linked data, decentralized technologies, etc. \\n- Research, protocols and practices around effective group collaboration, cooperation and coordination. \\n- Valuable data ontologies and taxonomies\\n- Existing social platforms in the space that we should be paying attention to (this could be connected to the Nutrition Label proposal)\\n\\nThis would likely start with an Airtable database as the main backend, though also work considering a wiki alongside that. \\n",
+"description":"",
 "size":"",
 "label":"CTA Resource Library"
     },{
@@ -37,7 +37,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Projects and people within the _CTA_ ecosystem lack a central place to _explore _other projects and people, and improve collaboration and coordination. Without a proper ecosystem map, projects will start up without knowing solutions already exist, and much t_ime and energy will be unnecessarily spent duplicating efforts. Energy and effort that could otherwise_ go toward creating impact. Although current directories like airtable exist, _keeping them up to date is challenging enough that it rarely happens_. _This information makes sense in limited contexts. Other contexts, like discovery, matchmaking, coordination and resource sharing need to be nurtured more actively and effectively_. _Alternative_ tools allow the same data to be presented to different audiences with their own specific use cases, which is why we plan to build this map in a way that is easily interoperable with other tools. Our confidence is based on our experience building a sync integration with Airtable and kumu. \\n",
+"description":"",
 "size":"",
 "label":"Interoperable & Dynamic CTA Ecosystem Map"
     },{
@@ -50,7 +50,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"**Opportunity:** We have lots of brilliant beautiful ideas and an opportunity to make real progress together.\\n\\n**Risk:** We could inadvertently end up repeating deep-seated cultural patterns of competition, exclusion, and scarcity if we fail to weave ourselves and our efforts together.\\n\\n**Response:** Hold a series of dynamic facilitation sessions during the proposal discussion and consideration phase to aid in building group cohesion overall, to discover common purpose, and identify opportunities for synthesis between proposals and collaboration between teams.\\n",
+"description":"",
 "size":"",
 "label":"Dynamic Facilitation for Synthesis of Proposals"
     },{
@@ -63,7 +63,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Co-create and co-curate a graph database, an integrated repository of data, information, and knowledge that will serve as a semantic network map of the CTA ecosystem. This database will enable members to easily query and explore data, as well as run machine learning applications such as semantic search and recommendation.\\n\\nThe goal is to facilitate collaboration and collective intelligence by stewarding a common pool of valuable semantic data and intelligenct applications on top. In the short term, this will be within the CTA, and long term this can be knowledge and service that the CTA can provide to other ecoystems. The use of a graph database enables the modeling of data and schemas in a flexible and intuitive way, facilitating complex data structures where relationships between data elements can be dynamic and evolve over time. This makes it easier to understand relationships between data elements, a critical aspect for collaboration.\\n\\nAn open-source version-controlled in-memory graph database such as TerminusDB could be an option for an MVP.\\n\\nThis proposal compliments other proposals:\\n\\n- Leverages schemas for data modeling, as proposed by the Murmurations proposal\\n- Facilitates discovery, matchmaking, coordination, and resource sharing, as proposed by the Interoperable & Dynamic CTA Ecosystem Map\\n- Aids in building a discourse graph in collaboration with the Seriously web app proposal\\n- Helps the Portable Communities Protocol proposal model communities as graphs\\n\\n\\n",
+"description":"",
 "size":"",
 "label":"Web Interoperability Networking Graph (WING)"
     },{
@@ -76,7 +76,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"<https://docs.google.com/document/d/1qdzleSdYwmtlopc-U7xSVHyQtsrCDs8RXZGecdDaK0I/edit?usp=sharing>\\n\\n[https://TheContainer.io](https://thecontainer.io/)\\n\\n**About Me:** [TURQUOISE SOUND - ABOUT ME](https://docs.google.com/document/d/1krSB13k7v-uadKRbjiT4ZmqGpicOFNTdaUNaukQaQUs/edit)\\n",
+"description":"",
 "size":"",
 "label":"The Container"
     },{
@@ -89,7 +89,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"**Problem: **Interoperability is generally not approached and governed integrally and is usually managed through different silos and filters such as technology, data and social or economic relationships.  In addition, less conscious silos are created through psychological values and what Spiral Dynamics refers to as memes (<https://en.wikipedia.org/wiki/Spiral_Dynamics>). \\n\\n**Solution: **Our Integral Interoperability Framework (IIF) will examine how our own _co-creative _innovations in development at Symphonics (‘Symphony Engine’, ‘Holosourcing’) can work in unison with other interoperability projects and initiatives to bring forth foundations for an integral governance protocol and solution.   The IIF would present a governance architecture for an integral approach, setting out pathways for how this can be achieved via different mechanisms (social processes, technologies, governance arrangements).  \\n\\n**Who: **We define co-creation as a Tier 2 meme which is examining holistically how _all life_ can interoperate in a shared process, and thus co-creative solutions transcend and include collaboration (green) and competitive (orange) memes which are currently prevalent.  Our vision is to serve all life through living systems architectures, and at the transcendental (Tier 2 Turquoise level), the cosmos.  \\n\\n**Stakeholders:** We will look to expand interoperability works we are already undertaking for the European FIT for Change Ecosystem Mapping and the Igniting the Holomovement project which includes linked projects and partners such as Life Itself, Emerge, the Center for European Integral Studies, The Source of Synergy Foundation, Evolutionary Leaders, Prosocial, Perspect3vism and Lincd.  We have already been planning to broaden the scope of this activity to Catalist, CTA and Hylo (who we are already connected with) as well as Brad de Graff’s work who is connected via Emerge (and the FIT project). Our goal would be to also work with contributors to the Collabathon to develop use cases. \\n\\n",
+"description":"",
 "size":"",
 "label":"Integral Interoperability Framework"
     },{
@@ -102,7 +102,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"There are many current initiatives promising to support collaboration, whether they be tools, methodologies or platforms that embody an approach or a perspective on collaboration; or alternatively taking one aspect of the information requirements for collaboration and offering a viable solution to that aspect, independently of other aspects. However, when we look at the challenges that really matter in the world, even overall conceptualisation and requirements specification are themselves highly complex, let alone building such tools or platforms. To conceptualise such complex systems in tractable ways, to specify requirements for them, and even to communicate the ideas to others, one needs to simplify much of the complexity, and in the absence of timely information about and dialogue with the builders of other such systems, this has already resulted, and will continue to result in systems built on assumptions that are essentially incompatible, and in separate platforms that are far from fully interoperable, thus limiting the effective reach of our combined ideals. We are proposing the development of methodology to enable different groups to cope with complexity and enhance cooperation.\\nSimplified narratives can be very appealing, but, typically, different simplifications appeal to different people. This may, for example, depend on their personal histories, worldview and perspectives. Coding is a language, and it may be influenced by the ways the person uses that language thinks and/or feels. This happens with all languages, and programming languages are no exception. Taking inspiration from processes related to similar dynamics observed in other typologies of communication, we want to explore which corrective measures may facilitate cooperation and co-creation, even among coders and in digital environments. There is much anecdotal evidence that programmers are more inclined to introversion than extraversion, and to the extent that this is true, it will not be surprising that many systems builders take more naturally to thinking through their own project rather than finding out from others first. Many people, whether introverted or not, enjoy thinking things through by themselves. These phenomena typically lead to a lack of interoperability, together with a difficulty in collaboratively putting together various ideas into one common system, or even agreeing on a common culture in which collaboration and co-creation can occur. If a lack of common ontology obstructs effective communication, as it often does, then the benefits of collective intelligence will be hard if not impossible to realise. As the major cultural, social and global challenges in our world are also highly complex, such collective approaches are absolutely necessary to offer the “requisite variety” (Ashby) to address those challenges.\\nThis project will explore the hypothesis that people’s favourite simplifications of real life complexity are often linked to their personal history, in a way similar to the plausible idea that people’s “healing narratives” reflect their own historical suffering or present lack of health. The project will then start putting together a development methodology for systems supporting commons co-creation. We will look at several dialogue-related practices, including Nonviolent Communication (NVC), various forms of circle practice, Internal Family Systems (IFS) and Collective Presencing, to assess their potential for stimulating engagement with the perspectives and narratives of other systems developers; and whether this can potentially lead on towards significantly greater collaboration and co-creation.\\nIn general, the digital culture doesn't embed cooperation as an attitude toward \"production\". The process could be just as important as the product. This project intends to underline that though investing in the process can seem to be a loss of time in terms of \"production\", it can however create more efficient and stable results.\\nA key outcome to assess the success of this development methodology will be the extent to which developers are enabled to come together both with each other and with typical users of their tools and platforms, in the process of commoning the kind of ontologies that underlie interoperability and the coordination of decentralised systems. This approach will explicitly **not** be seeking to reach the supposed “result” of ontologies cast in concrete, but rather to seek ongoing organic growth of common ontology — supporting tools and platforms supporting ever wider collaboration within the regenerative and commons communities.\\n",
+"description":"",
 "size":"",
 "label":"Ontological commoning to support collaboration"
     },{
@@ -115,7 +115,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Open source and collaboration is all about contributions, but how do we account for them? How is truly open collaboration rewarded?\\nHolons is a “liquid remuneration” structure built on web3; the mechanism fundamentally consists of a stackable payment splitter that weights fund appropriation according to participants “appreciation”.\\nEach Holon has its own payment address where ether and any ERC20 tokens can be sent. This value will be automatically split across its members. This resembles the way dividends work within a traditional organizations; the fundamental differences is that shares in the holon can’t be purchased or are not set in advance, but computed at the moment of payment proportionally to the appreciation received by the holon members.\\nAs members cannot send appreciation to themselves, we obtain an altruistic peer to peer signal to highlight the people who have significantly advanced the project or have closely collaborated to the other members. Doing care work for your hack team? If people “appreciate” your efforts you will receive a proportional amount of the income according to the appreciation graph. Same thing goes for design, development, logistics, marketing etc. This setup allows for people to work across multiple teams and work wherever they are appreciated, wherever they are.\\nHolons can also be nested: a marketing holon could receive funds from the appreciation sent over from the sales holon, and in turn it would be split the received funds to its members. As people can join different holon, they receive funds from multiple streams within the same organization, and also across different organizations.\\nHolons thus allows users to dish appreciation as a non-scarce subjective quantifier that acts as a generalised correlate for payment distribution.\\nIt is a completely new way of thinking about collaboration: People will be able to join any causes and projects they care about, contribute and get appreciated. Whenever a payment is received (Eg: a price money, a grant, commercial licenses), it will flow automatically through the entire holonic structure, rewarding the right people.\\n\\nhttps://docs.google.com/presentation/d/1lhbYEx76GOZxeBLTHXMqrsKtSeyg-aqRxKv3I4qtwfM/edit?usp=sharing\\n",
+"description":"",
 "size":"",
 "label":"holons.io"
     },{
@@ -128,7 +128,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"**The Problem:** People navigating the regenerative/collaborative technology ecosystem currently have to create a new login and profile on each platform or they have to use a Big Tech (surveillance capitalism) OAuth. Meanwhile, platform creators don't have an established method for shared login and/or profiles. We would hope to solve this problem for both platform creators and network participants.\\n\\n**The Project:** Although there is surely a technical dimension to this project, the initial critical work is in engaging multiple pro-social and regenerative platform stewards to collaborate in an effort to widely implement single sign-on to reduce friction within the network and make it easier for people on any participating platform to join the others. This will also lay the groundwork for other important layers of interoperability, for example, portable profiles and projects. I should point out that all of this involves a high degree of sensitivity to important issues of privacy, security, and consent. I've been consulting with respected professionals both in the more established digital identity space and in the more marginalized resistance where the term being used is 'generative identity'. I will continue to advocate for us to take small steps forward where we can to build essential trust and lay the foundation for deeper work together in the future. \\n\\n**NOTE:** I just wanted to get this in here as a placeholder. If anyone else is interested in working on a similar or related initiative, let's do it together.\\n",
+"description":"",
 "size":"",
 "label":"Baby Steps to Trust - SSO (and maybe Shared Profiles)"
     },{
@@ -141,7 +141,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Which people and organizations I'm connected with is data currently mostly held by the big social media platforms, and not accessible to other software. At Dazzle (https://dazzle.town/), we already import, parse and integrate lots of personal data from Facebook, Google and LinkedIn into what we call the user's Data Palace. In this project, we will make the imported (and integrated and curated) social graph data available to other CTA projects through an API. This enables other projects to present their users with an already-populated friends list when they first use their app.\\n",
+"description":"",
 "size":"",
 "label":"Let's take back our social graph"
     },{
@@ -154,7 +154,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Which people and organizations I'm connected with is data currently mostly held by the big social media platforms, and not accessible to other software. At Dazzle (<https://dazzle.town/>), we already import, parse and integrate lots of personal data from Facebook, Twitter, Google and LinkedIn into what we call the user's Data Palace. In this project, we will make the imported (and integrated and curated) social graph data available to other CTA projects through an API. This enables other projects to present their users with an already-populated friends list when they first use their app.\\n",
+"description":"",
 "size":"",
 "label":"Let's take back our social graph"
     },{
@@ -167,7 +167,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"**_[GreenCheck](https://greencheck.world/)_** is simple, blockchain-free approach to _proof of humanity_, one that takes advantage of the trust and knowledge we have of each other. It doesn't attempt to be THE identifier. It attempts to be an identifier that reliably solves, without blockchain, Vitalik's definition of _proof of humanity: _\\n\\n> “I certify that I am a real human and I am registered exactly once in this registry”\\n\\n\*\*_GreenCheck _\*\*provides a [verifiable credential](https://academy.affinidi.com/what-are-verifiable-credentials-79f1846a7b9) that a given [decentralized identifier](https://en.wikipedia.org/wiki/Decentralized_identifier) (DID) is the one and only DID for a given human in a specific community/registry.\\n\\n**_GreenCheck_** solves multiple related problems:\\n\\n- Proliferation of identifiers for one person across numerous apps\\n- Proof of humanity (is this account a human)\\n- One human/one identifier (does this human only have one such account, e.g. for voting)\\n- [Sybil resistance](https://en.wikipedia.org/wiki/Sybil_attack) and [collusion resistance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311507) (can bad actors flood the zone with fakes)\\n- the [blue checkmark problem](https://medium.com/@yonatanzunger/the-hard-lessons-of-blue-checkmarks-c12094ed4a9c) (relying on central authorities to validate us)\\n\\n\*\*_GreenCheck _\*\*and Trust Networks go hand in hand because:\\n\\n\\n1. The former propagates the latter\\n2. The latter needs the former for disambiguation, 1-person/1-vote,…\\n\\n**Approach:**\\nGreenCheck uses what we call **_three-friend authentication_**_, _combining two complementary tools that avoid dependence on blockchain by exploiting what we know about each other, well elaborated in [this paper on Identity and Social Intersection](https://www.radicalxchange.org/media/papers/verifying-identity-as-a-social-intersection.pdf)\\n\\n- A user, associated with a DID, can claim attributes that are provably theirs (e.g. their social accounts, email, phone), which become off-limits in the creation of any other account/DID.\\n- Others familiar with those attributes can validate them, creating [webs of trust](https://en.wikipedia.org/wiki/Web_of_trust)\\n\\n**Use cases:**\\n\\n- People discovery independent of specific apps\\n- Formation of Portable Communities\\n- Voting\\n- Universal basic income\\n- Reputation aggregation\\n- ...\\n\\n**About Web3:**\\n\\n- We can’t wait for wide adoption of Web3. GreenCheck needs to work with mainstream people (normies) who don't want to hear about crypto.\\n- A Web2.5 strategy seems right\\n- Use non-blockchain solutions like [JLinx](https://whitepaper.jlinx.io/JLINX-WhitePaper.pdf), [ZeroDev](https://zerodev.app/)\\n- See [this](https://serotonin.co/web2-5) and [this](https://beincrypto.com/web2-5-we-arent-in-web3-yet-but-we-need-it-to-future-proof-our-businesses/) on Web2.5\\n- A GreenCheck ID is easily published as a soulbound NFT ([SBT](https://nftnow.com/guides/soulbound-tokens-sbts-meet-the-tokens-that-may-change-your-life/))\\n\\n**A Network Cooperative:**\\nCollective value grows with the network. Participants are incentivized to optimize integrity and trust, and to share in the value thus created.\\n\\n- Members are anyone with a GC node\\n- Three-friend authentication creates shared value\\n- Governance by liquid democracy using the authentication network\\n\\n\\n",
+"description":"",
 "size":"",
 "label":"GreenCheck - Three Friend Authentication"
     },{
@@ -180,7 +180,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"_I would like co-authors to help me finish my the white paper I am writing which may be more important than the original Bitcoin one. The paper proposes a new form of currency called CC (Communication/ Contact/ Content/ Consent Currency or Credits) to address the hyper-inflationary attention economy and help users regain focus. CC can be attached to all forms of communication (e.g. emails, posts, ads) and encourage the recipient to open it. The currency could be adopted by any existing user group on any platform that supports a CC plugin and these systems would intertwine. The ideal implementation of CC would be integrated with a Universal Feed that prioritizes incoming asynchronous communications, and users would control a Virtual Assistant to sort their Feed. Senders may attach some amount of CC to their communication, and recipients may negotiate with the sender's Virtual Assistant to receive more CC to open the communication. Everyone has a prominent slider to control their Indiscriminate Price, the amount of CC they will usually take to open a communication from an unknown sender._\\n\\n_User groups of any sort can use CC in various ways to moderate without moderators and to make in-group communications richer and more intelligent. CC lets user groups monetize the attention of members to fund the group, and group members get paid directly by advertisers (with the group CC they bought) to view ads. CC accounts bear negative interest, that interest being redistributed to the group like a UBI. This also means that no one will hold CC for long-term speculation as their holdings would evaporate. These qualities make CC a much better digital currency for general use than existent crypto-currencies and one(many?) that will deliver much of what they promised but could not, while simultaneously letting people sovereignly prioritize their In-Feeds._\\n",
+"description":"",
 "size":"",
 "label":"CC- Communication Credits (or Contact, Consent or Content)"
     },{
@@ -193,7 +193,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"This project proposal aims to address the problem of profile duplication i.e. the current situation in which people, projects and organisations are forced to create new profiles describing themselves on multiple platforms - and therefore have the same, or similar, profiles stored in multiple places around the web. \\n\\nThis project aims to make it easier for people, projects and organisations to provide their profile data to new and existing projects by referencing an open, interoperable profile, rather than needing to duplicate their data. At the same time, the project aims to make it easier for platform and network admins to onboard, map, list and potentially match people, projects and organisations with similar, overlapping, or compatible, purposes, offers and needs.\\n\\nIf successful in our bid for funding, we aim to work with other Members of the CTA to build on Murmurations protocol (field and schema library, API, Index Explorer etc) to deliver the required tools to make it easy for platform owners to import, export and synchronise public profile data.\\n\\nThe solution will include:\\n\\n- A set of standardised, interoperable schemas for the open sharing of profile data to describe people, projects and organisations.\\n- A .csv import tool to facilitate the batch uploading of profile data\\n- Support for any CTA members looking to create compatible JSON endpoints of open profiles in their network \\n- At least one CTA member platform offering new members a ‘Populate your Profile via Murmurations’ button - i.e. Saving a new user's data from a new, or pre-existing, Murmurations profile.\\n- A system map built in Kumu, and potentially other maps / directories as the use cases define, drawing data from Murmurations, to visualise the CTA and other network members\\n\\n",
+"description":"",
 "size":"",
 "label":"Developing Murmurations to support the import, export, synching and visualisation of public Profile data between platforms"
     },{
@@ -206,7 +206,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"The goal of this project is to put together a rating and recommendation system for social platforms so that members of the public can asses which platforms they might want to use or not use, and better understand why. \\n\\nThis includes creating both a public database of information about many existing social platforms (could be connected to a resource library), as well as some kind of interactive “badge” that people can display on their site/platform/tool, with lots of nuance and depth of information shared. We could use the CTA principles for the high level categories and then break down different features and scores under each one. This also leads us a step towards a B-corp like process that platforms/tools could go through to become more “humane” or “responsible” tech. Some initial ideas for the various features to look at:\\n\\n**Openness**\\n- Is the platform open source? This could be a score indicating how much of the code is open source, and also how permissive the licensing is. \\n- How transparent is the organization/project around funding, budget and use of funds? \\n- How transparent are they about things like changes to their terms of service or privacy statement?\\n\\n**Agency**\\n- **How good is the privacy statement?**\\n- Do users have full access to export and delete their data?\\n- Is some or all of the data stored on public ledgers like blockchains, and why?\\n- How secure is the platform’s data? There are many aspects to this and we could have a detailed breakdown that we sum up to a score. \\n\\n**Co-creation**\\n- How possible is it to integrate the platform/tool with others, via APIs, and/or use of standard protocols like ActivityPub or RSS? \\n- How much does this platform engage with its stakeholders in the design process.\\n- How much does the organization participate in communities, networks and gatherings to build relationships with other organizations in the space. \\n\\n**Wellbeing**\\n- We can use systems like the SAGE assessment to determine how well a particular tool or platform is increasing the wellbeing of the people who use it. This would depend on lots of transparency from the platforms about usage of their platform. \\n- We can develop some kind of analysis of various business models and associated metrics that drive the design and development of a platform, and the impact on the health and wellbeing of users related to those models. E.g. There’s lots of data about the negative impacts of engagement driven models on mental health. \\n- We can look at objective and subjective measures of happiness and cohesion on the team building the software. \\n\\n**Justice**\\n- How accessible is the platform, looking at accessibility web standards?\\n- How accessible is the platform from a cost perspective? \\n- Some kind of measure of the diversity of the team/staff building the platform.\\n- Does the platform have a public racial or social justice statement?\\n- What are the hiring practices and pay structures for the org, and how is equity embedded into them?\\n\\n**Emergence**\\n- Does the funding structure for the company enable it to adjust and adapt over time?\\n- Is this a company built for the long term, or for short term gains/profits?\\n- … something more mysterious??\\n\\n",
+"description":"",
 "size":"",
 "label":"CTA Nutrition Label"
     },{
@@ -219,7 +219,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"We find many collaborative endeavours flounder on imprecise definitions of goals, processes, often because the basic concepts involved are not defined well enough. This can lead to the illusion of agreement, which is dispelled in action. We propose a service that will host evolving interlinked definitions of concepts. We aim to allow 1. stable reference to  “snapshots” of concept definitions as understood at a certain time and 2. explicit evolution of concepts as definitions are made clearer through distinctions, so anyone using the concept can update their reference to a more clearly defined concept. As a secondary aim, we want to identify the distinctions whose adoption is the most polarizing, so as to identify problematic concepts.\\nThe aim is to experiment with a repository/broker for concept definitions that allows the following:\\n\\n1. Progressive formalization: Accept natural language definitions as a first approximation, until a more formal analysis becomes necessary\\n2. The unit of formal definitions is distinction: A concept is defined using predicates that distinguish it from other concepts that otherwise share a common abstraction. The concepts themselves form a lattice (as defined in Formal Concept Analysis), but the concepts used in another concept’s definitions also define a dependence graph.\\n3. Concept definitions evolve over time: Introducing distinctions refines the concept identity. References to the concept that were made before that new distinction may need to be reviewed, as they may apply either to either branch of distinction (including the deliberate choice of not applying the distinction, i.e. choosing the common abstraction.)\\n4. Concept definitions also evolve socially: Different people can propose different equivalent definitions, for clarity purposes. People can endorse definitions, which becomes socially salient. Someone can point out an underlying substantial difference, and introduce a distinction. When the distinction is endorsed by many people in their usage of the definition, it points to a general need to update references (as above.)\\n\\nThis is basically the notion of concept unification as a service proposed in the slides described here: <https://hyperknowledge.org/hyperknowledge-components-1.html>\\nOut of scope for this iteration: federated servers; distributed web\\nProbably in scope: DID-based signatures for provenance, would talk with relevant projects.\\n",
+"description":"",
 "size":"",
 "label":"Hyperknowledge Concept identity broker"
     },{
@@ -232,7 +232,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"We need a hybrid license that gives us open source inside our value-aligned network of networks but protects IP from co-optation by opposition commercial interests. Basically, if an NDA and GPL3 Afero had a baby. Those who sign on to the principles have access to the code according to the license. Those who do not, or who are found to be in violation of the principles, are not granted access to the code. Something along those lines.\\n",
+"description":"",
 "size":"",
 "label":"Regen Collab License"
     },{
@@ -245,7 +245,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Building an integration so CTA members can benefit from the collaboration tools Nestr offers and Nestr users can benefit from the CTA community.\\n",
+"description":"",
 "size":"",
 "label":"Nestr.io integration - bringing self-organisation practices to communities"
     },{
@@ -258,7 +258,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"the evolution of out consciousness drives the evolution of our economy. for one thing we will share our data thus enabling us to take care of us, the planet and the future. based on linked data technology (in particular https://solidproject.org/) i propose to take care by sharing data through the search & share platform (see addendum I to http://guts2trust.org/free-to-serve/)\\n",
+"description":"",
 "size":"",
 "label":"guts2trust"
     },{
@@ -271,7 +271,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"<https://linktr.ee/planinvitation> https://docs.google.com/presentation/d/1uYaaHqGNuRCmQaOU7tbmalFn29I1BzxbS7areNvmSzg/edit#slide=id.g186a6834349\_0\_0 \\n",
+"description":"",
 "size":"",
 "label":"PLAN (Participant Led Alliance Network)"
     },{
@@ -284,7 +284,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"How can online communities be **persistent**, **composable**, and **application-independent**?\\n\\nThe lack of a shared way of representing and composing online communities is a critical limiter on the agency of prosocial movements. We can't federate if all we are is mailing lists (e.g. the many local chapters of the climate movement).\\n\\nHow can such collections of people manifest in such a way that they can **federate** meaningfully, **self-govern** at all scales, and dramatically increase their **collective value and agency**?\\n\\n(For a better formatted version of this summary, see [this markdown doc](https://hackmd.io/@1px7zs0rRpWQMLQjnFf8Sg/HktlhIhso) )\\n\\nWe propose a Portable Community Protocol whereby such collections become first-class objects that can have contractual relationships with each other and with applications.\\n\\nSuch a protocol needs to be simple, expressive, extensible, decentralized.\\n\\nIt also requires an approach to _decentralized identifiers (DIDs)_ that is _sybil-resistant_ and unambiguous for users across multiple communities.\\n\\nOur contention is that communities can best be represented as **_graphs_** comprised of **_nodes _**(humans or groups thereof) and **_edges _**(relationships among them). Flat collections of users like mailing lists are graphs with empty _edges _arrays, until the participants curate their relationships. Edges can be used in many ways, such as delegation for liquid democratic decision-making.\\n\\nEach user owns their node and outbound edges, which can be re-used in other communities.\\n\\nSuch communities can then have relationships with applications using V[erifiable Credentials (VCs)](https://en.wikipedia.org/wiki/Verifiable_credentials)` `and O[bject Capabilities](https://en.wikipedia.org/wiki/Object-capability_model), so that whole communities can onboard to an app at once, with the app having only the necessary data access and no more.\\n\\nVerifiable Credentials allow:\\n\\n- Community verifies that a user is a member\\n- Community verifies user has only one identifier in its namespace\\n- User node verifies its relationships with other nodes\\n- …\\n\\n  Object Capabilities allow:\\n- Community confers access to its graph data to a given app, e.g.;\\n- a liquid democracy decision needs to know who each community member has delegated to in what domains\\n- a content curation app needs to aggregate annotation activity by community members\\n- …\\n- Composition of communities, e.g.\\n- what domains they are collaborating on\\n- how to interpret intersection / overlaps\\n- …\\n\\n\\n",
+"description":"",
 "size":"",
 "label":"Portable Communities Protocol -WITHDRAWN FROM CONSIDERATION"
     },{
@@ -297,7 +297,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"The world's population comprises a majority of people of colour and half or more are non-male. Collaborative technologists must not perpetuate imperialist white supremacist hetero-patriarchy  (in the immortal phrasing of bell hooks) if we hope to create systems that ultimately are egalitarian, democratic, and/or inclusive.\\n\\nThis project will use the resources CTA has developed to bring an embodied, inclusive approach to helping its current participants reckon with the impact of dominant structures themselves as well as create opportunities for underrepresented people to have space held and participate, in a combination of small-group and full group experiences.\\n\\nTrust-building is necessary to create welcoming spaces for all. I propose that we spend some of the money to pay professional facilitators in the embodied justice space to help the CTA transition into a more diverse and inclusive collective.\\n",
+"description":"",
 "size":"",
 "label":"Collaboration + Inclusion "
     },{
@@ -310,7 +310,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Being able to view information in a non-linear way let’s people see relationships between information. However, few interface exist to view and simultaneously be able to edit/update that information within the same interface. Additionally, most people not used to network views of data are overwhelmed since they often turn into hairballs without heavy reliance on curation. There are barriers that prevents tools being used and reduces the data integrity as most network maps do not have the capability of being easy to collaboratively editable. Part of the reason graph/network tools are not adopted is because of UI issues.\\n",
+"description":"",
 "size":"",
 "label":"Seriously web app and plugin"
     },{
@@ -323,7 +323,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Fractals are people-first decentralized spaces for trust-building and conversation. Instead of trying to figure out what technology can do, we start with what makes existing decentralized organization work, starting with building trust, creating connection, and natural growth. We create structure that allows for emergence, through small autonomous, porous private spaces and modes of interaction that are conversational and human. Our early prototyping seeks to help us learn about a voice-first approach.\\n",
+"description":"",
 "size":"",
 "label":"Fractals"
     },{
@@ -336,7 +336,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Platform is intended for Logging and maintaining Blood Donation logs for our donor base to allow them privileged treatment In Case of Emergency (I.C.E)  \\n\\nProblem / Service area: Building resilient supply chain - currently riddled with shortages and lack of diversity in donor pool. \\n\\nWebsite: <https://www.universitybloodinitiative.org/>\\nParticipating Colleagues: <https://www.cvshealth.com/news/community/making-connections-through-colleague-resource-groups.html>\\n\\n",
+"description":"",
 "size":"",
 "label":"Blood Donor - Platform Coop"
     },{
@@ -349,7 +349,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"**[Humans United in Mutual Aid Networks (HUMANs)](http://mutualaidnetwork.org)**\*\*\* is a global cooperative and network of communities of practice spanning several continents - US, EU, UK, New Zealand, Africa. HUMANs is an umbrella level organization of well, humans, that helps facilitate the sharing and exchange of knowledge, digital tools, material goods, services, and economic flows in the network. Over a year ago we embarked on a project to upgrade and interconnect what we use in our work, in a broader partnership called [HOME (Homeostatic mutual environment).](http://humans.at-home.coop)\*\*\*\\nWe have set up new versions of Hamlets (Drupal marketplaces created by Community Forge/ Matthew Slater), Odoo, Communecter and Oceco (project management and funding, with the ability to set up different economic sequences, integrated into Communecter, which itself is an integrated collection of apps). Parts of each of them do some of what we need, and we have relationships with those software applications or organizations going back some years.\\nOur identified next step is to make the software interoperable. As of now, Hamlets uses Murmurations for simple offers/needs, and [Communecter](https://www.communecter.org/#) has implemented [ActivityPub](https://www.w3.org/TR/activitypub/) and can \"talk\" with the fediverse for social networking. We think both of those are promising starts, but we realize we are working in tentative piecemeal steps. We have also long wanted to use [Valueflows](https://valueflo.ws) (a vocabulary for coordinating economic production, distribution, exchange) for the economic networking, especially the contribution economy goals we want to support but can't thus far, and we have a long relationship with that team.\\n**Our immediate (much smaller) goal for this collabathon is to add part of Valueflows (VF) to the Communecter ActivityPub (AP) server-to-server implementation, to communicate one piece of the broader collection of Oceco economic functionality: coordinating work on a project or process.**\\nAs of now, this will mostly be useful in allowing different installations of Communecter/Oceco to communicate shared economic activity. It will very soon be useful in communicating economic activity within the fediverse, starting small, with the Bonfire fediverse app, which has implemented the server-to-server AP-VF combination, but hasn't used it in production yet, and needs to update it. We will want to review with them the specific ways they wrapped VF in AP, and all agree on the vocabulary bridge, which can then be defined in the VF spec. There are a couple other EU funded projects that have or are implementing Valueflows and AP federation, so we will coordinate with them too. And of course with anyone else who would like to give input to that part of the effort!\\n",
+"description":"",
 "size":"",
 "label":"The Missing Linking"
     },{
@@ -362,7 +362,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"An open and inclusive Prosocial Working Group will support the synthesis of proposals through dynamic facilitation and synchronous collective sense-making sessions to augment and enhance the asynchronous efforts in the Collabathon 2023 decision making space  \\n \\n",
+"description":"",
 "size":"",
 "label":"Prosocial Working Group supports Synthesis Proposal shaping and Decision Making"
     },{
@@ -375,7 +375,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Build a simple application (MVP) to demonstrate the value and potential of a 'data coop'.  Focus on one specific group of potential users in one specific 'Shared Purpose Community', e.g.: 'people on purpose', ie.: those on a mission, leading or actively participating in movements to make the world work. Make it easier for them to fulfill their mission, filter relevant information, find and coordinate with allies, reach out to engage or enroll others, raise funds, etc.\\n\\nThis Proposal is to fund \\n1. outreach to include aligned diverse stakeholder-group leaders in the MVP design\\n2. coordination & facilitation of a participatory MVP design process (centered on product-market fit) incl. a budget for SlicingPie management, holacratic facilitation of the org, product design facilitation.\\n3. generation of content & explainers to reach diverse stakeholders - in the voices and channels familiar to them - to start building a community movement, gather resources and raise funds\\n\\n**Challenges**\\nCan we rally and coordinate the heretofore un-herdable data sovereignty cats to build something that many people will use? \\nCan we actually launch a platform coop of any consequence and scale?\\nThere have been many rounds of disruptive advancement (web1, web2, web3) where internet idealists have touted the new tech (blockchain! DAO structures! automated governance! woohoo!) as sufficient to augur a more equitable, intelligent and responsive world. We need to bring in more simple and comprehensible structures: \"oh, i get it, it's a CoOperative, we own it together, 1 vote per person.\" simple. And make the human and interpersonal a priority by engaging and employing MASTER FACILITATORS of dialogue, deliberation, co-design and co-operation.\\n\\nIn addition to bringing a team of aligned tech developers together (ie.: CTA, eDemocracy, Open Civics, Portable Communities, Human Data Commons, etc)\\nHere we propose that we begin anew with what seems to have been missing for the data.coop to come to life:\\n- a facilitated participatory deliberation and design process\\n- include stakeholders from all-walks (demographics, ages, politics, cultures, ethnicities) in fairly representative balance \\n- together with the above, aim to design something simple that people really need, that doesn't aim to compete with existing social app's and entrenched network dominance (ie.: cold start-able)\\n- focus on a clearly defined user group, that is strongly aligned and appreciates the importance of the 'data coop' mission - ie.: people on a mission to make the world work, people who will spread the word, people who will change their behavior to try and promote something new ie.: PurposePeople\\n\\nExplained at greater length and in more detail here:\\n[PurposePeople.app Doc](https://docs.google.com/document/d/192YpPwNpJntjKfdbWus-5mnA10qCot1HIkndHi2muJY/edit)\\n\\n",
+"description":"",
 "size":"",
 "label":"PurposePeople.app"
     },{
@@ -388,7 +388,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"**Problem Statement:** How do we bring **_coherence_** to decentralized networks of decentralized software services AND decentralized networks of decentralized social groups WITHOUT imposing any form of top-down coercive control in order to enable **_coherent_** and **_cooperative_** collective action at all scales -- from individual persons, families, and small social groups to commons, bioregions, and planetary organisms.\\n\\n**Proposed Solution**:  The project intends to deliver a **_Person-Centric Enterprise Architecture_** that addresses the above problem and an initial (very limited) **_proof-of-concept prototype_** of a platform that supports that architecture. The platform is referred to as the MAP (Memetic Activation Platform) -- an _open-ended_, _de-centralized_, _computing and application services platform. _\\n\\n**References to additional information:**\\n- An extensive, but still incomplete, gitbook describing the MAP is available here (<https://bit.ly/3GBEbAO>). \\n- A 3-part series of videos describing the vision and potential applications of the MAP was created in 2016 and is available on YouTube here: (<http://bit.ly/2bjCUyf>). \\n- Initial MAP Prototype work is being done in the [map-proto1](https://github.com/evomimic/map-proto1) github repo\\n- That repo includes wiki pages that define the scope and use case model for the proposed prototype (see [MAP Prototype 1 Use Case Model](https://github.com/evomimic/map-proto1/wiki/MAP-Prototype-Use-Case-Model))\\n\\n**Brief Solution Summary:**\\nThe MAP is built around a layered ontology:\\n- **_Layer 0_** (L0) is the most foundational layer and represents everything as  **_self-describing_**, **_active holons_** or **_holon relationships_**. Thus, at this level of abstraction, everything can be represented as _nodes_ and _links_ (i.e., as an information graph). L0 includes the concept of a _metaspace _which contains a set of **_type descriptors_** for _holons_, their _properties_, the _actions_ they offer and the _relationships_ they participate in.\\n- **Layer 1** (L1) is built on top of L0 and offers four very general, but powerful, structures and behaviors: **_agent_**, **_service_**, **_resource_** and **_meme_**. Stated simply, a_gents_ offer _services_ that support the flow and transformation of _resources_ to/from other agents for mutual benefit. The MAP's meme pool is a commons that provides shared and stewarded definitions of values, principles, governance models, standard information access agreements, and much, much more.\\n- **_Layer 2_** (L2) is the extensibility layer. It allows anyone to define their own ontology based on the abstractions defined in L0 and L1.\\n\\nAn _agent_ is anything capable of sensing and responding to its environment. Agents can be fractally composed into _agent holarchies_. Thus, an agent can be a software agent, a computing node, a person, a social group, an intentional community, a commons, an enterprise, a market, or even a planetary scale organism. Agents have **_memetic signatures_** that define the shared values and principles the agent exhibits, the governance models that agent uses for sense-making and choice-making, the principles they assert they are acting in alignment with, etc. For example, a pro-social group could include the [pro-social design principles](https://contextualscience.org/files/Prosocial%202%20day%20preconference%20workshop%20handout%20FINAL.pdf) (stewarded in the meme pool) as part of the memetic signature for their group. _Services_ also have memetic signatures that specify the BOTH the _reciprocal value flow_ offered by that service (e.g., a book service could offer a book in exchange for USD $10 or for free in exchange for \"good vibes\") AND the **_aspirational aspects_** of the service (e.g., the book is sourced from 100% renewable / recyclable materials, its supply chain is certified free-trade, the ratio of highest-to-lowest paid worker of anyone in the supply chain is <10:1, etc.). Agents seeking services can draw on their own memetic signature as a form of search filter to help them find services that are aligned with their values.\\n\\nBuilding on the L0/L1 foundations, the MAP (will eventually) also includes MAP _Holon Spaces_, _MAP I-Spaces_, _MAP We-Spaces_, _MAP Agreements_, _MAP Notification Center_ and the _Dynamic, Adaptive Holon Navigator_ (DAHN) for generating human-experiences of the MAP. DAHN is the most novel aspect of the architecture (and, therefore, most in need of proof-of-concept prototyping). \\n\\n**Who is the MAP for?**\\nUltimately, the MAP is intended to foster the emergence of a global civilizational shift that will **_benefit all life_**. But tactically, the MAP is aimed at supporting differentiated journeys for specific personas that collectively can accelerate this shift. This includes software developers, social architects, evolutionary thought leaders, social entrepreneurs, creative artists, designers, meme certifiers, and more.\\n",
+"description":"",
 "size":"",
 "label":"MAP -- Memetic Activation Platform Prototype"
     }
