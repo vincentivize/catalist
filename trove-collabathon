@@ -1,1 +1,53 @@
-žée
+{
+  "elements": [
+
+{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Element Type",
+"description":"Project Listings"
+},
+{
+        "id": "1675966469216x522864641152136700",
+"url":"https://airtable.com/shrnjbeQFhG5Gd5jm/tblRQnbKZ9Tphs1n2/viwus8kPDLa2cbBdU/recwpHoRRfEO9sxZ2",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":["Technical interoperability & data portability across social platforms","Social platform ethics and accountability (i.e. promoting prosocial principles)","Social interoperability"],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"The goal of this project is to put together a database of resources related to social platform interoperability, and a process by which it can stay up to date and useful to the CTA. Topics of information covered by library would include:\\n- Existing standards and protocols that support and enable interoperability\\n- Research, standards, protocols, tools and ideas related to sovereign identity, data portability, data schemas, linked data, decentralized technologies, etc.Â \\n- Research, protocols and practices around effective group collaboration, cooperation and coordination.Â \\n- Valuable data ontologies and taxonomies\\n- Existing social platforms in the space that we should be paying attention to (this could be connected to the Nutrition Label proposal)\\n\\nThis would likely start with an Airtable database as the main backend, though also work considering a wiki alongside that. \\n",
+"size":"",
+"label":"CTA Resource Library"
+    },{
+        "id": "1675966470746x243470661801313150",
+"url":"https://airtable.com/shrnjbeQFhG5Gd5jm/tblRQnbKZ9Tphs1n2/viwus8kPDLa2cbBdU/recJkh0y283F5C44n",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":["Platform coops and data commons","Technical interoperability & data portability across social platforms","Social interoperability"],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"Projects and people within the _CTA_ ecosystem lack a central place to _explore _other projects and people, and improve collaboration and coordination. Without a proper ecosystem map, projects will start up without knowing solutions already exist, and much t_ime and energy will be unnecessarily spent duplicating efforts. Energy and effort that could otherwise_ go toward creating impact. Although current directories like airtable exist, _keeping them up to date is challenging enough that it rarely happens_. _This information makes sense in limited contexts. Other contexts, like discovery, matchmaking, coordination and resource sharing need to be nurtured more actively and effectively_. _Alternative_ tools allow the same data to be presented to different audiences with their own specific use cases, which is why we plan to build this map in a way that is easily interoperable with other tools. Our confidence is based on our experience building a sync integration with Airtable and kumu.Â \\n",
+"size":"",
+"label":"Interoperable & Dynamic CTA Ecosystem Map"
+    },{
+        "id": "1675966471858x805836755201009300",
+"url":"https://airtable.com/shrnjbeQFhG5Gd5jm/tblRQnbKZ9Tphs1n2/viwus8kPDLa2cbBdU/rechH6D4tP33VxNgv",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":["Social platform ethics and accountability (i.e. promoting prosocial principles)","Social interoperability"],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"**Opportunity:** We have lots of brilliant beautiful ideas and an opportunity to make real progress together.\\n\\n**Risk:** We could inadvertently end up repeating deep-seated cultural patterns of competition, exclusion, and scarcity if we fail to weave ourselves and our efforts together.\\n\\n**Response:** Hold a series of dynamic facilitation sessions during the proposal discussion and consideration phase to aid in building group cohesion overall, to discover common purpose, and identify opportunities for synthesis between proposals and collaboration between teams.\\n",
+"size":"",
+"label":"Dynamic Facilitation for Synthesis of Proposals"
+    }
+],
+
+  "connections": [
+
+ ]
+}
