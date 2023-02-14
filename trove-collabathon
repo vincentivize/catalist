@@ -20,6 +20,12 @@
 "type":"Object Type",
 "description":"Project Listings"
 },{
+"label":"Person",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"id":"Person",
+"type":"Object Type",
+"description":""
+},{
 "label":"Collective Action & Collaboration",
 "image":"//s3.amazonaws.com/appforest_uf/f1664401517023x357155348635609860/collaboration.svg",
 "id":"1615672041912x871760549889363100",
@@ -54,7 +60,7 @@
 "sectors":["Collective Action & Collaboration","Ethics","Social & Governance"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56549",
 "size":"",
 "label":"CTA Resource Library"
     },{
@@ -67,7 +73,7 @@
 "sectors":["Collective Action & Collaboration","Cooperative Economics","Social & Governance"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/post/56844",
 "size":"",
 "label":"Interoperable & Dynamic CTA Ecosystem Map"
     },{
@@ -80,7 +86,7 @@
 "sectors":["Ethics","Social & Governance"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56670",
 "size":"",
 "label":"Dynamic Facilitation for Synthesis of Proposals"
     },{
@@ -106,7 +112,7 @@
 "sectors":["Social & Governance"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56787",
 "size":"",
 "label":"The Container"
     },{
@@ -119,7 +125,7 @@
 "sectors":["Collective Action & Collaboration","Ethics","Social & Governance","Cooperative Economics"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56556",
 "size":"",
 "label":"Integral Interoperability Framework"
     },{
@@ -132,7 +138,7 @@
 "sectors":["Collective Action & Collaboration","Social & Governance"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56678",
 "size":"",
 "label":"Ontological commoning to support collaboration"
     },{
@@ -158,7 +164,7 @@
 "sectors":["Collective Action & Collaboration","Ethics","Cooperative Economics","Social & Governance"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56650",
 "size":"",
 "label":"Baby Steps to Trust - SSO (and maybe Shared Profiles)"
     },{
@@ -184,7 +190,7 @@
 "sectors":["Collective Action & Collaboration"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56568",
 "size":"",
 "label":"Let's take back our social graph"
     },{
@@ -223,7 +229,7 @@
 "sectors":["Collective Action & Collaboration"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56590",
 "size":"",
 "label":"Developing Murmurations to support the import, export, synching and visualisation of public Profile data between platforms"
     },{
@@ -236,7 +242,7 @@
 "sectors":["Ethics"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56553",
 "size":"",
 "label":"CTA Nutrition Label"
     },{
@@ -249,7 +255,7 @@
 "sectors":["Collective Action & Collaboration","Cooperative Economics"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56643",
 "size":"",
 "label":"Hyperknowledge Concept identity broker"
     },{
@@ -262,7 +268,7 @@
 "sectors":["Ethics","Social & Governance"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56667",
 "size":"",
 "label":"Regen Collab License"
     },{
@@ -379,7 +385,7 @@
 "sectors":["Collective Action & Collaboration","Cooperative Economics","Social & Governance"],
 "locations":[],
 "types":[],
-"description":"",
+"description":"Discussion: https://www.hylo.com/groups/collaborative-technology-alliance/topics/proposal/post/56587",
 "size":"",
 "label":"The Missing Linking"
     },{
@@ -421,6 +427,344 @@
 "description":"",
 "size":"",
 "label":"MAP -- Memetic Activation Platform Prototype"
+    },{
+        "id": "1676412556659x536932129761355650",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412556659x536932129761355650&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Tibet Sprague"
+    },{
+        "id": "1676412557842x319287516611036500",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412557842x319287516611036500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Vincent Arena"
+    },{
+        "id": "1676412558989x339035392305669060",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412558989x339035392305669060&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Scott Vineberg"
+    },{
+        "id": "1676412560122x479566490702396700",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412560122x479566490702396700&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Johannes Ernst"
+    },{
+        "id": "1676412560928x995070781882629900",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412560928x995070781882629900&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Brad DeGraf"
+    },{
+        "id": "1676412562030x271106961884901120",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412562030x271106961884901120&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Michael Grossman"
+    },{
+        "id": "1676412563257x574457848701787700",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412563257x574457848701787700&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Laure Cast"
+    },{
+        "id": "1676412564376x982694403517507000",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412564376x982694403517507000&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Keala Young"
+    },{
+        "id": "1676412565119x674714955928532100",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412565119x674714955928532100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Joost Schouten"
+    },{
+        "id": "1676412566047x552827163634408640",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412566047x552827163634408640&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Jared Lucas"
+    },{
+        "id": "1676412566692x871351266676060200",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412566692x871351266676060200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Sam Schikowitz"
+    },{
+        "id": "1676412567563x247846861831221500",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412567563x247846861831221500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Day Waterbury"
+    },{
+        "id": "1676412568422x405450596066822850",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412568422x405450596066822850&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Adriana Ruiz"
+    },{
+        "id": "1676412569411x224555036830609300",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412569411x224555036830609300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Turquoise Sound"
+    },{
+        "id": "1676412570290x196713465053524930",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412570290x196713465053524930&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Jack Park"
+    },{
+        "id": "1676412571168x119251493471480110",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412571168x119251493471480110&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Stephen Vitka"
+    },{
+        "id": "1676412572065x505246525213778300",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412572065x505246525213778300&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Marc-Antoine Parent"
+    },{
+        "id": "1676412572969x317377539037968060",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412572969x317377539037968060&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Oliver Sylvester-Bradley"
+    },{
+        "id": "1676412574046x994799380798406500",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412574046x994799380798406500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Roberto Valenti"
+    },{
+        "id": "1676412574944x243299400631199500",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412574944x243299400631199500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Christopher Maujean"
+    },{
+        "id": "1676412575851x301457252466015740",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412575851x301457252466015740&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Andrea Harding"
+    },{
+        "id": "1676412576950x903319787904683500",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412576950x903319787904683500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Sybille Saint Girons"
+    },{
+        "id": "1676412577883x862385369065740500",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412577883x862385369065740500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Lynn Foster"
+    },{
+        "id": "1676412578733x414629944390108500",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412578733x414629944390108500&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Stephanie Rearick"
+    },{
+        "id": "1676412579725x694287808827422100",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412579725x694287808827422100&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Steve Melville"
+    },{
+        "id": "1676412580638x885990282613726200",
+"url":"",
+"object url":"https://www.catalist.network/trove/collabathon?object=1676412580638x885990282613726200&view=Net%20Map&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"tags":[],
+"sectors":[],
+"locations":[],
+"types":[],
+"description":"",
+"size":"",
+"label":"Tibor Katelbach"
     }
 ],
 
@@ -883,6 +1227,438 @@
 "type":"is willing to collaborate with",
 "description":"",
 "label":"Regen Collab License is willing to collaborate with CTA Nutrition Label"
+    }
+,{
+        "id": "1675971098523x910339266723711100",
+        "from": "1675966952247x150603958092119900",
+        "to": "1675966958392x620397946526033200",
+"strength":1,
+"type":"is willing to collaborate with",
+"description":"",
+"label":"Baby Steps to Trust - SSO (and maybe Shared Profiles) is willing to collaborate with GreenCheck - Three Friend Authentication"
+    }
+,{
+        "id": "1675971101532x726219717680271400",
+        "from": "1675966952247x150603958092119900",
+        "to": "1675966960462x532990349998583940",
+"strength":1,
+"type":"is willing to collaborate with",
+"description":"",
+"label":"Baby Steps to Trust - SSO (and maybe Shared Profiles) is willing to collaborate with Developing Murmurations to support the import, export, synching and visualisation of public Profile data between platforms"
+    }
+,{
+        "id": "1675971105890x778016009760320100",
+        "from": "1675966952247x150603958092119900",
+        "to": "1675966942476x765483157866915200",
+"strength":1,
+"type":"is willing to collaborate with",
+"description":"",
+"label":"Baby Steps to Trust - SSO (and maybe Shared Profiles) is willing to collaborate with Web Interoperability Networking Graph (WING)"
+    }
+,{
+        "id": "1675971107485x644274333731404000",
+        "from": "1675966952247x150603958092119900",
+        "to": "1675966962837x352204330967184060",
+"strength":1,
+"type":"is willing to collaborate with",
+"description":"",
+"label":"Baby Steps to Trust - SSO (and maybe Shared Profiles) is willing to collaborate with Hyperknowledge Concept identity broker"
+    }
+,{
+        "id": "1675971110469x972595628963994500",
+        "from": "1675966952247x150603958092119900",
+        "to": "1675966956369x993236087731519000",
+"strength":1,
+"type":"is willing to collaborate with",
+"description":"",
+"label":"Baby Steps to Trust - SSO (and maybe Shared Profiles) is willing to collaborate with Let's take back our social graph"
+    }
+,{
+        "id": "1675971114946x327172409634004300",
+        "from": "1675966962837x352204330967184060",
+        "to": "1675966982409x888585584628265300",
+"strength":1,
+"type":"is willing to collaborate with",
+"description":"",
+"label":"Hyperknowledge Concept identity broker is willing to collaborate with MAP -- Memetic Activation Platform Prototype"
+    }
+,{
+        "id": "1675971117995x580731218015599200",
+        "from": "1675966962837x352204330967184060",
+        "to": "1675966948319x644631301892677000",
+"strength":1,
+"type":"is willing to collaborate with",
+"description":"",
+"label":"Hyperknowledge Concept identity broker is willing to collaborate with Ontological commoning to support collaboration"
+    }
+,{
+        "id": "1676122100537x501768917941747700",
+        "from": "1675966982409x888585584628265300",
+        "to": "1675966972163x302657497526890300",
+"strength":1,
+"type":"interested in collaborating with",
+"description":"",
+"label":"MAP -- Memetic Activation Platform Prototype interested in collaborating with Portable Communities Protocol -WITHDRAWN FROM CONSIDERATION"
+    }
+,{
+        "id": "1676122322216x496651916801998850",
+        "from": "1675966982409x888585584628265300",
+        "to": "1675966964122x291299980357000440",
+"strength":1,
+"type":"willing to collaborate with",
+"description":"",
+"label":"MAP -- Memetic Activation Platform Prototype willing to collaborate with Regen Collab License"
+    }
+,{
+        "id": "1676413032680x139235814957374910",
+        "from": "1676412556659x536932129761355650",
+        "to": "1675966469216x522864641152136700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Tibet Sprague is related to CTA Resource Library"
+    }
+,{
+        "id": "1676413035373x182857526647088640",
+        "from": "1676412557842x319287516611036500",
+        "to": "1675966470746x243470661801313150",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Vincent Arena is related to Interoperable & Dynamic CTA Ecosystem Map"
+    }
+,{
+        "id": "1676413035395x909641398897696100",
+        "from": "1676412556659x536932129761355650",
+        "to": "1675966961485x821808386818275100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Tibet Sprague is related to CTA Nutrition Label"
+    }
+,{
+        "id": "1676413038452x766789192811032600",
+        "from": "1676412556659x536932129761355650",
+        "to": "1675966952247x150603958092119900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Tibet Sprague is related to Baby Steps to Trust - SSO (and maybe Shared Profiles)"
+    }
+,{
+        "id": "1676413038546x746575136219590000",
+        "from": "1676412558989x339035392305669060",
+        "to": "1675966980699x642539333689486500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Scott Vineberg is related to PurposePeople.app"
+    }
+,{
+        "id": "1676413041940x923503782002989800",
+        "from": "1676412560122x479566490702396700",
+        "to": "1675966956369x993236087731519000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Johannes Ernst is related to Let's take back our social graph"
+    }
+,{
+        "id": "1676413044036x830502401096699000",
+        "from": "1676412560122x479566490702396700",
+        "to": "1675966957278x709464915873887200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Johannes Ernst is related to Let's take back our social graph"
+    }
+,{
+        "id": "1676413044112x962621592773123600",
+        "from": "1676412560928x995070781882629900",
+        "to": "1675966972163x302657497526890300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Brad DeGraf is related to Portable Communities Protocol -WITHDRAWN FROM CONSIDERATION"
+    }
+,{
+        "id": "1676413047048x355294242352365060",
+        "from": "1676412560928x995070781882629900",
+        "to": "1675966958392x620397946526033200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Brad DeGraf is related to GreenCheck - Three Friend Authentication"
+    }
+,{
+        "id": "1676413047395x178000844881349700",
+        "from": "1676412562030x271106961884901120",
+        "to": "1675966952247x150603958092119900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Michael Grossman is related to Baby Steps to Trust - SSO (and maybe Shared Profiles)"
+    }
+,{
+        "id": "1676413050312x123802824379492200",
+        "from": "1676412562030x271106961884901120",
+        "to": "1675966964122x291299980357000440",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Michael Grossman is related to Regen Collab License"
+    }
+,{
+        "id": "1676413051080x284259112140852200",
+        "from": "1676412563257x574457848701787700",
+        "to": "1675966973018x401158430258867800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Laure Cast is related to Collaboration + Inclusion "
+    }
+,{
+        "id": "1676413052904x687892079320565900",
+        "from": "1676412564376x982694403517507000",
+        "to": "1675966952247x150603958092119900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Keala Young is related to Baby Steps to Trust - SSO (and maybe Shared Profiles)"
+    }
+,{
+        "id": "1676413054135x325514006785673200",
+        "from": "1676412563257x574457848701787700",
+        "to": "1675966976343x741428982535525400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Laure Cast is related to Fractals"
+    }
+,{
+        "id": "1676413055757x612428345402878100",
+        "from": "1676412564376x982694403517507000",
+        "to": "1675966979806x529901541751357060",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Keala Young is related to Prosocial Working Group supports Synthesis Proposal shaping and Decision Making"
+    }
+,{
+        "id": "1676413056790x111128647114646880",
+        "from": "1676412565119x674714955928532100",
+        "to": "1675966965151x993146754611655700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Joost Schouten is related to Nestr.io integration - bringing self-organisation practices to communities"
+    }
+,{
+        "id": "1676413058847x184763535191408320",
+        "from": "1676412566047x552827163634408640",
+        "to": "1675966943878x167257055640603460",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Jared Lucas is related to The Container"
+    }
+,{
+        "id": "1676413059356x293870209985787040",
+        "from": "1676412565119x674714955928532100",
+        "to": "1675966952247x150603958092119900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Joost Schouten is related to Baby Steps to Trust - SSO (and maybe Shared Profiles)"
+    }
+,{
+        "id": "1676413062387x815622043665186400",
+        "from": "1676412565119x674714955928532100",
+        "to": "1675966964122x291299980357000440",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Joost Schouten is related to Regen Collab License"
+    }
+,{
+        "id": "1676413063197x373804204910423740",
+        "from": "1676412566692x871351266676060200",
+        "to": "1675966952247x150603958092119900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Sam Schikowitz is related to Baby Steps to Trust - SSO (and maybe Shared Profiles)"
+    }
+,{
+        "id": "1676413064750x229958797754748160",
+        "from": "1676412567563x247846861831221500",
+        "to": "1675966952247x150603958092119900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Day Waterbury is related to Baby Steps to Trust - SSO (and maybe Shared Profiles)"
+    }
+,{
+        "id": "1676413067772x982204969392856000",
+        "from": "1676412567563x247846861831221500",
+        "to": "1675966471858x805836755201009300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Day Waterbury is related to Dynamic Facilitation for Synthesis of Proposals"
+    }
+,{
+        "id": "1676413069327x222952093464818800",
+        "from": "1676412568422x405450596066822850",
+        "to": "1675966469216x522864641152136700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Adriana Ruiz is related to CTA Resource Library"
+    }
+,{
+        "id": "1676413070853x267750843509696260",
+        "from": "1676412569411x224555036830609300",
+        "to": "1675966943878x167257055640603460",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Turquoise Sound is related to The Container"
+    }
+,{
+        "id": "1676413071505x756717700061380100",
+        "from": "1676412567563x247846861831221500",
+        "to": "1675966964122x291299980357000440",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Day Waterbury is related to Regen Collab License"
+    }
+,{
+        "id": "1676413073733x980600495196876300",
+        "from": "1676412570290x196713465053524930",
+        "to": "1675966962837x352204330967184060",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Jack Park is related to Hyperknowledge Concept identity broker"
+    }
+,{
+        "id": "1676413076822x987809238247000700",
+        "from": "1676412571168x119251493471480110",
+        "to": "1675966959388x510852672860038900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Stephen Vitka is related to CC- Communication Credits (or Contact, Consent or Content)"
+    }
+,{
+        "id": "1676413079987x711359424429080600",
+        "from": "1676412572065x505246525213778300",
+        "to": "1675966962837x352204330967184060",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Marc-Antoine Parent is related to Hyperknowledge Concept identity broker"
+    }
+,{
+        "id": "1676413082795x544851437801866500",
+        "from": "1676412572969x317377539037968060",
+        "to": "1675966960462x532990349998583940",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Oliver Sylvester-Bradley is related to Developing Murmurations to support the import, export, synching and visualisation of public Profile data between platforms"
+    }
+,{
+        "id": "1676413085754x103580268190977000",
+        "from": "1676412574046x994799380798406500",
+        "to": "1675966952247x150603958092119900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Roberto Valenti is related to Baby Steps to Trust - SSO (and maybe Shared Profiles)"
+    }
+,{
+        "id": "1676413088773x465913339233718900",
+        "from": "1676412574944x243299400631199500",
+        "to": "1675966952247x150603958092119900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Christopher Maujean is related to Baby Steps to Trust - SSO (and maybe Shared Profiles)"
+    }
+,{
+        "id": "1676413088844x926449798040649000",
+        "from": "1676412574046x994799380798406500",
+        "to": "1675966948319x644631301892677000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Roberto Valenti is related to Ontological commoning to support collaboration"
+    }
+,{
+        "id": "1676413091755x950476252982880800",
+        "from": "1676412574046x994799380798406500",
+        "to": "1675966950593x755718326762393100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Roberto Valenti is related to holons.io"
+    }
+,{
+        "id": "1676413091813x122204493341905740",
+        "from": "1676412575851x301457252466015740",
+        "to": "1675966947124x752969814144834900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Andrea Harding is related to Integral Interoperability Framework"
+    }
+,{
+        "id": "1676413094744x433057407316054460",
+        "from": "1676412576950x903319787904683500",
+        "to": "1675966978908x348464391458502840",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Sybille Saint Girons is related to The Missing Linking"
+    }
+,{
+        "id": "1676413097753x493893556858411300",
+        "from": "1676412577883x862385369065740500",
+        "to": "1675966978908x348464391458502840",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Lynn Foster is related to The Missing Linking"
+    }
+,{
+        "id": "1676413100706x980668009426710800",
+        "from": "1676412578733x414629944390108500",
+        "to": "1675966978908x348464391458502840",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Stephanie Rearick is related to The Missing Linking"
+    }
+,{
+        "id": "1676413103850x413797494547878400",
+        "from": "1676412579725x694287808827422100",
+        "to": "1675966982409x888585584628265300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Steve Melville is related to MAP -- Memetic Activation Platform Prototype"
+    }
+,{
+        "id": "1676413106769x757195476362859700",
+        "from": "1676412580638x885990282613726200",
+        "to": "1675966978908x348464391458502840",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Tibor Katelbach is related to The Missing Linking"
     }
 
  ]
