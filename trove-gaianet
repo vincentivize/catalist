@@ -98,95 +98,11 @@
 "type":"Sector",
 "color":""
 },{
-"label":"Economics",
-"image":"//s3.amazonaws.com/appforest_uf/f1668709969745x987090592873926000/regen_black.svg",
-"id":"1647152447125x343484851979146500",
-"type":"Sector",
-"color":""
-},{
 "label":"Health & Wellness",
 "image":"//s3.amazonaws.com/appforest_uf/f1675926462849x516803832127858960/Medical-Cross.png",
 "id":"1675926463407x512936641285764350",
 "type":"Sector",
 "color":""
-},{
-"label":"Science",
-"image":"//s3.amazonaws.com/appforest_uf/f1675926434071x175078224005751360/Beaker.png",
-"id":"1647152514608x403814582090233660",
-"type":"Sector",
-"color":""
-},{
-"label":"Environment",
-"image":"//s3.amazonaws.com/appforest_uf/f1675926421156x126545956823952640/steward_black.svg",
-"id":"1647152508480x327475035801030340",
-"type":"Sector",
-"color":""
-},{
-"label":"Infrastructure",
-"image":"//s3.amazonaws.com/appforest_uf/f1675926426188x158381821525054980/idea_black.svg",
-"id":"1647152511060x835582580126596900",
-"type":"Sector",
-"color":""
-},{
-"label":"Relations",
-"image":"//s3.amazonaws.com/appforest_uf/f1675926432583x966696850663809200/date_hires.png",
-"id":"1647152513785x469083540417545300",
-"type":"Sector",
-"color":""
-},{
-"label":"Justice",
-"image":"//s3.amazonaws.com/appforest_uf/f1675926427831x335817505440658500/policy_black.svg",
-"id":"1647152511849x535210081301751500",
-"type":"Sector",
-"color":""
-},{
-"label":"Health & Wellbeing",
-"image":"",
-"id":"1661379812685x742902455584633300",
-"type":"Sector",
-"color":""
-},{
-"label":"Media",
-"image":"//s3.amazonaws.com/appforest_uf/f1675926431007x741019722495426000/music_black.svg",
-"id":"1647152512587x785904612136461000",
-"type":"Sector",
-"color":""
-},{
-"label":"Education",
-"image":"//s3.amazonaws.com/appforest_uf/f1675926419156x985326969479833500/book.svg",
-"id":"1647152507702x258699691876447040",
-"type":"Sector",
-"color":""
-},{
-"label":"Climate Environment & Resiliency",
-"image":"//s3.amazonaws.com/appforest_uf/f1664401976771x562181693596174100/cloud-sun-rain.svg",
-"id":"1615672041915x633556507161936900",
-"type":"Sector",
-"color":"#A3CE56"
-},{
-"label":"Networks & Connectivity",
-"image":"//s3.amazonaws.com/appforest_uf/f1664401751666x943942254335390300/network.svg",
-"id":"1647152369160x904097516871193700",
-"type":"Sector",
-"color":"#FFC04A"
-},{
-"label":"Regenerative Economy & Systems",
-"image":"//s3.amazonaws.com/appforest_uf/f1664401505971x870780392287663600/regen_black.svg",
-"id":"1615672041902x625853127508537100",
-"type":"Sector",
-"color":"#77C98D"
-},{
-"label":"Regenerative Ecosystems",
-"image":"//s3.amazonaws.com/appforest_uf/f1664401698889x520453535243311500/regenerative-ecosystems.png",
-"id":"1647540087109x125153074792830220",
-"type":"Sector",
-"color":""
-},{
-"label":"Software Internet & Automation",
-"image":"//s3.amazonaws.com/appforest_uf/f1664401552561x240469734088797800/code_black.svg",
-"id":"1617932270744x581573144551531800",
-"type":"Sector",
-"color":"#848384"
 },{
 "label":"Global",
 "image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
@@ -1035,7 +951,7 @@
 "image":"https://www.sharebay.org/i/crowds.jpg",
 "type":"Project",
 "tags":[],
-"sectors":["Economics"],
+"sectors":["Resource Sharing Economics & Trade"],
 "locations":[],
 "types":[],
 "description":"We are a community of thousands of people sharing free goods and services",
@@ -2195,7 +2111,7 @@
 "sectors":["Housing Infrastructure & Transport"],
 "locations":[],
 "types":[],
-"description":"Architecture projects	\\n",
+"description":"Architecture projects\\n",
 "size":"",
 "label":"Super Moradas"
     },{
@@ -3037,7 +2953,7 @@
 "image":"https://higherstatusglobal.com/images/blank.gif?crc=4208392903",
 "type":"Project",
 "tags":[],
-"sectors":["Science"],
+"sectors":[],
 "locations":[],
 "types":[],
 "description":"Higher Status Global is a global management company providing trading analysis, data management, consulting, teaching, coaching and digital services to clients internationally.\\n\\nWe are working on bridging advances in technology with sustainable solutions to generate funding and direct resources into supporting regenerative projects that assist in the beneficial transformation of our environment.\\n\\nWe are a Free Zone Establishment Company based in the UAE.\\n",
@@ -3479,7 +3395,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1664290230398x616305403700528400/logo-dark.svg",
 "type":"Project",
 "tags":[],
-"sectors":["Environment","Infrastructure","Relations","Justice","Economics"],
+"sectors":[],
 "locations":[],
 "types":[],
 "description":"Oasa is a community. It is owned and operated by and for nomads, entrepreneurs and artists who want to regenerate the planet.\\n\\nWhat makes Oasa different?\\nBecause we put humans & planet first, we have re-imagined how living spaces can be operated and focus on gross happiness and positive impact rather than on occupancy and ROI.\\n",
@@ -3661,7 +3577,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1664290257222x194934887513670500/PLAN_Logo_600px.png",
 "type":"Project",
 "tags":[],
-"sectors":["Science"],
+"sectors":[],
 "locations":[],
 "types":[],
 "description":"PLAN is a Web 3.0 platform being developed for integrated communications, spatial collaboration, and community-centric data ownership. \\n",
@@ -3700,7 +3616,7 @@
 "image":"https://auravana.org/wp-content/uploads/2020/03/auravana-Emblem-Unified-Information-Field-07-CC0-P0.jpg",
 "type":"Project",
 "tags":[],
-"sectors":["Relations","Justice"],
+"sectors":[],
 "locations":[],
 "types":[],
 "description":"Project Auravana is currently developing the most advanced standard currently known on how to conceive of and operate community at the planetary societal scale. Learn the fundamentals of a society that operates without money, States, or socio-economic class division; and therefrom, contribute to its emergence on our planet.\\n\\nThe Project explains the conception and operation of community at the planetary scale. \\nThe Project demonstrates the feasibility of a society that operates without markets or States.\\nThe Project is building a community-type societal standard for humanity.\\n",
@@ -3739,7 +3655,7 @@
 "image":"https://static.wixstatic.com/media/a3171d_ef866e5afa984d9fb4152bd87ec0ad23~mv2.jpg/v1/fill/w_1300,h_867,al_c/a3171d_ef866e5afa984d9fb4152bd87ec0ad23~mv2.jpg",
 "type":"Project",
 "tags":[],
-"sectors":["Health & Wellbeing","Justice Sovereignty & Governance","Science Technology & Energy"],
+"sectors":[],
 "locations":[],
 "types":[],
 "description":"**Prosocial World developed the first change method based on evolutionary science that enhances cooperation & collaboration for groups of all types & sizes and is effective at a global scale.**\\n",
@@ -3765,7 +3681,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1664290270030x394908342526631740/resource.png",
 "type":"Project",
 "tags":[],
-"sectors":["Infrastructure","Environment","Media"],
+"sectors":[],
 "locations":["Portugal"],
 "types":[],
 "description":"**Re:Source **co-creates regenerative and resilient living spaces.\\nBy providing the tools for humans and nature to **thrive**.\\n",
@@ -3872,7 +3788,7 @@
 "sectors":[],
 "locations":[],
 "types":[],
-"description":"Robert is a cross pollinator between many projects, zooming in	 and out\\n",
+"description":"Robert is a cross pollinator between many projects, zooming in	 and out",
 "size":"",
 "label":"Robert Schram"
     },{
@@ -3973,7 +3889,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1664290294330x887092000078876400/symphonicslogo2_mono%20copy.webp",
 "type":"Project",
 "tags":[],
-"sectors":["Education","Relations"],
+"sectors":[],
 "locations":[],
 "types":[],
 "description":"Symphonics are leading edge co-creation specialists, providing planetary-scale innovations to support the quantum leap out of competitive silos into a unitive ecosystem of expansion and superabundance!\\n\\nSymphonics has been working with partners all over the world for over eight years to develop a new ecosystem design science for co-creative organisation called 'Organomics'. Organomics reimagines planet earth as a 'superorganism' or 'UFO' (United Fractal Organism) and humans, groups, organisations and communities as its cells, tissues and organs. Using 'Social DNA', the UFO facilitates co-creators to come together as one healthy body to support humanity’s evolution into a universally thriving experience.\\n",
@@ -4571,7 +4487,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
 "tags":[],
-"sectors":["Relations"],
+"sectors":[],
 "locations":[],
 "types":[],
 "description":"We are guided by a Greater Purpose We CoCreate Bridges and Comprehensive Connections Generating a Conscious Global Community.\\n",
@@ -4974,7 +4890,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
 "tags":[],
-"sectors":["Justice"],
+"sectors":[],
 "locations":[],
 "types":[],
 "description":"DAOstack is an open source project advancing the technology and adoption of decentralized governance.\\n",
@@ -5156,7 +5072,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1676423290021x586575417287231700/AARDEHUIS_LOGO_header-ab88f44a%20%281%29.webp",
 "type":"Project",
 "tags":[],
-"sectors":[],
+"sectors":["Housing Infrastructure & Transport"],
 "locations":["Netherlands"],
 "types":[],
 "description":"Building, working and living in harmony with nature, in connection with each other and to inspire the world.\\nAn ecological neighborhood of self-sufficient earth houses in which all aspects of sustainability are in mutual relationship in balance.\\n\\n",
@@ -5260,7 +5176,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1676423374125x907743061848320900/mahara-logo-klein-donker.png",
 "type":"Project",
 "tags":[],
-"sectors":["Health & Wellness","Indigenous & Ancient Wisdom","Spirituality Personal Development & Consciousness","Relations Peacebuilding & Community","Resource Sharing Economics & Trade"],
+"sectors":["Indigenous & Ancient Wisdom","Spirituality Personal Development & Consciousness","Relations Peacebuilding & Community","Resource Sharing Economics & Trade"],
 "locations":["Netherlands"],
 "types":[],
 "description":"We are an **urban temple** facilitating humanity in their **awakening**. This community is a **safe haven** for all. Here is where the **ancient future** for our society can be birthed.\\n",
@@ -5299,7 +5215,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1661374781218x215762472439905000/Screen%20Shot%202022-08-03%20at%2011.59.04%20AM.png",
 "type":"Project",
 "tags":[],
-"sectors":["Climate Environment & Resiliency","Networks & Connectivity","Regenerative Economy & Systems","Regenerative Ecosystems","Software Internet & Automation"],
+"sectors":["Media & Communication"],
 "locations":[],
 "types":["Event"],
 "description":"Join us for the second annual Mapathon, a virtual gathering with opportunities for interactive demonstrations of maps, discussing and developing interoperability of data across maps, and showcasing mapping projects.",
