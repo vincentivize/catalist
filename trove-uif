@@ -2678,6 +2678,1023 @@
 ],
 
   "connections": [
+{
+        "id": "1678471462041x264058561545363000",
+        "from": "1677614657206x710271849402471300",
+        "to": "1677800339636x271446464975356960",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Mahmoud Khedr is related to Healthy Minds, Healthy Movements"
+    }
+,{
+        "id": "1678471464952x861628922128107500",
+        "from": "1677631286898x231745015701702460",
+        "to": "1677800341681x590149748610082400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Vincent Arena is related to Catalyizing Community"
+    }
+,{
+        "id": "1678471466867x373579341952468200",
+        "from": "1677800140381x626899799643501000",
+        "to": "1677800121694x533720471662720400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Making a Name for Yourself 1 is related to Afternoon Block 1 (Friday)"
+    }
+,{
+        "id": "1678471469932x973883659030679200",
+        "from": "1677800141263x416484131408221700",
+        "to": "1677800121694x533720471662720400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Embodied Leadership 1 is related to Afternoon Block 1 (Friday)"
+    }
+,{
+        "id": "1678471474063x517948429240804100",
+        "from": "1677800142201x798027556550655600",
+        "to": "1677800121694x533720471662720400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Catalyzing Community 1 is related to Afternoon Block 1 (Friday)"
+    }
+,{
+        "id": "1678471476990x575359159267754940",
+        "from": "1677800143240x787558012911804500",
+        "to": "1677800121694x533720471662720400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Emerging Tech 1 is related to Afternoon Block 1 (Friday)"
+    }
+,{
+        "id": "1678471479278x648475710327139100",
+        "from": "1677800144208x831842517229976300",
+        "to": "1677800121694x533720471662720400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Extreme Design 1 is related to Afternoon Block 1 (Friday)"
+    }
+,{
+        "id": "1678471482490x361038159455633800",
+        "from": "1677800145081x872386566499814500",
+        "to": "1677800121694x533720471662720400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Building Belonging 1 is related to Afternoon Block 1 (Friday)"
+    }
+,{
+        "id": "1678471484576x674682231155749900",
+        "from": "1677800145782x482887847601021900",
+        "to": "1677800121694x533720471662720400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Leading like a Futurist  1 is related to Afternoon Block 1 (Friday)"
+    }
+,{
+        "id": "1678471487578x325420291172699970",
+        "from": "1677800146624x946109460380320400",
+        "to": "1677800121694x533720471662720400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"You Need a Manifesto 1 is related to Afternoon Block 1 (Friday)"
+    }
+,{
+        "id": "1678471490553x136720760103712370",
+        "from": "1677800147491x187677605118696580",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Embodied Leadership 2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471494270x324068050539605000",
+        "from": "1677800148491x267671328540728160",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Making a Name for Yourself 2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471496767x325591643788991170",
+        "from": "1677800149834x609750872750066400",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Design Futures 2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471499541x920392119829816600",
+        "from": "1677800150697x476019464497971400",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"You Need a Manifesto 2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471502475x501323473979129500",
+        "from": "1677800151549x861717510354367200",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Building Belonging 2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471506401x823806878711093200",
+        "from": "1677800152377x810454582497081700",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Catalyzing Community 2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471508587x880709357447923500",
+        "from": "1677800153178x454420394731182000",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Leading like a Futurist  2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471511727x290755080632793200",
+        "from": "1677800153862x910528961200328400",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Extreme Design 2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471514819x720673249669680800",
+        "from": "1677800338069x897120310450138900",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Co-creation is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471517934x759718291596397200",
+        "from": "1677800338908x598692782178527500",
+        "to": "1677800122652x576053811965171500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Creative Confidence 2 is related to Afternoon Block 2 (Friday)"
+    }
+,{
+        "id": "1678471521693x204776866503356260",
+        "from": "1677800339636x271446464975356960",
+        "to": "1677802570639x948426041961730300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Healthy Minds, Healthy Movements is related to Healthy Minds, Healthy Movements 1"
+    }
+,{
+        "id": "1678471523616x248354619641399260",
+        "from": "1677800340254x305072732125668560",
+        "to": "1677800140381x626899799643501000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Make a Name for Yourself is related to Making a Name for Yourself 1"
+    }
+,{
+        "id": "1678471524484x526366985173947650",
+        "from": "1677800339636x271446464975356960",
+        "to": "1677802575213x442017259258119300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Healthy Minds, Healthy Movements is related to Healthy Minds, Healthy Movements 2"
+    }
+,{
+        "id": "1678471526661x364184957270877300",
+        "from": "1677800340254x305072732125668560",
+        "to": "1677800148491x267671328540728160",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Make a Name for Yourself is related to Making a Name for Yourself 2"
+    }
+,{
+        "id": "1678471527153x388439304511418750",
+        "from": "1677800341067x117269594827542180",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Empathy Gym is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471530653x836713361990062200",
+        "from": "1677800341681x590149748610082400",
+        "to": "1677800142201x798027556550655600",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Catalyizing Community is related to Catalyzing Community 1"
+    }
+,{
+        "id": "1678471532861x476956226739188200",
+        "from": "1677800341681x590149748610082400",
+        "to": "1677800152377x810454582497081700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Catalyizing Community is related to Catalyzing Community 2"
+    }
+,{
+        "id": "1678471532890x497867952905067300",
+        "from": "1677800342303x324473949361861570",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Ageless Learning  is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471535821x894684072130999200",
+        "from": "1677800343138x412935749747842560",
+        "to": "1677800145782x482887847601021900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Leading like a Futurist  is related to Leading like a Futurist  1"
+    }
+,{
+        "id": "1678471538779x716408194055193000",
+        "from": "1677800343138x412935749747842560",
+        "to": "1677800153178x454420394731182000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Leading like a Futurist  is related to Leading like a Futurist  2"
+    }
+,{
+        "id": "1678471539099x918863431135880600",
+        "from": "1677800343805x956280572469807700",
+        "to": "1677802572254x913306654097426800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Negotiation by Design is related to Negotiation by Design 1"
+    }
+,{
+        "id": "1678471541549x391777611774428300",
+        "from": "1677800343805x956280572469807700",
+        "to": "1677802579573x613780105557215200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Negotiation by Design is related to Negotiation by Design 2"
+    }
+,{
+        "id": "1678471541784x611427012798004600",
+        "from": "1677800344504x128964789032906640",
+        "to": "1677802560301x187138812931669340",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Navigating Ambiguity is related to Navigating Ambiguity"
+    }
+,{
+        "id": "1678471545417x903174079028147500",
+        "from": "1677800345199x483882075672105600",
+        "to": "1677802568282x590655980097328100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Creative Hustle is related to Creative Hustle 1"
+    }
+,{
+        "id": "1678471547891x497589630079293700",
+        "from": "1677800346113x258912034101641540",
+        "to": "1677800149834x609750872750066400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Design Futures is related to Design Futures 2"
+    }
+,{
+        "id": "1678471548016x813715042492170000",
+        "from": "1677800345199x483882075672105600",
+        "to": "1677802577160x645301931920331000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Creative Hustle is related to Creative Hustle 2"
+    }
+,{
+        "id": "1678471551020x182925416997964600",
+        "from": "1677800346709x580515687610945400",
+        "to": "1677802565875x887929875293914400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Ritual Design is related to Ritual Design"
+    }
+,{
+        "id": "1678471551239x239715814774357660",
+        "from": "1677800345199x483882075672105600",
+        "to": "1677802561820x686275545470272300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Creative Hustle is related to Creative Hustle M"
+    }
+,{
+        "id": "1678471553621x382621114921410960",
+        "from": "1677800347567x793741830539535200",
+        "to": "1677802569763x733679003460571100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Faculty Bridge is related to Faculty Bridge 1"
+    }
+,{
+        "id": "1678471556560x597757873857429000",
+        "from": "1677800347567x793741830539535200",
+        "to": "1677802574398x316496350729941000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Faculty Bridge is related to Faculty Bridge 2"
+    }
+,{
+        "id": "1678471556715x564388470602853440",
+        "from": "1677800348296x749421637157873300",
+        "to": "1677800144208x831842517229976300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Extreme Design is related to Extreme Design 1"
+    }
+,{
+        "id": "1678471559773x250237021722125920",
+        "from": "1677800348296x749421637157873300",
+        "to": "1677800153862x910528961200328400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Extreme Design is related to Extreme Design 2"
+    }
+,{
+        "id": "1678471559803x144681358186400400",
+        "from": "1677800349275x271953489979931400",
+        "to": "1677800151549x861717510354367200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Building Belonging is related to Building Belonging 2"
+    }
+,{
+        "id": "1678471562509x109133607332224880",
+        "from": "1677800349275x271953489979931400",
+        "to": "1677800145081x872386566499814500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Building Belonging is related to Building Belonging 1"
+    }
+,{
+        "id": "1678471562600x840924563675936600",
+        "from": "1677800349951x381545045287613250",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"How to Give and Get 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471565574x872848920308916000",
+        "from": "1677800350674x624394855725271200",
+        "to": "1677802568925x553097257112807700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Design Football Club: Your Story is related to Design Football Club: Your Story 1"
+    }
+,{
+        "id": "1678471568507x128840550138122460",
+        "from": "1677800350674x624394855725271200",
+        "to": "1677802578107x327832380895604900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Design Football Club: Your Story is related to Design Football Club: Your Story 2"
+    }
+,{
+        "id": "1678471568603x911631399295078700",
+        "from": "1677800351591x418914243998400600",
+        "to": "1677802567599x293431269478781080",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Career Lab is related to Career Lab 1"
+    }
+,{
+        "id": "1678471571540x988799369559787000",
+        "from": "1677800351591x418914243998400600",
+        "to": "1677802578932x696303685211282000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Career Lab is related to Career Lab 2"
+    }
+,{
+        "id": "1678471571732x552771296406215230",
+        "from": "1677800352472x978944762310927700",
+        "to": "1677800141263x416484131408221700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Embodied Leadership is related to Embodied Leadership 1"
+    }
+,{
+        "id": "1678471574349x259735595377554000",
+        "from": "1677800353367x679473132554884400",
+        "to": "1677802563646x250803555802725500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Responsible Futuring is related to Responsible Futuring"
+    }
+,{
+        "id": "1678471574662x777202624218664300",
+        "from": "1677800352472x978944762310927700",
+        "to": "1677800147491x187677605118696580",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Embodied Leadership is related to Embodied Leadership 2"
+    }
+,{
+        "id": "1678471577634x148403233316684700",
+        "from": "1677800354162x747012612802508000",
+        "to": "1677800146624x946109460380320400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"You Need a Manifesto is related to You Need a Manifesto 1"
+    }
+,{
+        "id": "1678471580475x200025091934158400",
+        "from": "1677800354162x747012612802508000",
+        "to": "1677800150697x476019464497971400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"You Need a Manifesto is related to You Need a Manifesto 2"
+    }
+,{
+        "id": "1678471580644x839303933058122000",
+        "from": "1677800354907x247782710802033640",
+        "to": "1677802572924x494072118223921860",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Life after UIF is related to Life after UIF 1"
+    }
+,{
+        "id": "1678471583495x774278192067988600",
+        "from": "1677800354907x247782710802033640",
+        "to": "1677802576184x707483145030743900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Life after UIF is related to Life after UIF 2"
+    }
+,{
+        "id": "1678471583852x453226679863106370",
+        "from": "1677802560301x187138812931669340",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Navigating Ambiguity is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471586555x643507719143653500",
+        "from": "1677802561117x154025136061703100",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Futures is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471589689x470846152280888900",
+        "from": "1677802561820x686275545470272300",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Creative Hustle M is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471592725x642294486845932800",
+        "from": "1677802562667x543052527399165600",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Co-creation M is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471595812x691827650116447400",
+        "from": "1677802563646x250803555802725500",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Responsible Futuring is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471598768x216715719857549340",
+        "from": "1677802564313x649893487610840700",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Recover and Reflect is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471601758x258336564970119040",
+        "from": "1677802565875x887929875293914400",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Ritual Design is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471604812x644280573162349800",
+        "from": "1677802566837x782915118667751200",
+        "to": "1677802525479x494709346701358800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Empathy Gym M is related to Morning Block (Saturday)"
+    }
+,{
+        "id": "1678471607763x737673999733390200",
+        "from": "1677802567599x293431269478781080",
+        "to": "1677802526152x956139487869826400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Career Lab 1 is related to Afternoon Block 1 (Saturday)"
+    }
+,{
+        "id": "1678471610883x628180447367545600",
+        "from": "1677802568282x590655980097328100",
+        "to": "1677802526152x956139487869826400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Creative Hustle 1 is related to Afternoon Block 1 (Saturday)"
+    }
+,{
+        "id": "1678471614866x565869903698536640",
+        "from": "1677802568925x553097257112807700",
+        "to": "1677802526152x956139487869826400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Design Football Club: Your Story 1 is related to Afternoon Block 1 (Saturday)"
+    }
+,{
+        "id": "1678471616775x533818383081434940",
+        "from": "1677802569763x733679003460571100",
+        "to": "1677802526152x956139487869826400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Faculty Bridge 1 is related to Afternoon Block 1 (Saturday)"
+    }
+,{
+        "id": "1678471620071x819672329190286700",
+        "from": "1677802570639x948426041961730300",
+        "to": "1677802526152x956139487869826400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Healthy Minds, Healthy Movements 1 is related to Afternoon Block 1 (Saturday)"
+    }
+,{
+        "id": "1678471623007x477785463803481700",
+        "from": "1677802571431x280655106663190820",
+        "to": "1677802526152x956139487869826400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Recover and Reflect 1 is related to Afternoon Block 1 (Saturday)"
+    }
+,{
+        "id": "1678471625586x745480444286972200",
+        "from": "1677802572254x913306654097426800",
+        "to": "1677802526152x956139487869826400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Negotiation by Design 1 is related to Afternoon Block 1 (Saturday)"
+    }
+,{
+        "id": "1678471629008x735532496196032400",
+        "from": "1677802572924x494072118223921860",
+        "to": "1677802526152x956139487869826400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Life after UIF 1 is related to Afternoon Block 1 (Saturday)"
+    }
+,{
+        "id": "1678471631523x530923440317711200",
+        "from": "1677802573639x669319006561318700",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Recover and Reflect 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471634847x474310284666411800",
+        "from": "1677802574398x316496350729941000",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Faculty Bridge 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471637377x601106907348959500",
+        "from": "1677802575213x442017259258119300",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Healthy Minds, Healthy Movements 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471641428x351401915858941630",
+        "from": "1677802576184x707483145030743900",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Life after UIF 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471644209x546810362785124860",
+        "from": "1677802577160x645301931920331000",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Creative Hustle 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471646468x284573686308997820",
+        "from": "1677802578107x327832380895604900",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Design Football Club: Your Story 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471649787x232676510014895320",
+        "from": "1677802578932x696303685211282000",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Career Lab 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471652386x926116163030735200",
+        "from": "1677802579573x613780105557215200",
+        "to": "1677696161839x653122945580702200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Negotiation by Design 2 is related to Afternoon Block 2 (Saturday)"
+    }
+,{
+        "id": "1678471655568x678798388571279600",
+        "from": "1677818289364x967669707481221000",
+        "to": "1677800142201x798027556550655600",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Atrium is related to Catalyzing Community 1"
+    }
+,{
+        "id": "1678471658453x299620518520502100",
+        "from": "1677818291750x928580086352599900",
+        "to": "1677802568282x590655980097328100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 1 is related to Creative Hustle 1"
+    }
+,{
+        "id": "1678471658531x612250688284338600",
+        "from": "1677818289364x967669707481221000",
+        "to": "1677800152377x810454582497081700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Atrium is related to Catalyzing Community 2"
+    }
+,{
+        "id": "1678471661515x373367120516693060",
+        "from": "1677818289364x967669707481221000",
+        "to": "1677802572254x913306654097426800",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Atrium is related to Negotiation by Design 1"
+    }
+,{
+        "id": "1678471661540x538599004593993660",
+        "from": "1677818294150x395067651025896800",
+        "to": "1677800145081x872386566499814500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 2 is related to Building Belonging 1"
+    }
+,{
+        "id": "1678471661611x545318905927629760",
+        "from": "1677818291750x928580086352599900",
+        "to": "1677802577160x645301931920331000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 1 is related to Creative Hustle 2"
+    }
+,{
+        "id": "1678471664496x122770827567194140",
+        "from": "1677818289364x967669707481221000",
+        "to": "1677802579573x613780105557215200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Atrium is related to Negotiation by Design 2"
+    }
+,{
+        "id": "1678471664622x172069932298781760",
+        "from": "1677818294150x395067651025896800",
+        "to": "1677800151549x861717510354367200",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 2 is related to Building Belonging 2"
+    }
+,{
+        "id": "1678471664949x191735540320302940",
+        "from": "1677818296145x942848444137322400",
+        "to": "1677800144208x831842517229976300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 3 is related to Extreme Design 1"
+    }
+,{
+        "id": "1678471667437x659506621528410600",
+        "from": "1677818289364x967669707481221000",
+        "to": "1677802563646x250803555802725500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Atrium is related to Responsible Futuring"
+    }
+,{
+        "id": "1678471667493x145258032647282750",
+        "from": "1677818294150x395067651025896800",
+        "to": "1677802567599x293431269478781080",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 2 is related to Career Lab 1"
+    }
+,{
+        "id": "1678471667556x300939073331783360",
+        "from": "1677818298758x110385647805350430",
+        "to": "1677800146624x946109460380320400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Bay Studio is related to You Need a Manifesto 1"
+    }
+,{
+        "id": "1678471667986x168074226011171620",
+        "from": "1677818296145x942848444137322400",
+        "to": "1677800153862x910528961200328400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 3 is related to Extreme Design 2"
+    }
+,{
+        "id": "1678471670554x545919351965553200",
+        "from": "1677818294150x395067651025896800",
+        "to": "1677802578932x696303685211282000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 2 is related to Career Lab 2"
+    }
+,{
+        "id": "1678471670631x945650072102253200",
+        "from": "1677818298758x110385647805350430",
+        "to": "1677800150697x476019464497971400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Bay Studio is related to You Need a Manifesto 2"
+    }
+,{
+        "id": "1678471670690x118081862237606980",
+        "from": "1677818296145x942848444137322400",
+        "to": "1677802568925x553097257112807700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 3 is related to Design Football Club: Your Story 1"
+    }
+,{
+        "id": "1678471670764x528861795410924900",
+        "from": "1677818299583x481010261038192800",
+        "to": "1677802569763x733679003460571100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Huddles 1 and 2 is related to Faculty Bridge 1"
+    }
+,{
+        "id": "1678471673609x681477212997228800",
+        "from": "1677818298758x110385647805350430",
+        "to": "1677802565875x887929875293914400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Bay Studio is related to Ritual Design"
+    }
+,{
+        "id": "1678471673630x821503284531525100",
+        "from": "1677818296145x942848444137322400",
+        "to": "1677802578107x327832380895604900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 3 is related to Design Football Club: Your Story 2"
+    }
+,{
+        "id": "1678471673720x545277669193928960",
+        "from": "1677818299583x481010261038192800",
+        "to": "1677802574398x316496350729941000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Huddles 1 and 2 is related to Faculty Bridge 2"
+    }
+,{
+        "id": "1678471673896x827349483775465900",
+        "from": "1677818300395x577582121185260300",
+        "to": "1677800149834x609750872750066400",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Room 200 is related to Design Futures 2"
+    }
+,{
+        "id": "1678471673901x451531124954383600",
+        "from": "1677818294150x395067651025896800",
+        "to": "1677802560301x187138812931669340",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 2 is related to Navigating Ambiguity"
+    }
+,{
+        "id": "1678471676571x989419044099086500",
+        "from": "1677818298758x110385647805350430",
+        "to": "1677802570639x948426041961730300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Bay Studio is related to Healthy Minds, Healthy Movements 1"
+    }
+,{
+        "id": "1678471676641x748325882401579000",
+        "from": "1677818301100x884258411361103600",
+        "to": "1677802571431x280655106663190820",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Outside d.school is related to Recover and Reflect 1"
+    }
+,{
+        "id": "1678471676652x512443939901175740",
+        "from": "1677818300395x577582121185260300",
+        "to": "1677802561820x686275545470272300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Room 200 is related to Creative Hustle M"
+    }
+,{
+        "id": "1678471676670x845200005532514200",
+        "from": "1677818296145x942848444137322400",
+        "to": "1677802561117x154025136061703100",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Studio 3 is related to Futures"
+    }
+,{
+        "id": "1678471676715x107371271439898450",
+        "from": "1677818299583x481010261038192800",
+        "to": "1677800145782x482887847601021900",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Huddles 1 and 2 is related to Leading like a Futurist  1"
+    }
+,{
+        "id": "1678471679587x740219863941973300",
+        "from": "1677818298758x110385647805350430",
+        "to": "1677802575213x442017259258119300",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Bay Studio is related to Healthy Minds, Healthy Movements 2"
+    }
+,{
+        "id": "1678471679628x326861467382110400",
+        "from": "1677818301100x884258411361103600",
+        "to": "1677802573639x669319006561318700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Outside d.school is related to Recover and Reflect 2"
+    }
+,{
+        "id": "1678471679650x488159152283558460",
+        "from": "1677818299583x481010261038192800",
+        "to": "1677800153178x454420394731182000",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Huddles 1 and 2 is related to Leading like a Futurist  2"
+    }
+,{
+        "id": "1678471679899x815908848035481700",
+        "from": "1677818302857x361512543472682050",
+        "to": "1677800352472x978944762310927700",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Roble 113 is related to Embodied Leadership"
+    }
+,{
+        "id": "1678471682832x501092657978198660",
+        "from": "1678425952608x980910040282038300",
+        "to": "1677708344938x903675544991936500",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Vincent Information Arena is related to Rensselaer Polytechnic Institute"
+    }
+,{
+        "id": "1678471682891x546102715172768640",
+        "from": "1677818302857x361512543472682050",
+        "to": "1677800147491x187677605118696580",
+"strength":1,
+"type":"is related to",
+"description":"",
+"label":"Roble 113 is related to Embodied Leadership 2"
+    }
 
  ]
 }
