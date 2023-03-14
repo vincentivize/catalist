@@ -1,53 +1,65 @@
 {
   "elements": [
-
+{
+  "label": "Object Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"",
+"type":"Object Type",
+"description":"Types of information\n[[list\"Object Type\"]]"
+},{
+  "label": "Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
+"id":"",
+"type":"Object Type",
+"description":"Main sectors of society\n[[list\"Sector\"]]"
+},
 {
 "label":"Member",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "id":"Member",
-"type":"Element Type",
+"type":"Object Type",
 "description":"People who are verified members of a group or event"
 },{
 "label":"Event",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "id":"Event",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Something happening with a start and end date"
 },{
 "label":"Resource",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "id":"Resource",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Something that can be used to solve a problem"
 },{
 "label":"Organization",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "id":"Organization",
-"type":"Element Type",
+"type":"Object Type",
 "description":"An established entity such as a university or company"
 },{
 "label":"Location",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
 "id":"Location",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Locations are places, countries, cities or other areas of geographical space."
 },{
 "label":"Presenter",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "id":"Presenter",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Someone giving a presentation at an event"
 },{
 "label":"Presentation",
 "image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
 "id":"Presentation",
-"type":"Element Type",
+"type":"Object Type",
 "description":"Sessions within a main event where presenters get to share their expertise"
 },{
 "label":"Appreciation",
 "image":"//s3.amazonaws.com/appforest_uf/f1676997941933x709576197641230500/chat.png",
 "id":"Appreciation",
-"type":"Element Type",
+"type":"Object Type",
 "description":"A type of post specifically designed to show appreciation for someone else."
 },{
 "label":"Regenerative Economy & Systems",
@@ -64,6 +76,7 @@
 {
         "id": "1678644850254x889129208234901500",
 "url":"https://www.catalist.network/u/vincentarena",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678644850254x889129208234901500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -76,6 +89,7 @@
     },{
         "id": "1678645399913x231890039636282400",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645399913x231890039636282400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
 "tags":[],
@@ -88,6 +102,7 @@
     },{
         "id": "1678645401048x821524465762385300",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645401048x821524465762385300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
 "tags":[],
@@ -100,6 +115,7 @@
     },{
         "id": "1678645402124x506729787665192400",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645402124x506729787665192400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
 "tags":[],
@@ -112,6 +128,7 @@
     },{
         "id": "1678645403247x519054546185837100",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645403247x519054546185837100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
 "tags":[],
@@ -124,6 +141,7 @@
     },{
         "id": "1678645404241x633832484123599400",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645404241x633832484123599400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
 "tags":[],
@@ -136,6 +154,7 @@
     },{
         "id": "1678645501026x940667847197415000",
 "url":"https://dschool.stanford.edu/resources/dschool-reading-list",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645501026x940667847197415000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "type":"Resource",
 "tags":[],
@@ -148,6 +167,7 @@
     },{
         "id": "1678645504426x492348766742980500",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645504426x492348766742980500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
 "tags":[],
@@ -160,6 +180,7 @@
     },{
         "id": "1678645505944x121019272566522680",
 "url":"https://www.universityinnovation.org",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645505944x121019272566522680&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -172,6 +193,7 @@
     },{
         "id": "1678645507704x938737963670482200",
 "url":"https://dschool.stanford.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645507704x938737963670482200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -184,6 +206,7 @@
     },{
         "id": "1678645509167x783837706414677500",
 "url":"https://www.kingston.ac.uk/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645509167x783837706414677500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -196,6 +219,7 @@
     },{
         "id": "1678645510570x269154262663990460",
 "url":"https://www.alcorn.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645510570x269154262663990460&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -208,6 +232,7 @@
     },{
         "id": "1678645512258x851643276266776300",
 "url":"https://www.jcsu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645512258x851643276266776300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -220,6 +245,7 @@
     },{
         "id": "1678645513712x688614362317378400",
 "url":"https://www.unf.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645513712x688614362317378400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -232,6 +258,7 @@
     },{
         "id": "1678645515123x783314005740703400",
 "url":"https://www.jmu.edu/index.shtml",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645515123x783314005740703400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -244,6 +271,7 @@
     },{
         "id": "1678645516537x483722940029135170",
 "url":"https://www.ew.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645516537x483722940029135170&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -256,6 +284,7 @@
     },{
         "id": "1678645518070x458682805913847040",
 "url":"https://biblioteca.upc.edu.pe/portal/presentacion",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645518070x458682805913847040&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -268,6 +297,7 @@
     },{
         "id": "1678645519876x592926137611804400",
 "url":"https://www.eur.nl/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645519876x592926137611804400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -280,6 +310,7 @@
     },{
         "id": "1678645521377x282177016100568130",
 "url":"https://www.jsums.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645521377x282177016100568130&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -292,6 +323,7 @@
     },{
         "id": "1678645522674x814446324963286900",
 "url":"http://www.aec.edu.in/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645522674x814446324963286900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -304,6 +336,7 @@
     },{
         "id": "1678645523974x720466393484698000",
 "url":"https://www.vsu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645523974x720466393484698000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -316,6 +349,7 @@
     },{
         "id": "1678645525265x741811867201872100",
 "url":"https://www.oit.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645525265x741811867201872100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -328,6 +362,7 @@
     },{
         "id": "1678645526809x220452496256594370",
 "url":"https://ucu.edu.uy/es/puntadeleste",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645526809x220452496256594370&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -340,6 +375,7 @@
     },{
         "id": "1678645528119x382032139513171400",
 "url":"https://www.tuhh.de/tuhh/startseite.html",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645528119x382032139513171400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -352,6 +388,7 @@
     },{
         "id": "1678645529419x673503575265743900",
 "url":"https://www.gvsu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645529419x673503575265743900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -364,6 +401,7 @@
     },{
         "id": "1678645530907x316435012831838100",
 "url":"https://www.southplainscollege.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645530907x316435012831838100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -376,6 +414,7 @@
     },{
         "id": "1678645532276x121304065796215890",
 "url":"https://oakwood.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645532276x121304065796215890&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -388,6 +427,7 @@
     },{
         "id": "1678645533611x181563041397076580",
 "url":"https://www.elon.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645533611x181563041397076580&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -400,6 +440,7 @@
     },{
         "id": "1678645535405x735907813025386900",
 "url":"https://www.nida.ac.th/th/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645535405x735907813025386900&view=Net%20Map&filtered=yes",
 "image":"http://www.nida.ac.th/th/images/651111-NIDA-for-SDGs.jpg",
 "type":"Organization",
 "tags":[],
@@ -412,6 +453,7 @@
     },{
         "id": "1678645536951x332777628391124800",
 "url":"https://www.uprb.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645536951x332777628391124800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -424,6 +466,7 @@
     },{
         "id": "1678645538722x282378274887659780",
 "url":"https://www.boun.edu.tr/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645538722x282378274887659780&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -436,6 +479,7 @@
     },{
         "id": "1678645540345x938679375119653000",
 "url":"https://mits.ac.in/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645540345x938679375119653000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -448,6 +492,7 @@
     },{
         "id": "1678645541786x687992838138811900",
 "url":"https://www.iona.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645541786x687992838138811900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -460,6 +505,7 @@
     },{
         "id": "1678645543044x944605175317033500",
 "url":"https://ucu.edu.uy/es",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645543044x944605175317033500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -472,6 +518,7 @@
     },{
         "id": "1678645544488x135234278635417260",
 "url":"https://www.swarthmore.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645544488x135234278635417260&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -484,6 +531,7 @@
     },{
         "id": "1678645545784x556268315237191700",
 "url":"https://www.ohio.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645545784x556268315237191700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -496,6 +544,7 @@
     },{
         "id": "1678645546944x580683184405585800",
 "url":"https://www.ku.ac.ae/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645546944x580683184405585800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -508,6 +557,7 @@
     },{
         "id": "1678645548477x938944776343145300",
 "url":"https://www.mtu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645548477x938944776343145300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -520,6 +570,7 @@
     },{
         "id": "1678645549965x484512719606816640",
 "url":"https://www.ku.edu.tr/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645549965x484512719606816640&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -532,6 +583,7 @@
     },{
         "id": "1678645551593x661731689636253300",
 "url":"https://utec.edu.pe/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645551593x661731689636253300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -544,6 +596,7 @@
     },{
         "id": "1678645553214x495023295962598660",
 "url":"https://www.vvitguntur.com/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645553214x495023295962598660&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -556,6 +609,7 @@
     },{
         "id": "1678645555149x563365169154565400",
 "url":"https://www.st-aug.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645555149x563365169154565400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -568,6 +622,7 @@
     },{
         "id": "1678645556754x462596029220926800",
 "url":"https://utec.edu.uy/en/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645556754x462596029220926800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -580,6 +635,7 @@
     },{
         "id": "1678645558113x190287065643466980",
 "url":"https://www.fh-salzburg.ac.at/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645558113x190287065643466980&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -592,6 +648,7 @@
     },{
         "id": "1678645559390x276198679823279840",
 "url":"https://www.morgan.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645559390x276198679823279840&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -604,6 +661,7 @@
     },{
         "id": "1678645561198x323223052770974500",
 "url":"https://www.shawu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645561198x323223052770974500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -616,6 +674,7 @@
     },{
         "id": "1678645562908x345114115113417860",
 "url":"https://www.itu.edu.tr/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645562908x345114115113417860&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -628,6 +687,7 @@
     },{
         "id": "1678645564138x267509265119252540",
 "url":"https://um.edu.uy/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645564138x267509265119252540&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -640,6 +700,7 @@
     },{
         "id": "1678645565442x164382015966645600",
 "url":"https://www.iupui.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645565442x164382015966645600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -652,6 +713,7 @@
     },{
         "id": "1678645567257x428716218462205500",
 "url":"https://www.pvpsiddhartha.ac.in/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645567257x428716218462205500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -664,6 +726,7 @@
     },{
         "id": "1678645568538x458003608777858940",
 "url":"https://www.tohoku.ac.jp/japanese/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645568538x458003608777858940&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -676,6 +739,7 @@
     },{
         "id": "1678645570072x899588714645723300",
 "url":"https://www.vt.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645570072x899588714645723300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -688,6 +752,7 @@
     },{
         "id": "1678645571590x146733792390850500",
 "url":"https://www.mq.edu.au/?utm_source=google&utm_medium=localseo&utm_campaign=localplaces",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645571590x146733792390850500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -700,6 +765,7 @@
     },{
         "id": "1678645573037x789628000374794200",
 "url":"https://siu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645573037x789628000374794200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -712,6 +778,7 @@
     },{
         "id": "1678645574125x370552361344971700",
 "url":"https://www.gatech.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645574125x370552361344971700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -724,6 +791,7 @@
     },{
         "id": "1678645575414x909795298333555300",
 "url":"https://www.uvu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645575414x909795298333555300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -736,6 +804,7 @@
     },{
         "id": "1678645576574x204143874656395040",
 "url":"http://www.acet.ac.in/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645576574x204143874656395040&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -748,6 +817,7 @@
     },{
         "id": "1678645578157x782865967702200700",
 "url":"https://www.ndsu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645578157x782865967702200700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -760,6 +830,7 @@
     },{
         "id": "1678645579514x544812873328620350",
 "url":"https://www.utwente.nl/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645579514x544812873328620350&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -772,6 +843,7 @@
     },{
         "id": "1678645580992x798321999083930700",
 "url":"https://www.ulbsibiu.ro/ro/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645580992x798321999083930700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -784,6 +856,7 @@
     },{
         "id": "1678645582563x633798169100368600",
 "url":"https://www.sophia.ac.jp/jpn/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645582563x633798169100368600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -796,6 +869,7 @@
     },{
         "id": "1678645583919x138764745519134100",
 "url":"https://www.msoe.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645583919x138764745519134100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -808,6 +882,7 @@
     },{
         "id": "1678645585325x621342347996508200",
 "url":"https://www.tnstate.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645585325x621342347996508200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -820,6 +895,7 @@
     },{
         "id": "1678645586602x451270263908707840",
 "url":"https://www.menlo.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645586602x451270263908707840&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -832,6 +908,7 @@
     },{
         "id": "1678645587851x202455963591937630",
 "url":"https://www.fisk.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645587851x202455963591937630&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -844,6 +921,7 @@
     },{
         "id": "1678645589385x822770647894216100",
 "url":"https://www.uandes.cl/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645589385x822770647894216100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -856,6 +934,7 @@
     },{
         "id": "1678645590738x630664558669885300",
 "url":"https://www.uc.edu/?utm_source=gmb&utm_medium=organic",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645590738x630664558669885300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -868,6 +947,7 @@
     },{
         "id": "1678645591929x602230796658193300",
 "url":"https://www.bowiestate.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645591929x602230796658193300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -880,6 +960,7 @@
     },{
         "id": "1678645593079x249546128117454900",
 "url":"http://www.ecsu.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645593079x249546128117454900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -892,6 +973,7 @@
     },{
         "id": "1678645594519x744019626357560200",
 "url":"https://vvce.ac.in/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645594519x744019626357560200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -904,6 +986,7 @@
     },{
         "id": "1678645595872x771154232657975000",
 "url":"https://www.cmich.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645595872x771154232657975000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -916,6 +999,7 @@
     },{
         "id": "1678645597125x636171037611356300",
 "url":"https://www.aec.edu.in/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645597125x636171037611356300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -928,6 +1012,7 @@
     },{
         "id": "1678645598602x542791130339299400",
 "url":"https://www.marshall.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645598602x542791130339299400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -940,6 +1025,7 @@
     },{
         "id": "1678645600298x758350292234971900",
 "url":"https://www.metu.edu.tr/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645600298x758350292234971900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -952,6 +1038,7 @@
     },{
         "id": "1678645601634x470712320782886460",
 "url":"https://www.fordham.edu/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645601634x470712320782886460&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -964,6 +1051,7 @@
     },{
         "id": "1678645602850x902489771209977500",
 "url":"https://www.vrsiddhartha.ac.in/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645602850x902489771209977500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -976,6 +1064,7 @@
     },{
         "id": "1678645604013x938025830221583400",
 "url":"https://www.ln.edu.hk/cht/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645604013x938025830221583400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "tags":[],
@@ -988,6 +1077,7 @@
     },{
         "id": "1678645606795x232448705005844130",
 "url":"https://resed.stanford.edu/neighborhoods/neighborhoods/neighborhood-o/neighborhood-o-houses/row-680-lomita",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645606795x232448705005844130&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647246994x364703921930466400/Lomita.PNG",
 "type":"Location",
 "tags":[],
@@ -1000,6 +1090,7 @@
     },{
         "id": "1678645609051x261960606089584040",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645609051x261960606089584040&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647168368x546057846168499700/atrium.jpg",
 "type":"Location",
 "tags":[],
@@ -1012,6 +1103,7 @@
     },{
         "id": "1678645611697x827814661855653200",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645611697x827814661855653200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647307441x277159045566867780/13.jpg",
 "type":"Location",
 "tags":[],
@@ -1024,6 +1116,7 @@
     },{
         "id": "1678645613673x174136442816292160",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645613673x174136442816292160&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647312322x919299301522262400/18.jpg",
 "type":"Location",
 "tags":[],
@@ -1036,6 +1129,7 @@
     },{
         "id": "1678645617281x352677804532782500",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645617281x352677804532782500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647170636x184790530996458140/d-school-studio.jpg",
 "type":"Location",
 "tags":[],
@@ -1048,6 +1142,7 @@
     },{
         "id": "1678645619751x467085738606541440",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645619751x467085738606541440&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647215711x495691549756603000/48413910967_a61c0dee95_o.jpg",
 "type":"Location",
 "tags":[],
@@ -1060,6 +1155,7 @@
     },{
         "id": "1678645622344x943952381538403700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645622344x943952381538403700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678747228264x704857820956652900/51991552820_19b1f2a97d_o.jpg",
 "type":"Location",
 "tags":[],
@@ -1072,6 +1168,7 @@
     },{
         "id": "1678645623367x974636288758350200",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645623367x974636288758350200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
 "type":"Location",
 "tags":[],
@@ -1084,6 +1181,7 @@
     },{
         "id": "1678645626592x426282856056515100",
 "url":"http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=04-650",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645626592x426282856056515100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647287547x482699156391684700/Roble-Theater-and-Art-Gym-Performance-Space-with-Ceilings-02-CAW-Architects-slideshow.jpg",
 "type":"Location",
 "tags":[],
@@ -1096,6 +1194,7 @@
     },{
         "id": "1678645628691x346346131580753000",
 "url":"https://www.linkedin.com/in/bre-przestrzelski/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645628691x346346131580753000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647178989x905665173338650200/Bre.jfif",
 "type":"Presenter",
 "tags":[],
@@ -1108,6 +1207,7 @@
     },{
         "id": "1678645630969x800223700923237100",
 "url":"https://www.andreasmall.com/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645630969x800223700923237100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647162254x659068786655722500/Andrea%20Small.jfif",
 "type":"Presenter",
 "tags":[],
@@ -1120,6 +1220,7 @@
     },{
         "id": "1678645632768x534205571819258430",
 "url":"https://www.lisakaysolomon.com/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645632768x534205571819258430&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647244082x617004972190923400/220112_LisaKaySolomon_Headshot.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1132,6 +1233,7 @@
     },{
         "id": "1678645634690x494625151642216900",
 "url":"https://www.linkedin.com/in/glennfajardo/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645634690x494625151642216900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647204617x968090470492859300/Glenn.jfif",
 "type":"Presenter",
 "tags":[],
@@ -1144,6 +1246,7 @@
     },{
         "id": "1678645636649x606235230241038700",
 "url":"https://www.linkedin.com/in/meenusingh/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645636649x606235230241038700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647258867x419816252541859400/Mennu%20Singh.jfif",
 "type":"Presenter",
 "tags":[],
@@ -1156,6 +1259,7 @@
     },{
         "id": "1678645638360x133899454879027330",
 "url":"https://universityinnovation.org/wiki/Faculty_Champion:Julieta_Matos_Castano",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645638360x133899454879027330&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647230152x198820078281842560/300px-Julieta_Matos_Casta%C3%B1o.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1168,6 +1272,7 @@
     },{
         "id": "1678645640530x792832829455997400",
 "url":"https://universityinnovation.org/wiki/Fellow:Kenneth_Brewer",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645640530x792832829455997400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647232688x543855854130993000/Kenneth-brewer.png",
 "type":"Presenter",
 "tags":[],
@@ -1180,6 +1285,7 @@
     },{
         "id": "1678645642352x116571310385834130",
 "url":"https://www.linkedin.com/in/trans-lualhati-3dprinting/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645642352x116571310385834130&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647285384x191249273827311500/RJ.jfif",
 "type":"Presenter",
 "tags":[],
@@ -1192,6 +1298,7 @@
     },{
         "id": "1678645644087x340562052619429950",
 "url":"https://www.linkedin.com/in/omri-gal-3799b6126/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645644087x340562052619429950&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647279680x423802296915816200/Omri.jfif",
 "type":"Presenter",
 "tags":[],
@@ -1204,6 +1311,7 @@
     },{
         "id": "1678645646080x389043876171972540",
 "url":"https://universityinnovation.org/wiki/Fellow:Jaclynn_Siler-Dearring",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645646080x389043876171972540&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647222852x997931282814785500/Jaclynn%20Siler-Dearring.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1216,6 +1324,7 @@
     },{
         "id": "1678645647635x821942363248903800",
 "url":"https://law.stanford.edu/directory/david-johnson/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645647635x821942363248903800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647189905x199146635480595070/david-johnson-3-400x400.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1228,6 +1337,7 @@
     },{
         "id": "1678645649656x545648098322465660",
 "url":"https://www.aletahayes.com/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645649656x545648098322465660&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647159657x469872808981846460/aleta-hayes-portrait.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1240,6 +1350,7 @@
     },{
         "id": "1678645651671x220701074451654430",
 "url":"https://www.linkedin.com/in/courtlandt-butts-906a2595/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645651671x220701074451654430&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647186206x866915545194062800/Courtland.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1252,6 +1363,7 @@
     },{
         "id": "1678645653159x575828630376773000",
 "url":"https://www.linkedin.com/in/hanan-a-ahmed/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645653159x575828630376773000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647210553x411139562052078340/Hanan%20Ahmed.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1264,6 +1376,7 @@
     },{
         "id": "1678645654837x606607626645579500",
 "url":"https://www.linkedin.com/in/ariel-raz-05b73a31/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645654837x606607626645579500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647166109x992494764554274800/Ariel.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1272,11 +1385,11 @@
 "types":[],
 "description":"Hayes has taught extensively at Princeton University in both the Program in Theater and Dance and the Program in African American Studies, as well as at Swarthmore College, Wesleyan and Rutgers Universities and has guest taught at The Sorbonne in Paris, France, and at the Air University at the Maxwell Air Force Base in Birmingham, Alabama. She is a former Ford Foundation Resident Dialogues Fellow and Stanford Humanities Lab Grant Fellow and holds an M.F.A. in Dance and Choreography from New York’s Tisch School of the Arts.",
 "size":"",
-"label":"Ariel Raz
-"
+"label":"Ariel Raz"
     },{
         "id": "1678645656361x619213859968592600",
 "url":"https://www.linkedin.com/in/ariammogos/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645656361x619213859968592600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647164309x704876973566559400/Ariam.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1289,6 +1402,7 @@
     },{
         "id": "1678645658219x868911891620107500",
 "url":"https://www.linkedin.com/in/ltdinh/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645658219x868911891620107500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647241779x982932763809861900/1674533371410.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1301,6 +1415,7 @@
     },{
         "id": "1678645659836x691466162622545800",
 "url":"https://www.linkedin.com/in/charlotte-burgess-auburn-a8317/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645659836x691466162622545800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647184334x887769786492962300/Charlotte.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1313,6 +1428,7 @@
     },{
         "id": "1678645662253x903684614774975500",
 "url":"https://www.linkedin.com/in/stuartc/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645662253x903684614774975500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647305080x256103558860645280/Stuart.PNG",
 "type":"Presenter",
 "tags":[],
@@ -1325,6 +1441,7 @@
     },{
         "id": "1678645663784x935468093255199500",
 "url":"https://www.linkedin.com/in/manasa-yeturu-03869631/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645663784x935468093255199500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647254061x255590954650860130/Manasa.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1337,6 +1454,7 @@
     },{
         "id": "1678645665288x220835667891263740",
 "url":"https://www.linkedin.com/in/samseidel/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645665288x220835667891263740&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678747231335x573300203794134850/Sam%20Seidel.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1349,6 +1467,7 @@
     },{
         "id": "1678645667816x218137566848430880",
 "url":"https://www.linkedin.com/in/coachtunde/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645667816x218137566848430880&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678747241236x946914255158200200/Olatunde.jpg",
 "type":"Presenter",
 "tags":[],
@@ -1361,6 +1480,7 @@
     },{
         "id": "1678645669877x671886275720600300",
 "url":"http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=08-350",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645669877x671886275720600300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647173144x163273779079861500/08-350-1.jpg",
 "type":"Location",
 "tags":[],
@@ -1373,6 +1493,7 @@
     },{
         "id": "1678645709860x419857653175668350",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645709860x419857653175668350&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647415279x801553218410157700/51990978786_b9bbda80f9_o.jpg",
 "type":"Event",
 "tags":[],
@@ -1385,6 +1506,7 @@
     },{
         "id": "1678645717436x953918576907571600",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645717436x953918576907571600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
 "type":"Presentation",
 "tags":[],
@@ -1397,6 +1519,7 @@
     },{
         "id": "1678645757304x624837256125876400",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645757304x624837256125876400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647496862x928480391708854900/51991261939_de01aec53b_o.jpg",
 "type":"Event",
 "tags":[],
@@ -1409,6 +1532,7 @@
     },{
         "id": "1678645767024x466442975406010000",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645767024x466442975406010000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
 "tags":[],
@@ -1421,6 +1545,7 @@
     },{
         "id": "1678645974751x848010633280236700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645974751x848010633280236700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647212924x580237709596666900/daboutbanner2500.min.jpg",
 "type":"Location",
 "tags":[],
@@ -1433,6 +1558,7 @@
     },{
         "id": "1678645976874x690761442714904000",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645976874x690761442714904000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647309820x462326556311905500/16.jpg",
 "type":"Location",
 "tags":[],
@@ -1445,6 +1571,7 @@
     },{
         "id": "1678645979303x726303056916533900",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645979303x726303056916533900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647348136x535300521534206850/51990967516_178ab4f635_o.jpg",
 "type":"Event",
 "tags":[],
@@ -1457,6 +1584,7 @@
     },{
         "id": "1678645982025x330293246244117950",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645982025x330293246244117950&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647351175x352369346554336260/51991053673_61273e312a_o.jpg",
 "type":"Event",
 "tags":[],
@@ -1469,6 +1597,7 @@
     },{
         "id": "1678645984427x216267621164121900",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645984427x216267621164121900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647354454x356380647956739260/51991273479_65c6625dc7_o.jpg",
 "type":"Event",
 "tags":[],
@@ -1481,6 +1610,7 @@
     },{
         "id": "1678645987061x809466116573057000",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645987061x809466116573057000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647358324x163178080489017060/51989992362_e515878384_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1493,6 +1623,7 @@
     },{
         "id": "1678645989739x454815148268802750",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645989739x454815148268802750&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647361278x486145310160935900/51989991147_7cbaedaf2c_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1505,6 +1636,7 @@
     },{
         "id": "1678645992247x610303982123263900",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645992247x610303982123263900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678747234397x604981917226939900/51990993486_1326471afd_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1517,6 +1649,7 @@
     },{
         "id": "1678645995069x538502625926972300",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645995069x538502625926972300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647366818x155342207054292480/51990988401_90ee472c30_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1529,6 +1662,7 @@
     },{
         "id": "1678645997805x166545113519468670",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678645997805x166545113519468670&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647369611x445186119257383800/51989991922_ba5e6b89af_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1541,6 +1675,7 @@
     },{
         "id": "1678646000340x888812499179884400",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646000340x888812499179884400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647372593x263728908211200440/51990989941_21e276dfc6_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1553,6 +1688,7 @@
     },{
         "id": "1678646002960x407661374210356740",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646002960x407661374210356740&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647375322x784548345373765900/51991037168_36d115b1e8_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1565,6 +1701,7 @@
     },{
         "id": "1678646005537x240946438467601200",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646005537x240946438467601200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647378300x736529064065235000/51991247774_cb4bcdac7c_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1577,6 +1714,7 @@
     },{
         "id": "1678646007952x559064614059699800",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646007952x559064614059699800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647381976x607735740141733800/51989992362_e515878384_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1589,6 +1727,7 @@
     },{
         "id": "1678646010593x467004505118154600",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646010593x467004505118154600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647384926x251820424322180000/51989991147_7cbaedaf2c_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1601,6 +1740,7 @@
     },{
         "id": "1678646013536x760497431382298700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646013536x760497431382298700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678747238003x584732017839968000/51990993486_1326471afd_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1613,6 +1753,7 @@
     },{
         "id": "1678646016287x469207919999431900",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646016287x469207919999431900&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647390624x231002548381003870/51991051588_101e9f0174_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1625,6 +1766,7 @@
     },{
         "id": "1678646018617x499354029803538800",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646018617x499354029803538800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647393304x147176181386144300/51991051588_101e9f0174_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1637,6 +1779,7 @@
     },{
         "id": "1678646021172x731684497324462700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646021172x731684497324462700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647395821x169220932562165400/51990988401_90ee472c30_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1649,6 +1792,7 @@
     },{
         "id": "1678646023906x441532485865325300",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646023906x441532485865325300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647398252x477837546601798140/51989991922_ba5e6b89af_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1661,6 +1805,7 @@
     },{
         "id": "1678646026187x277626506202144350",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646026187x277626506202144350&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647401155x720381591450777200/51990989941_21e276dfc6_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1673,6 +1818,7 @@
     },{
         "id": "1678646028742x729902232724295700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646028742x729902232724295700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647403947x833157489602584400/51991037168_36d115b1e8_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1685,6 +1831,7 @@
     },{
         "id": "1678646031176x534034823190712800",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646031176x534034823190712800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647406986x545956550365647800/51991247774_cb4bcdac7c_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1697,6 +1844,7 @@
     },{
         "id": "1678646033790x702637868368878700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646033790x702637868368878700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647409613x599530028089192400/51990966161_381573dc5b_o.jpg",
 "type":"Event",
 "tags":[],
@@ -1709,6 +1857,7 @@
     },{
         "id": "1678646036032x663356343496989300",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646036032x663356343496989300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647412551x721907212372892400/51991548380_3d62327258_o.jpg",
 "type":"Event",
 "tags":[],
@@ -1721,6 +1870,7 @@
     },{
         "id": "1678646038373x419209708139091500",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646038373x419209708139091500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647418526x643048148924115100/51991552785_b2c8e57389_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1733,6 +1883,7 @@
     },{
         "id": "1678646041088x750511292987609500",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646041088x750511292987609500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647421201x856805585520502800/51991550290_fc13e4edf9_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1745,6 +1896,7 @@
     },{
         "id": "1678646043809x976723153050103000",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646043809x976723153050103000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647425345x182148185158985440/51990978321_72ae53eea8_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1757,6 +1909,7 @@
     },{
         "id": "1678646046425x818503526918678000",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646046425x818503526918678000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647428083x670265205100566100/51990993251_5aec799c5d_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1769,6 +1922,7 @@
     },{
         "id": "1678646049027x266197326020396930",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646049027x266197326020396930&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647432046x601521903990201300/51989994062_896878b9b1_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1781,6 +1935,7 @@
     },{
         "id": "1678646051657x857194126654068100",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646051657x857194126654068100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647434821x536725032208253500/51991247774_cb4bcdac7c_o%20%281%29.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1793,6 +1948,7 @@
     },{
         "id": "1678646054230x989035528412634400",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646054230x989035528412634400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647437619x351948077731162560/51991267289_c704827a1f_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1805,6 +1961,7 @@
     },{
         "id": "1678646056968x262260586680478820",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646056968x262260586680478820&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647440289x365201847163101600/51991246614_4742f19a58_o.jpg",
 "type":"Event",
 "tags":[],
@@ -1817,6 +1974,7 @@
     },{
         "id": "1678646059568x886893059265649700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646059568x886893059265649700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647444365x519876275393621700/32638580577_608ecfe658_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1829,6 +1987,7 @@
     },{
         "id": "1678646061715x985544131964999400",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646061715x985544131964999400&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647447297x500332779682168200/40342642275_80c2ea966a_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1841,6 +2000,7 @@
     },{
         "id": "1678646064355x362678345801122240",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646064355x362678345801122240&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647450219x479275540639402500/47528118742_d649d3905f_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1853,6 +2013,7 @@
     },{
         "id": "1678646067323x682018276320701000",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646067323x682018276320701000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647453022x961411659372454300/51990993486_1326471afd_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1865,6 +2026,7 @@
     },{
         "id": "1678646070563x882203038636714100",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646070563x882203038636714100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647455862x832760578122595100/33704192818_5e043efbd2_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1877,6 +2039,7 @@
     },{
         "id": "1678646073161x527181913984737150",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646073161x527181913984737150&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647458485x636412986593945000/51989994777_174d94066a_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1889,6 +2052,7 @@
     },{
         "id": "1678646076121x495144449369407040",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646076121x495144449369407040&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647461595x280231515297014300/51991051973_e1e99ed181_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1901,6 +2065,7 @@
     },{
         "id": "1678646079008x944582779852259700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646079008x944582779852259700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647464401x142073069921549100/51989992952_011194b562_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1913,6 +2078,7 @@
     },{
         "id": "1678646081839x518561766712901250",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646081839x518561766712901250&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647468278x330763596217983800/32638580577_608ecfe658_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1925,6 +2091,7 @@
     },{
         "id": "1678646084453x349558612523948740",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646084453x349558612523948740&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647471077x946102534788098700/40342642275_80c2ea966a_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1937,6 +2104,7 @@
     },{
         "id": "1678646087645x856600701336732300",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646087645x856600701336732300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647474017x276995708731636580/47528118742_d649d3905f_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1949,6 +2117,7 @@
     },{
         "id": "1678646090015x330241079772877200",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646090015x330241079772877200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647476627x474561272819595800/51990993486_1326471afd_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1961,6 +2130,7 @@
     },{
         "id": "1678646092901x797232886314756600",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646092901x797232886314756600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647479636x661022026067052300/33704192818_5e043efbd2_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1973,6 +2143,7 @@
     },{
         "id": "1678646095385x493278497841281660",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646095385x493278497841281660&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647482543x661517363083715000/51989994777_174d94066a_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1985,6 +2156,7 @@
     },{
         "id": "1678646097820x292541265197247700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646097820x292541265197247700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647485683x757485245769425900/51991051973_e1e99ed181_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -1997,6 +2169,7 @@
     },{
         "id": "1678646100384x757555611168617700",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646100384x757555611168617700&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647488771x150105716145353630/51989992952_011194b562_o.jpg",
 "type":"Presentation",
 "tags":[],
@@ -2009,6 +2182,7 @@
     },{
         "id": "1678646103208x488756750718906100",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646103208x488756750718906100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647491626x935985324075822200/51991528415_11122e5c78_o.jpg",
 "type":"Event",
 "tags":[],
@@ -2021,6 +2195,7 @@
     },{
         "id": "1678646105822x195101896193149220",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646105822x195101896193149220&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647494101x503199857395463230/51991032398_a2d858dc7a_o.jpg",
 "type":"Event",
 "tags":[],
@@ -2033,6 +2208,7 @@
     },{
         "id": "1678646108414x373161271370082500",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646108414x373161271370082500&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647499712x158623541323420700/51991032353_35b6971b06_o.jpg",
 "type":"Event",
 "tags":[],
@@ -2045,6 +2221,7 @@
     },{
         "id": "1678646110038x708374798593872300",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646110038x708374798593872300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647502167x698978914905894000/Frederik.jpg",
 "type":"Event",
 "tags":[],
@@ -2057,6 +2234,7 @@
     },{
         "id": "1678646112938x882488892094362800",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646112938x882488892094362800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647504449x737749855505066500/51991267144_9717ab4c79_o.jpg",
 "type":"Event",
 "tags":[],
@@ -2069,6 +2247,7 @@
     },{
         "id": "1678646115678x163276649948337570",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646115678x163276649948337570&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647507145x240642664942127170/51989983082_13669f20fc_o.jpg",
 "type":"Event",
 "tags":[],
@@ -2081,6 +2260,7 @@
     },{
         "id": "1678646118321x180036885422517380",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678646118321x180036885422517380&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678647509807x710635581746143400/40615009143_a7f4c69078_o.jpg",
 "type":"Event",
 "tags":[],
@@ -2093,6 +2273,7 @@
     },{
         "id": "1678671542242x689451325381097200",
 "url":"https://www.linkedin.com/in/mahmkhedr/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678671542242x689451325381097200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678671541551x435880621122985100/Mahmoud%20Khedr.jpg",
 "type":"Presenter",
 "tags":[],
@@ -2105,6 +2286,7 @@
     },{
         "id": "1678671545763x631402975937982800",
 "url":"https://www.vincentarena.com",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678671545763x631402975937982800&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1678671544741x353648038528922240/Vincent_Arena_Headshot_2022.JPG",
 "type":"Presenter",
 "tags":[],
@@ -2117,6 +2299,7 @@
     },{
         "id": "1678675693037x910595895958700000",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678675693037x910595895958700000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1676997941933x709576197641230500/chat.png",
 "type":"Appreciation",
 "tags":[],
@@ -2129,6 +2312,7 @@
     },{
         "id": "1678718147605x707155755866521600",
 "url":"kaimckinney.com",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678718147605x707155755866521600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2141,6 +2325,7 @@
     },{
         "id": "1678718616891x434659541916844000",
 "url":"https://www.linkedin.com/in/sevimaktas/",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678718616891x434659541916844000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2153,6 +2338,7 @@
     },{
         "id": "1678718915574x399195501662306300",
 "url":"https://curiousbean.dev",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678718915574x399195501662306300&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2165,6 +2351,7 @@
     },{
         "id": "1678720378995x371808172179718140",
 "url":"https://universityinnovation.org/wiki/Fellow:Jonathan_Robert_Puhl",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678720378995x371808172179718140&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2177,6 +2364,7 @@
     },{
         "id": "1678721848648x763367305889972200",
 "url":"sabrinamanji.com",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678721848648x763367305889972200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2189,6 +2377,7 @@
     },{
         "id": "1678726094638x503849760200065000",
 "url":"Bubble.io",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678726094638x503849760200065000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2201,6 +2390,7 @@
     },{
         "id": "1678731581164x586426558780801000",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678731581164x586426558780801000&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2213,6 +2403,7 @@
     },{
         "id": "1678733172801x234810206803460100",
 "url":"https://www.linkedin.com/in/kaylabarbour",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678733172801x234810206803460100&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2225,6 +2416,7 @@
     },{
         "id": "1678735938838x793202347906695200",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678735938838x793202347906695200&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
@@ -2237,6 +2429,7 @@
     },{
         "id": "1678736961103x621230063531589600",
 "url":"",
+"object url":"https://www.catalist.network/trove-space/uif?object=1678736961103x621230063531589600&view=Net%20Map&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
 "tags":[],
