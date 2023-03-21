@@ -63,6 +63,18 @@
 "type":"Object Type",
 "description":"People who are verified members of a group or event"
 },{
+"label":"Offer",
+"image":"//s3.amazonaws.com/appforest_uf/f1677702447235x423945010205213600/courier.png",
+"id":"Offer",
+"type":"Object Type",
+"description":"An opportunity that someone has to offer to others"
+},{
+"label":"Opportunity",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962146632x605832000456921600/001-door-open.svg",
+"id":"Opportunity",
+"type":"Object Type",
+"description":"Offers or requests that are linked to people or groups of people"
+},{
 "label":"Currencies & Funding",
 "image":"//s3.amazonaws.com/appforest_uf/f1664401852871x216871358849328060/finance_black.svg",
 "id":"1647152391687x633197867734409700",
@@ -2220,6 +2232,36 @@
 "description":"",
 "size":"",
 "label":"Tibor Katelbach"
+    },{
+        "id": "1679419062145x697214071565713400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1679419062145x697214071565713400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"East Rockaway, NY, USA",
+"types":[],
+"skills":["Creativity","Design","Collaboration","Teambuilding","Connector","Ideation","Operations"],
+"description":"Systems designer, social entrepreneur, and knowledge architect. Founder of Catalist",
+"size":"",
+"label":"Vincent Arena"
+    },{
+        "id": "1679419634249x582976551893860400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1679419634249x582976551893860400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677702447235x423945010205213600/courier.png",
+"type":"Offer",
+"tags":[],
+"sectors":["Systems Design & Thinking","Software Internet & Automation"],
+"locations":[],
+"address":"",
+"types":["Expertise"],
+"skills":[],
+"description":"If you need help setting up an airtable database or form that can be more robust and interoperable, let me know!",
+"size":"",
+"label":"Offering expertise on crafting Airtable's"
     }
 ],
 
