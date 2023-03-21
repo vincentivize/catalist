@@ -6528,7 +6528,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We are not your typical development company that builds and flips mortgage plantations,\* leaving residents to fend for themselves.\\n\\nRainbird Development Company, BLLC is a subsidiary of Rainbird Village, A Utah Benefit Municipal Corporation and Cooperative Association. It is a team of professionals that build whole-systems towns & villages primarily for prosperous, regionally self-reliant employee-owned companies and producer cooperatives.\\n\\nOur Vision & Mission\\nCompany towns used to be the backbone and economic powerhouse of America. (For a list of former company towns throughout the U.S., see US Company Towns List.) Due to exporting jobs overseas through globalization, what used to be prosperous, regionally self-reliant rural and semi-rural towns & villages are now the “rust belt” and dwindling or abandoned small towns throughout the heartland.\\n\\nThe mass migration in search of employment thus caused to ever-more expensive big cities has resulted in over-congestion and soaring homelessness, poverty, and crime.\\n\\nOur mission is to restore the thrivability\* of America by building whole-systems towns & villages for re-localization of prosperous, regionally self-reliant employee-owned companies and producer cooperatives throughout the United States.	\\n",
+"description":"We are not your typical development company that builds and flips mortgage plantations, leaving residents to fend for themselves.\\n\\nRainbird Development Company, BLLC is a subsidiary of Rainbird Village, A Utah Benefit Municipal Corporation and Cooperative Association. It is a team of professionals that build whole-systems towns & villages primarily for prosperous, regionally self-reliant employee-owned companies and producer cooperatives.\\n\\nOur Vision & Mission\\nCompany towns used to be the backbone and economic powerhouse of America. (For a list of former company towns throughout the U.S., see US Company Towns List.) Due to exporting jobs overseas through globalization, what used to be prosperous, regionally self-reliant rural and semi-rural towns & villages are now the “rust belt” and dwindling or abandoned small towns throughout the heartland.\\n\\nThe mass migration in search of employment thus caused to ever-more expensive big cities has resulted in over-congestion and soaring homelessness, poverty, and crime.\\n\\nOur mission is to restore the thrivability of America by building whole-systems towns & villages for re-localization of prosperous, regionally self-reliant employee-owned companies and producer cooperatives throughout the United States.",
 "size":"",
 "label":"Rainbird Development Company"
     },{
@@ -7383,7 +7383,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Eco is an online game where players must collaborate to build a civilization in a world where everything they do affects the environment.	\\n\\n",
+"description":"Eco is an online game where players must collaborate to build a civilization in a world where everything they do affects the environment.",
 "size":"",
 "label":"Eco Play"
     },{
@@ -8976,6 +8976,21 @@
 "description":"My slightly longer bio",
 "size":"",
 "label":"Vincent Arena"
+    },{
+        "id": "1679352739149x855601829326356500",
+"url":"https://www.neom.com/en-us/regions/theline",
+"object url":"https://www.catalist.network/trove-space/gaianet?object=1679352739149x855601829326356500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":["Innovation","climate","Land Use","solving pressing global problems","Responsible consumption and production","New Paradigms"],
+"sectors":["Resource Sharing Economics & Trade","Housing Infrastructure & Transport","Science Technology & Energy"],
+"locations":[],
+"address":"Saudi Arabia",
+"types":["Organization","Project"],
+"skills":[],
+"description":"THE FUTURE OF URBAN LIVING\\nTHE LINE is a civilizational revolution that puts humans first, providing an unprecedented urban living experience while preserving the surrounding nature. It redefines the concept of urban development and what cities of the future should look like.\\n\\nNo roads, cars or emissions, it will run on 100% renewable energy and 95% of land will be preserved for nature. People's health and wellbeing will be prioritized over transportation and infrastructure, unlike traditional cities. Only 200 meters wide, but 170 kilometers long and 500 meters above sea level.\\n\\nTHE LINE will eventually accommodate 9 million people and will be built on a footprint of just 34 square kilometers. This will mean a reduced infrastructure footprint, creating never-before-seen efficiencies in city functions. The ideal climate all-year-round will ensure that residents can enjoy the surrounding nature. Residents will also have access to all facilities within a five-minute walk, in addition to high-speed rail – with an end-to-end transit of 20 minutes.",
+"size":"",
+"label":"NEOM The Line"
     }
 ],
 
