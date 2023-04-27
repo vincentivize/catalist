@@ -1115,7 +1115,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Local and community based change,\\nBringing in influencers to engage the public,\\nInstitutional change,\\nDecember 18, 2022",
+"description":"Local and community based change,\nBringing in influencers to engage the public,\nInstitutional change,\nDecember 18, 2022",
 "size":"",
 "label":"Transformative Impact Summit"
     },{
@@ -1160,7 +1160,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"A prototype platform to help us relate ideas, people, projects.\\nAnd now also at Rel8, ",
+"description":"A prototype platform to help us relate ideas, people, projects.\nAnd now also at Rel8, ",
 "size":"",
 "label":"The Big Fungus"
     },{
@@ -1220,7 +1220,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"The idea of the Good Country Index is simple: to measure what each country on earth contributes to the common good of humanity, and what it takes away, relative to its size.\\nCan businesses support community projects without risking capital? Without perpetuating an extractive, enclosing, coercive model?",
+"description":"The idea of the Good Country Index is simple: to measure what each country on earth contributes to the common good of humanity, and what it takes away, relative to its size.\nCan businesses support community projects without risking capital? Without perpetuating an extractive, enclosing, coercive model?",
 "size":"",
 "label":"Good Country Index"
     },{
@@ -1460,7 +1460,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Library system, Help desk, New hierarchy / system of info; \\nLinks to research, insights, methodologies…,\\nWays to categorize and organize the complexity we are dealing with.",
+"description":"Library system, Help desk, New hierarchy / system of info; \nLinks to research, insights, methodologies…,\nWays to categorize and organize the complexity we are dealing with.",
 "size":"",
 "label":"Online Living Library"
     },{
@@ -1580,7 +1580,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"A joint project which dances with the devils in the details of platform interoperability - reckoning with what it takes to build an ecosystem of tools for change, for planetary-scale cooperation, for regeneration. \\n\\nWe are building the community to have the conversations that need to happen and to build the layers of trust and accountability which accelerate openness and justice in the space. Tools are the nodes, and we are building the relational web which lets us play together - from the technical to the social, the economic, the cultural, and the experiential.",
+"description":"A joint project which dances with the devils in the details of platform interoperability - reckoning with what it takes to build an ecosystem of tools for change, for planetary-scale cooperation, for regeneration. \n\nWe are building the community to have the conversations that need to happen and to build the layers of trust and accountability which accelerate openness and justice in the space. Tools are the nodes, and we are building the relational web which lets us play together - from the technical to the social, the economic, the cultural, and the experiential.",
 "size":"",
 "label":"Collaborative Tech Alliance "
     },{
@@ -1730,7 +1730,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"The Encyclopedia of World Problems and Human Potential is an online platform with profiles or world problems, action strategies, and human values that are interlinked in novel and innovative ways.\\n",
+"description":"The Encyclopedia of World Problems and Human Potential is an online platform with profiles or world problems, action strategies, and human values that are interlinked in novel and innovative ways.\n",
 "size":"",
 "label":"THE ENCYCLOPEDIA of World Problems and Human Potential"
     },{
@@ -2258,6 +2258,81 @@
 "description":"If you need help setting up an airtable database or form that can be more robust and interoperable, let me know!",
 "size":"",
 "label":"Offering expertise on crafting Airtable's"
+    },{
+        "id": "1680669477325x693577525526790100",
+"url":"https://www.communecter.org/#@oceatoon",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1680669477325x693577525526790100&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Réunion",
+"types":[],
+"skills":["Creativity","Collaboration","Leadership","Ideation","Design","Information Architecture"],
+"description":"web dev and digital permaculture design or society in building communecter.org",
+"size":"",
+"label":"Tibor Kat"
+    },{
+        "id": "1682444863575x713808883589316600",
+"url":"https://www.isocfoundation.org/grant-programme/research-grant-programme/",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1682444863575x713808883589316600&view=Graph&filtered=yes",
+"image":"https://www.isocfoundation.org/wp-content/uploads/2020/08/ISOC-IMAGE-80-RGB-1-1.jpg",
+"type":"Resource",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The Internet Society Foundation’s Research Programme supports global research collaborations that advance understanding of the Internet and its value for all.",
+"size":"",
+"label":"Research Grant Program | Internet Society Foundation"
+    },{
+        "id": "1682611133787x693414282058793000",
+"url":"https://alltechishuman.org/responsible-tech-job-board",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1682611133787x693414282058793000&view=Graph&filtered=yes",
+"image":"http://static1.squarespace.com/static/60355084905d134a93c099a8/t/61fad3b7de66f8737a6afaf2/1667867567482/Responsible+Tech+Job+Board.png?format=1500w",
+"type":"Resource",
+"tags":["Responsible Tech"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":["job Board"],
+"skills":[],
+"description":"All Tech Is Human’s Responsible Tech Job Board curates roles focused on reducing the harms of technology, diversifying the tech pipeline, and ensuring that technology is aligned with the public interest. It is the premiere resource in the field for people exploring a career change, new role, or interested in the growing responsible tech ecosystem.",
+"size":"",
+"label":"Responsible Tech Job Board — By All Tech Is Human"
+    },{
+        "id": "1682612058589x142509328725442560",
+"url":"https://www.sociocracyforall.org/sociocracy-conference-2023/",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1682612058589x142509328725442560&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"type":"Event",
+"tags":["Sociocracy"],
+"sectors":[],
+"locations":["Global"],
+"address":"",
+"types":["Conference"],
+"skills":[],
+"description":"A global sociocracy conference ",
+"size":"",
+"label":"Sociocracy Conference 2023 - Sociocracy For All"
+    },{
+        "id": "1682613918894x406242520856264700",
+"url":"https://about.peerdom.org/",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1682613918894x406242520856264700&view=Graph&filtered=yes",
+"image":"https://about.peerdom.org/images/screenshots/peerdomScreenshotMain.jpg",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Use Peerdom to enable collaboration and communication in your team. A dynamic org chart that helps you navigate challenges of new work. 30 days free trial.",
+"size":"",
+"label":"Peerdom | Surf the challenges of collaboration."
     }
 ],
 
@@ -2360,6 +2435,33 @@
 "type":"wants to meet with",
 "description":"Hey Brad, would love to have a 1-on-1 soon to chat about Noonet and knowledge graphs!",
 "label":"Vincent Arena wants to meet with Brad DeGraf"
+    }
+,{
+        "id": "1681942786017x740766217095872500",
+        "from": "1660151346982x270335483166988640",
+        "to": "1660151350032x769937635418378900",
+"strength":1,
+"type":"should collaborate with",
+"description":"Tapestry has information civilization 2.0 could use",
+"label":"Civilization 2.0 the game should collaborate with The Tapestry"
+    }
+,{
+        "id": "1682028702180x808608962495119400",
+        "from": "1660151643417x327359834684741700",
+        "to": "1660256800007x750867831650021800",
+"strength":1,
+"type":"should collaborate",
+"description":"you guys have data to share",
+"label":"Map Weavers should collaborate 🤝📱⭕️ CTA Open Community Meeting notes"
+    }
+,{
+        "id": "1682544541624x755370989210304500",
+        "from": "1679419062145x697214071565713400",
+        "to": "1660151350032x769937635418378900",
+"strength":7,
+"type":"has supported",
+"description":"Vincent has worked with Wendy to create a prototype of The Tapestry that is integrated into Troves as a new way to view information.",
+"label":"Vincent Arena has supported The Tapestry"
     }
 
  ]
