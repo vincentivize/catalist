@@ -138,7 +138,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Populate Air Table with other event calendar links & info\\n",
+"description":"Populate Air Table with other event calendar links & info\n",
 "size":"",
 "label":"Other event calendar links & info"
     },{
@@ -168,7 +168,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We started making a list of calendars in the airtable, at some point make this a standard data type with fields.\\n",
+"description":"We started making a list of calendars in the airtable, at some point make this a standard data type with fields.\n",
 "size":"",
 "label":"Look into adding calendars as a data type"
     },{
@@ -183,7 +183,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"My next steps: turning on the welcome message in dyno.gg once we are ready.\\n\\n\\nOkay great, besides that, and making edits to the form, the next steps are testing out setting up some of the new channels and roles/permissions\\nso we will want to before the switch make the everyone role so that people only see the welcome channel... then once verified they will be able to see other channels\\ni suggest a google doc or airtable with the roles and what channels they should see to make it easier for us to set things up?\\nI made this folder \"Testing-new-server\" which we can use to test these things",
+"description":"My next steps: turning on the welcome message in dyno.gg once we are ready.\n\n\nOkay great, besides that, and making edits to the form, the next steps are testing out setting up some of the new channels and roles/permissions\nso we will want to before the switch make the everyone role so that people only see the welcome channel... then once verified they will be able to see other channels\ni suggest a google doc or airtable with the roles and what channels they should see to make it easier for us to set things up?\nI made this folder \"Testing-new-server\" which we can use to test these things",
 "size":"",
 "label":"Set Seaworthy Permissions For Channels"
     },{
@@ -198,7 +198,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Some things we need to go over:\\nlink thing not working and adding [/url] when pasting from the google hangsout chats...\\n-getting the bot working\\n",
+"description":"Some things we need to go over:\nlink thing not working and adding [/url] when pasting from the google hangsout chats...\n-getting the bot working\n",
 "size":"",
 "label":"Set up meeting with Pete"
     },{
@@ -273,7 +273,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"tomorrow (RJ, Humera)\\njackie away 23 to 28th",
+"description":"tomorrow (RJ, Humera)\njackie away 23 to 28th",
 "size":"",
 "label":"Send Calendly for UIF Project on or after 29th"
     },{
@@ -363,7 +363,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Add a button in edit\\n",
+"description":"Add a button in edit\n",
 "size":"",
 "label":"Delete opportunities icon"
     },{
@@ -378,7 +378,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Get importance types projects and groups to sync\\nReplace static with dynamic Airtable variables\\nAdd fields to the air tables so we know which ones to skip….\\nThis leads the way for custom fields\\nSearch for this Airtable fields titles then find and replace the fields unique slug with the content from the page if it exists\\n\\nDelete projects text? Make projects a list of text but let users pick from the current projects if they want… maybe someday add a link to projects or just do a text match for now?\\n",
+"description":"Get importance types projects and groups to sync\nReplace static with dynamic Airtable variables\nAdd fields to the air tables so we know which ones to skip….\nThis leads the way for custom fields\nSearch for this Airtable fields titles then find and replace the fields unique slug with the content from the page if it exists\n\nDelete projects text? Make projects a list of text but let users pick from the current projects if they want… maybe someday add a link to projects or just do a text match for now?\n",
 "size":"",
 "label":"Finish adding task fields & sync"
     },{
@@ -438,7 +438,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"need to be able to in a few mins add a new event from a calendar item either within catalist or from airtable.... then be able to link data to it.\\n",
+"description":"need to be able to in a few mins add a new event from a calendar item either within catalist or from airtable.... then be able to link data to it.\n",
 "size":"",
 "label":"Quick Add Event from google cal"
     },{
@@ -453,7 +453,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://airtable.com/appDtk523HcbXF5Se/tblhpr1OA2o9KhCxM/viwlKDNt9iHYckH5I?blocks=hide>\\n",
+"description":"<https://airtable.com/appDtk523HcbXF5Se/tblhpr1OA2o9KhCxM/viwlKDNt9iHYckH5I?blocks=hide>\n",
 "size":"",
 "label":"Personas for Catalist"
     },{
@@ -468,7 +468,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Backlog task to see if this would be a better way to visulize the realitonship types instead of kumu\\n",
+"description":"Backlog task to see if this would be a better way to visulize the realitonship types instead of kumu\n",
 "size":"",
 "label":"Flourish Data Types Relationships"
     },{
@@ -483,7 +483,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Might need to register as a sales tax vendor in order to sell stuff on catalist and collect taxes.\\n",
+"description":"Might need to register as a sales tax vendor in order to sell stuff on catalist and collect taxes.\n",
 "size":"",
 "label":"Register as a sales tax vendor"
     },{
@@ -588,7 +588,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://www.perma.earth/events/list/>\\nWe decided to show all upcoming events in the next year\\n",
+"description":"<https://www.perma.earth/events/list/>\nWe decided to show all upcoming events in the next year\n",
 "size":"",
 "label":"Create settings for default events view in group"
     },{
@@ -603,7 +603,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"create airtable form first\\n",
+"description":"create airtable form first\n",
 "size":"",
 "label":"Replace Events Form with airtable"
     },{
@@ -648,7 +648,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Enter a new object, with no URL.  Go back to edit the object, and Title field is missing - there's no way to edit it.  Add any URL, the title field appears.  Delete the URL, the title field disappears again.\t\\n",
+"description":"Enter a new object, with no URL.  Go back to edit the object, and Title field is missing - there's no way to edit it.  Add any URL, the title field appears.  Delete the URL, the title field disappears again.\t\n",
 "size":"",
 "label":"Object Edit missing Title"
     },{
@@ -663,7 +663,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"I get a null page (<https://www.catalist.network/group-public/null>) instead of a webpage, but there doesn't seem to be a space in settings anywhere to add a website URL\\n",
+"description":"I get a null page (<https://www.catalist.network/group-public/null>) instead of a webpage, but there doesn't seem to be a space in settings anywhere to add a website URL\n",
 "size":"",
 "label":"\"View Website\" button on Group Page broken"
     },{
@@ -678,7 +678,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"here: https://www.catalist.network/edit-event/monthly-check-in---backbone-cluster-2022-06-09\\n",
+"description":"here: https://www.catalist.network/edit-event/monthly-check-in---backbone-cluster-2022-06-09\n",
 "size":"",
 "label":"Event - scheduling monthly recurring meetings"
     },{
@@ -693,7 +693,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"I tried to edit my Short Bio information, and the system showed a cursor, but wouldn’t let me type in?  Was ok on the Long Bio for some reason.\\n",
+"description":"I tried to edit my Short Bio information, and the system showed a cursor, but wouldn’t let me type in?  Was ok on the Long Bio for some reason.\n",
 "size":"",
 "label":"Profile edit short bio not working"
     },{
@@ -708,7 +708,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"The Sector Selection on the Links is a bit glitchy as is the Types – so much so that I stopped working with it and filling out the other fields… Is it possible to have them in alphabetical order and bundled into subcategories with so many? And a way to not have to go back in from scratch and having to scroll through to figure out which ones have already been covered?\\n",
+"description":"The Sector Selection on the Links is a bit glitchy as is the Types – so much so that I stopped working with it and filling out the other fields… Is it possible to have them in alphabetical order and bundled into subcategories with so many? And a way to not have to go back in from scratch and having to scroll through to figure out which ones have already been covered?\n",
 "size":"",
 "label":"Sectors and Types - request to shorten list"
     },{
@@ -753,7 +753,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Working with Carrie to automate \"engagement\" info - #views, time viewed, module completions etc - from the Kajabi platform for deeper access to WINfinity pages and materials.\\n",
+"description":"Working with Carrie to automate \"engagement\" info - #views, time viewed, module completions etc - from the Kajabi platform for deeper access to WINfinity pages and materials.\n",
 "size":"",
 "label":"Integrate export from Kajabi"
     },{
@@ -783,7 +783,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://vimeo.com/689784637>\\n",
+"description":"<https://vimeo.com/689784637>\n",
 "size":"",
 "label":"Gaianet ESM Project Create Updated Kumu"
     },{
@@ -798,7 +798,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://forum.bubble.io/t/pdf-conjurer-updated-free-plugin-now-saving-to-database/43240>\\n",
+"description":"<https://forum.bubble.io/t/pdf-conjurer-updated-free-plugin-now-saving-to-database/43240>\n",
 "size":"",
 "label":"Create PDF when button click on table"
     },{
@@ -813,7 +813,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"use plugin https://zeroqode.com/plugin/reveal--hide-password-plugin-for-bubble--1550378922427x147106835967246340\\n",
+"description":"use plugin https://zeroqode.com/plugin/reveal--hide-password-plugin-for-bubble--1550378922427x147106835967246340\n",
 "size":"",
 "label":"hide password on reset pw page"
     },{
@@ -873,7 +873,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://video-demo-app.bubbleapps.io/?debug\_mode=true\\n\\nBefore this, have to get the messages into the database\\n",
+"description":"https://video-demo-app.bubbleapps.io/?debug\_mode=true\n\nBefore this, have to get the messages into the database\n",
 "size":"",
 "label":"click on message and go to that point in the call"
     },{
@@ -888,7 +888,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"this would have your comments and bookmarks \\n",
+"description":"this would have your comments and bookmarks \n",
 "size":"",
 "label":"Designing the interactions view for a trove"
     },{
@@ -903,7 +903,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Is there a way - I thought I saw a demo of you doing this - where a user can put a personal note on any object.  I don't see the way to do this though...\t\\n",
+"description":"Is there a way - I thought I saw a demo of you doing this - where a user can put a personal note on any object.  I don't see the way to do this though...\t\n",
 "size":"",
 "label":"Putting a Note on a Trove object"
     },{
@@ -918,7 +918,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"then after this, we can set up the automation for trove - > airtable\\n",
+"description":"then after this, we can set up the automation for trove - > airtable\n",
 "size":"",
 "label":"Schema for Tapestry including all fields"
     },{
@@ -963,7 +963,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"on click of button? or on checkbox?\\n",
+"description":"on click of button? or on checkbox?\n",
 "size":"",
 "label":"Add delete functionality in cataport"
     },{
@@ -1008,7 +1008,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Get importance types projects and groups to sync\\nReplace static with dynamic Airtable variables\\nAdd fields to the air tables so we know which ones to skip….\\nThis leads the way for custom fields\\nSearch for this Airtable fields titles then find and replace the fields unique slug with the content from the page if it exists\\n\\nDelete projects text? Make projects a list of text but let users pick from the current projects if they want… maybe someday add a link to projects or just do a text match for now?",
+"description":"Get importance types projects and groups to sync\nReplace static with dynamic Airtable variables\nAdd fields to the air tables so we know which ones to skip….\nThis leads the way for custom fields\nSearch for this Airtable fields titles then find and replace the fields unique slug with the content from the page if it exists\n\nDelete projects text? Make projects a list of text but let users pick from the current projects if they want… maybe someday add a link to projects or just do a text match for now?",
 "size":"",
 "label":"Finish adding task fields "
     },{
@@ -1158,7 +1158,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"waiting on Elliott\t\t\\n",
+"description":"waiting on Elliott\t\t\n",
 "size":"",
 "label":"Import current speakers into transformative impact summit airtable"
     },{
@@ -1173,7 +1173,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"When creating cross-connections within a Trove, show them underneath, with a similar design as the details under each link on this page: <https://www.catalist.network/home>\\n",
+"description":"When creating cross-connections within a Trove, show them underneath, with a similar design as the details under each link on this page: <https://www.catalist.network/home>\n",
 "size":"",
 "label":"Showing Connections under trove objects"
     },{
@@ -1188,7 +1188,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Be able to curate Links to turn them into Resources\\n",
+"description":"Be able to curate Links to turn them into Resources\n",
 "size":"",
 "label":"Links To Resources"
     },{
@@ -1203,7 +1203,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Cross-pollination: Add links/resources/videos to a Trove\\n",
+"description":"Cross-pollination: Add links/resources/videos to a Trove\n",
 "size":"",
 "label":"Adding links/resources to a trove"
     },{
@@ -1218,7 +1218,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Put an 'add' button on group tabs: Links, resources, videos, trovesPut an 'add' button on group tabs: Links, resources, videos, troves\\n",
+"description":"Put an 'add' button on group tabs: Links, resources, videos, trovesPut an 'add' button on group tabs: Links, resources, videos, troves\n",
 "size":"",
 "label":"add button on group tabs"
     },{
@@ -1233,7 +1233,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Edit 'link's so they can be removed from 'pin to group page'\\n",
+"description":"Edit 'link's so they can be removed from 'pin to group page'\n",
 "size":"",
 "label":"Unpin links from group dashboard"
     },{
@@ -1248,7 +1248,7 @@
 "address":"",
 "types":["Recurring","Focused"],
 "skills":[],
-"description":"Add Airtable name to the database. For links add Airtable as the source Airtable name as the instance, table name as the channel. Except instead of Airtable > Catabot > Links it will be Source Discord… but for all other data types Airtable will now be a source.\\n",
+"description":"Add Airtable name to the database. For links add Airtable as the source Airtable name as the instance, table name as the channel. Except instead of Airtable > Catabot > Links it will be Source Discord… but for all other data types Airtable will now be a source.\n",
 "size":"",
 "label":"Catabot two way sync"
     },{
@@ -1263,7 +1263,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"The issue is cataport is super insecure and anyone can overwrite the wrong data and privacy settings on the api are either all open or closed. Figured out how to do authorization properly with cataport \\n",
+"description":"The issue is cataport is super insecure and anyone can overwrite the wrong data and privacy settings on the api are either all open or closed. Figured out how to do authorization properly with cataport \n",
 "size":"",
 "label":"Privacy settings for cataport  "
     },{
@@ -1338,7 +1338,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"what should be possible?\\n",
+"description":"what should be possible?\n",
 "size":"",
 "label":"Add the ability to favorite events"
     },{
@@ -1353,7 +1353,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Proposed\\n",
+"description":"Proposed\n",
 "size":"",
 "label":"Figure out best way to filter events, proposed, future..."
     },{
@@ -1368,7 +1368,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Ask Elliot to facilitate next gathering with help from Trove map and RSVP form... Tied into profiles potentially. End of Event RSVP (Would you like to be invited onto Trove?). ALso discord design and the question of how do new people join?\\n",
+"description":"Ask Elliot to facilitate next gathering with help from Trove map and RSVP form... Tied into profiles potentially. End of Event RSVP (Would you like to be invited onto Trove?). ALso discord design and the question of how do new people join?\n",
 "size":"",
 "label":"RSVP Form"
     },{
@@ -1398,7 +1398,7 @@
 "address":"",
 "types":["Feature","Idea"],
 "skills":[],
-"description":"Waiting for Clinton's reponse\\n",
+"description":"Waiting for Clinton's reponse\n",
 "size":"",
 "label":"Ask Clinton to add Date field type in catabot"
     },{
@@ -1413,7 +1413,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Also the links on the event page, how this works to put links from the page and not the edit page.... editing and popup\\n",
+"description":"Also the links on the event page, how this works to put links from the page and not the edit page.... editing and popup\n",
 "size":"",
 "label":"Event Page Redesign"
     },{
@@ -1443,7 +1443,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://zapier.com/app/zaps/folder/1256820\\n\\nexplainig how to set up a zoom zap to catalist\\n",
+"description":"https://zapier.com/app/zaps/folder/1256820\n\nexplainig how to set up a zoom zap to catalist\n",
 "size":"",
 "label":"publish zap guide"
     },{
@@ -1458,7 +1458,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://www.catalist.network/event/regenerarising?scroll=Agenda\\n",
+"description":"https://www.catalist.network/event/regenerarising?scroll=Agenda\n",
 "size":"",
 "label":"dss page hide/show repo for videos"
     },{
@@ -1593,7 +1593,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"1. send ben timeline on onboarding bot\\n2. make simpler opportunities field\\n3. offer/request, title, type, date range, desc, url\\n4. onboarding form flow, name, email, guidlines, role added\\n5. \\n",
+"description":"1. send ben timeline on onboarding bot\n2. make simpler opportunities field\n3. offer/request, title, type, date range, desc, url\n4. onboarding form flow, name, email, guidlines, role added\n5. \n",
 "size":"",
 "label":"Seaworthy tasks"
     },{
@@ -1608,7 +1608,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"This requires finalizing privacy permission for tasks and how people can view or edit tasks.\\n",
+"description":"This requires finalizing privacy permission for tasks and how people can view or edit tasks.\n",
 "size":"",
 "label":"add tasks for groups...."
     },{
@@ -1653,7 +1653,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"medard@bigpicturesmallworld.com \\n",
+"description":"medard@bigpicturesmallworld.com \n",
 "size":"",
 "label":"reach out to Medard Gabel "
     },{
@@ -1713,7 +1713,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"search popup\\nmobile header fix\\n",
+"description":"search popup\nmobile header fix\n",
 "size":"",
 "label":"chralis updates"
     },{
@@ -1743,7 +1743,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://github.com/Clish254?tab=repositories\\n",
+"description":"https://github.com/Clish254?tab=repositories\n",
 "size":"",
 "label":"add clinton to the grant"
     },{
@@ -1758,7 +1758,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://airtable.com/appgEjt0THlohXrmx/tblVhEFuTxJSIU30F/viwFI9iIFOqzuVL6y?blocks=bipezsehRb8L1E6pN\\n",
+"description":"https://airtable.com/appgEjt0THlohXrmx/tblVhEFuTxJSIU30F/viwFI9iIFOqzuVL6y?blocks=bipezsehRb8L1E6pN\n",
 "size":"",
 "label":"Import Wealth Initiative events intoi live DB"
     },{
@@ -1773,7 +1773,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://docs.google.com/document/d/1ATSuhf8VyIVMzSKC9M_44_rSEL3c1lfDyNzs\_Vya4jg/edit#heading=h.ibe88ttcjmrx\\n",
+"description":"https://docs.google.com/document/d/1ATSuhf8VyIVMzSKC9M_44_rSEL3c1lfDyNzs\_Vya4jg/edit#heading=h.ibe88ttcjmrx\n",
 "size":"",
 "label":"Share the encyclopedic grant page and start one for catalist in general"
     },{
@@ -1848,7 +1848,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"mahmoud is interested!\\n",
+"description":"mahmoud is interested!\n",
 "size":"",
 "label":"think about public tasks"
     },{
@@ -1863,7 +1863,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"title, created by, people (connections), groups, networks, etc.\\n",
+"description":"title, created by, people (connections), groups, networks, etc.\n",
 "size":"",
 "label":"finalize trove filters"
     },{
@@ -1878,7 +1878,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"pricing for last year\\npricing for this year\\nwork ive done so far\\nwork i'll do this next few weeks\\n",
+"description":"pricing for last year\npricing for this year\nwork ive done so far\nwork i'll do this next few weeks\n",
 "size":"",
 "label":"nick send email "
     },{
@@ -1893,7 +1893,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"make events load faster, redo the profile page with the new nav bar! make it so events don't show up if the person's events are all private\\n",
+"description":"make events load faster, redo the profile page with the new nav bar! make it so events don't show up if the person's events are all private\n",
 "size":"",
 "label":"profile events "
     },{
@@ -1908,7 +1908,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://support.gitcoin.co/kb/article/49-what-are-gitcoin-grants/#:~:text=Gitcoin%20Grants%20is%20an%20experiment,donors%20in%20the%20Ethereum%20ecosystem.\\n",
+"description":"https://support.gitcoin.co/kb/article/49-what-are-gitcoin-grants/#:~:text=Gitcoin%20Grants%20is%20an%20experiment,donors%20in%20the%20Ethereum%20ecosystem.\n",
 "size":"",
 "label":"Submit Gitcoin Grant"
     },{
@@ -1923,7 +1923,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://airtable.com/app5w6ZvGLsVoYcUG/tbl6wAax6xaNY7501/viwR3S3VFDQHyVVAY?blocks=hide\\n\\nhttps://chrome.nocodehq.com/\\n\\nIn order to do this, I need to first finalize the name/logo\\n",
+"description":"https://airtable.com/app5w6ZvGLsVoYcUG/tbl6wAax6xaNY7501/viwR3S3VFDQHyVVAY?blocks=hide\n\nhttps://chrome.nocodehq.com/\n\nIn order to do this, I need to first finalize the name/logo\n",
 "size":"",
 "label":"chrome extension for catamark"
     },{
@@ -1938,7 +1938,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"I have a non-profit and for-profit structure -- happy to chat!\t\\n\t\\n\t\\nPeter Coughlan, peter@hasten.ventures\t\\n\\n\\nKyle Rossin\t\\n\t\\nkyle@manggear.com\t\\n",
+"description":"I have a non-profit and for-profit structure -- happy to chat!\t\n\t\n\t\nPeter Coughlan, peter@hasten.ventures\t\n\n\nKyle Rossin\t\n\t\nkyle@manggear.com\t\n",
 "size":"",
 "label":"reach out to seaworthy contacts for onprofit"
     },{
@@ -1953,7 +1953,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"also pull links from https://forum.openglobalmind.com/t/about-the-resources-category/72\\n",
+"description":"also pull links from https://forum.openglobalmind.com/t/about-the-resources-category/72\n",
 "size":"",
 "label":"follow up with pete about links"
     },{
@@ -1983,7 +1983,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Personal notes to resources/objects.\\nRole/Organization (multiple)\\nTrending Topics\\nIdeas (Title, desc, upvote/downvote,comment)\\nForum Posts (Blog)\\nFuture/Past\\n# of members in a group\\nApply to join Trove\\nYou've been invited to create a group/community on Trove.\\nLooking for a digital community and knowledge manager\\nSupport online collaboration and knowledge sharing\\nActivity Feed Of A Group. This person Did this and here's the link.\\n",
+"description":"Personal notes to resources/objects.\nRole/Organization (multiple)\nTrending Topics\nIdeas (Title, desc, upvote/downvote,comment)\nForum Posts (Blog)\nFuture/Past\n# of members in a group\nApply to join Trove\nYou've been invited to create a group/community on Trove.\nLooking for a digital community and knowledge manager\nSupport online collaboration and knowledge sharing\nActivity Feed Of A Group. This person Did this and here's the link.\n",
 "size":"",
 "label":"Make changes from khub into database"
     },{
@@ -2013,7 +2013,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Waiting on cataport update\\n",
+"description":"Waiting on cataport update\n",
 "size":"",
 "label":". figure out best way to import topics as linked"
     },{
@@ -2043,7 +2043,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"done, but should we actually add a reminder? email?\\n",
+"description":"done, but should we actually add a reminder? email?\n",
 "size":"",
 "label":"change reminder to due date"
     },{
@@ -2148,7 +2148,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"nfo@visiontrain.org\\nRainbowExpress202!\*\*\\n",
+"description":"nfo@visiontrain.org\nRainbowExpress202!\*\*\n",
 "size":"",
 "label":"Download Future zooms"
     },{
@@ -2178,7 +2178,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"create a form to add new a businesses\\nAdd orb subtypes and topics\\nupload into trove\\nsearch popup\\nmobile header fix\\nfix filters and map\\npopup design\\nadd locations form\\n",
+"description":"create a form to add new a businesses\nAdd orb subtypes and topics\nupload into trove\nsearch popup\nmobile header fix\nfix filters and map\npopup design\nadd locations form\n",
 "size":"",
 "label":"Chyrsalis tasks"
     },{
@@ -2193,7 +2193,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"If event idea, when you RSVP show a list of different times in your timezone to check off, this list of dates will then be collated! The should pick a list of dates to start.\\n",
+"description":"If event idea, when you RSVP show a list of different times in your timezone to check off, this list of dates will then be collated! The should pick a list of dates to start.\n",
 "size":"",
 "label":"RSVP Event Idea"
     },{
@@ -2268,7 +2268,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://kumu.io/vincentarena/systems-innovators-test#untitled-map/1642255826539x622910839434772500 this way an example which i did with cleaning up the json a bit online. and it works okay....\\n",
+"description":"https://kumu.io/vincentarena/systems-innovators-test#untitled-map/1642255826539x622910839434772500 this way an example which i did with cleaning up the json a bit online. and it works okay....\n",
 "size":"",
 "label":"trove export json make trove at center!"
     },{
@@ -2373,7 +2373,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://workflowy.com/#/5365e95d9415\\n",
+"description":"https://workflowy.com/#/5365e95d9415\n",
 "size":"",
 "label":"Homepage Finalized Copy/Design"
     },{
@@ -2523,7 +2523,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"should topics be concepts? outcomes? learning paths through a trove. abbreviations/glossary of terms for groups. topics specific to a group? annotation -- you can comment, highlight a certain piece of text. either all can see, you own it, or certain groups. the first comment privacy sets the rest of the comment's privacy.\\n",
+"description":"should topics be concepts? outcomes? learning paths through a trove. abbreviations/glossary of terms for groups. topics specific to a group? annotation -- you can comment, highlight a certain piece of text. either all can see, you own it, or certain groups. the first comment privacy sets the rest of the comment's privacy.\n",
 "size":"",
 "label":"Living Textbook incorporate notes"
     },{
@@ -2538,7 +2538,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Title, description, tags, link to events/resources/links, list of users that completed it, the group it's in.\\n",
+"description":"Title, description, tags, link to events/resources/links, list of users that completed it, the group it's in.\n",
 "size":"",
 "label":"Assignments Tab."
     },{
@@ -2643,7 +2643,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Ideas/Set, Type, Topics, also signup close date for RSVP button. \\n",
+"description":"Ideas/Set, Type, Topics, also signup close date for RSVP button. \n",
 "size":"",
 "label":"Add event filters"
     },{
@@ -2913,7 +2913,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"email, name, interests, question, location were the field that Liv wanted.\\n",
+"description":"email, name, interests, question, location were the field that Liv wanted.\n",
 "size":"",
 "label":"Add location to the RSVP form"
     },{
@@ -3033,7 +3033,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Set stock images for major networks, data types, etc.\t\\n",
+"description":"Set stock images for major networks, data types, etc.\t\n",
 "size":"",
 "label":"Set Stock Images"
     },{
@@ -3048,7 +3048,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We need to start sending out newsletters... should design a template as well as figure out a way to get like a whole list of events or resources into the email in a repeating group like this:\\nCheck out our upcoming events!\\n- Event TItle 1\\n    - event details\\n    - RSVP\\n- Event Title 2\\n    - Event details\\n    - RSVP \\nRight now we are using sendGrid - so this would make sense.\\n\\n",
+"description":"We need to start sending out newsletters... should design a template as well as figure out a way to get like a whole list of events or resources into the email in a repeating group like this:\nCheck out our upcoming events!\n- Event TItle 1\n    - event details\n    - RSVP\n- Event Title 2\n    - Event details\n    - RSVP \nRight now we are using sendGrid - so this would make sense.\n\n",
 "size":"",
 "label":"Email Template For Newsletter"
     },{
@@ -3063,7 +3063,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We should have a database of \"conversations\" - public meetings that have happened on trove that people WANT to share. try this first just with Trove events and then invite others to share their videos later. Here we could get into favoriting videos and content....\\n\\nYes and limit to YouTube or load all? Do experiment with rg html element with videos?\\n",
+"description":"We should have a database of \"conversations\" - public meetings that have happened on trove that people WANT to share. try this first just with Trove events and then invite others to share their videos later. Here we could get into favoriting videos and content....\n\nYes and limit to YouTube or load all? Do experiment with rg html element with videos?\n",
 "size":"",
 "label":"Design The Global Event Repository"
     },{
@@ -3078,7 +3078,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Most pages on the site with tabs or \"repeating groups\" in bubble.io looks REALLY UGLY and almost unusable on firebox. We need to figure out a way to use javascript or css on firefox specifically to hide the. We are already doing this and it works on every other browser. Here are some links that have been useful in research so far:\\n\\n<https://forum.bubble.io/t/scrollbars-design-and-hide/62643/6>\\n<https://stackoverflow.com/questions/6165472/custom-css-scrollbar-for-firefox/53739309#53739309>\\n<https://bubble.io/plugin/toolit-kit---helpful-functions-1562812673262x109396480465567740#>\\n\\n\\n\\n- <https://forum.bubble.io/t/scrollbars-design-and-hide/62643>\\n- <https://bubble.io/plugin/toolit-kit---helpful-functions-1562812673262x109396480465567740#> \\n    - this plugin we currently are using sucessfully on other browers\\n    - <https://stackoverflow.com/questions/7743840/apply-webkit-scrollbar-style-to-specified-element>\\n\\nHow will we know when we are sucessful:\\n\\nCreate a bubble.io project, have a repeating group with horizontal scrolling, then view it on firefox and have the scrollbar hidden.\\n\\n```\\n\\n```\\n",
+"description":"Most pages on the site with tabs or \"repeating groups\" in bubble.io looks REALLY UGLY and almost unusable on firebox. We need to figure out a way to use javascript or css on firefox specifically to hide the. We are already doing this and it works on every other browser. Here are some links that have been useful in research so far:\n\n<https://forum.bubble.io/t/scrollbars-design-and-hide/62643/6>\n<https://stackoverflow.com/questions/6165472/custom-css-scrollbar-for-firefox/53739309#53739309>\n<https://bubble.io/plugin/toolit-kit---helpful-functions-1562812673262x109396480465567740#>\n\n\n\n- <https://forum.bubble.io/t/scrollbars-design-and-hide/62643>\n- <https://bubble.io/plugin/toolit-kit---helpful-functions-1562812673262x109396480465567740#> \n    - this plugin we currently are using sucessfully on other browers\n    - <https://stackoverflow.com/questions/7743840/apply-webkit-scrollbar-style-to-specified-element>\n\nHow will we know when we are sucessful:\n\nCreate a bubble.io project, have a repeating group with horizontal scrolling, then view it on firefox and have the scrollbar hidden.\n\n```\n\n```\n",
 "size":"",
 "label":"Hide Scrollbar on Firefox"
     },{
@@ -3093,7 +3093,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We should fill up the calendar for the next few months with clubhouse events, conferences, etc.\tAlmost anyone can do this, do a quick runthrough to make sure anyone even not logged in can do this easily. what happens when someone doesn't put an editor for the event? require their email?>\t\\n",
+"description":"We should fill up the calendar for the next few months with clubhouse events, conferences, etc.\tAlmost anyone can do this, do a quick runthrough to make sure anyone even not logged in can do this easily. what happens when someone doesn't put an editor for the event? require their email?>\t\n",
 "size":"",
 "label":"Add Events To The Calendar"
     },{
@@ -3318,7 +3318,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://www.youtube.com/watch?v=FMGG2fC6VdA>\\n",
+"description":"<https://www.youtube.com/watch?v=FMGG2fC6VdA>\n",
 "size":"",
 "label":"add privacy features"
     },{
@@ -3438,7 +3438,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Not Logged In User Navigates To Landing Page\\n",
+"description":"Not Logged In User Navigates To Landing Page\n",
 "size":"",
 "label":"hide all buttons on landing page"
     },{
@@ -3483,7 +3483,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"I\\n",
+"description":"I\n",
 "size":"",
 "label":"Icon Design Sprint"
     },{
@@ -3543,7 +3543,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Waiting on topics issue.. also stock sector icons and BG?\\n",
+"description":"Waiting on topics issue.. also stock sector icons and BG?\n",
 "size":"",
 "label":"Import all networks from airtable into trove, maybe figure out a good way of syncing those?"
     },{
@@ -3813,7 +3813,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Add from resource or project or url?\\n",
+"description":"Add from resource or project or url?\n",
 "size":"",
 "label":"Add new group or org quickadd"
     },{
@@ -3858,7 +3858,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://docs.google.com/document/d/1AfauJQ3UmTLb_WBp9-NBQ-fn8sI_Esl7nlw4nVy7EAg/edit#>\\n",
+"description":"<https://docs.google.com/document/d/1AfauJQ3UmTLb_WBp9-NBQ-fn8sI_Esl7nlw4nVy7EAg/edit#>\n",
 "size":"",
 "label":"Send out email to event attendees"
     },{
@@ -3903,7 +3903,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"ALSO SET dates for them, basically interactions for links.\\n",
+"description":"ALSO SET dates for them, basically interactions for links.\n",
 "size":"",
 "label":"favorite links"
     },{
@@ -3948,7 +3948,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"log into powerbase\\n",
+"description":"log into powerbase\n",
 "size":"",
 "label":"Re: Website Integration"
     },{
@@ -3963,7 +3963,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Redo page design\\n",
+"description":"Redo page design\n",
 "size":"",
 "label":"WOO loading bug "
     },{
@@ -4113,7 +4113,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://airtable.com/appZkxZqQ16mWNEnA/tblU3VsUvfcayUIMO/viwfuU3lfuZyKntfD?blocks=hide>\\n\\nThe purpose of this is to: see what activities people and groups do, events will have, and then be able to connect across activities. also activities can be modules in events or groups?!\\n",
+"description":"<https://airtable.com/appZkxZqQ16mWNEnA/tblU3VsUvfcayUIMO/viwfuU3lfuZyKntfD?blocks=hide>\n\nThe purpose of this is to: see what activities people and groups do, events will have, and then be able to connect across activities. also activities can be modules in events or groups?!\n",
 "size":"",
 "label":"add activity data type"
     },{
@@ -4128,7 +4128,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"The ability to:\\n1) delete trove or create a new one easily\\n2) add your own audiences\\n3) add relationships (basic)\\n4) keep the website there longer?\\n5) make a post button more central\\n6) edit the doc view to make tags smaller\\n7) share button\\n8) where to find these in your profile?\\n",
+"description":"The ability to:\n1) delete trove or create a new one easily\n2) add your own audiences\n3) add relationships (basic)\n4) keep the website there longer?\n5) make a post button more central\n6) edit the doc view to make tags smaller\n7) share button\n8) where to find these in your profile?\n",
 "size":"",
 "label":"New trove updates"
     },{
@@ -4158,7 +4158,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://docs.google.com/spreadsheets/d/195FEPg7i880KZw_GzpUt2IX8S8ac8maV/edit#gid=319530690>\\n",
+"description":"<https://docs.google.com/spreadsheets/d/195FEPg7i880KZw_GzpUt2IX8S8ac8maV/edit#gid=319530690>\n",
 "size":"",
 "label":"Download csv and add to trove"
     },{
@@ -4173,7 +4173,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Trove is a knowledge network that encourages collaboration across social impact organizations\\n",
+"description":"Trove is a knowledge network that encourages collaboration across social impact organizations\n",
 "size":"",
 "label":"gitcoin grant"
     },{
@@ -4218,7 +4218,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Add to the press conference so I can link up data without leaving the event page. \\nAdd tags to presentation RSVPs!\\n",
+"description":"Add to the press conference so I can link up data without leaving the event page. \nAdd tags to presentation RSVPs!\n",
 "size":"",
 "label":"Add opportunity button or link existing (if on a page)"
     },{
@@ -4263,7 +4263,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://caffeinatedcommunications.com/website-like-house/?doing_wp_cron=1640556664.4081540107727050781250>\\n\\n<https://adaptingonline.com/building-a-website-is-like-building-a-home/>\\n",
+"description":"<https://caffeinatedcommunications.com/website-like-house/?doing_wp_cron=1640556664.4081540107727050781250>\n\n<https://adaptingonline.com/building-a-website-is-like-building-a-home/>\n",
 "size":"",
 "label":"extend this analogy to the groups guide"
     },{
@@ -4323,7 +4323,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://us02web.zoom.us/j/595172819>\\n",
+"description":"<https://us02web.zoom.us/j/595172819>\n",
 "size":"",
 "label":"add events for the press conference"
     },{
@@ -4338,7 +4338,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Advisor meeting\\n",
+"description":"Advisor meeting\n",
 "size":"",
 "label":"organize the ifnormation to prepare for the about meeting"
     },{
@@ -4353,7 +4353,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://www.catalist.network/version-test/testflex?debug_mode=true>\\n",
+"description":"<https://www.catalist.network/version-test/testflex?debug_mode=true>\n",
 "size":"",
 "label":"create prototye for new nav"
     },{
@@ -4368,7 +4368,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"A weekly page to show what’s happened in the past 7 days and what’s to come in the next 7. Refreshed every day. Could just do this with html like the email template?  I've started it here: https://www.catalist.network/version-test/weekly\\n",
+"description":"A weekly page to show what’s happened in the past 7 days and what’s to come in the next 7. Refreshed every day. Could just do this with html like the email template?  I've started it here: https://www.catalist.network/version-test/weekly\n",
 "size":"",
 "label":"Make a this week page in Trove that has the current weeks events (next 7 days), the resources things curated in the last 7, projects added or updated in last 7, new members joined in last 7, new communities available in last 7. Weekly Discover"
     },{
@@ -4398,7 +4398,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://nocodeassistant.com/unique-and-seo-friendly-url-in-bubble/>\\n\\nAlso by default create other titled make this an api workflow\\n",
+"description":"<https://nocodeassistant.com/unique-and-seo-friendly-url-in-bubble/>\n\nAlso by default create other titled make this an api workflow\n",
 "size":"",
 "label":"give all topics slugs and make sure this happens by default"
     },{
@@ -4413,7 +4413,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://docs.google.com/spreadsheets/d/1yaYNWdwEITzvYxzoSbKLBaBDBUCWtI9z-cYRWePhI6M/edit#gid=0>\\n",
+"description":"<https://docs.google.com/spreadsheets/d/1yaYNWdwEITzvYxzoSbKLBaBDBUCWtI9z-cYRWePhI6M/edit#gid=0>\n",
 "size":"",
 "label":"folow up with eli about the bulk csv uploader"
     },{
@@ -4443,7 +4443,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"add it into other channels\t\\n",
+"description":"add it into other channels\t\n",
 "size":"",
 "label":"Set up bot in discord seaworthy and catalist"
     },{
@@ -4488,7 +4488,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"document the image size\\n",
+"description":"document the image size\n",
 "size":"",
 "label":"edit event page image to not be so huge"
     },{
@@ -4503,7 +4503,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"is there a file size restriction? how do we play them later? audio player?\\n",
+"description":"is there a file size restriction? how do we play them later? audio player?\n",
 "size":"",
 "label":"upload mp4 on trove"
     },{
@@ -4518,7 +4518,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://docs.google.com/spreadsheets/d/1M0ykPaJ0DLTOyRYU_oaRcTnc6__aJps0lN59wJRzwQc/edit#gid=0>\\n",
+"description":"<https://docs.google.com/spreadsheets/d/1M0ykPaJ0DLTOyRYU_oaRcTnc6__aJps0lN59wJRzwQc/edit#gid=0>\n",
 "size":"",
 "label":"Set up time with Lauren to go over the google sheet and finish editing it!"
     },{
@@ -4548,7 +4548,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Add hours to all events, select all with matching title by group, or all in current series.\\n",
+"description":"Add hours to all events, select all with matching title by group, or all in current series.\n",
 "size":"",
 "label":"Tab in edit event to edit all in a series. Ability to select which ones to edit… a dropdown?"
     },{
@@ -4623,7 +4623,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"📎Privacy Vs Sharing (<https://drive.google.com/open?id=1-VdThnJcka_xCHQKS7EwiKe5Kkhax-UBy-E64ZLGpFY>)\\n\\n<https://docs.google.com/document/d/1-VdThnJcka_xCHQKS7EwiKe5Kkhax-UBy-E64ZLGpFY/edit#heading=h.7kqt6zf2dgmg>\\n",
+"description":"📎Privacy Vs Sharing (<https://drive.google.com/open?id=1-VdThnJcka_xCHQKS7EwiKe5Kkhax-UBy-E64ZLGpFY>)\n\n<https://docs.google.com/document/d/1-VdThnJcka_xCHQKS7EwiKe5Kkhax-UBy-E64ZLGpFY/edit#heading=h.7kqt6zf2dgmg>\n",
 "size":"",
 "label":"privcy writeup/summary"
     },{
@@ -4683,7 +4683,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Trove user navigates to their profile. THey click connect google calendar. Then they have filters where they can set, I want to see events: \"in these groups\" related to these topics, \"of these types\".\\n\\nIt will sync all trove events that match those critera with their google calendar.\\n",
+"description":"Trove user navigates to their profile. THey click connect google calendar. Then they have filters where they can set, I want to see events: \"in these groups\" related to these topics, \"of these types\".\n\nIt will sync all trove events that match those critera with their google calendar.\n",
 "size":"",
 "label":"Funding for events project with naomi write a proposal draft "
     },{
@@ -4728,7 +4728,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Public -  shows up on the calendar\\nRestricted - logged in people can see if they find the link\\nPrivate - logged in people cant see\\n",
+"description":"Public -  shows up on the calendar\nRestricted - logged in people can see if they find the link\nPrivate - logged in people cant see\n",
 "size":"",
 "label":"Event privacy "
     },{
@@ -4878,7 +4878,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"-use bdk text editor for people to: compose emails to people that follow them, compose project updates that are saved on their page and then sent out as updates if they want to people who favorite the project, send out emails to event attendees after the event plus automate it by at the top of the email showing a list of all the subevents in rich text hyperlinks bullets or the presentations or projects or links? Attendees? \\n\- let groups use it to send out emails to all group members\\n\- let Vincent use it to send out blasts\\nQuestion: how to best format and send images from database to email via html…. Format it bdk then see how it’s output? Maybe make a html style for a few different images like rounded or square full square small? \\n \\n",
+"description":"-use bdk text editor for people to: compose emails to people that follow them, compose project updates that are saved on their page and then sent out as updates if they want to people who favorite the project, send out emails to event attendees after the event plus automate it by at the top of the email showing a list of all the subevents in rich text hyperlinks bullets or the presentations or projects or links? Attendees? \n\- let groups use it to send out emails to all group members\n\- let Vincent use it to send out blasts\nQuestion: how to best format and send images from database to email via html…. Format it bdk then see how it’s output? Maybe make a html style for a few different images like rounded or square full square small? \n \n",
 "size":"",
 "label":"Ideas for BDK Plugin"
     },{
@@ -4953,7 +4953,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Design the saved page, with at least minimal but working functionality for now. Make it easy to check off the things you set to do for later. look at other task managers for this feature. \\n\t\\n",
+"description":"Design the saved page, with at least minimal but working functionality for now. Make it easy to check off the things you set to do for later. look at other task managers for this feature. \n\t\n",
 "size":"",
 "label":"Saved Page Design"
     },{
@@ -4968,7 +4968,7 @@
 "address":"",
 "types":["One-Time"],
 "skills":[],
-"description":"figure out how to parse out the channels instead of using IDs\\n",
+"description":"figure out how to parse out the channels instead of using IDs\n",
 "size":"",
 "label":"Catabot"
     },{
@@ -4983,7 +4983,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Need help deciding on what ways people would want to filter all the users by, for example: open to... and then how this data would be inputted, how often....\\n",
+"description":"Need help deciding on what ways people would want to filter all the users by, for example: open to... and then how this data would be inputted, how often....\n",
 "size":"",
 "label":"Decide on Filters For Changemakers"
     },{
@@ -5313,7 +5313,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We want to redesign the open page so that it looks great and that communities want to embed this on their own websites. It should be responsive, work well with little data or lots of data.\t\\nView an example here: <https://www.catalist.network/group-open/cicolab>\\n\\n",
+"description":"We want to redesign the open page so that it looks great and that communities want to embed this on their own websites. It should be responsive, work well with little data or lots of data.\t\nView an example here: <https://www.catalist.network/group-open/cicolab>\n\n",
 "size":"",
 "label":"Redesign The Open Page"
     },{
@@ -5343,7 +5343,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Almost done. Just need to make different views for the attendees (map, card, circles) and then hide attendees presenting so there are not duplicates...\\n",
+"description":"Almost done. Just need to make different views for the attendees (map, card, circles) and then hide attendees presenting so there are not duplicates...\n",
 "size":"",
 "label":"On the new event page, add spots for Sonsors, featured presenters, and differentiate attendees and those who showcase projects"
     },{
@@ -5358,7 +5358,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"in order to mind an NFT\\n",
+"description":"in order to mind an NFT\n",
 "size":"",
 "label":"Buy Tezos"
     },{
@@ -5478,7 +5478,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"<https://www.eventbrite.com/e/regenaissanceart-inspiring-a-regenerativefuture-artfairsalondinnerparty-tickets-211871753117>\\n",
+"description":"<https://www.eventbrite.com/e/regenaissanceart-inspiring-a-regenerativefuture-artfairsalondinnerparty-tickets-211871753117>\n",
 "size":"",
 "label":"signup for DSS event"
     },{
