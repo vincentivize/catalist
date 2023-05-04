@@ -1220,7 +1220,7 @@
 "skills":[],
 "description":"Put an 'add' button on group tabs: Links, resources, videos, trovesPut an 'add' button on group tabs: Links, resources, videos, troves\n",
 "size":"",
-"label":"'add' button on group tabs\\n"
+"label":"add button on group tabs"
     },{
         "id": "1683136057761x181874837283990240",
 "url":"",
@@ -7049,8 +7049,7 @@
 "strength":1,
 "type":"has sub-task",
 "description":"",
-"label":"Catalist.Network has sub-task 'add' button on group tabs
-"
+"label":"Catalist.Network has sub-task add button on group tabs"
     }
 ,{
         "id": "1683231945632x931344595506491000",
