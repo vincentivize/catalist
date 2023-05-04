@@ -873,7 +873,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"https://video-demo-app.bubbleapps.io/?debug\_mode=true\n\nBefore this, have to get the messages into the database\n",
+"description":"https://video-demo-app.bubbleapps.io\n\nBefore this, have to get the messages into the database\n",
 "size":"",
 "label":"click on message and go to that point in the call"
     },{
