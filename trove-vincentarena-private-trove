@@ -648,7 +648,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Enter a new object, with no URL.  Go back to edit the object, and Title field is missing - there's no way to edit it.  Add any URL, the title field appears.  Delete the URL, the title field disappears again.	\\n",
+"description":"Enter a new object, with no URL.  Go back to edit the object, and Title field is missing - there's no way to edit it.  Add any URL, the title field appears.  Delete the URL, the title field disappears again.\t\\n",
 "size":"",
 "label":"Object Edit missing Title"
     },{
@@ -903,7 +903,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Is there a way - I thought I saw a demo of you doing this - where a user can put a personal note on any object.  I don't see the way to do this though...	\\n",
+"description":"Is there a way - I thought I saw a demo of you doing this - where a user can put a personal note on any object.  I don't see the way to do this though...\t\\n",
 "size":"",
 "label":"Putting a Note on a Trove object"
     },{
@@ -1158,7 +1158,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"waiting on Elliott		\\n",
+"description":"waiting on Elliott\t\t\\n",
 "size":"",
 "label":"Import current speakers into transformative impact summit airtable"
     },{
@@ -1938,7 +1938,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"I have a non-profit and for-profit structure -- happy to chat!	\\n	\\n	\\nPeter Coughlan, peter@hasten.ventures	\\n\\n\\nKyle Rossin	\\n	\\nkyle@manggear.com	\\n",
+"description":"I have a non-profit and for-profit structure -- happy to chat!\t\\n\t\\n\t\\nPeter Coughlan, peter@hasten.ventures\t\\n\\n\\nKyle Rossin\t\\n\t\\nkyle@manggear.com\t\\n",
 "size":"",
 "label":"reach out to seaworthy contacts for onprofit"
     },{
@@ -3033,7 +3033,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Set stock images for major networks, data types, etc.	\\n",
+"description":"Set stock images for major networks, data types, etc.\t\\n",
 "size":"",
 "label":"Set Stock Images"
     },{
@@ -3093,7 +3093,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We should fill up the calendar for the next few months with clubhouse events, conferences, etc.	Almost anyone can do this, do a quick runthrough to make sure anyone even not logged in can do this easily. what happens when someone doesn't put an editor for the event? require their email?>	\\n",
+"description":"We should fill up the calendar for the next few months with clubhouse events, conferences, etc.\tAlmost anyone can do this, do a quick runthrough to make sure anyone even not logged in can do this easily. what happens when someone doesn't put an editor for the event? require their email?>\t\\n",
 "size":"",
 "label":"Add Events To The Calendar"
     },{
@@ -4443,7 +4443,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"add it into other channels	\\n",
+"description":"add it into other channels\t\\n",
 "size":"",
 "label":"Set up bot in discord seaworthy and catalist"
     },{
@@ -4953,7 +4953,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Design the saved page, with at least minimal but working functionality for now. Make it easy to check off the things you set to do for later. look at other task managers for this feature. \\n	\\n",
+"description":"Design the saved page, with at least minimal but working functionality for now. Make it easy to check off the things you set to do for later. look at other task managers for this feature. \\n\t\\n",
 "size":"",
 "label":"Saved Page Design"
     },{
@@ -5313,7 +5313,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We want to redesign the open page so that it looks great and that communities want to embed this on their own websites. It should be responsive, work well with little data or lots of data.	\\nView an example here: <https://www.catalist.network/group-open/cicolab>\\n\\n",
+"description":"We want to redesign the open page so that it looks great and that communities want to embed this on their own websites. It should be responsive, work well with little data or lots of data.\t\\nView an example here: <https://www.catalist.network/group-open/cicolab>\\n\\n",
 "size":"",
 "label":"Redesign The Open Page"
     },{
