@@ -1,1 +1,39 @@
-žée
+{
+  "linked_schemas": [
+    "cta_group-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/version-test/object/--trove-1684958369192x732676899251159000",
+  "body":"[h1]Header 1[/h1]
+[b]body bold[/b]
+[ml][ol][li indent=0 align=left][b]bullet 1[/b][/li][li indent=0 align=left][b]bullet 2[/b][/li][li indent=0 align=left][b]bullet 3[/b][/li][/ol][/ml][b]"murmurations is awesome"[/b]
+",
+"type": "group",
+  "name": "Test Group 2",
+"nickname": "",
+  "description": "Test group 2 on catalist to murmurations",
+  "tags": [Catalist Object],
+  "image": "https://https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io%2Ff1626305344974x309696467234636300%2Fvintage-books-on-bookshelves-in-old-library-educat-HHJ7DYE.jpg?w=&h=&auto=compress&dpr=1&fit=max",
+  "images": [],
+  "url": "https://catalist.network/trove-space/test?object=test-group-2",
+  "urls": [],
+  "status": "active",
+  
+  "contact_details": {
+    "email": ""
+    
+  },
+  "telephone": "",
+  "full_address": "",
+  "street_address": " ",
+  "locality": "",
+  "region": "",
+  "postal_code": "",
+  "country_name": "",
+  "country_iso_3166": "",
+  "geolocation": {
+    "lat": ,
+    "lon": 
+  },
+  
+  "relationships": []
+}
