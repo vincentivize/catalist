@@ -3,7 +3,7 @@
     "cta_group-v0.1.0"
   ],
   "primary_url": "https://www.catalist.network/version-test/object/1684945875188x664572230368231400",
-  "type": "",
+  "type": "group",
   "name": "Test Catalist Group",
 "nickname": "",
   "description": "This is a test group that has been updated",
@@ -16,7 +16,7 @@
  "starts_at":1684946100, 
   "contact_details": {
     "email": "",
-    "contact_form": ""
+    
   },
   "telephone": "",
   "full_address": "87 Hewlett Point Ave, East Rockaway, NY 11518, USA",
