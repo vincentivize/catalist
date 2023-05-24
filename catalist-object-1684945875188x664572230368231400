@@ -30,7 +30,7 @@
     "lat": 40.6301785,
     "lon": -73.6719008
   },
-  "geographic_scope": "",
+  
   "relationships": [{
       "description": "These two profiles are related.",
       "qualifier": "is related to",
