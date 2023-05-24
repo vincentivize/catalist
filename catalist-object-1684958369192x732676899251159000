@@ -5,8 +5,7 @@
   "primary_url": "https://www.catalist.network/version-test/object/--trove-1684958369192x732676899251159000",
   "body":"[h1]Header 1[/h1]
 [b]body bold[/b]
-[ml][ol][li indent=0 align=left][b]bullet 1[/b][/li][li indent=0 align=left][b]bullet 2[/b][/li][li indent=0 align=left][b]bullet 3[/b][/li][/ol][/ml][b]"murmurations is awesome"[/b]
-",
+[ml][ol][li indent=0 align=left][b]bullet 1[/b][/li][li indent=0 align=left][b]bullet 2[/b][/li][li indent=0 align=left][b]bullet 3[/b][/li][/ol][/ml][b]murmurations is awesome[/b]",
 "type": "group",
   "name": "Test Group 2",
 "nickname": "",
