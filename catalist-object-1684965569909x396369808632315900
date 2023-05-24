@@ -1,1 +1,31 @@
-žée
+{
+  "linked_schemas": [
+    "cta_opportunity-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/version-test/object/1684965569909x396369808632315900",
+  
+"type": "group",
+  "name": "Test Opportunity",
+"nickname": "",
+  "description": "I'm offering help!",
+  "tags": ["Catalist Object"],
+  "image": "",
+  "images": [],
+  "url": "",
+  "urls": [],
+  "status": "active",
+  
+  "contact_details": {
+    "email": ""
+    
+  },
+  "telephone": "",
+  "full_address": "",
+  "street_address": " ",
+  "locality": "",
+  "region": "",
+  "postal_code": "",
+  "country_name": "",
+
+  "relationships": []
+}
