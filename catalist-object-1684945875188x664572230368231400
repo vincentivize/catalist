@@ -1,1 +1,39 @@
-žée
+{
+  "linked_schemas": [
+    "cta_group-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/version-test/object/1684945875188x664572230368231400",
+  "type": "",
+  "name": "Test Catalist Group",
+  "description": "This is a test group",
+  "tags": ["Building Community & Embracing Diversity"],
+  "image": "//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684945923124x556118833099160450/Screenshot%202023-05-02%20at%205.14.45%20PM.png",
+  "images": [{"name":"Screenshot 2023-05-18 at 12.14.34 PM.png","url":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684946032123x895414051132663600/Screenshot%202023-05-18%20at%2012.14.34%20PM.png"},{"name":"Screenshot 2023-05-18 at 12.13.07 PM.png","url":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684946036924x450633906371482600/Screenshot%202023-05-18%20at%2012.13.07%20PM.png"}],
+  "url": "https://testgroup.com",
+  "urls": [],
+  "status": "active",
+  "starts_at": May 24, 2023 12:35 pm,
+  "ends_at": May 24, 2023 12:35 pm,
+  "contact_details": {
+    "email": "",
+    "contact_form": ""
+  },
+  "telephone": "",
+  "full_address": "87 Hewlett Point Ave, East Rockaway, NY 11518, USA",
+  "street_address": "87 Hewlett Point Avenue",
+  "locality": "East Rockaway",
+  "region": "New York",
+  "postal_code": "11518",
+  "country_name": "United States",
+  "country_iso_3166": "US",
+  "geolocation": {
+    "lat": 40.6301785,
+    "lon": -73.6719008
+  },
+  "geographic_scope": "",
+  "relationships": [{
+      "description": "These two profiles are related.",
+      "qualifier": "is related to",
+      "object_url": ""
+    }]
+}
