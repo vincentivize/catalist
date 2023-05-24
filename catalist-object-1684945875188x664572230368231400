@@ -8,12 +8,12 @@
   "description": "This is a test group",
   "tags": ["Building Community & Embracing Diversity"],
   "image": "//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684945923124x556118833099160450/Screenshot%202023-05-02%20at%205.14.45%20PM.png",
-  "images": [{"name":"Screenshot 2023-05-18 at 12.14.34 PM.png","url":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684946032123x895414051132663600/Screenshot%202023-05-18%20at%2012.14.34%20PM.png"},{"name":"Screenshot 2023-05-18 at 12.13.07 PM.png","url":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684946036924x450633906371482600/Screenshot%202023-05-18%20at%2012.13.07%20PM.png"}],
+  "images": [{"name":"Screenshot 2023-05-18 at 12.14.34 PM.png","url":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684946032123x895414051132663600/Screenshot%202023-05-18%20at%2012.14.34%20PM.png"},{"name":"Screenshot 2023-05-18 at 12.13.07 PM.png","url":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684946036924x450633906371482600/Screenshot%202023-05-18%20at%2012.13.07%20PM.png"}],
   "url": "https://testgroup.com",
   "urls": [],
   "status": "active",
-  "starts_at": May 24, 2023 12:35 pm,
-  "ends_at": May 24, 2023 12:35 pm,
+  "starts_at": :31684946100000pracp UADI1684946100,
+  "ends_at": ,
   "contact_details": {
     "email": "",
     "contact_form": ""
@@ -34,6 +34,6 @@
   "relationships": [{
       "description": "These two profiles are related.",
       "qualifier": "is related to",
-      "object_url": ""
+      "object_url": "https://www.catalist.network/version-test/object/the-weaving-lab"
     }]
 }
