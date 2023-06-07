@@ -1,1 +1,31 @@
-žée
+{
+  "linked_schemas": [
+    "catalist_object-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/version-test/object/vincent-arena-design-portfolio-1686165408524x860809813976416300",
+  
+"type": "group",
+  "name": "Test Project",
+"nickname": "",
+  "description": "description",
+  "tags": ["Catalist Object"],
+  "image": "https://https://uploads-ssl.webflow.com/5dbef36b5ad64f1f73862645/5ec34ddb544c77d77d032adb_Screen%20Shot%202020-05-18%20at%2011.08.15%20PM.png",
+  "images": [],
+  "url": "https://www.vincentarena.com",
+  "urls": [],
+  "status": "active",
+  
+  "contact_details": {
+    "email": ""
+    
+  },
+  "telephone": "",
+  "full_address": "",
+  "street_address": " ",
+  "locality": "",
+  "region": "",
+  "postal_code": "",
+  "country_name": "",
+
+  "relationships": []
+}
