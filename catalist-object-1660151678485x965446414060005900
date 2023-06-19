@@ -1,1 +1,23 @@
-žée
+{
+  "linked_schemas": [
+    "cta_group-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/object/1660151678485x965446414060005900",
+  
+
+"name":"BFI",
+
+"description":"BFI seeks to further Fullerâ€™s work by inspiring and supporting a new generation of design science pioneers.",
+"tags":["Catalist Object"],
+  "image": "https:////s3.amazonaws.com/appforest_uf/f1675784963164x157394545985406700/Screen%20Shot%202022-08-11%20at%201.44.26%20PM.png",
+ 
+
+
+
+
+
+"url":"https://www.bfi.org/",
+
+
+  "relationships": []
+}
