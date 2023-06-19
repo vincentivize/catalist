@@ -1,0 +1,67 @@
+{
+  "linked_schemas": [
+    "cta_group-v0.1.0"
+  ],
+  "primary_url": "https://www.primaryurl.com",
+  "type": "type",
+  "name": "Name",
+  "nickname": "N",
+  "description": "The description of the thing",
+  "tags": [
+    "tag1",
+    "tag2"
+  ],
+  "image": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io%2Ff1639787557239x309985735948278700%2Fadd-new-item-8.png?w=768&h=472&auto=compress&dpr=2&fit=max",
+  "images": [
+    {
+      "name": "Wall of Opportunity",
+      "url": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io%2Ff1639787557239x309985735948278700%2Fadd-new-item-8.png?w=768&h=472&auto=compress&dpr=2&fit=max"
+    }
+  ],
+  "url": "https://www.catalist.network/",
+  "urls": [
+    {
+      "name": "About Catalist",
+      "url": "https://www.catalist.network/about"
+    }
+  ],
+  "status": "active",
+  "starts_at": -30,
+  "contact_details": {
+    "email": "info@catalist.org",
+    "contact_form": "https://www.vincentarena.com/contact-me"
+  },
+  "telephone": "516-889-6899",
+  "full_address": "4205 Austin Blvd, Island Park NY 11558",
+  "street_address": "4205 Austin Blvd",
+  "locality": "Island Park",
+  "region": "New York",
+  "postal_code": "11558",
+  "country_name": "United States",
+  "country_iso_3166": "US",
+  "geolocation": {
+    "lat": 0,
+    "lon": 0
+  },
+  "geographic_scope": "local",
+  "relationships": [
+    {
+      "predicate": "is related to",
+      "object_url": "https://www.vincentarena.com",
+      "description": "Vincent is the creator"
+    }
+  ],
+	"knows_language": [
+    "English",
+    "italian"
+	  ],
+	"starts_at": 1651848477,
+  "ends_at": 1651848479,
+"exchange_type": "want",
+  "transaction_type": "borrow-lend",
+"title": "title",
+"job_title": "title",
+"mission": "mission",
+"expires_at": 1651842479,
+"rss": "https://www.rss.com"
+}
