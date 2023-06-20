@@ -8521,7 +8521,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840851093x601733528764638600",
 "to":"Builder",
 "from":"Engineer",
@@ -8569,7 +8569,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840932824x385315674424082240",
 "to":"Catalyst",
 "from":"Salesperson",
@@ -8617,7 +8617,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840876792x212970881716159300",
 "to":"Challenger/Skeptic",
 "from":"Investigator",
@@ -8665,7 +8665,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840825214x940302013630764500",
 "to":"Creative",
 "from":"Choreographer",
@@ -8721,7 +8721,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840941618x831377027871155200",
 "to":"Defender of Order",
 "from":"Soldier/Police",
@@ -8745,7 +8745,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840894947x534273834957133900",
 "to":"Helper",
 "from":"Mediator",
@@ -8777,7 +8777,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840881725x448647597393989600",
 "to":"Leader",
 "from":"King/Queen archetype",
@@ -8809,7 +8809,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840910499x695586117234698900",
 "to":"Learner",
 "from":"Parent",
@@ -8889,7 +8889,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840897783x809327967257287000",
 "to":"Thinker",
 "from":"Mind Mapper",
@@ -8945,7 +8945,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868275624x196207151276478000",
 "to":"Wise Democracy Project Categories",
 "from":"Action",
@@ -9001,7 +9001,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868190036x167957548225433630",
 "to":"12 Common Needs",
 "from":"Arts and Culture",
@@ -9097,7 +9097,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868266976x126411155702593090",
 "to":"Statistical Classification of Economic Activities in the European Community",
 "from":"Accommodation and Food Service Activities",
@@ -9265,7 +9265,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840988038x993388425235350900",
 "to":"",
 "from":"Arctic tundra",
@@ -9313,7 +9313,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867931096x796966921355494900",
 "to":"Blackfoot Tipi Levels: First Nations",
 "from":"Community Actualization",
@@ -9337,7 +9337,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868168450x278900399595463740",
 "to":"8 Forms of Capital",
 "from":"Cultural Capital",
@@ -9401,7 +9401,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681841102299x695693811762195000",
 "to":"City",
 "from":"Freeport",
@@ -9521,7 +9521,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840997247x765055127829930000",
 "to":"Continent",
 "from":"Asia",
@@ -9569,7 +9569,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868185169x855084115354676900",
 "to":"7 Core Needs",
 "from":"Comfortable Shelter",
@@ -9625,7 +9625,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681841339467x559248119802026240",
 "to":"County",
 "from":"Suffolk County",
@@ -9633,7 +9633,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868260361x435135040561215100",
 "to":"Cynefin Framework",
 "from":"Chaotic",
@@ -9665,7 +9665,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868228292x838858553148760200",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
 "from":"Art Ritual and Social Transformation",
@@ -9849,7 +9849,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868240078x906045474730641300",
 "to":"Coherence Chart Domains",
 "from":"Admin",
@@ -9913,7 +9913,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868255983x433050446554288400",
 "to":"Domains of Permaculture Action",
 "from":"Building",
@@ -9969,7 +9969,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868236809x436875241251840200",
 "to":"Doughnut Economics Dimensions",
 "from":"Environmental Ceiling",
@@ -10025,7 +10025,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867939281x418237345238462460",
 "to":"Doughnut Economics Sectors",
 "from":"Improve Society",
@@ -10257,7 +10257,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867969779x802874531531772000",
 "to":"Project Drawdown Sector",
 "from":"Buildings and Cities",
@@ -10425,7 +10425,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840988038x993388425235350900",
 "to":"",
 "from":"Arctic tundra",
@@ -10473,7 +10473,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681841037738x720101200144166300",
 "to":"",
 "from":"California Floristic Province",
@@ -10505,7 +10505,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840981746x945615260918133400",
 "to":"",
 "from":"Andes Mountains",
@@ -10529,7 +10529,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681841037738x720101200144166300",
 "to":"",
 "from":"California Floristic Province",
@@ -10585,7 +10585,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868214653x227606862489884160",
 "to":"6 Forms of Politics",
 "from":"Democratization",
@@ -10633,7 +10633,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867955852x201613514404013660",
 "to":"International Futures Forum World Systems Model",
 "from":"Biosphere",
@@ -10761,7 +10761,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681871726712x858264587227884300",
 "to":"",
 "from":"German",
@@ -11377,7 +11377,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681871798267x875831649080707000",
 "to":"Top 200 Languages",
 "from":"Qawasqar",
@@ -12593,7 +12593,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840968343x718854465426997900",
 "to":"Location Type",
 "from":"Address",
@@ -12689,7 +12689,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867932279x435693783843811300",
 "to":"",
 "from":"Self-Actualization",
@@ -12729,7 +12729,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868086781x899672888509070300",
 "to":"Peer2Peer",
 "from":"Peer Governance",
@@ -12753,7 +12753,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868209524x358577126940774700",
 "to":"Vision 2050",
 "from":"Connectivity",
@@ -12825,7 +12825,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867966132x554666566029363900",
 "to":"Permaculture Ethics",
 "from":"Earth Care",
@@ -12849,7 +12849,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868089842x700279531828069200",
 "to":"Planet Home Solution Areas",
 "from":"Atmospheric Conditions",
@@ -13009,7 +13009,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867946428x345478509839997300",
 "to":"",
 "from":"Air Pollution",
@@ -13081,7 +13081,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868119627x234274569367971740",
 "to":"Positive Blockchain",
 "from":"Agriculture & Food",
@@ -13193,7 +13193,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868180447x378288828928071230",
 "to":"8 Principles for Managing a Commons",
 "from":"Build responsibility for governing the common resource in nested tiers from the lowest level up to the entire interconnected system.",
@@ -13257,7 +13257,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840979937x926219196834912000",
 "to":"Region",
 "from":"America",
@@ -13409,7 +13409,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867983603x884598330953844400",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
 "from":"Arts Culture & Music",
@@ -13513,7 +13513,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681867700224x689438076118313600",
 "to":"Societal Sectors",
 "from":"Arts Media & Culture",
@@ -13969,7 +13969,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868002326x714189932198369500",
 "to":"Solutionista Sectors",
 "from":"Ethics",
@@ -13993,7 +13993,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840992108x549748748660270340",
 "to":"State",
 "from":"Arkansas",
@@ -14425,7 +14425,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868284524x100303587992205180",
 "to":"Theory U",
 "from":"Co-creating",
@@ -14465,7 +14465,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868136262x116499947553179820",
 "to":"United Nations Sustainable Development Goals",
 "from":"7. Affordable and Clean Energy",
@@ -14601,7 +14601,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681840988038x993388425235350900",
 "to":"",
 "from":"Arctic tundra",
@@ -14617,7 +14617,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868006049x824143661170033000",
 "to":"Wheel of CoCreation Sector",
 "from":"Economics",
@@ -14721,7 +14721,7 @@
 "type":"is part of set",
 "label":"",
 "description":""
-}{
+},{
 "id":"connection-1681868024063x340919367503676540",
 "to":"Yelp",
 "from":"Active Life",
