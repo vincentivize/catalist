@@ -8480,7 +8480,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840807313x839794868206396300",
 "to":"Bridge/Ambassador",
@@ -8488,7 +8488,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840901505x191032853812776800",
 "to":"Bridge/Ambassador",
@@ -8496,7 +8496,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840935702x759724416878194400",
 "to":"Bridge/Ambassador",
@@ -8504,7 +8504,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840918465x920263884278483300",
 "to":"Bridge/Ambassador",
@@ -8512,7 +8512,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840952289x986053295921063300",
 "to":"Bridge/Ambassador",
@@ -8520,15 +8520,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840851093x601733528764638600",
 "to":"Builder",
 "from":"Engineer",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840811686x613581130341756000",
 "to":"Builder",
@@ -8536,7 +8536,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840947956x305541079600662600",
 "to":"Builder",
@@ -8544,7 +8544,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840922013x122377019814314370",
 "to":"Builder",
@@ -8552,7 +8552,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840876245x952023756299066800",
 "to":"Builder",
@@ -8560,7 +8560,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840922689x179537971810286980",
 "to":"Builder",
@@ -8568,15 +8568,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840932824x385315674424082240",
 "to":"Catalyst",
 "from":"Salesperson",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840892660x498832551650294900",
 "to":"Catalyst",
@@ -8584,7 +8584,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840803309x968336800566102800",
 "to":"Catalyst",
@@ -8592,7 +8592,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840823986x761260039226814300",
 "to":"Catalyst",
@@ -8600,7 +8600,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840857069x953689423242893600",
 "to":"Catalyst",
@@ -8608,7 +8608,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840869654x987751792757741700",
 "to":"Catalyst",
@@ -8616,15 +8616,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840876792x212970881716159300",
 "to":"Challenger/Skeptic",
 "from":"Investigator",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840952876x563008230601747900",
 "to":"Challenger/Skeptic",
@@ -8632,7 +8632,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840926336x888206195944270200",
 "to":"Challenger/Skeptic",
@@ -8640,7 +8640,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840920086x191562383775293340",
 "to":"Challenger/Skeptic",
@@ -8648,7 +8648,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840877809x290349740279938400",
 "to":"Challenger/Skeptic",
@@ -8656,7 +8656,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840839014x707267751655356700",
 "to":"Challenger/Skeptic",
@@ -8664,15 +8664,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840825214x940302013630764500",
 "to":"Creative",
 "from":"Choreographer",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840802641x717134442474084600",
 "to":"Creative",
@@ -8680,7 +8680,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840942355x250981424193101880",
 "to":"Creative",
@@ -8688,7 +8688,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840945183x902321077697052500",
 "to":"Creative",
@@ -8696,7 +8696,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840900887x716906162334797700",
 "to":"Creative",
@@ -8704,7 +8704,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840937180x625773629135180300",
 "to":"Creative",
@@ -8712,7 +8712,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840824609x286242885514350620",
 "to":"Creative",
@@ -8720,15 +8720,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840941618x831377027871155200",
 "to":"Defender of Order",
 "from":"Soldier/Police",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840822762x748823278415229300",
 "to":"Defender of Order",
@@ -8736,7 +8736,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840925701x570310866577899100",
 "to":"Defender of Order",
@@ -8744,15 +8744,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840894947x534273834957133900",
 "to":"Helper",
 "from":"Mediator",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840866967x592283579855869400",
 "to":"Helper",
@@ -8760,7 +8760,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840804332x665341110843594900",
 "to":"Helper",
@@ -8768,7 +8768,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840818099x736299273023222800",
 "to":"Helper",
@@ -8776,15 +8776,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840881725x448647597393989600",
 "to":"Leader",
 "from":"King/Queen archetype",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840921445x303097281966332900",
 "to":"Leader",
@@ -8792,7 +8792,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840931710x559184755846928700",
 "to":"Leader",
@@ -8800,7 +8800,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840917977x489891808153362560",
 "to":"Leader",
@@ -8808,15 +8808,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840910499x695586117234698900",
 "to":"Learner",
 "from":"Parent",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840945873x299516192015939100",
 "to":"Learner",
@@ -8824,7 +8824,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840933321x865294719770398500",
 "to":"Learner",
@@ -8832,7 +8832,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840932288x136127847684924140",
 "to":"Learner",
@@ -8840,7 +8840,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840923844x138394977817485780",
 "to":"Learner",
@@ -8848,7 +8848,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840966173x356724425972792200",
 "to":"Learner",
@@ -8856,7 +8856,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840880532x457563685264825900",
 "to":"Learner",
@@ -8864,7 +8864,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840949086x641034241837953200",
 "to":"Learner",
@@ -8872,7 +8872,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840810259x308126308663655400",
 "to":"Learner",
@@ -8880,7 +8880,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840896162x968156432987334900",
 "to":"Learner",
@@ -8888,15 +8888,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840897783x809327967257287000",
 "to":"Thinker",
 "from":"Mind Mapper",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840873897x741060150417715000",
 "to":"Thinker",
@@ -8904,7 +8904,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840933881x806002177695530600",
 "to":"Thinker",
@@ -8912,7 +8912,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840946909x806373382528137200",
 "to":"Thinker",
@@ -8920,7 +8920,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840853935x634422244346783200",
 "to":"Thinker",
@@ -8928,7 +8928,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840807916x956118896908114700",
 "to":"Thinker",
@@ -8936,7 +8936,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840826410x285770403296519160",
 "to":"Thinker",
@@ -8944,15 +8944,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868275624x196207151276478000",
 "to":"Wise Democracy Project Categories",
 "from":"Action",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868276857x965527724113695000",
 "to":"Wise Democracy Project Categories",
@@ -8960,7 +8960,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868278337x682319292518831500",
 "to":"Wise Democracy Project Categories",
@@ -8968,7 +8968,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868279843x567360578875473200",
 "to":"Wise Democracy Project Categories",
@@ -8976,7 +8976,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868281111x504586634096611200",
 "to":"Wise Democracy Project Categories",
@@ -8984,7 +8984,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868282453x872456984538240400",
 "to":"Wise Democracy Project Categories",
@@ -8992,7 +8992,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868283827x367435056815823500",
 "to":"Wise Democracy Project Categories",
@@ -9000,15 +9000,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868190036x167957548225433630",
 "to":"12 Common Needs",
 "from":"Arts and Culture",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868191477x643553728954616700",
 "to":"12 Common Needs",
@@ -9016,7 +9016,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868192747x408129817276569300",
 "to":"12 Common Needs",
@@ -9024,7 +9024,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868194209x158485557695430720",
 "to":"12 Common Needs",
@@ -9032,7 +9032,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868195649x694124859215016200",
 "to":"12 Common Needs",
@@ -9040,7 +9040,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868197070x116197206583022580",
 "to":"12 Common Needs",
@@ -9048,7 +9048,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868198525x382059929164567700",
 "to":"12 Common Needs",
@@ -9056,7 +9056,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868199853x462931931956498400",
 "to":"12 Common Needs",
@@ -9064,7 +9064,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868201401x554883778629829060",
 "to":"12 Common Needs",
@@ -9072,7 +9072,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868202866x734262300031496700",
 "to":"12 Common Needs",
@@ -9080,7 +9080,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868205261x796821686820673700",
 "to":"12 Common Needs",
@@ -9088,7 +9088,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868206684x858742524177902100",
 "to":"12 Common Needs",
@@ -9096,15 +9096,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868266976x126411155702593090",
 "to":"Statistical Classification of Economic Activities in the European Community",
 "from":"Accommodation and Food Service Activities",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868274248x236256487743296900",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9112,7 +9112,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868273749x606679767977253400",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9120,7 +9120,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868270023x910769135320395500",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9128,7 +9128,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868262679x305879796763338430",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9136,7 +9136,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868272625x433317893256953000",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9144,7 +9144,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868265479x926719354975926500",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9152,7 +9152,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868271261x958954739421998300",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9160,7 +9160,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868264244x523704422221569860",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9168,7 +9168,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868268196x362693400940327740",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9176,7 +9176,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868272116x894393233566383400",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9184,7 +9184,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868267525x784011210220797700",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9192,7 +9192,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868263613x923182877679924500",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9200,7 +9200,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868263136x695812161789118000",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9208,7 +9208,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868273162x127843138035630420",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9216,7 +9216,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868269268x611062584296939900",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9224,7 +9224,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868270599x262110573035110300",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9232,7 +9232,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868268745x593935182957946900",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9240,7 +9240,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868266497x597600537884512800",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9248,7 +9248,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868264820x890139035703674200",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9256,7 +9256,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868266035x431007250875632640",
 "to":"Statistical Classification of Economic Activities in the European Community",
@@ -9264,15 +9264,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840988038x993388425235350900",
 "to":"",
 "from":"Arctic tundra",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841115060x308628781113154500",
 "to":"",
@@ -9280,7 +9280,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841050296x363869573238974300",
 "to":"",
@@ -9288,7 +9288,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841321081x380422322776928100",
 "to":"",
@@ -9296,7 +9296,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841020749x548417659701866000",
 "to":"",
@@ -9304,7 +9304,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840987459x492468275933536100",
 "to":"",
@@ -9312,15 +9312,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867931096x796966921355494900",
 "to":"Blackfoot Tipi Levels: First Nations",
 "from":"Community Actualization",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867931663x787686255899133300",
 "to":"Blackfoot Tipi Levels: First Nations",
@@ -9328,7 +9328,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867932279x435693783843811300",
 "to":"",
@@ -9336,15 +9336,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868168450x278900399595463740",
 "to":"8 Forms of Capital",
 "from":"Cultural Capital",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868171115x778566126333182700",
 "to":"8 Forms of Capital",
@@ -9352,7 +9352,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868172367x540296430996173060",
 "to":"8 Forms of Capital",
@@ -9360,7 +9360,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868173817x659492876375660900",
 "to":"8 Forms of Capital",
@@ -9368,7 +9368,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868175346x275112034051223870",
 "to":"8 Forms of Capital",
@@ -9376,7 +9376,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868176787x907422115832369400",
 "to":"8 Forms of Capital",
@@ -9384,7 +9384,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868178178x726626658981149700",
 "to":"8 Forms of Capital",
@@ -9392,7 +9392,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868179799x213490402081263800",
 "to":"8 Forms of Capital",
@@ -9400,15 +9400,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681841102299x695693811762195000",
 "to":"City",
 "from":"Freeport",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840981158x735578329737431800",
 "to":"City",
@@ -9416,7 +9416,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841134313x776906483267838100",
 "to":"City",
@@ -9424,7 +9424,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841336202x283807350293315620",
 "to":"City",
@@ -9432,7 +9432,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841207743x900050699604801300",
 "to":"City",
@@ -9440,7 +9440,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841049798x248400746369220380",
 "to":"City",
@@ -9448,7 +9448,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841054202x923768777346457300",
 "to":"City",
@@ -9456,7 +9456,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841043537x676066942798716500",
 "to":"City",
@@ -9464,7 +9464,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841152664x230735830813549860",
 "to":"City",
@@ -9472,7 +9472,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841064223x727402379720758700",
 "to":"",
@@ -9480,7 +9480,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841018374x644591724716789840",
 "to":"City",
@@ -9488,7 +9488,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841223287x765261151625395700",
 "to":"City",
@@ -9496,7 +9496,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841344767x174609970514596480",
 "to":"City",
@@ -9504,7 +9504,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841357569x850429156737922700",
 "to":"City",
@@ -9512,7 +9512,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841386718x191225885183735170",
 "to":"City",
@@ -9520,15 +9520,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840997247x765055127829930000",
 "to":"Continent",
 "from":"Asia",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841254621x276836625176744900",
 "to":"Continent",
@@ -9536,7 +9536,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841324107x848093760390868100",
 "to":"Continent",
@@ -9544,7 +9544,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840971599x635692820059329300",
 "to":"Continent",
@@ -9552,7 +9552,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841261761x143856719381240560",
 "to":"Continent",
@@ -9560,7 +9560,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841095092x755906072900812300",
 "to":"Continent",
@@ -9568,15 +9568,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868185169x855084115354676900",
 "to":"7 Core Needs",
 "from":"Comfortable Shelter",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868185588x337473293293445000",
 "to":"7 Core Needs",
@@ -9584,7 +9584,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868186201x349158931935914750",
 "to":"7 Core Needs",
@@ -9592,7 +9592,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868186890x736905628263420300",
 "to":"7 Core Needs",
@@ -9600,7 +9600,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868187402x825542688147377300",
 "to":"7 Core Needs",
@@ -9608,7 +9608,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868187964x288185001328212580",
 "to":"7 Core Needs",
@@ -9616,7 +9616,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868188556x186618923479525470",
 "to":"7 Core Needs",
@@ -9624,23 +9624,23 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681841339467x559248119802026240",
 "to":"County",
 "from":"Suffolk County",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868260361x435135040561215100",
 "to":"Cynefin Framework",
 "from":"Chaotic",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868261059x487343558378645400",
 "to":"Cynefin Framework",
@@ -9648,7 +9648,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868261587x152466485651792100",
 "to":"Cynefin Framework",
@@ -9656,7 +9656,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868262142x573990698917655300",
 "to":"Cynefin Framework",
@@ -9664,15 +9664,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868228292x838858553148760200",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
 "from":"Art Ritual and Social Transformation",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868219202x742561658351248400",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9680,7 +9680,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868218724x565318648920189600",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9688,7 +9688,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868220326x586792558964584300",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9696,7 +9696,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868224475x922697820324745700",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9704,7 +9704,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868218206x123910733492546000",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9712,7 +9712,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868233179x949257392269537800",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9720,7 +9720,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868224975x808264700064698400",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9728,7 +9728,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868225425x905182201392753000",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9736,7 +9736,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868226119x244214075191630400",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9744,7 +9744,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868224053x826766511264317000",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9752,7 +9752,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868220995x420439291529211200",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9760,7 +9760,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868227226x452851145906690800",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9768,7 +9768,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868227785x482618939623042900",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9776,7 +9776,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868226792x218555940495176000",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9784,7 +9784,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868228991x392702177328177800",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9792,7 +9792,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868230704x713833037771851600",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9800,7 +9800,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868219843x781846310490502700",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9808,7 +9808,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868231344x383983219569687740",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9816,7 +9816,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868222368x168641422678093900",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9824,7 +9824,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868223516x523323445554508600",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9832,7 +9832,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868230235x245588211673057200",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9840,7 +9840,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868232601x361446866723652800",
 "to":"4D Dimensions Design for Sustainability & Regeneration",
@@ -9848,15 +9848,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868240078x906045474730641300",
 "to":"Coherence Chart Domains",
 "from":"Admin",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868242291x442498409670516900",
 "to":"Coherence Chart Domains",
@@ -9864,7 +9864,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868244557x184615734185109340",
 "to":"Coherence Chart Domains",
@@ -9872,7 +9872,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868246528x271352138069715700",
 "to":"Coherence Chart Domains",
@@ -9880,7 +9880,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868248820x673092773899128600",
 "to":"Coherence Chart Domains",
@@ -9888,7 +9888,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868251100x348291046119528760",
 "to":"Coherence Chart Domains",
@@ -9896,7 +9896,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868253163x738444919046095100",
 "to":"Coherence Chart Domains",
@@ -9904,7 +9904,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868255204x940394248714880000",
 "to":"Coherence Chart Domains",
@@ -9912,15 +9912,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868255983x433050446554288400",
 "to":"Domains of Permaculture Action",
 "from":"Building",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868257425x427217593083997200",
 "to":"Domains of Permaculture Action",
@@ -9928,7 +9928,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868256730x947606077700489100",
 "to":"Domains of Permaculture Action",
@@ -9936,7 +9936,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868259791x265235969750691420",
 "to":"Domains of Permaculture Action",
@@ -9944,7 +9944,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868258481x724719179455498100",
 "to":"Domains of Permaculture Action",
@@ -9952,7 +9952,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868258046x721542042112569700",
 "to":"Domains of Permaculture Action",
@@ -9960,7 +9960,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868259098x927773572538892400",
 "to":"Domains of Permaculture Action",
@@ -9968,15 +9968,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868236809x436875241251840200",
 "to":"Doughnut Economics Dimensions",
 "from":"Environmental Ceiling",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868237774x877544507383842800",
 "to":"Doughnut Economics Dimensions",
@@ -9984,7 +9984,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868233728x558844040731463230",
 "to":"Doughnut Economics Dimensions",
@@ -9992,7 +9992,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868234393x924581565027659900",
 "to":"Doughnut Economics Dimensions",
@@ -10000,7 +10000,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868234934x320342234361237600",
 "to":"Doughnut Economics Dimensions",
@@ -10008,7 +10008,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868235673x756190388482687200",
 "to":"Doughnut Economics Dimensions",
@@ -10016,7 +10016,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868236134x939720040772772000",
 "to":"Doughnut Economics Dimensions",
@@ -10024,15 +10024,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867939281x418237345238462460",
 "to":"Doughnut Economics Sectors",
 "from":"Improve Society",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867944106x897018081860021100",
 "to":"Doughnut Economics Sectors",
@@ -10040,7 +10040,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867945372x829351977512926600",
 "to":"Doughnut Economics Sectors",
@@ -10048,7 +10048,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867946428x345478509839997300",
 "to":"",
@@ -10056,7 +10056,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867946951x743802338308542800",
 "to":"",
@@ -10064,7 +10064,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867947619x758091930296673300",
 "to":"",
@@ -10072,7 +10072,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867950987x138269429212009900",
 "to":"",
@@ -10080,7 +10080,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867951581x158825883560590460",
 "to":"",
@@ -10088,7 +10088,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867952299x893152783952141200",
 "to":"",
@@ -10096,7 +10096,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867952806x872848542241881900",
 "to":"",
@@ -10104,7 +10104,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867953941x423684534349056960",
 "to":"",
@@ -10112,7 +10112,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867954534x190592843864927360",
 "to":"",
@@ -10120,7 +10120,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867935088x775086969298801800",
 "to":"Doughnut Economics Sectors",
@@ -10128,7 +10128,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867935873x909888178037688200",
 "to":"Doughnut Economics Sectors",
@@ -10136,7 +10136,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867936556x694658223894420700",
 "to":"Doughnut Economics Sectors",
@@ -10144,7 +10144,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867937147x570044475244986200",
 "to":"Doughnut Economics Sectors",
@@ -10152,7 +10152,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867937881x367102434778864260",
 "to":"Doughnut Economics Sectors",
@@ -10160,7 +10160,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867938591x750991019760177300",
 "to":"Doughnut Economics Sectors",
@@ -10168,7 +10168,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867939888x717923147788137300",
 "to":"Doughnut Economics Sectors",
@@ -10176,7 +10176,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867942784x491486576574375230",
 "to":"Doughnut Economics Sectors",
@@ -10184,7 +10184,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867943492x132203999790725390",
 "to":"Doughnut Economics Sectors",
@@ -10192,7 +10192,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867944699x354969855446458000",
 "to":"Doughnut Economics Sectors",
@@ -10200,7 +10200,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867945870x872724225752000300",
 "to":"Doughnut Economics Sectors",
@@ -10208,7 +10208,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867933081x535878229872537700",
 "to":"Doughnut Economics Sectors",
@@ -10216,7 +10216,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867933802x658586117094285700",
 "to":"Doughnut Economics Sectors",
@@ -10224,7 +10224,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867934421x909820388200380200",
 "to":"Doughnut Economics Sectors",
@@ -10232,7 +10232,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867940663x321274909567786940",
 "to":"Doughnut Economics Sectors",
@@ -10240,7 +10240,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867941316x841370986992900000",
 "to":"Doughnut Economics Sectors",
@@ -10248,7 +10248,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867942045x377822395467925600",
 "to":"Doughnut Economics Sectors",
@@ -10256,15 +10256,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867969779x802874531531772000",
 "to":"Project Drawdown Sector",
 "from":"Buildings and Cities",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867970386x238601531447792300",
 "to":"Project Drawdown Sector",
@@ -10272,7 +10272,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867971077x154568640948895560",
 "to":"Project Drawdown Sector",
@@ -10280,7 +10280,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867971646x481428772866192100",
 "to":"Project Drawdown Sector",
@@ -10288,7 +10288,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867972199x972812888776079900",
 "to":"Project Drawdown Sector",
@@ -10296,7 +10296,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867972868x613977957530907900",
 "to":"Project Drawdown Sector",
@@ -10304,7 +10304,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867973398x645937063757233300",
 "to":"Project Drawdown Sector",
@@ -10312,7 +10312,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867974085x647568251999117000",
 "to":"Project Drawdown Sector",
@@ -10320,7 +10320,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867974698x783691955125326700",
 "to":"Project Drawdown Sector",
@@ -10328,7 +10328,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867975445x428967399721488700",
 "to":"Project Drawdown Sector",
@@ -10336,7 +10336,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867976156x959540889492579700",
 "to":"Project Drawdown Sector",
@@ -10344,7 +10344,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867976803x294272451674760770",
 "to":"Project Drawdown Sector",
@@ -10352,7 +10352,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867977502x508532836499676160",
 "to":"Project Drawdown Sector",
@@ -10360,7 +10360,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867981093x126887085525534850",
 "to":"Project Drawdown Sector",
@@ -10368,7 +10368,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867978011x635218074927507800",
 "to":"Project Drawdown Sector",
@@ -10376,7 +10376,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867981666x778287553344907000",
 "to":"Project Drawdown Sector",
@@ -10384,7 +10384,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867978709x564328440689811900",
 "to":"Project Drawdown Sector",
@@ -10392,7 +10392,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867979337x577678017615876200",
 "to":"Project Drawdown Sector",
@@ -10400,7 +10400,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867979982x604535978661699700",
 "to":"Project Drawdown Sector",
@@ -10408,7 +10408,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867980527x375971428496504770",
 "to":"Project Drawdown Sector",
@@ -10416,7 +10416,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867982269x451753773853226240",
 "to":"Project Drawdown Sector",
@@ -10424,15 +10424,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840988038x993388425235350900",
 "to":"",
 "from":"Arctic tundra",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841115060x308628781113154500",
 "to":"",
@@ -10440,7 +10440,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841050296x363869573238974300",
 "to":"",
@@ -10448,7 +10448,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841321081x380422322776928100",
 "to":"",
@@ -10456,7 +10456,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841020749x548417659701866000",
 "to":"",
@@ -10464,7 +10464,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840987459x492468275933536100",
 "to":"",
@@ -10472,15 +10472,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681841037738x720101200144166300",
 "to":"",
 "from":"California Floristic Province",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840997889x604227813720035000",
 "to":"",
@@ -10488,7 +10488,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841125274x200050967447368740",
 "to":"",
@@ -10496,7 +10496,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841269998x967444257232044900",
 "to":"",
@@ -10504,15 +10504,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840981746x945615260918133400",
 "to":"",
 "from":"Andes Mountains",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840979203x585626062843391400",
 "to":"",
@@ -10520,7 +10520,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841279893x264968857196048440",
 "to":"",
@@ -10528,15 +10528,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681841037738x720101200144166300",
 "to":"",
 "from":"California Floristic Province",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840981746x945615260918133400",
 "to":"",
@@ -10544,7 +10544,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840997889x604227813720035000",
 "to":"",
@@ -10552,7 +10552,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841125274x200050967447368740",
 "to":"",
@@ -10560,7 +10560,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841269998x967444257232044900",
 "to":"",
@@ -10568,7 +10568,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840979203x585626062843391400",
 "to":"",
@@ -10576,7 +10576,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841279893x264968857196048440",
 "to":"",
@@ -10584,15 +10584,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868214653x227606862489884160",
 "to":"6 Forms of Politics",
 "from":"Democratization",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868215249x582062645782639200",
 "to":"6 Forms of Politics",
@@ -10600,7 +10600,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868215762x611892014557444700",
 "to":"6 Forms of Politics",
@@ -10608,7 +10608,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868216447x156517859262828000",
 "to":"6 Forms of Politics",
@@ -10616,7 +10616,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868217023x805052602635866000",
 "to":"6 Forms of Politics",
@@ -10624,7 +10624,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868217575x309851830943577160",
 "to":"6 Forms of Politics",
@@ -10632,15 +10632,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867955852x201613514404013660",
 "to":"International Futures Forum World Systems Model",
 "from":"Biosphere",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867956469x642349974624625500",
 "to":"International Futures Forum World Systems Model",
@@ -10648,7 +10648,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867957033x826653668891447400",
 "to":"International Futures Forum World Systems Model",
@@ -10656,7 +10656,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867957790x187427752648829950",
 "to":"International Futures Forum World Systems Model",
@@ -10664,7 +10664,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867958362x390408349894539200",
 "to":"International Futures Forum World Systems Model",
@@ -10672,7 +10672,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867959027x391523302853382460",
 "to":"International Futures Forum World Systems Model",
@@ -10680,7 +10680,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867959597x255081722039101730",
 "to":"International Futures Forum World Systems Model",
@@ -10688,7 +10688,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867961635x162999693821761730",
 "to":"International Futures Forum World Systems Model",
@@ -10696,7 +10696,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867963020x234577776380202180",
 "to":"International Futures Forum World Systems Model",
@@ -10704,7 +10704,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867963605x822335870756998300",
 "to":"International Futures Forum World Systems Model",
@@ -10712,7 +10712,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867964297x702672831460837500",
 "to":"International Futures Forum World Systems Model",
@@ -10720,7 +10720,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867964985x605198254447745000",
 "to":"International Futures Forum World Systems Model",
@@ -10728,7 +10728,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867960216x197308606327882600",
 "to":"International Futures Forum World Systems Model",
@@ -10736,7 +10736,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867960882x302405081298340100",
 "to":"International Futures Forum World Systems Model",
@@ -10744,7 +10744,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867962336x547934247941334300",
 "to":"International Futures Forum World Systems Model",
@@ -10752,7 +10752,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867955158x355803697726726000",
 "to":"International Futures Forum World Systems Model",
@@ -10760,15 +10760,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681871726712x858264587227884300",
 "to":"",
 "from":"German",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871752065x897399545554477400",
 "to":"",
@@ -10776,7 +10776,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871713486x838489294418656200",
 "to":"",
@@ -10784,7 +10784,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871731639x403184696914238700",
 "to":"",
@@ -10792,7 +10792,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871714852x430112698517993300",
 "to":"",
@@ -10800,7 +10800,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871718608x386798233051792500",
 "to":"",
@@ -10808,7 +10808,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871753893x383862229784899300",
 "to":"",
@@ -10816,7 +10816,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871736648x826770255720726100",
 "to":"",
@@ -10824,7 +10824,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871748481x656325045450256700",
 "to":"",
@@ -10832,7 +10832,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871743173x464539968946439360",
 "to":"",
@@ -10840,7 +10840,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871749615x859940461288387600",
 "to":"",
@@ -10848,7 +10848,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871751519x458122126106078400",
 "to":"",
@@ -10856,7 +10856,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871725213x443886618959002300",
 "to":"",
@@ -10864,7 +10864,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871717498x425983871205660500",
 "to":"",
@@ -10872,7 +10872,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871712330x600288840026909600",
 "to":"",
@@ -10880,7 +10880,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871730201x651639213555169000",
 "to":"",
@@ -10888,7 +10888,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871755636x995292773768386000",
 "to":"",
@@ -10896,7 +10896,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871733340x563076356285391300",
 "to":"",
@@ -10904,7 +10904,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871733909x146851168890529180",
 "to":"",
@@ -10912,7 +10912,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871741671x229737049242168420",
 "to":"",
@@ -10920,7 +10920,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871720563x158845587818860160",
 "to":"",
@@ -10928,7 +10928,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871719905x527153320229780600",
 "to":"",
@@ -10936,7 +10936,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871750375x448469763190307840",
 "to":"",
@@ -10944,7 +10944,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871752854x852316841039727500",
 "to":"",
@@ -10952,7 +10952,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871745691x265897432576841730",
 "to":"",
@@ -10960,7 +10960,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871742741x642062771526996900",
 "to":"",
@@ -10968,7 +10968,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871747977x898526522306102300",
 "to":"",
@@ -10976,7 +10976,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871734850x241506736029467360",
 "to":"",
@@ -10984,7 +10984,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871714155x848795868709146800",
 "to":"",
@@ -10992,7 +10992,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871716019x698732439108028300",
 "to":"",
@@ -11000,7 +11000,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871749104x126474399941545180",
 "to":"",
@@ -11008,7 +11008,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871728653x687046402816672800",
 "to":"",
@@ -11016,7 +11016,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871718128x423282083014105100",
 "to":"",
@@ -11024,7 +11024,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871745111x577255511791248400",
 "to":"",
@@ -11032,7 +11032,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871750868x294032270803630300",
 "to":"",
@@ -11040,7 +11040,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871735515x400145881717114600",
 "to":"",
@@ -11048,7 +11048,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871742282x169111298502557800",
 "to":"",
@@ -11056,7 +11056,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871740103x371714602563619300",
 "to":"",
@@ -11064,7 +11064,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871738520x948972992571024900",
 "to":"",
@@ -11072,7 +11072,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871740622x884087783272823800",
 "to":"",
@@ -11080,7 +11080,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871747484x861442712529023600",
 "to":"",
@@ -11088,7 +11088,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871756078x373013586266397000",
 "to":"",
@@ -11096,7 +11096,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871732844x354931800525443400",
 "to":"",
@@ -11104,7 +11104,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871746829x271136096621109380",
 "to":"",
@@ -11112,7 +11112,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871727380x173884058048649380",
 "to":"",
@@ -11120,7 +11120,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871732143x740439810084081400",
 "to":"",
@@ -11128,7 +11128,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871721253x789644603690833500",
 "to":"",
@@ -11136,7 +11136,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871738949x334508561499028000",
 "to":"",
@@ -11144,7 +11144,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871729169x753767785188012300",
 "to":"",
@@ -11152,7 +11152,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871746240x654289661086981000",
 "to":"",
@@ -11160,7 +11160,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871737355x897137070378917200",
 "to":"",
@@ -11168,7 +11168,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871724562x984354179924594600",
 "to":"",
@@ -11176,7 +11176,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871712869x999529576147771800",
 "to":"",
@@ -11184,7 +11184,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871734418x386158890614551000",
 "to":"",
@@ -11192,7 +11192,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871727860x881722945416185700",
 "to":"",
@@ -11200,7 +11200,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871739521x936999146383345200",
 "to":"",
@@ -11208,7 +11208,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871753291x820408272170203800",
 "to":"",
@@ -11216,7 +11216,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871736048x997091153606245000",
 "to":"",
@@ -11224,7 +11224,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871730685x116189918308648110",
 "to":"",
@@ -11232,7 +11232,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871721832x727124382436072100",
 "to":"",
@@ -11240,7 +11240,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871725846x936410756501257000",
 "to":"",
@@ -11248,7 +11248,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871717000x138008646770910290",
 "to":"",
@@ -11256,7 +11256,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871743836x836382335794280000",
 "to":"",
@@ -11264,7 +11264,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871726265x103889612649951780",
 "to":"",
@@ -11272,7 +11272,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871722516x980089527893849300",
 "to":"",
@@ -11280,7 +11280,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871755184x256074889832688540",
 "to":"",
@@ -11288,7 +11288,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871729706x792407192606438300",
 "to":"",
@@ -11296,7 +11296,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871719344x490557220541640400",
 "to":"",
@@ -11304,7 +11304,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871716439x599102698873135100",
 "to":"",
@@ -11312,7 +11312,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871731113x749586986733752300",
 "to":"",
@@ -11320,7 +11320,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871737945x500074401379743100",
 "to":"",
@@ -11328,7 +11328,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871741171x540457386377559500",
 "to":"",
@@ -11336,7 +11336,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871744578x573113455650884300",
 "to":"",
@@ -11344,7 +11344,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871715442x204617414071064360",
 "to":"",
@@ -11352,7 +11352,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871754475x866876580575347600",
 "to":"",
@@ -11360,7 +11360,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871723293x720115566935734900",
 "to":"",
@@ -11368,7 +11368,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871723880x325948794308812160",
 "to":"",
@@ -11376,15 +11376,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681871798267x875831649080707000",
 "to":"Top 200 Languages",
 "from":"Qawasqar",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871726712x858264587227884300",
 "to":"",
@@ -11392,7 +11392,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871752065x897399545554477400",
 "to":"",
@@ -11400,7 +11400,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871794242x988076848910601800",
 "to":"Top 200 Languages",
@@ -11408,7 +11408,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871713486x838489294418656200",
 "to":"",
@@ -11416,7 +11416,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871731639x403184696914238700",
 "to":"",
@@ -11424,7 +11424,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871774968x218961705574751700",
 "to":"Top 200 Languages",
@@ -11432,7 +11432,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871758144x920956632939515800",
 "to":"Top 200 Languages",
@@ -11440,7 +11440,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871758756x103985624757828580",
 "to":"Top 200 Languages",
@@ -11448,7 +11448,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871783393x711576131715192600",
 "to":"Top 200 Languages",
@@ -11456,7 +11456,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871714852x430112698517993300",
 "to":"",
@@ -11464,7 +11464,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871718608x386798233051792500",
 "to":"",
@@ -11472,7 +11472,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871759463x359071549797043160",
 "to":"Top 200 Languages",
@@ -11480,7 +11480,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871764547x731132618624155200",
 "to":"Top 200 Languages",
@@ -11488,7 +11488,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871768998x530729241626286600",
 "to":"Top 200 Languages",
@@ -11496,7 +11496,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871785237x554692687644093630",
 "to":"Top 200 Languages",
@@ -11504,7 +11504,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871797601x192902798946272840",
 "to":"Top 200 Languages",
@@ -11512,7 +11512,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871790004x392283223529175360",
 "to":"Top 200 Languages",
@@ -11520,7 +11520,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871753893x383862229784899300",
 "to":"",
@@ -11528,7 +11528,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871736648x826770255720726100",
 "to":"",
@@ -11536,7 +11536,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871763468x387105394294882750",
 "to":"Top 200 Languages",
@@ -11544,7 +11544,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871748481x656325045450256700",
 "to":"",
@@ -11552,7 +11552,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871743173x464539968946439360",
 "to":"",
@@ -11560,7 +11560,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871788166x403433265739695940",
 "to":"Top 200 Languages",
@@ -11568,7 +11568,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871793253x642516753257337700",
 "to":"Top 200 Languages",
@@ -11576,7 +11576,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871749615x859940461288387600",
 "to":"",
@@ -11584,7 +11584,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871773164x678188906948453500",
 "to":"Top 200 Languages",
@@ -11592,7 +11592,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871751519x458122126106078400",
 "to":"",
@@ -11600,7 +11600,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871762196x297960154168259100",
 "to":"Top 200 Languages",
@@ -11608,7 +11608,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871725213x443886618959002300",
 "to":"",
@@ -11616,7 +11616,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871760011x886858770307893600",
 "to":"Top 200 Languages",
@@ -11624,7 +11624,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871795323x511535586344004540",
 "to":"Top 200 Languages",
@@ -11632,7 +11632,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871717498x425983871205660500",
 "to":"",
@@ -11640,7 +11640,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871712330x600288840026909600",
 "to":"",
@@ -11648,7 +11648,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871730201x651639213555169000",
 "to":"",
@@ -11656,7 +11656,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871766632x750598553127853400",
 "to":"Top 200 Languages",
@@ -11664,7 +11664,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871792744x543243989520483700",
 "to":"Top 200 Languages",
@@ -11672,7 +11672,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871755636x995292773768386000",
 "to":"",
@@ -11680,7 +11680,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871760503x530897295445321900",
 "to":"Top 200 Languages",
@@ -11688,7 +11688,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871733340x563076356285391300",
 "to":"",
@@ -11696,7 +11696,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871733909x146851168890529180",
 "to":"",
@@ -11704,7 +11704,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871791199x560089969237957500",
 "to":"Top 200 Languages",
@@ -11712,7 +11712,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871741671x229737049242168420",
 "to":"",
@@ -11720,7 +11720,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871720563x158845587818860160",
 "to":"",
@@ -11728,7 +11728,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871719905x527153320229780600",
 "to":"",
@@ -11736,7 +11736,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871750375x448469763190307840",
 "to":"",
@@ -11744,7 +11744,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871752854x852316841039727500",
 "to":"",
@@ -11752,7 +11752,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871778629x730632855421657500",
 "to":"Top 200 Languages",
@@ -11760,7 +11760,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871745691x265897432576841730",
 "to":"",
@@ -11768,7 +11768,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871784593x451026489004640500",
 "to":"Top 200 Languages",
@@ -11776,7 +11776,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871771929x743046899376966100",
 "to":"Top 200 Languages",
@@ -11784,7 +11784,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871742741x642062771526996900",
 "to":"",
@@ -11792,7 +11792,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871785648x198558863978598700",
 "to":"Top 200 Languages",
@@ -11800,7 +11800,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871747977x898526522306102300",
 "to":"",
@@ -11808,7 +11808,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871777549x978310192157396700",
 "to":"Top 200 Languages",
@@ -11816,7 +11816,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871734850x241506736029467360",
 "to":"",
@@ -11824,7 +11824,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871714155x848795868709146800",
 "to":"",
@@ -11832,7 +11832,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871776011x761384428717555700",
 "to":"Top 200 Languages",
@@ -11840,7 +11840,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871716019x698732439108028300",
 "to":"",
@@ -11848,7 +11848,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871767951x987585018950243600",
 "to":"Top 200 Languages",
@@ -11856,7 +11856,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871749104x126474399941545180",
 "to":"",
@@ -11864,7 +11864,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871728653x687046402816672800",
 "to":"",
@@ -11872,7 +11872,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871718128x423282083014105100",
 "to":"",
@@ -11880,7 +11880,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871745111x577255511791248400",
 "to":"",
@@ -11888,7 +11888,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871750868x294032270803630300",
 "to":"",
@@ -11896,7 +11896,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871778194x178762577576760060",
 "to":"Top 200 Languages",
@@ -11904,7 +11904,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871779609x205537117521964260",
 "to":"Top 200 Languages",
@@ -11912,7 +11912,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871735515x400145881717114600",
 "to":"",
@@ -11920,7 +11920,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871781884x593624800071349500",
 "to":"Top 200 Languages",
@@ -11928,7 +11928,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871761681x129120108730339520",
 "to":"Top 200 Languages",
@@ -11936,7 +11936,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871779030x171653378663871420",
 "to":"Top 200 Languages",
@@ -11944,7 +11944,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871791611x119145315525225120",
 "to":"Top 200 Languages",
@@ -11952,7 +11952,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871797135x101011956128412850",
 "to":"Top 200 Languages",
@@ -11960,7 +11960,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871783918x839063281485736800",
 "to":"Top 200 Languages",
@@ -11968,7 +11968,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871762887x992803418630638500",
 "to":"Top 200 Languages",
@@ -11976,7 +11976,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871742282x169111298502557800",
 "to":"",
@@ -11984,7 +11984,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871777027x326690441141573600",
 "to":"Top 200 Languages",
@@ -11992,7 +11992,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871740103x371714602563619300",
 "to":"",
@@ -12000,7 +12000,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871738520x948972992571024900",
 "to":"",
@@ -12008,7 +12008,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871740622x884087783272823800",
 "to":"",
@@ -12016,7 +12016,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871767060x535254325379171500",
 "to":"Top 200 Languages",
@@ -12024,7 +12024,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871747484x861442712529023600",
 "to":"",
@@ -12032,7 +12032,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871756078x373013586266397000",
 "to":"",
@@ -12040,7 +12040,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871732844x354931800525443400",
 "to":"",
@@ -12048,7 +12048,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871746829x271136096621109380",
 "to":"",
@@ -12056,7 +12056,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871756647x336703160068563100",
 "to":"Top 200 Languages",
@@ -12064,7 +12064,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871757662x762920479070534100",
 "to":"Top 200 Languages",
@@ -12072,7 +12072,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871782848x181104816947842000",
 "to":"Top 200 Languages",
@@ -12080,7 +12080,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871727380x173884058048649380",
 "to":"",
@@ -12088,7 +12088,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871732143x740439810084081400",
 "to":"",
@@ -12096,7 +12096,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871788609x759425921578133100",
 "to":"Top 200 Languages",
@@ -12104,7 +12104,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871721253x789644603690833500",
 "to":"",
@@ -12112,7 +12112,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871738949x334508561499028000",
 "to":"",
@@ -12120,7 +12120,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871729169x753767785188012300",
 "to":"",
@@ -12128,7 +12128,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871794829x100615122452138770",
 "to":"Top 200 Languages",
@@ -12136,7 +12136,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871746240x654289661086981000",
 "to":"",
@@ -12144,7 +12144,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871786950x466107967697987600",
 "to":"Top 200 Languages",
@@ -12152,7 +12152,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871757227x710059014080219400",
 "to":"Top 200 Languages",
@@ -12160,7 +12160,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871737355x897137070378917200",
 "to":"",
@@ -12168,7 +12168,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871789270x363500948450232060",
 "to":"Top 200 Languages",
@@ -12176,7 +12176,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871772498x152414906381482800",
 "to":"Top 200 Languages",
@@ -12184,7 +12184,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871786298x477039142602759800",
 "to":"Top 200 Languages",
@@ -12192,7 +12192,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871724562x984354179924594600",
 "to":"",
@@ -12200,7 +12200,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871712869x999529576147771800",
 "to":"",
@@ -12208,7 +12208,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871773785x402446490142245950",
 "to":"Top 200 Languages",
@@ -12216,7 +12216,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871776570x452091332129329400",
 "to":"Top 200 Languages",
@@ -12224,7 +12224,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871771405x984217017506041300",
 "to":"Top 200 Languages",
@@ -12232,7 +12232,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871793712x899846714446237400",
 "to":"Top 200 Languages",
@@ -12240,7 +12240,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871781249x957739571532159100",
 "to":"Top 200 Languages",
@@ -12248,7 +12248,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871734418x386158890614551000",
 "to":"",
@@ -12256,7 +12256,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871769611x582044561781459100",
 "to":"Top 200 Languages",
@@ -12264,7 +12264,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871767492x585383633483649900",
 "to":"Top 200 Languages",
@@ -12272,7 +12272,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871766271x504368867784582140",
 "to":"Top 200 Languages",
@@ -12280,7 +12280,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871727860x881722945416185700",
 "to":"",
@@ -12288,7 +12288,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871739521x936999146383345200",
 "to":"",
@@ -12296,7 +12296,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871753291x820408272170203800",
 "to":"",
@@ -12304,7 +12304,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871782411x665807574385978400",
 "to":"Top 200 Languages",
@@ -12312,7 +12312,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871736048x997091153606245000",
 "to":"",
@@ -12320,7 +12320,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871730685x116189918308648110",
 "to":"",
@@ -12328,7 +12328,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871761083x246689595523741600",
 "to":"Top 200 Languages",
@@ -12336,7 +12336,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871721832x727124382436072100",
 "to":"",
@@ -12344,7 +12344,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871725846x936410756501257000",
 "to":"",
@@ -12352,7 +12352,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871780686x833127715565815200",
 "to":"Top 200 Languages",
@@ -12360,7 +12360,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871717000x138008646770910290",
 "to":"",
@@ -12368,7 +12368,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871770199x408871021683105100",
 "to":"Top 200 Languages",
@@ -12376,7 +12376,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871743836x836382335794280000",
 "to":"",
@@ -12384,7 +12384,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871726265x103889612649951780",
 "to":"",
@@ -12392,7 +12392,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871722516x980089527893849300",
 "to":"",
@@ -12400,7 +12400,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871755184x256074889832688540",
 "to":"",
@@ -12408,7 +12408,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871729706x792407192606438300",
 "to":"",
@@ -12416,7 +12416,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871796653x640310682871958900",
 "to":"Top 200 Languages",
@@ -12424,7 +12424,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871765623x360094420097381250",
 "to":"Top 200 Languages",
@@ -12432,7 +12432,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871775586x889777045588156800",
 "to":"Top 200 Languages",
@@ -12440,7 +12440,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871792102x332996022017926460",
 "to":"Top 200 Languages",
@@ -12448,7 +12448,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871719344x490557220541640400",
 "to":"",
@@ -12456,7 +12456,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871770822x827114787295860400",
 "to":"Top 200 Languages",
@@ -12464,7 +12464,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871796024x977644678124034000",
 "to":"Top 200 Languages",
@@ -12472,7 +12472,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871716439x599102698873135100",
 "to":"",
@@ -12480,7 +12480,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871731113x749586986733752300",
 "to":"",
@@ -12488,7 +12488,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871737945x500074401379743100",
 "to":"",
@@ -12496,7 +12496,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871741171x540457386377559500",
 "to":"",
@@ -12504,7 +12504,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871744578x573113455650884300",
 "to":"",
@@ -12512,7 +12512,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871715442x204617414071064360",
 "to":"",
@@ -12520,7 +12520,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871763983x113444871583052500",
 "to":"Top 200 Languages",
@@ -12528,7 +12528,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871754475x866876580575347600",
 "to":"",
@@ -12536,7 +12536,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871790640x719981995723573800",
 "to":"Top 200 Languages",
@@ -12544,7 +12544,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871780163x134807397940380770",
 "to":"Top 200 Languages",
@@ -12552,7 +12552,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871787536x351929751823960560",
 "to":"Top 200 Languages",
@@ -12560,7 +12560,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871774397x880592958717026300",
 "to":"Top 200 Languages",
@@ -12568,7 +12568,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871765151x217615946260633300",
 "to":"Top 200 Languages",
@@ -12576,7 +12576,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871723293x720115566935734900",
 "to":"",
@@ -12584,7 +12584,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681871723880x325948794308812160",
 "to":"",
@@ -12592,15 +12592,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840968343x718854465426997900",
 "to":"Location Type",
 "from":"Address",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841390373x634581674532654800",
 "to":"Location Type",
@@ -12608,7 +12608,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841268137x680892880809370600",
 "to":"Location Type",
@@ -12616,7 +12616,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841183379x427143510043253700",
 "to":"Location Type",
@@ -12624,7 +12624,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841291270x515907608943162240",
 "to":"Location Type",
@@ -12632,7 +12632,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841139937x425446738579489800",
 "to":"Location Type",
@@ -12640,7 +12640,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841397546x348661455131398900",
 "to":"Location Type",
@@ -12648,7 +12648,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841144987x488981088504245570",
 "to":"Location Type",
@@ -12656,7 +12656,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841266841x891882676872483700",
 "to":"Location Type",
@@ -12664,7 +12664,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841228061x586608946465417200",
 "to":"Location Type",
@@ -12672,7 +12672,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841229315x410415912537918800",
 "to":"Location Type",
@@ -12680,7 +12680,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841113988x379487795145399700",
 "to":"Location Type",
@@ -12688,15 +12688,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867932279x435693783843811300",
 "to":"",
 "from":"Self-Actualization",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868207258x118971624326660530",
 "to":"Maslow's Hierarchy of Needs",
@@ -12704,7 +12704,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868207869x958821106185515900",
 "to":"Maslow's Hierarchy of Needs",
@@ -12712,7 +12712,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868208410x384118231064625400",
 "to":"Maslow's Hierarchy of Needs",
@@ -12720,7 +12720,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868208957x800311252214724200",
 "to":"Maslow's Hierarchy of Needs",
@@ -12728,15 +12728,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868086781x899672888509070300",
 "to":"Peer2Peer",
 "from":"Peer Governance",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868087381x838011048413691100",
 "to":"Peer2Peer",
@@ -12744,7 +12744,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868088074x715870088618405100",
 "to":"Peer2Peer",
@@ -12752,15 +12752,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868209524x358577126940774700",
 "to":"Vision 2050",
 "from":"Connectivity",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868210099x214991194189338530",
 "to":"Vision 2050",
@@ -12768,7 +12768,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868210639x245484476798625500",
 "to":"Vision 2050",
@@ -12776,7 +12776,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868211156x666442604647473400",
 "to":"Vision 2050",
@@ -12784,7 +12784,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868211738x604248501450372900",
 "to":"Vision 2050",
@@ -12792,7 +12792,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868212400x522475720735899200",
 "to":"Vision 2050",
@@ -12800,7 +12800,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868212890x403373936343115000",
 "to":"Vision 2050",
@@ -12808,7 +12808,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868213359x126318253845640210",
 "to":"Vision 2050",
@@ -12816,7 +12816,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868214043x444888442858618400",
 "to":"Vision 2050",
@@ -12824,15 +12824,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867966132x554666566029363900",
 "to":"Permaculture Ethics",
 "from":"Earth Care",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867967466x148797705012537540",
 "to":"Permaculture Ethics",
@@ -12840,7 +12840,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867969073x465119503948099100",
 "to":"Permaculture Ethics",
@@ -12848,15 +12848,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868089842x700279531828069200",
 "to":"Planet Home Solution Areas",
 "from":"Atmospheric Conditions",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868091347x685492338930942500",
 "to":"Planet Home Solution Areas",
@@ -12864,7 +12864,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868096178x709040026662365600",
 "to":"Planet Home Solution Areas",
@@ -12872,7 +12872,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868113814x228741477705063580",
 "to":"Planet Home Solution Areas",
@@ -12880,7 +12880,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868093364x364967729706762200",
 "to":"Planet Home Solution Areas",
@@ -12888,7 +12888,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868094681x142129377643821280",
 "to":"Planet Home Solution Areas",
@@ -12896,7 +12896,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868099082x668046332012905700",
 "to":"Planet Home Solution Areas",
@@ -12904,7 +12904,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868106158x199807383105165900",
 "to":"Planet Home Solution Areas",
@@ -12912,7 +12912,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868101937x229280695554678660",
 "to":"Planet Home Solution Areas",
@@ -12920,7 +12920,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868103243x217204991857844260",
 "to":"Planet Home Solution Areas",
@@ -12928,7 +12928,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868103959x399836747508326000",
 "to":"Planet Home Solution Areas",
@@ -12936,7 +12936,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868104675x721400416259830900",
 "to":"Planet Home Solution Areas",
@@ -12944,7 +12944,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868107737x356848287591022840",
 "to":"Planet Home Solution Areas",
@@ -12952,7 +12952,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868108333x768077465861682900",
 "to":"Planet Home Solution Areas",
@@ -12960,7 +12960,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868100521x875652084317463900",
 "to":"Planet Home Solution Areas",
@@ -12968,7 +12968,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868110050x114377385308661600",
 "to":"Planet Home Solution Areas",
@@ -12976,7 +12976,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868112086x743451789427944700",
 "to":"Planet Home Solution Areas",
@@ -12984,7 +12984,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868097536x104128789070668800",
 "to":"Planet Home Solution Areas",
@@ -12992,7 +12992,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868092794x440041256160765200",
 "to":"Planet Home Solution Areas",
@@ -13000,7 +13000,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868115430x306867207632198800",
 "to":"Planet Home Solution Areas",
@@ -13008,15 +13008,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867946428x345478509839997300",
 "to":"",
 "from":"Air Pollution",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867946951x743802338308542800",
 "to":"",
@@ -13024,7 +13024,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867947619x758091930296673300",
 "to":"",
@@ -13032,7 +13032,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867950987x138269429212009900",
 "to":"",
@@ -13040,7 +13040,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867951581x158825883560590460",
 "to":"",
@@ -13048,7 +13048,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867952299x893152783952141200",
 "to":"",
@@ -13056,7 +13056,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867952806x872848542241881900",
 "to":"",
@@ -13064,7 +13064,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867953941x423684534349056960",
 "to":"",
@@ -13072,7 +13072,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867954534x190592843864927360",
 "to":"",
@@ -13080,15 +13080,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868119627x234274569367971740",
 "to":"Positive Blockchain",
 "from":"Agriculture & Food",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868116171x842902654783086000",
 "to":"Positive Blockchain",
@@ -13096,7 +13096,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868117323x412359523079945900",
 "to":"Positive Blockchain",
@@ -13104,7 +13104,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868116748x567753967421442400",
 "to":"Positive Blockchain",
@@ -13112,7 +13112,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868117833x857438591368448100",
 "to":"Positive Blockchain",
@@ -13120,7 +13120,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868118358x951409254172407900",
 "to":"Positive Blockchain",
@@ -13128,7 +13128,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868118936x750623991773021300",
 "to":"Positive Blockchain",
@@ -13136,7 +13136,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868120197x958029138520562200",
 "to":"Positive Blockchain",
@@ -13144,7 +13144,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868120914x367703530983089860",
 "to":"Positive Blockchain",
@@ -13152,7 +13152,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868122885x683910458582149100",
 "to":"Positive Blockchain",
@@ -13160,7 +13160,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868121590x463076753566312500",
 "to":"Positive Blockchain",
@@ -13168,7 +13168,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868122166x662552385424927100",
 "to":"Positive Blockchain",
@@ -13176,7 +13176,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868123329x440887325998733600",
 "to":"Positive Blockchain",
@@ -13184,7 +13184,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868123993x432816105030956500",
 "to":"Positive Blockchain",
@@ -13192,15 +13192,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868180447x378288828928071230",
 "to":"8 Principles for Managing a Commons",
 "from":"Build responsibility for governing the common resource in nested tiers from the lowest level up to the entire interconnected system.",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868180963x545671293293088060",
 "to":"8 Principles for Managing a Commons",
@@ -13208,7 +13208,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868181648x811314108558091800",
 "to":"8 Principles for Managing a Commons",
@@ -13216,7 +13216,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868182406x954567584571701600",
 "to":"8 Principles for Managing a Commons",
@@ -13224,7 +13224,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868182982x620848254746222000",
 "to":"8 Principles for Managing a Commons",
@@ -13232,7 +13232,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868183486x719778884895012900",
 "to":"8 Principles for Managing a Commons",
@@ -13240,7 +13240,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868184159x970530975759316600",
 "to":"8 Principles for Managing a Commons",
@@ -13248,7 +13248,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868184673x314959323240493700",
 "to":"8 Principles for Managing a Commons",
@@ -13256,15 +13256,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840979937x926219196834912000",
 "to":"Region",
 "from":"America",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841277647x506443174523629950",
 "to":"Region",
@@ -13272,7 +13272,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841093780x636473917060123000",
 "to":"Region",
@@ -13280,7 +13280,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840972168x132307318454460750",
 "to":"Region",
@@ -13288,7 +13288,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841172546x321762660833490050",
 "to":"Region",
@@ -13296,7 +13296,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841079936x834451748607511800",
 "to":"Region",
@@ -13304,7 +13304,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841046762x714578412556450400",
 "to":"Region",
@@ -13312,7 +13312,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841132551x561475224109069440",
 "to":"Region",
@@ -13320,7 +13320,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841008760x642897105870571900",
 "to":"Region",
@@ -13328,7 +13328,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841044149x184967045589972350",
 "to":"Region",
@@ -13336,7 +13336,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841183841x146290122477139800",
 "to":"Region",
@@ -13344,7 +13344,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841030668x448460242730940100",
 "to":"Region",
@@ -13352,7 +13352,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841211224x274618720774841400",
 "to":"Region",
@@ -13360,7 +13360,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841165857x794191713668472800",
 "to":"Region",
@@ -13368,7 +13368,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841171752x974039154391056000",
 "to":"Region",
@@ -13376,7 +13376,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841329215x182576487840194750",
 "to":"Region",
@@ -13384,7 +13384,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841337179x308644975769961660",
 "to":"Region",
@@ -13392,7 +13392,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841324834x910577784581324300",
 "to":"Region",
@@ -13400,7 +13400,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841394104x922675240241701600",
 "to":"Region",
@@ -13408,15 +13408,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867983603x884598330953844400",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
 "from":"Arts Culture & Music",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867987633x425141445098941500",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13424,7 +13424,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867989052x385443367800494900",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13432,7 +13432,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867990608x831552513758197400",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13440,7 +13440,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868001668x879277130434174500",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13448,7 +13448,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867993565x180862386354477150",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13456,7 +13456,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867986312x284818696123792420",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13464,7 +13464,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867994838x248840330806222140",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13472,7 +13472,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867996029x874173171024258400",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13480,7 +13480,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867997302x912767963194520700",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13488,7 +13488,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867985005x831533199112268800",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13496,7 +13496,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867998636x980751966567705300",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13504,7 +13504,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868000158x206746542928086370",
 "to":"Sector Wheel of Society (Evolving Wheel of Synergy)",
@@ -13512,15 +13512,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681867700224x689438076118313600",
 "to":"Societal Sectors",
 "from":"Arts Media & Culture",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867680700x372038105855613060",
 "to":"Societal Sectors",
@@ -13528,7 +13528,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867725543x906382363471822700",
 "to":"Societal Sectors",
@@ -13536,7 +13536,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867730786x984097191360129800",
 "to":"Societal Sectors",
@@ -13544,7 +13544,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867911309x304116600338128400",
 "to":"Societal Sectors",
@@ -13552,7 +13552,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867862147x456200096234408800",
 "to":"Societal Sectors",
@@ -13560,7 +13560,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867876286x303455739020710660",
 "to":"Societal Sectors",
@@ -13568,7 +13568,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867902273x543460356332223550",
 "to":"Societal Sectors",
@@ -13576,7 +13576,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867925879x491906133107117500",
 "to":"Societal Sectors",
@@ -13584,7 +13584,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867664094x749955629052325500",
 "to":"Societal Sectors",
@@ -13592,7 +13592,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867821004x985234976478384500",
 "to":"Societal Sectors",
@@ -13600,7 +13600,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867666179x429787649601748100",
 "to":"Societal Sectors",
@@ -13608,7 +13608,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867668814x235748700131112480",
 "to":"Societal Sectors",
@@ -13616,7 +13616,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867847779x920415517910446500",
 "to":"Societal Sectors",
@@ -13624,7 +13624,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867671620x188305312505464770",
 "to":"Societal Sectors",
@@ -13632,7 +13632,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867676078x709805905383491100",
 "to":"Societal Sectors",
@@ -13640,7 +13640,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867836541x391905827357426300",
 "to":"Societal Sectors",
@@ -13648,7 +13648,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867685160x840477725675124000",
 "to":"Societal Sectors",
@@ -13656,7 +13656,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867697772x185253155389344830",
 "to":"Societal Sectors",
@@ -13664,7 +13664,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867832388x420569703257347200",
 "to":"Societal Sectors",
@@ -13672,7 +13672,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867930349x340062802322083500",
 "to":"Societal Sectors",
@@ -13680,7 +13680,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867747764x160259672676917220",
 "to":"Societal Sectors",
@@ -13688,7 +13688,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867717085x368284009271688600",
 "to":"Societal Sectors",
@@ -13696,7 +13696,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867702781x942401367316509000",
 "to":"Societal Sectors",
@@ -13704,7 +13704,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867712736x171014191412346420",
 "to":"Societal Sectors",
@@ -13712,7 +13712,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867920910x939487719495697400",
 "to":"Societal Sectors",
@@ -13720,7 +13720,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867733787x221992633635215360",
 "to":"Societal Sectors",
@@ -13728,7 +13728,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867738125x237850621307835520",
 "to":"Societal Sectors",
@@ -13736,7 +13736,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867750141x532216069114949570",
 "to":"Societal Sectors",
@@ -13744,7 +13744,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867814336x775700749667758000",
 "to":"Societal Sectors",
@@ -13752,7 +13752,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867754169x264991694495759760",
 "to":"Societal Sectors",
@@ -13760,7 +13760,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867759776x753174188626120700",
 "to":"Societal Sectors",
@@ -13768,7 +13768,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867816849x595032312503340500",
 "to":"Societal Sectors",
@@ -13776,7 +13776,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867823570x494294105602620860",
 "to":"Societal Sectors",
@@ -13784,7 +13784,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867916955x911221859086087200",
 "to":"Societal Sectors",
@@ -13792,7 +13792,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867887186x807967392853252700",
 "to":"Societal Sectors",
@@ -13800,7 +13800,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867839291x869813969634292600",
 "to":"Societal Sectors",
@@ -13808,7 +13808,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867841492x219621030108658080",
 "to":"Societal Sectors",
@@ -13816,7 +13816,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867890680x256186641566263040",
 "to":"Societal Sectors",
@@ -13824,7 +13824,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867689985x772653746257426000",
 "to":"Societal Sectors",
@@ -13832,7 +13832,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867867080x616343281079101800",
 "to":"Societal Sectors",
@@ -13840,7 +13840,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867705024x579303305367900200",
 "to":"Societal Sectors",
@@ -13848,7 +13848,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867854789x601758428452358900",
 "to":"Societal Sectors",
@@ -13856,7 +13856,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867856946x969280550807441000",
 "to":"Societal Sectors",
@@ -13864,7 +13864,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867871397x738189420775983900",
 "to":"Societal Sectors",
@@ -13872,7 +13872,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867826154x854440530070115200",
 "to":"Societal Sectors",
@@ -13880,7 +13880,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867828538x928309402946673400",
 "to":"Societal Sectors",
@@ -13888,7 +13888,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867673856x894648598920615400",
 "to":"Societal Sectors",
@@ -13896,7 +13896,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867880826x942858780766605800",
 "to":"Societal Sectors",
@@ -13904,7 +13904,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867852112x994081738254435100",
 "to":"Societal Sectors",
@@ -13912,7 +13912,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867882993x252095467272120300",
 "to":"Societal Sectors",
@@ -13920,7 +13920,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867743297x968486694021847900",
 "to":"Societal Sectors",
@@ -13928,7 +13928,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867893033x427152786438467200",
 "to":"Societal Sectors",
@@ -13936,7 +13936,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867897439x561224427614906300",
 "to":"Societal Sectors",
@@ -13944,7 +13944,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867900207x226787036435563070",
 "to":"Societal Sectors",
@@ -13952,7 +13952,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867907306x723658531008332800",
 "to":"Societal Sectors",
@@ -13960,7 +13960,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681867710434x351390093076855600",
 "to":"Societal Sectors",
@@ -13968,15 +13968,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868002326x714189932198369500",
 "to":"Solutionista Sectors",
 "from":"Ethics",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868002912x818330533619418900",
 "to":"Solutionista Sectors",
@@ -13984,7 +13984,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868003576x899936990702637000",
 "to":"Solutionista Sectors",
@@ -13992,15 +13992,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840992108x549748748660270340",
 "to":"State",
 "from":"Arkansas",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841162163x789090571171930900",
 "to":"State",
@@ -14008,7 +14008,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840990909x168460523596807740",
 "to":"State",
@@ -14016,7 +14016,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841139080x288614941897980200",
 "to":"State",
@@ -14024,7 +14024,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841242498x421305894861936400",
 "to":"State",
@@ -14032,7 +14032,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840973548x716170801094757900",
 "to":"State",
@@ -14040,7 +14040,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841377840x789065763259764600",
 "to":"State",
@@ -14048,7 +14048,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841236337x988663343214227600",
 "to":"State",
@@ -14056,7 +14056,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841325956x556716485104491650",
 "to":"State",
@@ -14064,7 +14064,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841184917x101001273730949580",
 "to":"State",
@@ -14072,7 +14072,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841240876x423579966074302000",
 "to":"State",
@@ -14080,7 +14080,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841351173x965254562204477000",
 "to":"State",
@@ -14088,7 +14088,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841059160x386213401899309060",
 "to":"State",
@@ -14096,7 +14096,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841215480x939297702205857500",
 "to":"State",
@@ -14104,7 +14104,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841295423x816559267718014500",
 "to":"State",
@@ -14112,7 +14112,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841142371x403725471987191700",
 "to":"State",
@@ -14120,7 +14120,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841136899x514511898321398100",
 "to":"State",
@@ -14128,7 +14128,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841056720x267749011994247160",
 "to":"State",
@@ -14136,7 +14136,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841281214x472352700732744400",
 "to":"State",
@@ -14144,7 +14144,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841399525x299692989880244500",
 "to":"State",
@@ -14152,7 +14152,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841263221x592062288721813900",
 "to":"State",
@@ -14160,7 +14160,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841257231x675852416506917800",
 "to":"State",
@@ -14168,7 +14168,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841200722x295441563431177540",
 "to":"State",
@@ -14176,7 +14176,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841146180x287972120568722460",
 "to":"State",
@@ -14184,7 +14184,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841074857x858661850085448200",
 "to":"State",
@@ -14192,7 +14192,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841243904x228264773820688450",
 "to":"State",
@@ -14200,7 +14200,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841107435x651643898729081300",
 "to":"State",
@@ -14208,7 +14208,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841201833x655156303131610500",
 "to":"State",
@@ -14216,7 +14216,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841213884x520639246403909400",
 "to":"State",
@@ -14224,7 +14224,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841353260x271256533903924580",
 "to":"State",
@@ -14232,7 +14232,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841072368x535986078229654400",
 "to":"State",
@@ -14240,7 +14240,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841385505x575624620803691900",
 "to":"State",
@@ -14248,7 +14248,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841327376x191447221998922270",
 "to":"State",
@@ -14256,7 +14256,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841100455x691816581880342800",
 "to":"State",
@@ -14264,7 +14264,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841255897x633082420801076400",
 "to":"State",
@@ -14272,7 +14272,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841269425x275252219266216580",
 "to":"State",
@@ -14280,7 +14280,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841245077x279598634239538020",
 "to":"State",
@@ -14288,7 +14288,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841397032x126530702839765540",
 "to":"State",
@@ -14296,7 +14296,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840975102x878758101524699600",
 "to":"State",
@@ -14304,7 +14304,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841190261x509297028638955300",
 "to":"State",
@@ -14312,7 +14312,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841208936x705678919993987500",
 "to":"State",
@@ -14320,7 +14320,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841395329x478258200300894140",
 "to":"State",
@@ -14328,7 +14328,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841389858x666554958557020000",
 "to":"State",
@@ -14336,7 +14336,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841212777x322229407311109840",
 "to":"State",
@@ -14344,7 +14344,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841220763x895414769323575400",
 "to":"State",
@@ -14352,7 +14352,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841159509x987367090170183700",
 "to":"State",
@@ -14360,7 +14360,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841392832x273302679104046720",
 "to":"State",
@@ -14368,7 +14368,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841246370x405269871453263400",
 "to":"State",
@@ -14376,7 +14376,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841264388x946386283048026100",
 "to":"State",
@@ -14384,7 +14384,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841129785x187931140003727800",
 "to":"State",
@@ -14392,7 +14392,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841037255x540785352160022340",
 "to":"State",
@@ -14400,7 +14400,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681840967501x197435709300179300",
 "to":"State",
@@ -14408,7 +14408,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841274515x310635450287330500",
 "to":"State",
@@ -14416,7 +14416,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841166388x117552785724339700",
 "to":"State",
@@ -14424,15 +14424,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868284524x100303587992205180",
 "to":"Theory U",
 "from":"Co-creating",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868285151x164596482381381920",
 "to":"Theory U",
@@ -14440,7 +14440,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868285644x725644884173931100",
 "to":"Theory U",
@@ -14448,7 +14448,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868286328x232140544977144770",
 "to":"Theory U",
@@ -14456,7 +14456,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868286775x959469666451078200",
 "to":"Theory U",
@@ -14464,15 +14464,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868136262x116499947553179820",
 "to":"United Nations Sustainable Development Goals",
 "from":"7. Affordable and Clean Energy",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868162041x311686368937648600",
 "to":"United Nations Sustainable Development Goals",
@@ -14480,7 +14480,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868129570x643209936648467200",
 "to":"United Nations Sustainable Development Goals",
@@ -14488,7 +14488,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868167118x164512270829369600",
 "to":"United Nations Sustainable Development Goals",
@@ -14496,7 +14496,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868141106x702898134418665300",
 "to":"United Nations Sustainable Development Goals",
@@ -14504,7 +14504,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868144554x206240743663131040",
 "to":"United Nations Sustainable Development Goals",
@@ -14512,7 +14512,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868149921x330098418753055800",
 "to":"United Nations Sustainable Development Goals",
@@ -14520,7 +14520,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868164688x190558818720447680",
 "to":"United Nations Sustainable Development Goals",
@@ -14528,7 +14528,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868154769x144692198114727330",
 "to":"United Nations Sustainable Development Goals",
@@ -14536,7 +14536,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868159652x173323562921562600",
 "to":"United Nations Sustainable Development Goals",
@@ -14544,7 +14544,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868157110x734804376137350700",
 "to":"United Nations Sustainable Development Goals",
@@ -14552,7 +14552,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868152575x285746936190787170",
 "to":"United Nations Sustainable Development Goals",
@@ -14560,7 +14560,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868134004x702218751186028900",
 "to":"United Nations Sustainable Development Goals",
@@ -14568,7 +14568,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868138630x476096271808671000",
 "to":"United Nations Sustainable Development Goals",
@@ -14576,7 +14576,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868131770x598087471790757900",
 "to":"United Nations Sustainable Development Goals",
@@ -14584,7 +14584,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868126353x785031702993065000",
 "to":"United Nations Sustainable Development Goals",
@@ -14592,7 +14592,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868147039x920491680785451000",
 "to":"United Nations Sustainable Development Goals",
@@ -14600,15 +14600,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681840988038x993388425235350900",
 "to":"",
 "from":"Arctic tundra",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681841020749x548417659701866000",
 "to":"",
@@ -14616,15 +14616,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868006049x824143661170033000",
 "to":"Wheel of CoCreation Sector",
 "from":"Economics",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868010309x371566654663195700",
 "to":"Wheel of CoCreation Sector",
@@ -14632,7 +14632,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868020970x606432442108148600",
 "to":"Wheel of CoCreation Sector",
@@ -14640,7 +14640,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868004693x365532931730388600",
 "to":"Wheel of CoCreation Sector",
@@ -14648,7 +14648,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868007663x196095380381875900",
 "to":"Wheel of CoCreation Sector",
@@ -14656,7 +14656,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868009174x319444779174492540",
 "to":"Wheel of CoCreation Sector",
@@ -14664,7 +14664,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868011747x359921197029460200",
 "to":"Wheel of CoCreation Sector",
@@ -14672,7 +14672,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868013090x804263083033460800",
 "to":"Wheel of CoCreation Sector",
@@ -14680,7 +14680,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868014282x350445700025351200",
 "to":"Wheel of CoCreation Sector",
@@ -14688,7 +14688,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868015387x999105625236345100",
 "to":"Wheel of CoCreation Sector",
@@ -14696,7 +14696,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868016775x130629337443692430",
 "to":"Wheel of CoCreation Sector",
@@ -14704,7 +14704,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868018106x186949616526030050",
 "to":"Wheel of CoCreation Sector",
@@ -14712,7 +14712,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868019522x302280956228602200",
 "to":"Wheel of CoCreation Sector",
@@ -14720,15 +14720,15 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
-},{
+"description":""
+}{
 "id":"connection-1681868024063x340919367503676540",
 "to":"Yelp",
 "from":"Active Life",
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868032562x290183049687427140",
 "to":"Yelp",
@@ -14736,7 +14736,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868026849x784054055911600000",
 "to":"Yelp",
@@ -14744,7 +14744,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868083442x681786540209544200",
 "to":"Yelp",
@@ -14752,7 +14752,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868029607x364591752536687000",
 "to":"Yelp",
@@ -14760,7 +14760,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868035554x223398605058219070",
 "to":"Yelp",
@@ -14768,7 +14768,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868038331x362060340008835300",
 "to":"Yelp",
@@ -14776,7 +14776,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868041127x858847489812002000",
 "to":"Yelp",
@@ -14784,7 +14784,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868059409x151302780329829020",
 "to":"Yelp",
@@ -14792,7 +14792,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868050553x292444803139031000",
 "to":"Yelp",
@@ -14800,7 +14800,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868086103x736588166921143200",
 "to":"Yelp",
@@ -14808,7 +14808,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868044384x805346400985445600",
 "to":"Yelp",
@@ -14816,7 +14816,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868053457x613860890352998500",
 "to":"Yelp",
@@ -14824,7 +14824,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868056466x219087000554722750",
 "to":"Yelp",
@@ -14832,7 +14832,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868062148x342975463520253760",
 "to":"Yelp",
@@ -14840,7 +14840,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868065088x507661821920897900",
 "to":"Yelp",
@@ -14848,7 +14848,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868068148x951088695594822400",
 "to":"Yelp",
@@ -14856,7 +14856,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868047453x211053625239882240",
 "to":"Yelp",
@@ -14864,7 +14864,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868071154x156957982692435420",
 "to":"Yelp",
@@ -14872,7 +14872,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868074384x859557082056129500",
 "to":"Yelp",
@@ -14880,7 +14880,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868077217x179193788117713020",
 "to":"Yelp",
@@ -14888,7 +14888,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 },{
 "id":"connection-1681868080429x852534454614284300",
 "to":"Yelp",
@@ -14896,7 +14896,7 @@
 "strength":"1",
 "type":"is part of set",
 "label":"",
-"description":"",
+"description":""
 }
 
  ]
