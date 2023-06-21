@@ -3,7 +3,7 @@
 {
 "label":"Bridge/Ambassador",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Bridge/Ambassador']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Bridge/Ambassador']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -15,7 +15,7 @@
 },{
 "label":"Builder",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Builder']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Builder']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -27,7 +27,7 @@
 },{
 "label":"Catalyst",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Catalyst']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Catalyst']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -39,7 +39,7 @@
 },{
 "label":"Challenger/Skeptic",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Challenger/Skeptic']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Challenger/Skeptic']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -51,7 +51,7 @@
 },{
 "label":"Creative",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Creative']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Creative']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -63,7 +63,7 @@
 },{
 "label":"Defender of Order",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Defender of Order']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Defender of Order']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -75,7 +75,7 @@
 },{
 "label":"Helper",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Helper']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Helper']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -87,7 +87,7 @@
 },{
 "label":"Leader",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Leader']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Leader']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -99,7 +99,7 @@
 },{
 "label":"Learner",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Learner']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Learner']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -111,7 +111,7 @@
 },{
 "label":"Thinker",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Thinker']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Thinker']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Persona"],
@@ -123,7 +123,7 @@
 },{
 "label":"Wise Democracy Project Categories",
 "image":"//trovelink.cdn.bubble.io/f1681877463198x515146062550955200/wdpl.png",
-"description":"The patterns are sorted into seven “category questions” that serve as windows into the pattern language by addressing different aspects of the prime directive of this wise democracy pattern language. [[youtube/qgwkN9CLoGk]][[list?mode=loose&sort=label&desc=true /"['Set'='Wise Democracy Project Categories']/"]]",
+"description":"The patterns are sorted into seven “category questions” that serve as windows into the pattern language by addressing different aspects of the prime directive of this wise democracy pattern language. [[youtube/qgwkN9CLoGk]][[list?mode=loose&sort=label&desc=true \"['Set'='Wise Democracy Project Categories']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Categories"],
@@ -135,7 +135,7 @@
 },{
 "label":"12 Common Needs",
 "image":"//trovelink.cdn.bubble.io/f1681877465580x739489732751580200/8d6ac0a6-f15c-4961-8043-4ba0f7ec6557.jpg",
-"description":"Symbiotic Culture Lab (SCL) provides individual and community agency over meeting society’s basic needs with a bottom-up approach, using the connected resources of local bioregions.  Our work is based on 40+ years of experience in developing practical community tools to transform bioregional communities.  [[list?mode=loose&sort=label&desc=true /"['Set'='12 Common Needs']/"]]",
+"description":"Symbiotic Culture Lab (SCL) provides individual and community agency over meeting society’s basic needs with a bottom-up approach, using the connected resources of local bioregions.  Our work is based on 40+ years of experience in developing practical community tools to transform bioregional communities.  [[list?mode=loose&sort=label&desc=true \"['Set'='12 Common Needs']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Needs"],
@@ -147,7 +147,7 @@
 },{
 "label":"Statistical Classification of Economic Activities in the European Community",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Statistical Classification of Economic Activities in the European Community']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Statistical Classification of Economic Activities in the European Community']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Categories"],
@@ -159,7 +159,7 @@
 },{
 "label":"Bailey's Ecoregions",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Bailey's Ecoregions']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Bailey's Ecoregions']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -171,7 +171,7 @@
 },{
 "label":"Blackfoot Tipi Levels: First Nations",
 "image":"//trovelink.cdn.bubble.io/f1681877472038x436127615608313340/unnamed.png",
-"description":"The Blackfoot Tipi offers an alternative framework for looking at the needs of an individual and community as interconnected. [[youtube/aRzejkbeH5s]][[list?mode=loose&sort=label&desc=true /"['Set'='Blackfoot Tipi Levels: First Nations']/"]]",
+"description":"The Blackfoot Tipi offers an alternative framework for looking at the needs of an individual and community as interconnected. [[youtube/aRzejkbeH5s]][[list?mode=loose&sort=label&desc=true \"['Set'='Blackfoot Tipi Levels: First Nations']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -183,7 +183,7 @@
 },{
 "label":"8 Forms of Capital",
 "image":"//trovelink.cdn.bubble.io/f1681877475567x273739958896485950/Fig_1_Eight_Forms_of_Captial.png",
-"description":"What if we could expand beyond just the basic financial capital? What if we could layout other type of capital that around around us but not traditionally measured? [[youtube/YU-cipsi4ok]][[list?mode=loose&sort=label&desc=true /"['Set'='8 Forms of Capital']/"]]",
+"description":"What if we could expand beyond just the basic financial capital? What if we could layout other type of capital that around around us but not traditionally measured? [[youtube/YU-cipsi4ok]][[list?mode=loose&sort=label&desc=true \"['Set'='8 Forms of Capital']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Values"],
@@ -195,7 +195,7 @@
 },{
 "label":"City",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='City']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='City']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -207,7 +207,7 @@
 },{
 "label":"Continent",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Continent']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Continent']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -219,7 +219,7 @@
 },{
 "label":"7 Core Needs",
 "image":"//trovelink.cdn.bubble.io/f1681877481916x799189128658899700/core%20needs%20poster%20NEW%20URL.jpg",
-"description":"#7CoreNeeds offers a unifying vision and practical pathway for rapid social and ecological healing. The global initiative supports people of all cultures and ideologies to rise above our differences and organize effectively, as One Humanity, for the good of the whole.[[list?mode=loose&sort=label&desc=true /"['Set'='7 Core Needs']/"]]",
+"description":"#7CoreNeeds offers a unifying vision and practical pathway for rapid social and ecological healing. The global initiative supports people of all cultures and ideologies to rise above our differences and organize effectively, as One Humanity, for the good of the whole.[[list?mode=loose&sort=label&desc=true \"['Set'='7 Core Needs']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Needs"],
@@ -231,7 +231,7 @@
 },{
 "label":"County",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='County']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='County']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -243,7 +243,7 @@
 },{
 "label":"Cynefin Framework",
 "image":"//trovelink.cdn.bubble.io/f1681877485593x849398756598980200/framework-scaled-1024x1024-1-600x600-1.png",
-"description":"The Cynefin framework is a conceptual framework used to aid decision-making. Created in 1999 by Dave Snowden when he worked for IBM Global Services, it has been described as a \"sense-making device\". [[youtube/ogtpxA6brGo]][[list?mode=loose&sort=label&desc=true /"['Set'='Cynefin Framework']/"]]",
+"description":"The Cynefin framework is a conceptual framework used to aid decision-making. Created in 1999 by Dave Snowden when he worked for IBM Global Services, it has been described as a \"sense-making device\". [[youtube/ogtpxA6brGo]][[list?mode=loose&sort=label&desc=true \"['Set'='Cynefin Framework']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Categories"],
@@ -255,7 +255,7 @@
 },{
 "label":"4D Dimensions Design for Sustainability & Regeneration",
 "image":"//trovelink.cdn.bubble.io/f1681877489091x654645159204255200/4d%20Logo%20Icon%201280x%20square.png",
-"description":"The 4 Areas of Regeneration and the central path of integral design make up the Ecovillage Map of Regeneration – our road map to the creation of ecovillages – intentional or traditional communities in urban and rural locations, using participatory processes to integrate the ecological, economic, social, and cultural areas in order to regenerate social and natural environments.[[list?mode=loose&sort=label&desc=true /"['Set'='4D Dimensions Design for Sustainability & Regeneration']/"]]",
+"description":"The 4 Areas of Regeneration and the central path of integral design make up the Ecovillage Map of Regeneration – our road map to the creation of ecovillages – intentional or traditional communities in urban and rural locations, using participatory processes to integrate the ecological, economic, social, and cultural areas in order to regenerate social and natural environments.[[list?mode=loose&sort=label&desc=true \"['Set'='4D Dimensions Design for Sustainability & Regeneration']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Dimensions"],
@@ -267,7 +267,7 @@
 },{
 "label":"Coherence Chart Domains",
 "image":"",
-"description":"A list of domains that are applicable for the Coherence Chart[[list?mode=loose&sort=label&desc=true /"['Set'='Coherence Chart Domains']/"]]",
+"description":"A list of domains that are applicable for the Coherence Chart[[list?mode=loose&sort=label&desc=true \"['Set'='Coherence Chart Domains']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Domains"],
@@ -279,7 +279,7 @@
 },{
 "label":"Domains of Permaculture Action",
 "image":"//trovelink.cdn.bubble.io/f1681877493002x809847119319006200/Principles-Flower-thin-arrow.png",
-"description":"The permaculture journey begins with the ethics and design principles. We apply this thinking to the seven different domains required to create a sustainable culture.\nThe evolutionary spiral path connects these domains, initially at a personal and local level, and then proceeds to the collective and global level.\nSome of the specific fields, design systems and solutions that have been associated with the wider view of permaculture can be seen in each of the petals of the flower.[[list?mode=loose&sort=label&desc=true /"['Set'='Domains of Permaculture Action']/"]]",
+"description":"The permaculture journey begins with the ethics and design principles. We apply this thinking to the seven different domains required to create a sustainable culture.\nThe evolutionary spiral path connects these domains, initially at a personal and local level, and then proceeds to the collective and global level.\nSome of the specific fields, design systems and solutions that have been associated with the wider view of permaculture can be seen in each of the petals of the flower.[[list?mode=loose&sort=label&desc=true \"['Set'='Domains of Permaculture Action']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Domains"],
@@ -291,7 +291,7 @@
 },{
 "label":"Doughnut Economics Dimensions",
 "image":"//trovelink.cdn.bubble.io/f1681877495708x855836359379540900/Doughtnut%20SEctors%20Square%20Large.png",
-"description":" [[youtube/Ziw-wK03TSw]][[list?mode=loose&sort=label&desc=true /"['Set'='Doughnut Economics Dimensions']/"]]",
+"description":" [[youtube/Ziw-wK03TSw]][[list?mode=loose&sort=label&desc=true \"['Set'='Doughnut Economics Dimensions']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Dimensions"],
@@ -303,7 +303,7 @@
 },{
 "label":"Doughnut Economics Sectors",
 "image":"//trovelink.cdn.bubble.io/f1681877499253x985151705852541800/Doughtnut%20SEctors%20Square%20Large.png",
-"description":"The Dougnhut is a compass for human prosperity in the 21st century, with the aim of meeting the needs of all people within the means of the living planet. The sectors are split into environmental ceilings and social floors. [[youtube/Rhcrbcg8HBw]][[list?mode=loose&sort=label&desc=true /"['Set'='Doughnut Economics Sectors']/"]]",
+"description":"The Dougnhut is a compass for human prosperity in the 21st century, with the aim of meeting the needs of all people within the means of the living planet. The sectors are split into environmental ceilings and social floors. [[youtube/Rhcrbcg8HBw]][[list?mode=loose&sort=label&desc=true \"['Set'='Doughnut Economics Sectors']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -315,7 +315,7 @@
 },{
 "label":"Project Drawdown Sector",
 "image":"//trovelink.cdn.bubble.io/f1681877502760x342418395484507260/Drawdown%20Sectors%20Square%201280.png",
-"description":"Project Drawdown Sectors highlight the major areas of drawing carbon from the atmosphere. [[youtube/AOTLtrt6OIE]][[list?mode=loose&sort=label&desc=true /"['Set'='Project Drawdown Sector']/"]]",
+"description":"Project Drawdown Sectors highlight the major areas of drawing carbon from the atmosphere. [[youtube/AOTLtrt6OIE]][[list?mode=loose&sort=label&desc=true \"['Set'='Project Drawdown Sector']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -327,7 +327,7 @@
 },{
 "label":"Omernik's Level III Ecoregions",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Omernik's Level III Ecoregions']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Omernik's Level III Ecoregions']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -339,7 +339,7 @@
 },{
 "label":"TNC's Terrestrial Ecoregions of North America",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='TNC's Terrestrial Ecoregions of North America']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='TNC's Terrestrial Ecoregions of North America']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -351,7 +351,7 @@
 },{
 "label":"TNC's Terrestrial Ecoregions of the World",
 "image":"",
-"description":"A classification of ecoregions based on biogeographic patterns of biodiversity and endemism, designed to support conservation planning and prioritization[[list?mode=loose&sort=label&desc=true /"['Set'='TNC's Terrestrial Ecoregions of the World']/"]]",
+"description":"A classification of ecoregions based on biogeographic patterns of biodiversity and endemism, designed to support conservation planning and prioritization[[list?mode=loose&sort=label&desc=true \"['Set'='TNC's Terrestrial Ecoregions of the World']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -363,7 +363,7 @@
 },{
 "label":"WWF's Global 200 Ecoregions",
 "image":"",
-"description":"A set of ecoregions identified as priorities for conservation based on their biodiversity and threatened status[[list?mode=loose&sort=label&desc=true /"['Set'='WWF's Global 200 Ecoregions']/"]]",
+"description":"A set of ecoregions identified as priorities for conservation based on their biodiversity and threatened status[[list?mode=loose&sort=label&desc=true \"['Set'='WWF's Global 200 Ecoregions']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -375,7 +375,7 @@
 },{
 "label":"6 Forms of Politics",
 "image":"//trovelink.cdn.bubble.io/f1681877509493x821315579189753500/metamodern_politics_new.png",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='6 Forms of Politics']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='6 Forms of Politics']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Forms"],
@@ -387,7 +387,7 @@
 },{
 "label":"International Futures Forum World Systems Model",
 "image":"//trovelink.cdn.bubble.io/f1681877511922x801504543471148900/IFF-01.svg",
-"description":"A representation of the complexity of the global problems. [[youtube/m15zGA3wxtI]][[list?mode=loose&sort=label&desc=true /"['Set'='International Futures Forum World Systems Model']/"]]",
+"description":"A representation of the complexity of the global problems. [[youtube/m15zGA3wxtI]][[list?mode=loose&sort=label&desc=true \"['Set'='International Futures Forum World Systems Model']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -399,7 +399,7 @@
 },{
 "label":"Top 100 Languages",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Top 100 Languages']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Top 100 Languages']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Languages"],
@@ -411,7 +411,7 @@
 },{
 "label":"Top 200 Languages",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Top 200 Languages']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Top 200 Languages']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Languages"],
@@ -423,7 +423,7 @@
 },{
 "label":"Location Type",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Location Type']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Location Type']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -435,7 +435,7 @@
 },{
 "label":"Maslow's Hierarchy of Needs",
 "image":"//trovelink.cdn.bubble.io/f1681877525362x838475854450939000/maslows%20needs%20large.png",
-"description":"Maslow's hierarchy of needs is a motivational theory in psychology comprising a five-tier model of human needs, often depicted as hierarchical levels within a pyramid. [[youtube/O-4ithG_07Q]][[list?mode=loose&sort=label&desc=true /"['Set'='Maslow's Hierarchy of Needs']/"]]",
+"description":"Maslow's hierarchy of needs is a motivational theory in psychology comprising a five-tier model of human needs, often depicted as hierarchical levels within a pyramid. [[youtube/O-4ithG_07Q]][[list?mode=loose&sort=label&desc=true \"['Set'='Maslow's Hierarchy of Needs']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Needs"],
@@ -447,7 +447,7 @@
 },{
 "label":"Peer2Peer",
 "image":"//trovelink.cdn.bubble.io/f1681877528794x142346626471407280/p2pf-logo-title.svg",
-"description":"The three main P2P Paradigms outline the systemic and worldview shifts we need to make to transition to a peer-to-peer economy. [[youtube/sO-QJLDpHQ0]][[list?mode=loose&sort=label&desc=true /"['Set'='Peer2Peer']/"]]",
+"description":"The three main P2P Paradigms outline the systemic and worldview shifts we need to make to transition to a peer-to-peer economy. [[youtube/sO-QJLDpHQ0]][[list?mode=loose&sort=label&desc=true \"['Set'='Peer2Peer']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors","Resources","Pillars"],
@@ -459,7 +459,7 @@
 },{
 "label":"Vision 2050",
 "image":"//trovelink.cdn.bubble.io/f1681877532837x399939457119410800/Screen%20Shot%202022-08-24%20at%205.27.42%20PM.png",
-"description":"Vision 2050: Time to Transform maps how systems transform and lays out a new framework to guide business action in the decade ahead. At the heart of this framework are nine transformation pathways – actionable routes for companies to take – covering the areas of business activity that are essential to society: energy; transportation and mobility; living spaces; products and materials; financial products and services; connectivity; health and wellbeing; water and sanitation; and food.[[list?mode=loose&sort=label&desc=true /"['Set'='Vision 2050']/"]]",
+"description":"Vision 2050: Time to Transform maps how systems transform and lays out a new framework to guide business action in the decade ahead. At the heart of this framework are nine transformation pathways – actionable routes for companies to take – covering the areas of business activity that are essential to society: energy; transportation and mobility; living spaces; products and materials; financial products and services; connectivity; health and wellbeing; water and sanitation; and food.[[list?mode=loose&sort=label&desc=true \"['Set'='Vision 2050']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Pathways"],
@@ -471,7 +471,7 @@
 },{
 "label":"Permaculture Ethics",
 "image":"//trovelink.cdn.bubble.io/f1681877535236x509404146223227970/ethics.gif",
-"description":"Permaculture ethics are distilled from research into community ethics, learning from cultures that have existed in relative balance with their environment for much longer than more recent civilisations. [[youtube/efWGW407ER8]][[list?mode=loose&sort=label&desc=true /"['Set'='Permaculture Ethics']/"]]",
+"description":"Permaculture ethics are distilled from research into community ethics, learning from cultures that have existed in relative balance with their environment for much longer than more recent civilisations. [[youtube/efWGW407ER8]][[list?mode=loose&sort=label&desc=true \"['Set'='Permaculture Ethics']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -483,7 +483,7 @@
 },{
 "label":"Planet Home Solution Areas",
 "image":"//trovelink.cdn.bubble.io/f1681877539835x707905698823261000/ph-wheel-wh.png",
-"description":"The Planet Home framework connects the world with opportunities to take action and make an impact across 4 areas and 16 sectors, designed to scale net-positive solutions in a variety of industries. [[youtube/vj5MGAwyOkA]][[list?mode=loose&sort=label&desc=true /"['Set'='Planet Home Solution Areas']/"]]",
+"description":"The Planet Home framework connects the world with opportunities to take action and make an impact across 4 areas and 16 sectors, designed to scale net-positive solutions in a variety of industries. [[youtube/vj5MGAwyOkA]][[list?mode=loose&sort=label&desc=true \"['Set'='Planet Home Solution Areas']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors","Projects"],
@@ -495,7 +495,7 @@
 },{
 "label":"Planetary Boundaries",
 "image":"//trovelink.cdn.bubble.io/f1681877542280x170569803071797920/Planetary%20Boundaries.png",
-"description":"The planetary boundaries concept presents a set of nine planetary boundaries within which humanity can continue to develop and thrive for generations to come. [[youtube/RgqtrlixYR4]][[list?mode=loose&sort=label&desc=true /"['Set'='Planetary Boundaries']/"]]",
+"description":"The planetary boundaries concept presents a set of nine planetary boundaries within which humanity can continue to develop and thrive for generations to come. [[youtube/RgqtrlixYR4]][[list?mode=loose&sort=label&desc=true \"['Set'='Planetary Boundaries']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -507,7 +507,7 @@
 },{
 "label":"Positive Blockchain",
 "image":"//trovelink.cdn.bubble.io/f1681877545498x720958293809033500/PB-logo-white-2.png",
-"description":"Explore the open database of blockchain for good projects, which are categorized into main sectors. [[youtube/aPWoUxGzgMw]][[list?mode=loose&sort=label&desc=true /"['Set'='Positive Blockchain']/"]]",
+"description":"Explore the open database of blockchain for good projects, which are categorized into main sectors. [[youtube/aPWoUxGzgMw]][[list?mode=loose&sort=label&desc=true \"['Set'='Positive Blockchain']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors","Projects"],
@@ -519,7 +519,7 @@
 },{
 "label":"8 Principles for Managing a Commons",
 "image":"//trovelink.cdn.bubble.io/f1681877547943x370490987132470850/Handler.ashx",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='8 Principles for Managing a Commons']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='8 Principles for Managing a Commons']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Principles"],
@@ -531,7 +531,7 @@
 },{
 "label":"Region",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Region']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Region']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -543,7 +543,7 @@
 },{
 "label":"Sector Wheel of Society (Evolving Wheel of Synergy)",
 "image":"//trovelink.cdn.bubble.io/f1681877552496x220119837779311870/image.png",
-"description":"An evolving framework that has been worked on and iterated by multiple teams at United Earth / WorldSummit / HackHumanity / Gaianet.[[list?mode=loose&sort=label&desc=true /"['Set'='Sector Wheel of Society (Evolving Wheel of Synergy)']/"]]",
+"description":"An evolving framework that has been worked on and iterated by multiple teams at United Earth / WorldSummit / HackHumanity / Gaianet.[[list?mode=loose&sort=label&desc=true \"['Set'='Sector Wheel of Society (Evolving Wheel of Synergy)']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -555,7 +555,7 @@
 },{
 "label":"Societal Sectors",
 "image":"//trovelink.cdn.bubble.io/f1681877558138x700621096528570600/EToSS_ETHIC_Catalist_Gitcoin_Cover_ETHIC.png",
-"description":"A comprehensive, dynamic, and intuitive framework for categorizing and teaching the sectors of societal transformation. Explore the main elements of social impact below. [[youtube/3sXZxz9ZdQA]][[list?mode=loose&sort=label&desc=true /"['Set'='Societal Sectors']/"]]",
+"description":"A comprehensive, dynamic, and intuitive framework for categorizing and teaching the sectors of societal transformation. Explore the main elements of social impact below. [[youtube/3sXZxz9ZdQA]][[list?mode=loose&sort=label&desc=true \"['Set'='Societal Sectors']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -567,7 +567,7 @@
 },{
 "label":"Solutionista Sectors",
 "image":"//trovelink.cdn.bubble.io/f1681877560783x598099473757907000/logo_w_words_500_640x640.png",
-"description":"The Solutionista Sectors are a learning framework to help children grasp complex issues. [[youtube/VPnAmgUHgks]][[list?mode=loose&sort=label&desc=true /"['Set'='Solutionista Sectors']/"]]",
+"description":"The Solutionista Sectors are a learning framework to help children grasp complex issues. [[youtube/VPnAmgUHgks]][[list?mode=loose&sort=label&desc=true \"['Set'='Solutionista Sectors']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -579,7 +579,7 @@
 },{
 "label":"State",
 "image":"",
-"description":"A political unit within a nation, typically consisting of multiple cities and regions, with its own government and laws.[[list?mode=loose&sort=label&desc=true /"['Set'='State']/"]]",
+"description":"A political unit within a nation, typically consisting of multiple cities and regions, with its own government and laws.[[list?mode=loose&sort=label&desc=true \"['Set'='State']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -591,7 +591,7 @@
 },{
 "label":"Theory U",
 "image":"//trovelink.cdn.bubble.io/f1681877566526x971865922747695700/large_PI_Slides_TU_Underlying_Frame_66341340ab.png",
-"description":"How do you learn and lead in times of disruption when you cannot rely on the experiences of the past? Otto Scharmer posed this research question at MIT 20 years ago. The result was the method and framework of Theory U and presencing. [[youtube/GMJefS7s3lc]][[list?mode=loose&sort=label&desc=true /"['Set'='Theory U']/"]]",
+"description":"How do you learn and lead in times of disruption when you cannot rely on the experiences of the past? Otto Scharmer posed this research question at MIT 20 years ago. The result was the method and framework of Theory U and presencing. [[youtube/GMJefS7s3lc]][[list?mode=loose&sort=label&desc=true \"['Set'='Theory U']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Steps"],
@@ -603,7 +603,7 @@
 },{
 "label":"United Nations Sustainable Development Goals",
 "image":"//trovelink.cdn.bubble.io/f1681877568910x518902820891235650/circle-sustainable-development-goals.jpg",
-"description":"The 17 Sustainable Development Goals (SDGs) are an urgent call for action by all countries - developed and developing - in a global partnership. [[youtube/M-iJM02m_Hg]][[list?mode=loose&sort=label&desc=true /"['Set'='United Nations Sustainable Development Goals']/"]]",
+"description":"The 17 Sustainable Development Goals (SDGs) are an urgent call for action by all countries - developed and developing - in a global partnership. [[youtube/M-iJM02m_Hg]][[list?mode=loose&sort=label&desc=true \"['Set'='United Nations Sustainable Development Goals']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors","Topics"],
@@ -615,7 +615,7 @@
 },{
 "label":"Kuchler's Potential Natural Vegetation Regions",
 "image":"",
-"description":"[[list?mode=loose&sort=label&desc=true /"['Set'='Kuchler's Potential Natural Vegetation Regions']/"]]",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Kuchler's Potential Natural Vegetation Regions']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Locations"],
@@ -627,7 +627,7 @@
 },{
 "label":"Wheel of CoCreation Sector",
 "image":"//trovelink.cdn.bubble.io/f1681877572510x832771937864312800/images",
-"description":"The Wheel of Co-Creation, conceived by renowned thought leader Barbara Marx Hubbard, is based on a whole systems design worldview that identifies a central hub and twelve sectors of a social body and active community, namely Infrastructure/Design, Justice, Media, Relations, Science, Spirituality, Arts, Economics, Education, Environment, Governance, Health. All sectors represent interconnected needs within a community. [[youtube/iFeZZsqvHAw]][[list?mode=loose&sort=label&desc=true /"['Set'='Wheel of CoCreation Sector']/"]]",
+"description":"The Wheel of Co-Creation, conceived by renowned thought leader Barbara Marx Hubbard, is based on a whole systems design worldview that identifies a central hub and twelve sectors of a social body and active community, namely Infrastructure/Design, Justice, Media, Relations, Science, Spirituality, Arts, Economics, Education, Environment, Governance, Health. All sectors represent interconnected needs within a community. [[youtube/iFeZZsqvHAw]][[list?mode=loose&sort=label&desc=true \"['Set'='Wheel of CoCreation Sector']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
@@ -639,7 +639,7 @@
 },{
 "label":"Yelp",
 "image":"//trovelink.cdn.bubble.io/f1681877575980x637424476050021100/Screen%20Shot%202022-03-29%20at%201.05.46%20PM.png",
-"description":"A list of business categories which Yelp uses to organize it's directory.[[list?mode=loose&sort=label&desc=true /"['Set'='Yelp']/"]]",
+"description":"A list of business categories which Yelp uses to organize it's directory.[[list?mode=loose&sort=label&desc=true \"['Set'='Yelp']\"]]",
 "type":"Set",
 "types":[],
 "tags":["Sectors"],
