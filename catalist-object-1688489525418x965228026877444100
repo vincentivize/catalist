@@ -1,1 +1,23 @@
-žée
+{
+  "linked_schemas": [
+    "catalist_object-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/version-test/object/1688489525418x965228026877444100",
+  
+"type":"",
+"name":"Vincent Arena",
+
+"description":"Test Bio",
+"tags":["Catalist Object"],
+ 
+ 
+
+
+
+
+
+
+
+
+  "relationships": []
+}
