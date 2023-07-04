@@ -1,1 +1,23 @@
-žée
+{
+  "linked_schemas": [
+    "catalist_object-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/object/1688438614497x553886524005679100",
+  
+"type":"People",
+"name":"Vincent Arena",
+
+"description":"Information architect and designer",
+"tags":["Catalist Object"],
+ 
+ 
+
+
+
+
+
+
+
+
+  "relationships": []
+}
