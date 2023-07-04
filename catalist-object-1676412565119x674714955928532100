@@ -1,1 +1,35 @@
-žée
+{
+  "linked_schemas": [
+    "cta_person-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/object/1676412565119x674714955928532100",
+  "body":"Asks: Connecting to a wider community of decentralised and self-organised organisations and people.\n\nOffers: Offering our self-organisation tools for mapping of and collaboration in the community.Role/Org: Founding member and here are all my roles at nestr: https://app.nestr.io/pp/mkJv9mdtzdnCS9DTi,Nestr",
+"type":"Members",
+"name":"Joost Schouten",
+
+
+"tags":["Theory of change"," Ecosystem mapping"," Data interoperability","Catalist Object"],
+ 
+ 
+
+
+
+
+
+
+
+
+  "relationships": [{
+      "description": "These two profiles are related.",
+      "qualifier": "is related to",
+      "object_url": "https://www.catalist.network/object/1675966965151x993146754611655700"
+    },{
+      "description": "These two profiles are related.",
+      "qualifier": "is related to",
+      "object_url": "https://www.catalist.network/object/1675966952247x150603958092119900"
+    },{
+      "description": "These two profiles are related.",
+      "qualifier": "is related to",
+      "object_url": "https://www.catalist.network/object/1675966964122x291299980357000440"
+    }]
+}
