@@ -1,1 +1,23 @@
-žée
+{
+  "linked_schemas": [
+    "catalist_object-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/object/1689023601322x379632418285944800",
+  
+"type":"Projects",
+"name":"New Project",
+
+"description":"Summary",
+"tags":["Catalist Object"],
+  "image": "https:////ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1689023618733x249315780258359650/link%20%281%29.png",
+ 
+
+
+
+
+
+"url":"https://www.url.com",
+
+
+  "relationships": []
+}
