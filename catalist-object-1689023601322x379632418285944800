@@ -9,15 +9,22 @@
 
 "description":"Summary",
 "tags":["Catalist Object"],
-  "image": "https:////ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1689023618733x249315780258359650/link%20%281%29.png",
+ "image": "https:////ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1689023618733x249315780258359650/link%20%281%29.png", "image_cover": "https:////ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1689023618733x249315780258359650/link%20%281%29.png",
  
 
+"country_name": "United States",
+"postal_code":"",
+"region":"New York",
+"locality":"New York",
+"street_address":" ",
+"full_address":"New York, NY, USA",
 
 
 
 
 "url":"https://www.url.com",
 
-
+"youtube_video_id":"3GfsPYnIB4c",
+"object_id":"1689023601322x379632418285944800",
   "relationships": []
 }
