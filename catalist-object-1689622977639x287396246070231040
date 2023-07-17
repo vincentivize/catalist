@@ -1,1 +1,23 @@
-žée
+{
+  "linked_schemas": [
+    "cta_person-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/object/1689622977639x287396246070231040",
+  
+"type":"Members",
+"name":"Test Name",
+
+"description":"I'm a person",
+"tags":["Catalist Object"],
+ 
+ 
+
+
+
+
+
+"url":"https://www.website.com",
+
+
+  "relationships": []
+}
