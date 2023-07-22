@@ -1,48 +1,55 @@
 {
   "elements": [
-
+{
+  "label": "Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"Type",
+"url":"https://www.catalist.network/trove-space/lisboa-regenerativa?filtered=yes&view=List&data-type=Types",
+"type":"Object Type",
+"description":"Types of information"
+},{
+  "label": "Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
+"id":"",
+"type":"Object Type",
+"description":"Main sectors of society"
+},
 {
 "label":"Event",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "id":"Event",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/lisboa-regenerativa?filtered=yes&view=List&data-type=Events",
-"description":"Something happening with a start and end date\n[[list \" Event\"]]"
+"description":"Something happening with a start and end date"
 },{
 "label":"Organization",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "id":"Organization",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/lisboa-regenerativa?filtered=yes&view=List&data-type=Organizations",
-"description":"An established entity such as a university or company\n[[list \" Organization\"]]"
+"description":"An established entity such as a university or company"
 },{
 "label":"Project",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "id":"Project",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/lisboa-regenerativa?filtered=yes&view=List&data-type=Projects",
-"description":"An time-bound idea or initiative of any stage\n[[list \" Project\"]]"
+"description":"An time-bound idea or initiative of any stage"
 },{
 "label":"Location",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
 "id":"Location",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/lisboa-regenerativa?filtered=yes&view=List&data-type=Locations",
-"description":"Locations are places, countries, cities or other areas of geographical space.\n[[list \" Location\"]]"
+"description":"Locations are places, countries, cities or other areas of geographical space."
 },{
 "label":"Member",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "id":"Member",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/lisboa-regenerativa?filtered=yes&view=List&data-type=Members",
-"description":"People who are verified members of a group or event\n[[list \" Member\"]]"
+"description":"People who are verified members of a group or event"
 },{
 "label":"Link",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962126841x937328034580616300/034-link.svg",
 "id":"Link",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/lisboa-regenerativa?filtered=yes&view=List&data-type=Links",
-"description":"Links are group-specific urls crowdsourced from different group chats and events.\n[[list \" Link\"]]"
+"description":"Links are group-specific urls crowdsourced from different group chats and events."
 },{
 "label":"Mental Health & Emotions",
 "image":"//s3.amazonaws.com/appforest_uf/f1664401994306x703501801017188400/brain.png",
@@ -208,7 +215,7 @@
 "address":"Parque da Bela Vista, Av. Alm. Gago Coutinho, 1950-037 Lisboa, Portugal",
 "types":[],
 "skills":[],
-"description":"An organization that facilitates high-density tree planting that captures larger amounts of carbon as well as helping prevent water run- off and providing a habitat for local fauna through its rich biodiversity.\\n",
+"description":"An organization that facilitates high-density tree planting that captures larger amounts of carbon as well as helping prevent water run- off and providing a habitat for local fauna through its rich biodiversity.\n",
 "size":"",
 "label":"Urbem"
     },{
@@ -235,7 +242,7 @@
 "tags":[],
 "sectors":[],
 "locations":[],
-"address":"R. Amorim 9, 1950-128 Lisboa, Portugal",
+"address":"1950-128 Lisbon, Portugal",
 "types":[],
 "skills":[],
 "description":"zero waste mushroom farm",
@@ -313,7 +320,7 @@
 "address":"R. José Estêvão 4, 1150-192 Lisboa, Portugal",
 "types":[],
 "skills":[],
-"description":"Community operated grocery store.",
+"description":"Integral cooperative with a community operated grocery store.",
 "size":"",
 "label":"Rizoma Coop"
     },{
@@ -525,7 +532,7 @@
 "skills":[],
 "description":"A local farmer's market that gathers weekly with organic produce.",
 "size":"",
-"label":"Principe Real Farmer's Market"
+"label":"Principe Real Farmer\"s Market"
     },{
         "id": "1684439548738x795869156435558400",
 "url":"https://www.coopaldea.org/",
@@ -898,7 +905,7 @@
 "address":"R. Sacramento à Lapa 17A, 1200 Lisboa, Portugal",
 "types":[],
 "skills":[],
-"description":"SNI is a technology and ecology company focused on reconfiguring nature's value to achieve a thriving planet.\\n\\nAt SNI, we are building an eco-data pipeline to connect nature data to digital creatives through a Play to Conserve (P2C) program. P2C provides gamers and game developers with animal-inspired assets and incentives based on real-world wildlife data. Proceeds from in-game sales of these assets directly benefit conservancies and nature stewards, completing the ecological loop. Our goal is to gamify worldwide eco-data through a Decentralised Ecological Economics Protocol (DEEP), which turns dynamic wildlife data into actionable gaming assets that fund and sustain conservation efforts around the globe.",
+"description":"SNI is a technology and ecology company focused on reconfiguring nature's value to achieve a thriving planet.\n\nAt SNI, we are building an eco-data pipeline to connect nature data to digital creatives through a Play to Conserve (P2C) program. P2C provides gamers and game developers with animal-inspired assets and incentives based on real-world wildlife data. Proceeds from in-game sales of these assets directly benefit conservancies and nature stewards, completing the ecological loop. Our goal is to gamify worldwide eco-data through a Decentralised Ecological Economics Protocol (DEEP), which turns dynamic wildlife data into actionable gaming assets that fund and sustain conservation efforts around the globe.",
 "size":"",
 "label":"Sovereign Nature Initiative "
     },{
@@ -946,10 +953,442 @@
 "description":"",
 "size":"",
 "label":"Lisboa Regenerativa: Final Mapping of the Ecosystem & Prototype · Luma"
+    },{
+        "id": "1689954338221x144559695927181300",
+"url":"https://ling478.preview.softr.app/#join",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1689954338221x144559695927181300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":["Portugal"],
+"address":"",
+"types":["Website"],
+"skills":[],
+"description":"Welcome to refi lisboa community's website.",
+"size":"",
+"label":"Refi Lisboa"
+    },{
+        "id": "1689964317552x418614131143999500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1689964317552x418614131143999500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Bristol, UK",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Monty Merlin"
+    },{
+        "id": "1690019748068x393328563301646340",
+"url":"https://www.vincentarena.com",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690019748068x393328563301646340&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"East Rockaway, NY, USA",
+"types":[],
+"skills":[],
+"description":"Designer, Entrepreneur, Social Entrepreneur",
+"size":"",
+"label":"Vincent Arena"
+    },{
+        "id": "1690023940178x506447046331334660",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023940178x506447046331334660&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Lisbon, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Rica Amaral"
+    },{
+        "id": "1690023933288x429423350398844900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023933288x429423350398844900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Lisbon, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Andrei Kariamin"
+    },{
+        "id": "1690023923418x244239378081906700",
+"url":"https://samueldelesque.me",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023923418x244239378081906700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Regenerative entrepreneur developing a web3 conservation network",
+"size":"",
+"label":"Samuel Delesque"
+    },{
+        "id": "1690023927489x594329713278189600",
+"url":"Link.ee/montybryant",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023927489x594329713278189600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Bristol, UK",
+"types":[],
+"skills":[],
+"description":"Founder @PeoplePower & ReFi DAO",
+"size":"",
+"label":"Monty Merlin Bryant"
+    },{
+        "id": "1690023953912x115971750914949120",
+"url":"SovereignNature.com",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023953912x115971750914949120&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Innsbruck, Austria",
+"types":[],
+"skills":[],
+"description":"Head of Product in Sovereign Nature Initiative",
+"size":"",
+"label":"Vadim"
+    },{
+        "id": "1690024103422x604961910331801600",
+"url":"https://www.linkedin.com/in/barbaraaxt",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690024103422x604961910331801600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Lisbon, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Barbara Axt"
+    },{
+        "id": "1690023967033x182132682885955600",
+"url":"Appletreemeditation.com",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023967033x182132682885955600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"New York, NY, USA",
+"types":[],
+"skills":[],
+"description":"Meditation Coach, Explorer, lover of Earth",
+"size":"",
+"label":"Eve Marenghi"
+    },{
+        "id": "1690024223203x750055428955045900",
+"url":"https://traditionaldreamfactory.com",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690024223203x750055428955045900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Abela, 7540, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Traditional Dream Factory"
+    },{
+        "id": "1690024112689x373594358608822300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690024112689x373594358608822300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Lisbon, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"River Roberts"
+    },{
+        "id": "1690023957992x419357041197318140",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023957992x419357041197318140&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Bee Radley "
+    },{
+        "id": "1690024242233x863115649934950400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690024242233x863115649934950400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Lisbon, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Pedro Rocha "
+    },{
+        "id": "1690023926515x742737804708544500",
+"url":"https://www.linkedin.com/mwlite/profile/in/rudolfo-felix",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023926515x742737804708544500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Alfragide, Amadora, Portugal",
+"types":[],
+"skills":[],
+"description":"Non-human AI / Intuitive DJ",
+"size":"",
+"label":"Rudolfo Valentino"
+    },{
+        "id": "1690024286114x786961032379367400",
+"url":"@nikkinicholsCP Telegram ",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690024286114x786961032379367400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Boulder, CO, USA",
+"types":[],
+"skills":[],
+"description":"Communications and Creativity ",
+"size":"",
+"label":"Nikki Nichols "
+    },{
+        "id": "1690024350465x783872714792763400",
+"url":"@thehumanforestproject",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690024350465x783872714792763400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Lisbon, Portugal",
+"types":[],
+"skills":[],
+"description":"Human Forest Project Co-Founder, Songwriter and Early Childhood Teacher",
+"size":"",
+"label":"Patrick Blooming"
+    },{
+        "id": "1690023930700x571321965179306000",
+"url":"Instagram @luna_somatic ",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690023930700x571321965179306000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Lisbon, Portugal",
+"types":[],
+"skills":[],
+"description":"Co-founder of xuxu, Portugal’s first sex positive studio. I am a somatic sexologist and sex educator. Also a member of TDF, a regen village in Alentejo. ",
+"size":"",
+"label":"Luna Somatic "
+    },{
+        "id": "1690024831610x938831255045406700",
+"url":"https://Tamera.org",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690024831610x938831255045406700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"7630-174 Tamera, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Tamera"
+    },{
+        "id": "1690025069485x948551205235720200",
+"url":"https://www.aldeiadovale.com",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690025069485x948551205235720200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"2715-611, Portugal",
+"types":[],
+"skills":[],
+"description":"Permculture village and education project",
+"size":"",
+"label":"Aldeia do Vale"
+    },{
+        "id": "1690025405214x928819389424205800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690025405214x928819389424205800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Calçada do Monte, Lisboa, Portugal",
+"types":[],
+"skills":[],
+"description":"One of 21 municipal horticultural parks around the city",
+"size":"",
+"label":"Graça Municipal Horticultural Park"
+    },{
+        "id": "1690025479696x772319766262054900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690025479696x772319766262054900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"R. Cidade de Manchester 42A, 1170-098 Lisboa, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Xuxu"
+    },{
+        "id": "1690024551027x978507234220179500",
+"url":"www.beehane.org",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690024551027x978507234220179500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Lisbon, Portugal",
+"types":[],
+"skills":["Creativity","Writing","Operations","Leadership","Equity and Belonging"],
+"description":"Entrepreneur, author, traveler ",
+"size":"",
+"label":"Hanae Bezad"
+    },{
+        "id": "1690025681733x922022244301406200",
+"url":"https://www.instagram.com/casaagranel/",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690025681733x922022244301406200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
+"type":"Location",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"R. Francisco Metrass 6B, 1350-073 Lisboa, Portugal",
+"types":["Instagram Profile"],
+"skills":[],
+"description":"Bulk grocery store",
+"size":"",
+"label":"Casa Granel"
+    },{
+        "id": "1690025815550x686464117705015300",
+"url":"https://www.quinta7nomes.com",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690025815550x686464117705015300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Av. do Atlântico 107B, 2705-142 Colares, Portugal",
+"types":[],
+"skills":[],
+"description":"Permaculture farm, co-op and grocery store, among many other things!",
+"size":"",
+"label":"Quinta dos 7 Nomes"
+    },{
+        "id": "1690025860241x275791236174708740",
+"url":"https://openheartslisboa.org",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690025860241x275791236174708740&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"R. do Diário de Notícias 59, 1200-365 Lisboa, Portugal",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Open Hearts"
+    },{
+        "id": "1690025979984x324518892813418500",
+"url":"https://quintadoarneiro.pt",
+"object url":"https://www.catalist.network/trove-space/lisboa-regenerativa?object=1690025979984x324518892813418500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"Quinta do Arneiro, 2665-004 Azueira, Portugal",
+"types":[],
+"skills":[],
+"description":"Organic farm that delivers to all greater Lisbon area",
+"size":"",
+"label":"Quinta do Arneiro"
     }
 ],
 
   "connections": [
+{
+        "id": "1689954874486x312227526361219100",
+        "from": "1689954338221x144559695927181300",
+        "to": "1689942705171x686851339191844900",
+"strength":1,
+"type":"hosted",
+"description":"This was the last event in a series of mapping workshops in Lisbon hosted by refidoa lisboa.",
+"label":"Refi Lisboa hosted Lisboa Regenerativa: Final Mapping of the Ecosystem & Prototype · Luma"
+    }
+,{
+        "id": "1690026019652x982543962653851600",
+        "from": "1690023953912x115971750914949120",
+        "to": "1688144328218x831565716196425700",
+"strength":1,
+"type":"is head of product at",
+"description":"Handles roadmaps, planning and and helps us shape the vision of the product. We are piloting a new data marketplace that allows games and art projects to connect to it to create a link between ecological elements and digital assets. Reach out if you are a game-development studio or conservation agency.",
+"label":"Vadim is head of product at Sovereign Nature Initiative "
+    }
+,{
+        "id": "1690026185745x884651208235548700",
+        "from": "1690024551027x978507234220179500",
+        "to": "1688144328218x831565716196425700",
+"strength":1,
+"type":"is head of partnerships at",
+"description":"Focuses on general operations. Reach out for special partnerships for common grant opportunities and events. This can be an organization outside of conservation!",
+"label":"Hanae Bezad is head of partnerships at Sovereign Nature Initiative "
+    }
 
  ]
 }
