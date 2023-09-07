@@ -864,6 +864,8 @@
 "connection type":"Relationship",
 "one-way":"yes",
 "direction":"directed",
+"id":"1694114696514x906061637177573400",
+"url":"https://www.catalist.network/version-test/trove-space/va?connection=1694114696514x906061637177573400",
 "label":"Add to my X button Was created at Vincent\"s House"
     }
 ,{
@@ -876,6 +878,8 @@
 "connection type":"Suggestion",
 "one-way":"no",
 "direction":"undirected",
+"id":"1694115058089x584556973992706000",
+"url":"https://www.catalist.network/version-test/trove-space/va?connection=1694115058089x584556973992706000",
 "label":"Vincent Arena Should quickly implement A bunch of ideas around search, Filters, Text"
     }
 ,{
@@ -888,6 +892,8 @@
 "connection type":"Relationship",
 "one-way":"yes",
 "direction":"directed",
+"id":"1694119392795x376903669262057500",
+"url":"https://www.catalist.network/version-test/trove-space/va?connection=1694119392795x376903669262057500",
 "label":"Vincent Arena Lives in Vincent\"s House"
     }
 
