@@ -858,7 +858,7 @@
         "id": "1694114696514x906061637177573400",
         "from": "1677360217186x595993753835274200",
         "to": "1677525820879x585601206091776000",
-"strength":0,
+"strength":5,
 "type":"Was created at",
 "description":"It so happens most of the cool stuff happens there",
 "label":"Add to my X button Was created at Vincent\"s House"
@@ -876,7 +876,7 @@
         "id": "1694119392795x376903669262057500",
         "from": "1693531730473x278673726539563000",
         "to": "1677525820879x585601206091776000",
-"strength":1,
+"strength":10,
 "type":"Lives in",
 "description":"He’s been there for 25 years…",
 "label":"Vincent Arena Lives in Vincent\"s House"
