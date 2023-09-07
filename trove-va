@@ -855,46 +855,46 @@
 
   "connections": [
 {
-        "id": "1694114696514x906061637177573400",
+        "label": "Was created at",
         "from": "1677360217186x595993753835274200",
         "to": "1677525820879x585601206091776000",
 "strength":5,
-"type":"Was created at",
+"connection subtype":"Was created at",
 "description":"It so happens most of the cool stuff happens there",
 "connection type":"Relationship",
 "one-way":"yes",
 "direction":"directed",
 "id":"1694114696514x906061637177573400",
 "url":"https://www.catalist.network/version-test/trove-space/va?connection=1694114696514x906061637177573400",
-"label":"Add to my X button Was created at Vincent\"s House"
+"title":"Add to my X button Was created at Vincent\"s House"
     }
 ,{
-        "id": "1694115058089x584556973992706000",
+        "label": "Should quickly implement",
         "from": "1693531730473x278673726539563000",
         "to": "1677363748393x363884821435383800",
 "strength":1,
-"type":"Should quickly implement",
+"connection subtype":"Should quickly implement",
 "description":"",
 "connection type":"Suggestion",
 "one-way":"no",
 "direction":"undirected",
 "id":"1694115058089x584556973992706000",
 "url":"https://www.catalist.network/version-test/trove-space/va?connection=1694115058089x584556973992706000",
-"label":"Vincent Arena Should quickly implement A bunch of ideas around search, Filters, Text"
+"title":"Vincent Arena Should quickly implement A bunch of ideas around search, Filters, Text"
     }
 ,{
-        "id": "1694119392795x376903669262057500",
+        "label": "Lives in",
         "from": "1693531730473x278673726539563000",
         "to": "1677525820879x585601206091776000",
 "strength":10,
-"type":"Lives in",
+"connection subtype":"Lives in",
 "description":"He’s been there for 25 years…",
 "connection type":"Relationship",
 "one-way":"yes",
 "direction":"directed",
 "id":"1694119392795x376903669262057500",
 "url":"https://www.catalist.network/version-test/trove-space/va?connection=1694119392795x376903669262057500",
-"label":"Vincent Arena Lives in Vincent\"s House"
+"title":"Vincent Arena Lives in Vincent\"s House"
     }
 
  ]
