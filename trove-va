@@ -112,7 +112,7 @@
 "skills":[],
 "description":"The idea was to match high school students with projects that they wanted to do to improve a college, and if accepted they would work on.",
 "size":"",
-"Why am I archiving this?":"This is definitely something that can be used for UIF in a future iteration!"
+"Why am I archiving this?":"This is definitely something that can be used for UIF in a future iteration!",
 "label":"Matching Schools Students and Companies"
     },{
         "id": "1677359881422x843599457825325000",
@@ -861,6 +861,8 @@
 "strength":5,
 "type":"Was created at",
 "description":"It so happens most of the cool stuff happens there",
+"connection type":"Relationship",
+"one-way":"yes",
 "label":"Add to my X button Was created at Vincent\"s House"
     }
 ,{
@@ -870,6 +872,8 @@
 "strength":1,
 "type":"Should quickly implement",
 "description":"",
+"connection type":"Suggestion",
+"one-way":"no",
 "label":"Vincent Arena Should quickly implement A bunch of ideas around search, Filters, Text"
     }
 ,{
@@ -879,6 +883,8 @@
 "strength":10,
 "type":"Lives in",
 "description":"He’s been there for 25 years…",
+"connection type":"Relationship",
+"one-way":"yes",
 "label":"Vincent Arena Lives in Vincent\"s House"
     }
 
