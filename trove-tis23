@@ -1,41 +1,49 @@
 {
   "elements": [
-
+{
+  "label": "Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"Type",
+"url":"https://www.catalist.network/trove-space/tis23?filtered=yes&view=List&data-type=Types",
+"type":"Object Type",
+"description":"Types of information"
+},
 {
 "label":"Presenter",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "id":"Presenter",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/tis23?filtered=yes&view=List&data-type=Presenters",
-"description":"Someone giving a presentation at an event\n[[list \" Presenter\"]]"
-},{
-"label":"Session",
-"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
-"id":"Session",
-"type":"Object Type",
-"url":"https://www.catalist.network/trove-space/tis23?filtered=yes&view=List&data-type=Sessions",
-"description":"Sessions within a main event where presenters get to share their expertise\n[[list \" Session\"]]"
-},{
-"label":"Solution",
-"image":"//s3.amazonaws.com/appforest_uf/f1651961921256x624315643314057300/013-puzzle.svg",
-"id":"Solution",
-"type":"Object Type",
-"url":"https://www.catalist.network/trove-space/tis23?filtered=yes&view=List&data-type=Solutions",
-"description":"\n[[list \" Solution\"]]"
+"description":"Someone giving a presentation at an event"
 },{
 "label":"Track",
 "image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
 "id":"Track",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/tis23?filtered=yes&view=List&data-type=Tracks",
-"description":"\n[[list \" Track\"]]"
+"description":""
 },{
 "label":"FAQ",
-"image":"",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691427224870x237086246091215100/faq.png",
 "id":"FAQ",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/tis23?filtered=yes&view=List&data-type=FAQs",
-"description":"\n[[list \" FAQ\"]]"
+"description":""
+},{
+"label":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"id":"Organization",
+"type":"Object Type",
+"description":"An established entity such as a university or company"
+},{
+"label":"Sponsor",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691428752020x826643385850086800/deal.png",
+"id":"Sponsor",
+"type":"Object Type",
+"description":"A person or organization sponsoring an event or group"
+},{
+"label":"Location",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
+"id":"Location",
+"type":"Object Type",
+"description":"Locations are places, countries, cities or other areas of geographical space."
 },
 {
         "id": "1688056238375x912452831677775900",
@@ -49,7 +57,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We build collective intelligence systems to solve major societal challenges... and we train AI to understand our social reality.",
+"description":"The crisis of human meaning and agency: How can we be sure we determine our destiny despite major challenges and the competition of AI?",
 "size":"",
 "label":"Brigham Adams"
     },{
@@ -64,7 +72,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Artist developing music around sustainability ",
+"description":"Music and Sustainability ",
 "size":"",
 "label":"AY Musik contact Nickoli Spence"
     },{
@@ -79,15 +87,15 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"We are working towards making energy a public good. Namely, fusion energy. We are doing this by using a DAO structure to grow a community that is both aware and supportive of this transformative technology. 'Bringing fusion power to the people, and people to fusion power.'",
+"description":"A world where energy is super abundant. \nThe impacts are vast: energy, clean water, transportation, manufacturing...",
 "size":"",
 "label":"Paige Donner"
     },{
         "id": "1688587747048x796677149873668100",
 "url":"https://www.catalist.network",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688587747048x796677149873668100&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
-"type":"Session",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
 "tags":[],
 "sectors":[],
 "locations":[],
@@ -97,21 +105,6 @@
 "description":"How we enable collaboration at all scales and across all dimensions. The goal of this talk is to talk about how we need tools to help us catalyze the types of collaboration needed to solve interconnected problems.",
 "size":"",
 "label":"Vincent Arena"
-    },{
-        "id": "1688588473579x727843223637065700",
-"url":"",
-"object url":"https://www.catalist.network/trove-space/tis23?object=1688588473579x727843223637065700&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651961921256x624315643314057300/013-puzzle.svg",
-"type":"Solution",
-"tags":[],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"description":"",
-"size":"",
-"label":""
     },{
         "id": "1688448775627x427127243265429400",
 "url":"",
@@ -126,7 +119,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Institutions & Infrastructure"
+"label":"Bioregionalism, Regenerative Agriculture, Water, and Soil"
     },{
         "id": "1688448776976x659283846301514800",
 "url":"",
@@ -141,7 +134,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Web3 & Tech For Good"
+"label":"Indigenous and Local Solutions Across The World"
     },{
         "id": "1688448777802x195950652025915760",
 "url":"",
@@ -156,7 +149,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Ecology & Food"
+"label":"Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
     },{
         "id": "1688448778691x211835393054933250",
 "url":"",
@@ -171,7 +164,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Regenerative Finance & Impact Investing"
+"label":"Institutional Change, Civic Innovation, and Social Justice"
     },{
         "id": "1688448779596x132969029951544260",
 "url":"",
@@ -186,7 +179,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Change In Africa"
+"label":"Energy, The Built Environment, and Infrastructure"
     },{
         "id": "1688448780588x393288317001168100",
 "url":"",
@@ -201,7 +194,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Business For Good"
+"label":"Web3 & Tech For Good"
     },{
         "id": "1688448781812x236166426604033300",
 "url":"",
@@ -216,7 +209,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Media & Memetics"
+"label":"Business As A Vehicle For Good"
     },{
         "id": "1688448782985x739111207261327700",
 "url":"",
@@ -231,7 +224,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Impact Maps & Measurement"
+"label":"SDGs, Impact Mapping, and Impact Measurement"
     },{
         "id": "1688448783932x331392909016211100",
 "url":"",
@@ -246,7 +239,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Inner Change"
+"label":"Inner Development, Mental Health, and Social Connection"
     },{
         "id": "1688448784946x802278372286245900",
 "url":"",
@@ -261,7 +254,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Education & Culture"
+"label":"Impact-Focused Education"
     },{
         "id": "1688448785844x475165719604572400",
 "url":"",
@@ -276,7 +269,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Civilization Design"
+"label":"Storytelling, Media, and Art"
     },{
         "id": "1688448787355x475779005041589760",
 "url":"",
@@ -291,12 +284,12 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Community & Local Impact"
+"label":"Cities, Network States,  and Civilization Design"
     },{
         "id": "1688578861152x566637835233787900",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688578861152x566637835233787900&view=Graph&filtered=yes",
-"image":"",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691427224870x237086246091215100/faq.png",
 "type":"FAQ",
 "tags":[],
 "sectors":[],
@@ -311,7 +304,7 @@
         "id": "1688578897310x906783621052891100",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688578897310x906783621052891100&view=Graph&filtered=yes",
-"image":"",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691427224870x237086246091215100/faq.png",
 "type":"FAQ",
 "tags":[],
 "sectors":[],
@@ -324,7 +317,7 @@
 "label":"Can I apply to become a speaker?"
     },{
         "id": "1688590820971x293063315387237950",
-"url":"",
+"url":"www.upbring.org, www.found3r.org",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688590820971x293063315387237950&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -334,7 +327,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"TBD",
 "size":"",
 "label":"Kelsey Driscoll"
     },{
@@ -354,7 +347,7 @@
 "label":"Neal Spackman"
     },{
         "id": "1688590844311x805828207810323200",
-"url":"",
+"url":"https://www.gitcoin.co/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688590844311x805828207810323200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -364,9 +357,9 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"How crypto can build into the next bull market and be good for the world.",
 "size":"",
-"label":"Kevin Owocki"
+"label":"Kevin Owocki "
     },{
         "id": "1688590856116x481032535611453300",
 "url":"www.GlobalUnity.org",
@@ -379,12 +372,12 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"See above.",
 "size":"",
 "label":"Elliott Bayev"
     },{
         "id": "1688590865863x356543156962108500",
-"url":"",
+"url":"www.theflowpartnership.org",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688590865863x356543156962108500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -394,7 +387,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Rehydrating and reforesting a degraded forest hinterland  by  holding water in the landscape with local communities",
 "size":"",
 "label":"Minni Jain"
     },{
@@ -428,21 +421,6 @@
 "size":"",
 "label":"Joe Brewer"
     },{
-        "id": "1688590897607x134090697280438320",
-"url":"",
-"object url":"https://www.catalist.network/trove-space/tis23?object=1688590897607x134090697280438320&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
-"type":"Presenter",
-"tags":[],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"description":"",
-"size":"",
-"label":"Vriti Saraf"
-    },{
         "id": "1688590908214x247731345921771800",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688590908214x247731345921771800&view=Graph&filtered=yes",
@@ -454,12 +432,12 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"I would like to talk about how creating a personal Wiki can greatly increase your productivity, supercharge your ability to network with people, and advance your organizations' goals.",
 "size":"",
 "label":"Gary Sheng"
     },{
         "id": "1688590919019x566250318530640900",
-"url":"",
+"url":"https://impactoracle.io/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688590919019x566250318530640900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -474,7 +452,7 @@
 "label":"Or Katzman "
     },{
         "id": "1688657907895x874586566057639300",
-"url":"",
+"url":"www.carbotura.com",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657907895x874586566057639300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -484,7 +462,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"What are the immediate steps necessary to implement Circular Economy Services in your community at Zero Cost?",
 "size":"",
 "label":"Tyler Wood"
     },{
@@ -519,7 +497,7 @@
 "label":"Joseph McKinney"
     },{
         "id": "1688657912099x849988035031953000",
-"url":"",
+"url":"https://www.ayahq.com/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657912099x849988035031953000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -529,7 +507,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"I am on a mission to unlock the untapped value of African young talents to create value using code to solve problems. In doing so, I have discovered the gaps in tems of access to opportunities for jobs, travels and other socio-economic. My talk will highlights the opportunity in unlocking the value of our young minds.",
 "size":"",
 "label":"Eric Annan"
     },{
@@ -564,7 +542,7 @@
 "label":"Danielle Bellavita"
     },{
         "id": "1688657916343x878078827306454400",
-"url":"",
+"url":"https://angelgiving.io/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657916343x878078827306454400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -576,7 +554,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Chauncey St John"
+"label":"Chauncey St. John"
     },{
         "id": "1688657917691x542432137558646900",
 "url":"",
@@ -609,7 +587,7 @@
 "label":"Steve Donziger"
     },{
         "id": "1688657920103x876807437024717400",
-"url":"",
+"url":"https://planetlive.at",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657920103x876807437024717400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -619,7 +597,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Planet Live - Realizing the Idea of a World Game by Buckminster Fuller",
 "size":"",
 "label":"Christian Bauer"
     },{
@@ -684,7 +662,7 @@
 "label":"Samuel Barnes"
     },{
         "id": "1688657929500x143275081055316500",
-"url":"",
+"url":"https://www.ed3dao.com/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657929500x143275081055316500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -694,7 +672,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"AI and web3 have brought a digital renaissance to the world and education has the most to benefit. Can we use these new technologies to reimagine education as a true social good? Can we bring personalized, border-less, and permission-less learning to the world? Using Futures Thinking, we will envision the many futures of education and how we can potentially get there.",
 "size":"",
 "label":"Vriti Saraf"
     },{
@@ -774,7 +752,7 @@
 "label":"Isla Munro-Hochmayr"
     },{
         "id": "1688657940195x776127308871350000",
-"url":"",
+"url":"www.sikana.tv",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657940195x776127308871350000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
 "type":"Presenter",
@@ -784,7 +762,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"What's wrong with the current educational system around the world and how can we can collaboratively co-own, design, produce and distribute a new system using advanced technology, collaborative intelligence, new approach. marginal cost and maximum impact. affordable and accessible.",
 "size":"",
 "label":"Gregory Flipo"
     },{
@@ -802,6 +780,1131 @@
 "description":"",
 "size":"",
 "label":"Manish Jain"
+    },{
+        "id": "1688844296618x381118970917290000",
+"url":"https://spiritdao.org",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1688844296618x381118970917290000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Exploring the necessity of binding systemic reformation to spiritual renaissance to scale transformative impact effectively. Including new first principles for orienting our experience with the world informed by cosmology and physics, the systemic rights these revelations demand, and why it is a critical element of transcending our various crises.",
+"size":"",
+"label":"Ron Rivers"
+    },{
+        "id": "1688930388320x321767521696350200",
+"url":"https://values.co/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1688930388320x321767521696350200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"TIME, ValuesCo, IDEO, 350.org, and Celo are launching a climate action experience designed to not only drive action and participant-driven storytelling in the lead up to COP28. \n\nLearn about how the team reimagined gamification, social storytelling, and community building through the lens of emergent strategy.",
+"size":"",
+"label":"Fifer Garbesi"
+    },{
+        "id": "1689138145957x182910462427660300",
+"url":"https://cofed.coop/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1689138145957x182910462427660300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"I would love to share about how CoFED has been building the resilience of young QTBIPOC (Queer Trans Black Indigenous People of Color) cooperators in the food and land systems.",
+"size":"",
+"label":"Suparna Kudesia"
+    },{
+        "id": "1690214055165x475045079767580700",
+"url":"https://www.bmhc.gov.bt/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690214055165x475045079767580700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"I would like to talk about the Bhutan Qualifications Framework: its review process and implement",
+"size":"",
+"label":"Sangye Choden"
+    },{
+        "id": "1688677223840x500765416252047000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1688677223840x500765416252047000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Michel Bauwens"
+    },{
+        "id": "1688677225463x756801244980830600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1688677225463x756801244980830600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Maxi Cohen"
+    },{
+        "id": "1689243939453x839710763943723000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1689243939453x839710763943723000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Financial Innovation - the error in economics exacerbating many of our global issues, and how to fix it with Ergodic Investing and Ergodic Finance. ",
+"size":"",
+"label":"Graham Boyd"
+    },{
+        "id": "1689843232225x115528134601474050",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1689843232225x115528134601474050&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Our framework makes available the capability to dynamically manage Portfolios of Impact Investment Options. This means that the Portfolio is a strategic instrument with which any organisation can cohere with its environment, and induce transformative change in the system it operates in. We would like to introduce this capability to Impact Investment Portfolio Managers as we think it's a critical capability to ensure impact, relevance and ultimately transformation of the social system we're finding ourselves in. Happy to share more information, about our knowledge ontology, our practice, our experience, our team. ",
+"size":"",
+"label":"Annemarie Poorterman"
+    },{
+        "id": "1689961824330x454894522421739500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1689961824330x454894522421739500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"A proposal to create a mastermind event where we gather people to design a regenerative self sustaining city model. The talk will speak to some fundamental problems and solutions both physical and non-material.",
+"size":"",
+"label":"Camara Cassin"
+    },{
+        "id": "1690158933276x350116250862747650",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690158933276x350116250862747650&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"I am interested in discussing the topic of economic leakage caused by the prioritization of foreign-owned businesses over locally-owned establishments, and its multi-faceted impact on a destination's economy, society, and environment. I believe it's crucial to understand how we measure this phenomenon, explore the negative outcomes associated with it, and discuss possible solutions to this growing problem.\n\nAdditionally, I am eager to delve into the current trends in sustainable tourism. I aim to evaluate the best practices that are being implemented, look at the evolution of this sector, and comment on the future trajectory of sustainable tourism. It's fascinating to consider how travel employees one in every ten people worldwide, impacting various sectors from supply chains and farming to small and large businesses alike.\n\nThrough this discussion, I hope to highlight the importance of sustainable tourism and economic empowerment of local communities in shaping a balanced and inclusive global tourism sector.",
+"size":"",
+"label":"Craig Zapatka"
+    },{
+        "id": "1690305241223x409998289596474000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690305241223x409998289596474000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Michael Healy "
+    },{
+        "id": "1690305242811x286855206928147140",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690305242811x286855206928147140&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Lawrence Ford "
+    },{
+        "id": "1690305244474x825120873895604000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690305244474x825120873895604000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Vaughn Bergen"
+    },{
+        "id": "1690553396985x717333220582752300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690553396985x717333220582752300&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Xochitl Cazador is a leader and advocate for social impact and blockchain technology. With a deep-rooted passion for financial inclusion, she bridges the gap between traditional finance and emerging technologies. As a former executive for Fortune 500 company and a prominent figure in the Celo Foundation, Xochitl spearheads initiatives that empower underserved communities, driving the mission to create an inclusive and accessible financial system. Through Celo's open-source platform and mobile-first approach, she has helped organizations such as Grameen Foundation, World Food Program, Give Directly, CARE, and more use the power of blockchain to serve more individuals and have greater impact.  \n\nHer visionary leadership and unwavering commitment to social impact have earned her recognition and respect, inspiring others in the pursuit of a more inclusive future.  Xochitl holds a Masters from Stanford Graduate School of Business.",
+"size":"",
+"label":"Xochitl Cazador"
+    },{
+        "id": "1690969782074x401434146699344960",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690969782074x401434146699344960&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Borhene Chakroun "
+    },{
+        "id": "1690987435026x978368121463539100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690987435026x978368121463539100&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Shawanna Vaughn "
+    },{
+        "id": "1691008863612x827010783825072900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691008863612x827010783825072900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"John D Liu"
+    },{
+        "id": "1691007621744x701478483766793100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691007621744x701478483766793100&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Austin Wade Smith"
+    },{
+        "id": "1690987448912x788323913949954700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690987448912x788323913949954700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Ori Shimony "
+    },{
+        "id": "1690987447587x664051164381908500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690987447587x664051164381908500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Tanya Chung-Tiam-Fook"
+    },{
+        "id": "1690987445506x166437566144369760",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690987445506x166437566144369760&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Seth Blaustein"
+    },{
+        "id": "1690987444018x709231299484665500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690987444018x709231299484665500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Joel Mason "
+    },{
+        "id": "1690987439272x597270221577755400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690987439272x597270221577755400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Mileece I\"Anson "
+    },{
+        "id": "1690987437795x919654030272625500",
+"url":"https://kernel.community",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690987437795x919654030272625500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Andy Tudhope "
+    },{
+        "id": "1690987436486x560419801870569100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1690987436486x560419801870569100&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Alice Maggio "
+    },{
+        "id": "1691615648884x312602559375474700",
+"url":"https://www.resource.finance/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691615648884x312602559375474700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Many people around the world suffer from not having access to affordable credit. The only options available to them are so costly that they result in high rates of defaults and/or perpetual debt entrapment. This cyclical spiral results in a chronic lack of liquidity and underemployment, which severely constrain economic growth and human development in many regions around the world.  The estimated unmet demand for credit in these markets is 5.2T, which traditional finance has proven inadequate to address. Innovative financial models within the collaborative finance umbrella are better suited for tackling this problem because they don’t rely solely on external capital sources to bootstrap funding, and thus lower the cost of credit. I will share about our team’s contribution to collaborative finance, the stable credit protocol, which provides communities the tools they need to build a more self-reliant credit system and improve their local economy, while simultaneously gaining access to the global financial network. \n",
+"size":"",
+"label":"Ashley Taylor Buck"
+    },{
+        "id": "1692138470504x346095467720867840",
+"url":"https://www.solarfoundation.xyz/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692138470504x346095467720867840&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The Solar Foundation’s mission is to accelerate access to off-grid solar energy for underserved communities in emerging markets. We harness the power of the sun and the power of the blockchain to deliver real-world impact by providing reliable and affordable access to clean electricity while reducing CO2e and increasing climate resilience.\n\nWe believe decentralized, clean energy is a public good, and we’ve witnessed how small solar solutions unlock tangible benefits including community agency, self-sufficiency and climate resilience. We work to ensure that no one is left behind in the transition to renewables, especially climate-vulnerable people in rural sub-Saharan Africa—people experiencing increasingly severe climate effects while contributing the least to the climate crisis.\n\nThe Solar Foundation has completed off-grid solar projects in Uganda, Nigeria and Puerto Rico (please see the Solar Foundation website for details and pictures). We are currently planning a novel community solar + UBI pilot project with GoodDollar and an impact certs project using Switch to monitor our solar data for retroactive funding",
+"size":"",
+"label":"Coleen Chase"
+    },{
+        "id": "1692354164639x598942281463234600",
+"url":"https://discover.opencollective.com/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692354164639x598942281463234600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Transparent Budgets + the Future of Philanthropy",
+"size":"",
+"label":"Caroline Woolard"
+    },{
+        "id": "1692355221623x438469264607805440",
+"url":"https://economicspace.agency/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692355221623x438469264607805440&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"We'd like to talk about the issue of values neutrality in emergent systems: (1) at what strata protocols for social empowerment must be values neutral in order to not predetermine new forms with old thinking, and (2) at what strata must they be explicitly 'progressive', i.e., for the good life of all people and living things.",
+"size":"",
+"label":"Jon Beller"
+    },{
+        "id": "1692649911253x915254735178825700",
+"url":"https://www.sparkandmint.com/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692649911253x915254735178825700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Media Sponsor"
+    },{
+        "id": "1692815654860x104310125585498110",
+"url":"https://www.solarfoundation.xyz/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692815654860x104310125585498110&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The Solar Foundation’s mission is to accelerate access to off-grid solar energy for underserved communities in emerging markets. We harness the power of the sun and the power of the blockchain to deliver real-world impact by providing reliable and affordable access to clean electricity while reducing CO2e and increasing climate resilience.\n\nWe believe decentralized, clean energy is a public good, and we’ve witnessed how small solar solutions unlock tangible benefits including community agency, self-sufficiency and climate resilience. We work to ensure that no one is left behind in the transition to renewables, especially climate-vulnerable people in rural sub-Saharan Africa—people experiencing increasingly severe climate effects while contributing the least to the climate crisis.\n\nThe Solar Foundation has completed off-grid solar projects in Uganda, Nigeria and Puerto Rico (please see the Solar Foundation website for details and pictures). We are currently working on a microgrid project for a school in Tanzania, planning a novel community solar + UBI pilot project with GoodDollar and an impact certs project with Switch to monitor our solar data for retroactive funding",
+"size":"",
+"label":"Coleen Chase"
+    },{
+        "id": "1693243893801x641539214227537900",
+"url":"https://www.solarfoundation.xyz/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693243893801x641539214227537900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"1. Small solar delivers big impacts to underserved and unpowered communities. With approx. 600 million people lacking access to electricity in Africa, accelerating access to off-grid solar is essential to climate action, social justice & ensuring no one is left behind in the transition to clean energy.\n2. Blockchain-enabled collaboration is key! By collaborating with local nonprofits in Uganda, Nigeria and very soon, Tanzania, we are leveraging the power of blockchain to fund and accelerate real-life impact on the quality of people's lives, on addressing climate change and on working towards SDG #7 & SDG 13: Achieving universal (and clean!) energy access by 2030.\n3. Business as usual won't sufficiently address our global challenges such as climate crisis, gender inequity and financial exclusion. At The Solar Foundation, we aim to reinvent the nonprofit and NGO model using the tools of web3 and the power of DeFi to create regenerative, open-source, novel funding mechanisms. A collaborative approach is essential to our mission and we are currently collaborating with GoodDollar on a community solar + UBI pilot for 50 women in Uganda, working on solar impact certs & retroactive funding, and we seek to coordinate with diverse partners who share our desire to accelerate universal access to clean energy and provide an ownership stake in the solar deployed.",
+"size":"",
+"label":"Coleen Chase"
+    },{
+        "id": "1692739700221x841803853172310000",
+"url":"https://www.seaworthycollective.com/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692739700221x841803853172310000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The greatest barriers we have to solving climate change and marine degradation aren’t technical. They are barriers to opportunity, implementation, and collaboration for people, solutions, and regions alike. Seaworthy Collective's bottom-up approach for holistic regional development is working to break down systemic barriers for ocean and climate impact, which enables leveraging the other 71% of our planet (the ocean) as an asset against climate change. Not only do we need to support the development of communities and solutions, but also think bigger by growing innovation ecosystems. Altogether, this bottom-up approach is key to unlocking the untapped talent and ideas that will drive the scale of regional innovation needed to collectively regenerate our blue planet.",
+"size":"",
+"label":"Daniel Kleinman"
+    },{
+        "id": "1691144796612x907320141637213700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691144796612x907320141637213700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Ri-Karlo Handy "
+    },{
+        "id": "1691144816513x561100047809068860",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691144816513x561100047809068860&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Jon Schull"
+    },{
+        "id": "1691424530037x568892879910993900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691424530037x568892879910993900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Innovative blended finance solutions for smallholder agriculture in Nature Based Solutions\n\nBioeconomy networks and investment in Brazil, Colombia, Peru, Ecuador, Guyana, and Suriname ",
+"size":"",
+"label":"Federico Bellone "
+    },{
+        "id": "1691441498353x606730693568102400",
+"url":"https://acetcg.xyz/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691441498353x606730693568102400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Explore the intersection of metaverse mythology and community-driven game design with \"Ace, The Coordination Game\" (AceTCG). Supported by the Gitcoin Community, Ace is a physical trading card game that spotlights the pioneers, key events, and innovative web3 technologies empowering us to address real-world challenges. Join us as we unpack the game's design philosophy, emphasizing how shared values and technology can shape a brighter, interconnected future.",
+"size":"",
+"label":"Colton Orr"
+    },{
+        "id": "1691659017840x210250434614031500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691659017840x210250434614031500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Sindre Østgård "
+    },{
+        "id": "1691681378147x255786777513067330",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691681378147x255786777513067330&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Christian Narvaez"
+    },{
+        "id": "1691740267904x931514781253608700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691740267904x931514781253608700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Mary D\"Souza"
+    },{
+        "id": "1692232766212x354926855099252740",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692232766212x354926855099252740&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Discover how AI is sustainably revolutionizing the most polluted industries and how other industries can take inspiration from it to hasten their journey toward energy transition.",
+"size":"",
+"label":"Soudip Roy Chowdhury"
+    },{
+        "id": "1692880248874x380647538976358400",
+"url":"www.ABInBevFoundation.org",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692880248874x380647538976358400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Corporate philanthropy today is not maximizing its potential, and often does more harm than good.  We need to pivot to a new paradigm in order to fulfill our potential, meaning we have to collaborate more, overcome duplications, fill gaps, invest in innovation, leverage funding in different ways, and focus on a holistic approach if we are going to truly achieve the SDGs.",
+"size":"",
+"label":"Sam Stephens"
+    },{
+        "id": "1692658436507x617070141966385200",
+"url":"https://www.learningeconomy.io",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692658436507x617070141966385200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Join a panel of future-focused innovators and education experts as we collectively (re)imagine Education in a Time Between Worlds (shoutout Zak Stein). ",
+"size":"",
+"label":"Taylor Kendal"
+    },{
+        "id": "1691695895956x909926634716921900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691695895956x909926634716921900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Environment for sustainability ",
+"size":"",
+"label":"Mujuzi Patrick"
+    },{
+        "id": "1692593159067x862674720764461000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692593159067x862674720764461000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Unlocking Potential with Gratitude-Based Learning: A Guide to Improving Our Schools, Companies, and Communities",
+"size":"",
+"label":"Adam Fishman"
+    },{
+        "id": "1691601733466x134180148793311230",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1691601733466x134180148793311230&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The decentralization of food, energy and information based on our innovative Natural Solutions Engine (NSE), converting waste into energy and organic agricultural biostimulants, supporting a healthier environment overall.  By restoring our agricultural soils we can drawdown and avoid massive amounts of GHG emissions.",
+"size":"",
+"label":"Michael Francis Smith"
+    },{
+        "id": "1692641508393x560710608445767700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692641508393x560710608445767700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"I would like to discuss the transformative power of lifelong learning and how granting individuals permission to learn can reshape education and professional development. In a world marked by rapid change, education must extend beyond traditional boundaries, and I will explore practical strategies to foster a culture of continuous learning. Drawing from Deloitte Insights' observations on corporate learning shifts and personal anecdotes, I'll emphasize the importance of integrating learning into daily life, workplaces, and even service projects. Ultimately, my talk will highlight how giving permission to learn empowers individuals, enhances career trajectories, and contributes to impactful education in an ever-evolving world.",
+"size":"",
+"label":"Erin Huizenga"
+    },{
+        "id": "1693018281503x983649282936275000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693018281503x983649282936275000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The Solar Foundation’s mission is to accelerate access to off-grid solar energy for underserved communities in emerging markets. We harness the power of the sun and the power of the blockchain to deliver real-world impact by providing reliable and affordable access to clean electricity while reducing CO2e and increasing climate resilience.\n\nWe believe decentralized, clean energy is a public good, and we’ve witnessed how small solar solutions unlock tangible benefits including community agency, self-sufficiency and climate resilience. We work to ensure that no one is left behind in the transition to renewables, especially climate-vulnerable people in rural sub-Saharan Africa—people experiencing increasingly severe climate effects while contributing the least to the climate crisis.\n\nThe Solar Foundation has completed off-grid solar projects in Uganda, Nigeria and Puerto Rico (please see the Solar Foundation website for details and pictures). We are currently working on a microgrid project for a school in Tanzania, planning a novel community solar + UBI pilot project with GoodDollar and an impact certs project with Switch to monitor our solar data for retroactive funding\n",
+"size":"",
+"label":"Coleen Chase"
+    },{
+        "id": "1692904403809x801465790834933800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1692904403809x801465790834933800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Pivoting to a more sustainable future.",
+"size":"",
+"label":"Anna Dai"
+    },{
+        "id": "1693245022335x968913494958669800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693245022335x968913494958669800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Do your best and even more \nVeganism, zero waste, biking, travel locally discover what is around you \nEmbrace all these changes on a daily basis \nBe a voice and be heard \nOptimize your work travels ",
+"size":"",
+"label":"Elsa Lagache "
+    },{
+        "id": "1693340473591x578781088828620800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693340473591x578781088828620800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"I would like to speak about the power of building grassroots leadership to challenge and change social norms and narratives that restricts young people from exploring their full potential and write their own stories with their aspirations, love and hope.",
+"size":"",
+"label":"Dhirendra Pratap Singh"
+    },{
+        "id": "1693238578566x466482292937195500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693238578566x466482292937195500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"I'm active in the Regenerative Finance community and fluent in the narrative it promotes. However, I'd like change-makers and impact leaders to consider the importance and benefits of including a deeper understanding of a shift toward a \"coexistence\" paradigm in their storytelling.",
+"size":"",
+"label":"Josh Adler"
+    },{
+        "id": "1693374398462x382152424267972600",
+"url":"https://Vincentarena.com",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693374398462x382152424267972600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Anything",
+"size":"",
+"label":"New Speaker Name"
+    },{
+        "id": "1693451205495x275674874215661570",
+"url":"https://www.royaltonhotel.com/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693451205495x275674874215661570&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
+"type":"Location",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"44 W 44th St, New York, NY 10036, USA",
+"types":[],
+"skills":[],
+"description":"Our incredible venue",
+"size":"",
+"label":"Royalton Hotel"
+    },{
+        "id": "1693451354944x622351354521976800",
+"url":"https://restlessgroup.com/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693451354944x622351354521976800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Restless Group"
+    },{
+        "id": "1693418292444x608312007690855400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418292444x608312007690855400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Benjamin Life "
+    },{
+        "id": "1693418321568x101479586036745680",
+"url":"https://www.unesco.org/en/fieldoffice/bangkok",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418321568x101479586036745680&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Wesley Teter"
+    },{
+        "id": "1693418345223x899920402024671900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418345223x899920402024671900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Vinay Gupta "
+    },{
+        "id": "1693418367263x510898101225070850",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418367263x510898101225070850&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Emino Mahrt"
+    },{
+        "id": "1693418508071x366434930255767400",
+"url":"https://metropolisglobal.com/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418508071x366434930255767400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Elaine Wang"
+    },{
+        "id": "1693418395073x330898389091136100",
+"url":"https://restate.global",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418395073x330898389091136100&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Anastasia Kalinina"
+    },{
+        "id": "1693418418013x916644254903167000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418418013x916644254903167000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Laurence Ion"
+    },{
+        "id": "1693418442088x721045599124133800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418442088x721045599124133800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Scott Sherman"
+    },{
+        "id": "1693418464407x487152992367161800",
+"url":"http://gooddollar.org/",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418464407x487152992367161800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Anna Stone"
+    },{
+        "id": "1693418486809x866724368629741400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418486809x866724368629741400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Eric Amyot"
+    },{
+        "id": "1693418529036x277346500206367300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418529036x277346500206367300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Scott Beiben"
+    },{
+        "id": "1693418551292x655835869793373040",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418551292x655835869793373040&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Helene Papper"
+    },{
+        "id": "1693418573079x506870030721319900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693418573079x506870030721319900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Nicholas Niggli"
+    },{
+        "id": "1693444881183x807046762724851700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693444881183x807046762724851700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Nova Escola has 3 million visitors per month and is the leading digital platform for teachers in Brazil. We are commited to offer high quality pedagogical materials for free and are obsessed by listening and understanding the reality, the needs and the challenges of the public schools. ",
+"size":"",
+"label":"Ana Ligia Scachetti"
+    },{
+        "id": "1693575000201x991089529457607000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693575000201x991089529457607000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"type":"Track",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"label":"Main Stage"
+    },{
+        "id": "1693683351465x994379165796925400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693683351465x994379165796925400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Panelist: Education in a Time between Worlds",
+"size":"",
+"label":"Danny Laker"
+    },{
+        "id": "1693691665299x126091762520817660",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693691665299x126091762520817660&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"What big problem does blockchain solve? None. At least not in most western countries. But in Africa it is. This talk is for anyone interested how and why DirectEd is leveraging decentralised identifiers and smart contracts in our work on the ground in Kenya and Ethiopia. It will also touch on the broader topic of how blockchain technologies could play a crucial role in economic development for low income countries. ",
+"size":"",
+"label":"Simon Sällström"
+    },{
+        "id": "1693815226134x303375113744810000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693815226134x303375113744810000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Why are carbon offsets so controversial and what can we do about it? Technology might have an answer.\nSee recent TEDx talk - https://www.youtube.com/watch?v=bRBIvKICPLY",
+"size":"",
+"label":""
+    },{
+        "id": "1693948018521x809458764302516200",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693948018521x809458764302516200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Wil be on the panel: Education in a time between worlds with LEF (contact person Taylor Kendal)",
+"size":"",
+"label":"Tarja Stephens"
+    },{
+        "id": "1693925997646x143425032892448770",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1693925997646x143425032892448770&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Title: Climate Change Awareness in Africa: Challenges, Progress, and the Path Forward\nAbstract: Climate change poses a significant and immediate threat to the African continent, impacting ecosystems, economies, and the well-being of its people. This abstract provides an overview of the current state of climate change awareness in Africa, highlighting the challenges faced, the progress achieved, and the critical steps needed to address this pressuring issue.\nAfrica, with its diverse climates and vulnerabilities, is highly susceptible to the adverse effects of climate change. These effects manifest in the form of increased temperatures, changing rainfall patterns, more frequent and severe droughts, flooding, and extreme weather events. These climate-induced challenges have far-reaching consequences on food security, water resources, health, and livelihoods, disproportionately affecting vulnerable communities.\nAwareness of climate change in Africa has been growing, driven by a combination of scientific research, international agreements like the Paris Agreement, and the work of environmental organizations and activists. Governments, civil society, and grassroots initiatives have been instrumental in raising awareness and advocating for climate action.\nHowever, significant challenges persist. Limited access to information, education, and resources hampers efforts to address climate change effectively. Additionally, the urgency of climate action often competes with other pressing developmental priorities, making it challenging to allocate sufficient resources to mitigate and adapt to climate change. \nIn recent year, African countries have made substantial progress in climate change mitigation and adaptation. Many nations have developed National Adaptation Plans and have taken steps to integrate climate change considerations into their development agendas. \nRenewable energy projects are also on the rise, offering sustainable alternatives to fossil fuels. \nTo further advance climate change awareness and action in Africa, several key strategies should be prioritized: \n\nEducation and Awareness: Strengthening climate change education at all levels of society, from schools to communities, to empower individuals with knowledge and understanding.\nPolicy Integration: Ensuring that climate change considerations are fully integrated into national policies and development plans.\n\nInternational Cooperation: Collaborating with the global community to access funding, technology, and expertise to support climate change mitigation and adaptation efforts.\nCommunity Engagement: Involving local communities in climate action and decision-making processes to ensure sustainable, context-specific solutions.\n\nIn conclusion, climate change awareness in Africa is on the rise, but numerous challenges persist. Concerted efforts are needed to bridge information gaps, integrate climate considerations into policy and development, and ensure equitable access to resources and knowledge. With proactive measures and international collaboration, Africa can harness its potential to mitigate and adapt to climate change, safeguarding its people and ecosystems for generations to come.\n",
+"size":"",
+"label":"Timothy Kwabla Zilevu"
     }
 ],
 
@@ -812,7 +1915,8 @@
         "to": "1688448785844x475165719604572400",
 "strength":1,
 "type":"is part of track",
-"label":" is part of track Civilization Design"
+"description":"",
+"label":" is part of track Storytelling, Media, and Art"
     }
 ,{
         "id": "1688588592067x569085695719637000",
@@ -820,7 +1924,422 @@
         "to": "1688587747048x796677149873668100",
 "strength":1,
 "type":"also presented",
+"description":"This is from TIS 22",
 "label":"Vincent Arena also presented Vincent Arena"
+    }
+,{
+        "id": "1688836259372x119398661939609240",
+        "from": "1688590856116x481032535611453300",
+        "to": "1688448785844x475165719604572400",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Elliott Bayev is part of track Storytelling, Media, and Art"
+    }
+,{
+        "id": "1688839940187x982178939276927700",
+        "from": "1688590908214x247731345921771800",
+        "to": "1688448783932x331392909016211100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Gary Sheng is part of track Inner Development, Mental Health, and Social Connection"
+    }
+,{
+        "id": "1688839943091x394553527488932500",
+        "from": "1688590908214x247731345921771800",
+        "to": "1688448778691x211835393054933250",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Gary Sheng is part of track Institutional Change, Civic Innovation, and Social Justice"
+    }
+,{
+        "id": "1691443996086x752809730354595700",
+        "from": "1688930388320x321767521696350200",
+        "to": "1688448781812x236166426604033300",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Fifer Garbesi is part of track Business As A Vehicle For Good"
+    }
+,{
+        "id": "1693411199207x918467868730898400",
+        "from": "1693374398462x382152424267972600",
+        "to": "1688448781812x236166426604033300",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"New Speaker Name is part of track Business As A Vehicle For Good"
+    }
+,{
+        "id": "1693411202434x591556672407871400",
+        "from": "1693374398462x382152424267972600",
+        "to": "1688448787355x475779005041589760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"New Speaker Name is part of track Cities, Network States,  and Civilization Design"
+    }
+,{
+        "id": "1693419833374x814615356382156300",
+        "from": "1693243893801x641539214227537900",
+        "to": "1688448777802x195950652025915760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Coleen Chase is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+    }
+,{
+        "id": "1693419836379x398157076269538100",
+        "from": "1693243893801x641539214227537900",
+        "to": "1688448782985x739111207261327700",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Coleen Chase is part of track SDGs, Impact Mapping, and Impact Measurement"
+    }
+,{
+        "id": "1693419839245x112079747904984430",
+        "from": "1693243893801x641539214227537900",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Coleen Chase is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693420604436x907737402977228500",
+        "from": "1692739700221x841803853172310000",
+        "to": "1688448775627x427127243265429400",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Daniel Kleinman is part of track Bioregionalism, Regenerative Agriculture, Water, and Soil"
+    }
+,{
+        "id": "1693420607408x898987414889934000",
+        "from": "1692739700221x841803853172310000",
+        "to": "1688448781812x236166426604033300",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Daniel Kleinman is part of track Business As A Vehicle For Good"
+    }
+,{
+        "id": "1693420610393x698553901492787300",
+        "from": "1692739700221x841803853172310000",
+        "to": "1688448777802x195950652025915760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Daniel Kleinman is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+    }
+,{
+        "id": "1693421113579x538436109597663300",
+        "from": "1688590820971x293063315387237950",
+        "to": "1688448777802x195950652025915760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Kelsey Driscoll is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+    }
+,{
+        "id": "1693421116689x533720053662078960",
+        "from": "1688590820971x293063315387237950",
+        "to": "1688448778691x211835393054933250",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Kelsey Driscoll is part of track Institutional Change, Civic Innovation, and Social Justice"
+    }
+,{
+        "id": "1693421119520x726965777871625500",
+        "from": "1688590820971x293063315387237950",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Kelsey Driscoll is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693422720314x649733331466449000",
+        "from": "1688844296618x381118970917290000",
+        "to": "1688448783932x331392909016211100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Ron Rivers is part of track Inner Development, Mental Health, and Social Connection"
+    }
+,{
+        "id": "1693422723347x149324841997712000",
+        "from": "1688844296618x381118970917290000",
+        "to": "1688448778691x211835393054933250",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Ron Rivers is part of track Institutional Change, Civic Innovation, and Social Justice"
+    }
+,{
+        "id": "1693422726212x582263946443637000",
+        "from": "1688844296618x381118970917290000",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Ron Rivers is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693422938294x619140175948968700",
+        "from": "1692658436507x617070141966385200",
+        "to": "1688448784946x802278372286245900",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Taylor Kendal is part of track Impact-Focused Education"
+    }
+,{
+        "id": "1693422941272x407988759625694800",
+        "from": "1692658436507x617070141966385200",
+        "to": "1688448778691x211835393054933250",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Taylor Kendal is part of track Institutional Change, Civic Innovation, and Social Justice"
+    }
+,{
+        "id": "1693422944238x501805085811726200",
+        "from": "1692658436507x617070141966385200",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Taylor Kendal is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693433277273x915158970505776800",
+        "from": "1690987437795x919654030272625500",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Andy Tudhope  is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693433280069x765012691088920600",
+        "from": "1690987437795x919654030272625500",
+        "to": "1688448784946x802278372286245900",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Andy Tudhope  is part of track Impact-Focused Education"
+    }
+,{
+        "id": "1693466831480x602157732729224700",
+        "from": "1688590865863x356543156962108500",
+        "to": "1688448775627x427127243265429400",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Minni Jain is part of track Bioregionalism, Regenerative Agriculture, Water, and Soil"
+    }
+,{
+        "id": "1693576503526x476693205310955600",
+        "from": "1692739700221x841803853172310000",
+        "to": "1688448775627x427127243265429400",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Daniel Kleinman is part of track Bioregionalism, Regenerative Agriculture, Water, and Soil"
+    }
+,{
+        "id": "1693576506275x208714122169975100",
+        "from": "1692739700221x841803853172310000",
+        "to": "1688448781812x236166426604033300",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Daniel Kleinman is part of track Business As A Vehicle For Good"
+    }
+,{
+        "id": "1693576509320x703927390497133300",
+        "from": "1692739700221x841803853172310000",
+        "to": "1688448777802x195950652025915760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Daniel Kleinman is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+    }
+,{
+        "id": "1693592690383x717459764027633400",
+        "from": "1688657929500x143275081055316500",
+        "to": "1688448784946x802278372286245900",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Vriti Saraf is part of track Impact-Focused Education"
+    }
+,{
+        "id": "1693592693434x139345534455879380",
+        "from": "1688657929500x143275081055316500",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Vriti Saraf is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693592818780x108950065571977500",
+        "from": "1688657929500x143275081055316500",
+        "to": "1688448784946x802278372286245900",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Vriti Saraf is part of track Impact-Focused Education"
+    }
+,{
+        "id": "1693592821652x618714798379026000",
+        "from": "1688657929500x143275081055316500",
+        "to": "1688448782985x739111207261327700",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Vriti Saraf is part of track SDGs, Impact Mapping, and Impact Measurement"
+    }
+,{
+        "id": "1693592824744x406230313146128700",
+        "from": "1688657929500x143275081055316500",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Vriti Saraf is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693593608418x954686680613388000",
+        "from": "1691441498353x606730693568102400",
+        "to": "1688448785844x475165719604572400",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Colton Orr is part of track Storytelling, Media, and Art"
+    }
+,{
+        "id": "1693593611418x801174319208701300",
+        "from": "1691441498353x606730693568102400",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Colton Orr is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693737060261x768503605128099100",
+        "from": "1688657912099x849988035031953000",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Eric Annan is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693737063167x796677641832709900",
+        "from": "1688657912099x849988035031953000",
+        "to": "1688448776976x659283846301514800",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Eric Annan is part of track Indigenous and Local Solutions Across The World"
+    }
+,{
+        "id": "1693798463273x196758141900158720",
+        "from": "1693418508071x366434930255767400",
+        "to": "1688448787355x475779005041589760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Elaine Wang is part of track Cities, Network States,  and Civilization Design"
+    }
+,{
+        "id": "1693858300807x825721363952376300",
+        "from": "1688657940195x776127308871350000",
+        "to": "1688448784946x802278372286245900",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Gregory Flipo is part of track Impact-Focused Education"
+    }
+,{
+        "id": "1693934261718x163331517238245250",
+        "from": "1693418464407x487152992367161800",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Anna Stone is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1693944626008x994223689751937400",
+        "from": "1692880248874x380647538976358400",
+        "to": "1688448775627x427127243265429400",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Sam Stephens is part of track Bioregionalism, Regenerative Agriculture, Water, and Soil"
+    }
+,{
+        "id": "1693944629057x555447690178318100",
+        "from": "1692880248874x380647538976358400",
+        "to": "1688448777802x195950652025915760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Sam Stephens is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+    }
+,{
+        "id": "1694017928964x324590812711943230",
+        "from": "1688657916343x878078827306454400",
+        "to": "1688448781812x236166426604033300",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Chauncey St. John is part of track Business As A Vehicle For Good"
+    }
+,{
+        "id": "1694017931598x212376300172300030",
+        "from": "1688657916343x878078827306454400",
+        "to": "1688448777802x195950652025915760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Chauncey St. John is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+    }
+,{
+        "id": "1694017934559x378401675479255200",
+        "from": "1688657916343x878078827306454400",
+        "to": "1693575000201x991089529457607000",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Chauncey St. John is part of track Main Stage"
+    }
+,{
+        "id": "1694017937582x667530636035865700",
+        "from": "1688657916343x878078827306454400",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Chauncey St. John is part of track Web3 & Tech For Good"
+    }
+,{
+        "id": "1694095865707x305014381544309200",
+        "from": "1693418395073x330898389091136100",
+        "to": "1688448787355x475779005041589760",
+"strength":1,
+"type":"is part of track",
+"description":"",
+"label":"Anastasia Kalinina is part of track Cities, Network States,  and Civilization Design"
     }
 
  ]
