@@ -1,83 +1,85 @@
 {
   "elements": [
-
+{
+  "label": "Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"Type",
+"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Types",
+"type":"Object Type",
+"description":"Types of information"
+},{
+  "label": "Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
+"id":"",
+"type":"Object Type",
+"description":"Main sectors of society"
+},
 {
 "label":"Image",
 "image":"//s3.amazonaws.com/appforest_uf/f1676997948855x144707524222842400/gallery.svg",
 "id":"Image",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Images",
-"description":"An image or gif\n[[list \" Image\"]]"
+"description":"An image or gif"
 },{
 "label":"Post",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
 "id":"Post",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Posts",
-"description":"A social post that could include photos and other features like polls, etc.\n[[list \" Post\"]]"
+"description":"A social post that could include photos and other features like polls, etc."
 },{
 "label":"Task",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962016372x592827556413217300/045-shopping-list.svg",
 "id":"Task",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Tasks",
-"description":"A task is work to be done\n[[list \" Task\"]]"
+"description":"A task is work to be done"
 },{
 "label":"Message",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "id":"Message",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Messages",
-"description":"\n[[list \" Message\"]]"
+"description":""
 },{
 "label":"Location",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
 "id":"Location",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Locations",
-"description":"Locations are places, countries, cities or other areas of geographical space.\n[[list \" Location\"]]"
+"description":"Locations are places, countries, cities or other areas of geographical space."
 },{
 "label":"Link",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962126841x937328034580616300/034-link.svg",
 "id":"Link",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Links",
-"description":"Links are group-specific urls crowdsourced from different group chats and events.\n[[list \" Link\"]]"
+"description":"Links are group-specific urls crowdsourced from different group chats and events."
 },{
 "label":"Appreciation",
 "image":"//s3.amazonaws.com/appforest_uf/f1676997941933x709576197641230500/chat.png",
 "id":"Appreciation",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Appreciations",
-"description":"A type of post specifically designed to show appreciation for someone else.\n[[list \" Appreciation\"]]"
+"description":"A type of post specifically designed to show appreciation for someone else."
 },{
 "label":"Resource",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "id":"Resource",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Resources",
-"description":"Something that can be used to solve a problem\n[[list \" Resource\"]]"
+"description":"Something that can be used to solve a problem"
 },{
 "label":"Offer",
 "image":"//s3.amazonaws.com/appforest_uf/f1677702447235x423945010205213600/courier.png",
 "id":"Offer",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Offers",
-"description":"An opportunity that someone has to offer to others\n[[list \" Offer\"]]"
+"description":"An opportunity that someone has to offer to others"
 },{
 "label":"Opportunity",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962146632x605832000456921600/001-door-open.svg",
 "id":"Opportunity",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Opportunities",
-"description":"Offers or requests that are linked to people or groups of people\n[[list \" Opportunity\"]]"
+"description":"Offers or requests that are linked to people or groups of people"
 },{
 "label":"Event",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "id":"Event",
 "type":"Object Type",
-"url":"https://www.catalist.network/version-test/trove-space/va?filtered=yes&view=List&data-type=Events",
-"description":"Something happening with a start and end date\n[[list \" Event\"]]"
+"description":"Something happening with a start and end date"
 },{
 "label":"Collective Action & Collaboration",
 "image":"//s3.amazonaws.com/appforest_uf/f1678145360984x682281328145267600/collaboration.svg",
@@ -110,6 +112,7 @@
 "skills":[],
 "description":"The idea was to match high school students with projects that they wanted to do to improve a college, and if accepted they would work on.",
 "size":"",
+"Why am I archiving this?":"This is definitely something that can be used for UIF in a future iteration!"
 "label":"Matching Schools Students and Companies"
     },{
         "id": "1677359881422x843599457825325000",
@@ -125,6 +128,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Connections between Users and Data"
     },{
         "id": "1677359961567x298230026809114600",
@@ -140,6 +144,7 @@
 "skills":[],
 "description":"So we can see free time of a person to do better matching",
 "size":"",
+
 "label":"Create google calendar integration"
     },{
         "id": "1677360120724x317501422431109100",
@@ -153,8 +158,9 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Coordinate plans within a group automatically.\\nSign up for a spot in a limited seating event or something like a podcast interview\\nShare your lists with others\\nCreate sub or meta lists that only certain people can see",
+"description":"Coordinate plans within a group automatically.\nSign up for a spot in a limited seating event or something like a podcast interview\nShare your lists with others\nCreate sub or meta lists that only certain people can see",
 "size":"",
+
 "label":"Ideas around Functions"
     },{
         "id": "1677360217186x595993753835274200",
@@ -170,6 +176,7 @@
 "skills":[],
 "description":"We need an easy button for people to add to their list or Trove or whatever.",
 "size":"",
+
 "label":"Add to my X button"
     },{
         "id": "1677363270871x323294425187352600",
@@ -185,6 +192,7 @@
 "skills":[],
 "description":"Idea for turning physical wall of opportunity posts into digital ones, and invite the person to create an account to be able to update it!",
 "size":"",
+
 "label":"Auto Claim physical posts"
     },{
         "id": "1677363748393x363884821435383800",
@@ -200,6 +208,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"A bunch of ideas around search, Filters, Text"
     },{
         "id": "1677366655698x595988669746905100",
@@ -215,6 +224,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Pataphors @ Psychology"
     },{
         "id": "1677373455824x989944978375704600",
@@ -230,6 +240,7 @@
 "skills":[],
 "description":"An audio note from Stanford’s class Design For Extreme Affordability",
 "size":"",
+
 "label":"Stanford DFEA"
     },{
         "id": "1677374812026x672475652429185000",
@@ -245,6 +256,7 @@
 "skills":[],
 "description":"Ways to get compensated, how bad you want it, time available: for phone call, video call, text, email, time duration willing to work on it.",
 "size":"",
+
 "label":"List of fields for opportunity availability"
     },{
         "id": "1677374946339x109456677587910660",
@@ -260,6 +272,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Tips for a great lightening talk"
     },{
         "id": "1677375240746x477430936814747650",
@@ -275,6 +288,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Advertising Cycle"
     },{
         "id": "1677375318248x979780120180686800",
@@ -290,6 +304,7 @@
 "skills":[],
 "description":"Design is a threat if those in power agree upon an outcome for society that doesn’t align with the majority and they wield design thinking to create or cement it. ",
 "size":"",
+
 "label":"Appropriate Regulation of Tech #Question"
     },{
         "id": "1677457022495x902211146966618500",
@@ -303,8 +318,9 @@
 "address":"",
 "types":["video"],
 "skills":[],
-"description":" \\n",
+"description":" \n",
 "size":"",
+
 "label":""
     },{
         "id": "1677525820879x585601206091776000",
@@ -320,7 +336,8 @@
 "skills":[],
 "description":"The place where a lot of the magic happens",
 "size":"",
-"label":"Vincent's House"
+
+"label":"Vincent\"s House"
     },{
         "id": "1678321973592x384855530081091600",
 "url":"https://www.youtube.com/watch?v=fja6Z8vTUzI",
@@ -335,6 +352,7 @@
 "skills":[],
 "description":"This video series captures the monthly activities of the Global Sustainable Futures Progress through Partnerships Network.",
 "size":"",
+
 "label":"GSFN 2021"
     },{
         "id": "1678322425091x783339547777826800",
@@ -350,6 +368,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":""
     },{
         "id": "1678322983724x140320171197726720",
@@ -365,6 +384,7 @@
 "skills":[],
 "description":"Designer. Engineer. Social Entrepreneur.",
 "size":"",
+
 "label":"Vincent Arena Design Portfolio"
     },{
         "id": "1678391060259x517365405750657000",
@@ -380,6 +400,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":""
     },{
         "id": "1678413200400x687636762560036900",
@@ -395,6 +416,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":""
     },{
         "id": "1678497309248x421802385723097100",
@@ -410,6 +432,7 @@
 "skills":[],
 "description":"Depending on the view you can select which fields to toggle on or off, or other settings",
 "size":"",
+
 "label":"Initial idea for field visibility settings under sort "
     },{
         "id": "1678497502212x140020701643407360",
@@ -425,6 +448,7 @@
 "skills":[],
 "description":"The idea being you can rate something 1-10 on each attribute and then the score can be an average of those ratings. ",
 "size":"",
+
 "label":"Idea for having a list of attributes when you rate something"
     },{
         "id": "1678497619810x280404861342187500",
@@ -440,6 +464,7 @@
 "skills":[],
 "description":"Some data is finite, like the number of cities in the world, and we should have duplicates here but instead build on top of and make better. But messages are infinite",
 "size":"",
+
 "label":"Finite value infinite data"
     },{
         "id": "1678497757480x138902923980570620",
@@ -455,6 +480,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Why run UIF program?"
     },{
         "id": "1678501040651x973697958752813000",
@@ -470,6 +496,7 @@
 "skills":[],
 "description":"Book suggested by Marvin from Grace trip.",
 "size":"",
+
 "label":"The Stack"
     },{
         "id": "1678501356931x955372527012282400",
@@ -485,6 +512,7 @@
 "skills":[],
 "description":"Book on peak oil recommended by Angel from Grace’s trip. ",
 "size":"",
+
 "label":"The Spiral"
     },{
         "id": "1678509899790x669144995937910800",
@@ -500,6 +528,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Principles From Unfinished Live"
     },{
         "id": "1678510054070x740106953913532400",
@@ -515,6 +544,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Trends"
     },{
         "id": "1678510150510x989907959091036200",
@@ -530,6 +560,7 @@
 "skills":[],
 "description":"Basically investors are dangling money in front of tech startups, who are running to it like a dog running for a treat, and the collective of society is being pulled along for the ride.",
 "size":"",
+
 "label":"Revulsion of Speed of Innovation"
     },{
         "id": "1678510443461x683110225840701400",
@@ -545,6 +576,7 @@
 "skills":[],
 "description":"A short list of topics",
 "size":"",
+
 "label":"Things UIF should know"
     },{
         "id": "1678510898855x570291333496832000",
@@ -560,6 +592,7 @@
 "skills":[],
 "description":"Next steps; work on the Matchmaking interface and seeking interface",
 "size":"",
+
 "label":"Trove Roadmap"
     },{
         "id": "1678511005703x728857201994367000",
@@ -575,6 +608,7 @@
 "skills":[],
 "description":"Should the description of a post be editable if the post later becomes collaborative? Ahhhhh. Also not sure if the main post body should be rich text or a description summary.",
 "size":"",
+
 "label":"Post Vs. Object dilemma"
     },{
         "id": "1678511064720x984551328658489300",
@@ -590,6 +624,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Idea for highlighted posts"
     },{
         "id": "1678511246595x992766215227703300",
@@ -603,8 +638,9 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"1) way to generate bulk tasks from browser URLs \\n2) opening tabs reminds me what to do or why it’s open\\n3) helpful knowing tabs are next to each other and the context of when it was opened",
+"description":"1) way to generate bulk tasks from browser URLs \n2) opening tabs reminds me what to do or why it’s open\n3) helpful knowing tabs are next to each other and the context of when it was opened",
 "size":"",
+
 "label":"Process for managing to-dos from tabs"
     },{
         "id": "1678511333602x963676211089506300",
@@ -620,6 +656,7 @@
 "skills":[],
 "description":" Rework commons coordinator and collaborative weaver - what AI can’t do without us is prescence in a room and bringing people together via trust and culture building ",
 "size":"",
+
 "label":"What my purpose is"
     },{
         "id": "1678511424454x669702021430116400",
@@ -635,6 +672,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Power and respect"
     },{
         "id": "1678511528872x130489626345865220",
@@ -650,6 +688,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Reasons to go out to bars"
     },{
         "id": "1678516610107x463920431590277100",
@@ -665,6 +704,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Some bug fixes on this trove-space page"
     },{
         "id": "1678578548485x694066614926835700",
@@ -678,8 +718,9 @@
 "address":"1899 Hempstead Turnpike, East Meadow, NY 11554, USA",
 "types":[],
 "skills":[],
-"description":"Girls on the Run Long Island is looking for a Social Media Intern. Tasks include posting daily to social media sites. Templates provided by Girls on the Run International. Must be familiar with Canva.\\n\\nGood for resume building. We will provide a letter of recommendation or proof of community service hours if needed.\\n\\nOur office is located in Eisenhower Park, East Meadow. Intern can work inside our office or remote but must live on Long Island and be familiar with Long Island communities.",
+"description":"Girls on the Run Long Island is looking for a Social Media Intern. Tasks include posting daily to social media sites. Templates provided by Girls on the Run International. Must be familiar with Canva.\n\nGood for resume building. We will provide a letter of recommendation or proof of community service hours if needed.\n\nOur office is located in Eisenhower Park, East Meadow. Intern can work inside our office or remote but must live on Long Island and be familiar with Long Island communities.",
 "size":"",
+
 "label":"Social Media Intern"
     },{
         "id": "1678997511391x466586504095858700",
@@ -695,6 +736,7 @@
 "skills":[],
 "description":"Either toggle only show objects without a parent or parents, or only show parents. Or show children or and select many parents.",
 "size":"",
+
 "label":"Setting to nest objects under a parent object and hide them unless toggled"
     },{
         "id": "1683406297310x108014319873818620",
@@ -710,6 +752,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Ecosystem Map Meeting 3"
     },{
         "id": "1683406377977x795018822799485400",
@@ -725,6 +768,7 @@
 "skills":[],
 "description":"Yeah, I think having the circles of involvement for the map would be helpful. And deleting and curating of this data is necessary work we’ll have to do",
 "size":"",
+
 "label":"Message 100017 from Ecosystem Map Meeting 3"
     },{
         "id": "1683406330297x788037808843507300",
@@ -740,6 +784,7 @@
 "skills":[],
 "description":"Ill keep my video off while I eat lunch :)",
 "size":"",
+
 "label":"Message 100001 from Ecosystem Map Meeting 3"
     },{
         "id": "1683407884343x158946612235993100",
@@ -755,6 +800,7 @@
 "skills":[],
 "description":"Want to add some fields that are missing and then conditionally show others",
 "size":"",
+
 "label":"Trove Fields Update"
     },{
         "id": "1694096873382x398986556494577660",
@@ -770,6 +816,7 @@
 "skills":[],
 "description":"Be able to quickly post without a popup",
 "size":"",
+
 "label":"Inline Quick Post Interface"
     },{
         "id": "1694115338789x515720700683354100",
@@ -785,6 +832,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Feeeback for connections"
     },{
         "id": "1694120656395x454294101080145900",
@@ -800,6 +848,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Ideas from Jenn convo"
     }
 ],
@@ -811,7 +860,8 @@
         "to": "1677525820879x585601206091776000",
 "strength":0,
 "type":"Was created at",
-"label":"Add to my X button Was created at Vincent's House"
+"description":"It so happens most of the cool stuff happens there",
+"label":"Add to my X button Was created at Vincent\"s House"
     }
 ,{
         "id": "1694115058089x584556973992706000",
@@ -819,6 +869,7 @@
         "to": "1677363748393x363884821435383800",
 "strength":1,
 "type":"Should quickly implement",
+"description":"",
 "label":"Vincent Arena Should quickly implement A bunch of ideas around search, Filters, Text"
     }
 ,{
@@ -827,7 +878,8 @@
         "to": "1677525820879x585601206091776000",
 "strength":1,
 "type":"Lives in",
-"label":"Vincent Arena Lives in Vincent's House"
+"description":"He’s been there for 25 years…",
+"label":"Vincent Arena Lives in Vincent\"s House"
     }
 
  ]
