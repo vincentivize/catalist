@@ -863,6 +863,7 @@
 "description":"It so happens most of the cool stuff happens there",
 "connection type":"Relationship",
 "one-way":"yes",
+"direction":"directed",
 "label":"Add to my X button Was created at Vincent\"s House"
     }
 ,{
@@ -874,6 +875,7 @@
 "description":"",
 "connection type":"Suggestion",
 "one-way":"no",
+"direction":"undirected",
 "label":"Vincent Arena Should quickly implement A bunch of ideas around search, Filters, Text"
     }
 ,{
@@ -885,6 +887,7 @@
 "description":"He’s been there for 25 years…",
 "connection type":"Relationship",
 "one-way":"yes",
+"direction":"directed",
 "label":"Vincent Arena Lives in Vincent\"s House"
     }
 
