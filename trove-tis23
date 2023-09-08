@@ -87,7 +87,7 @@
 "type":"Attribute",
 "color":"#C5192D"
 },{
-"label":"",
+"label":"Agriculture",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
 "id":"1681937717180x993903602148503000",
 "type":"Attribute",
@@ -225,7 +225,7 @@
 "type":"Attribute",
 "color":"#56B8CE"
 },{
-"label":"Circular Economy (Societal Sector)",
+"label":"Circular Economy",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966181368x239302961153442520/circular_black.svg",
 "id":"1681937750873x584560789444113700",
 "type":"Attribute",
@@ -237,13 +237,13 @@
 "type":"Attribute",
 "color":"#A3CE56"
 },{
-"label":"",
+"label":"Community",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
 "id":"1683318398072x404385280013458400",
 "type":"Attribute",
 "color":""
 },{
-"label":"",
+"label":"Honors Community and Place",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1684414337012x443737091044670700/Screenshot%202023-05-18%20at%2012.13.00%20PM.png",
 "id":"1684405197385x550031120437151550",
 "type":"Attribute",
@@ -255,13 +255,13 @@
 "type":"Attribute",
 "color":"#56B8CE"
 },{
-"label":"",
+"label":"The Environment",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
 "id":"1681938409500x252268953364042750",
 "type":"Attribute",
 "color":""
 },{
-"label":"",
+"label":"Resource Based Economy",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
 "id":"1683318302669x441341482593788900",
 "type":"Attribute",
@@ -279,7 +279,7 @@
 "type":"Attribute",
 "color":"#566ACC"
 },{
-"label":"",
+"label":"Public-private collaboration",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962169212x808611812219413500/028-tag.svg",
 "id":"1683317411669x552118863035138560",
 "type":"Attribute",
@@ -291,7 +291,7 @@
 "type":"Attribute",
 "color":"#A3CE56"
 },{
-"label":"Health & Wellness (Societal Sector/)",
+"label":"Health & Wellness",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966141347x823695117310144400/Medical-Cross.png",
 "id":"1681937956859x869835963804880500",
 "type":"Attribute",
@@ -315,7 +315,7 @@
 "type":"Attribute",
 "color":"#77C98D"
 },{
-"label":"Sustainability (Societal Sector)",
+"label":"Sustainability",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966102888x710932200655117000/sustain_black.svg",
 "id":"1681937939611x309865503121493440",
 "type":"Attribute",
