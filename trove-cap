@@ -219,7 +219,7 @@
 "address":"",
 "types":["faq"],
 "skills":[],
-"description":"How Catabot works: 1) Catabot added to this channel in Discord. 2) Catabot set to catalog all messages or only links3) When a message is sent it gets catalogued. 4) you choose where this message is sent to in Catalist, in the case the CAP space/trove.5) The message can be converted into other data types (a resource, question or task), tagged and added to, interacted with by anyone with access (saved, favorited, commented on, private notes added) and most importantly found when it is needed in the future. It will be linked back to the platform and channel as well as the person who sent it.\*\* Additionally, any hashtags like and type tags will automatically tag the message!\\n",
+"description":"How Catabot works: 1) Catabot added to this channel in Discord. 2) Catabot set to catalog all messages or only links3) When a message is sent it gets catalogued. 4) you choose where this message is sent to in Catalist, in the case the CAP space/trove.5) The message can be converted into other data types (a resource, question or task), tagged and added to, interacted with by anyone with access (saved, favorited, commented on, private notes added) and most importantly found when it is needed in the future. It will be linked back to the platform and channel as well as the person who sent it.\\nAdditionally, any hashtags like and type tags will automatically tag the message!\\n",
 "size":"",
 "label":"Discord message from vincenzo3125"
     },{
