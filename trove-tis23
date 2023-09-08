@@ -2721,6 +2721,20 @@
 "url":"https://www.catalist.network/trove-space/tis23?connection=1694095865707x305014381544309200",
 "title":"Anastasia Kalinina is part of track Cities, Network States,  and Civilization Design"
     }
+,{
+        "label": "works together with",
+        "from": "1692649911253x915254735178825700",
+        "to": "1688590856116x481032535611453300",
+"strength":3,
+"connection subtype":"works together with",
+"description":"Spark and Mint are helping with the event marketing for the TIS23 conference.",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694139649176x185807129390088200",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694139649176x185807129390088200",
+"title":"Media Sponsor works together with Elliott Bayev"
+    }
 
  ]
 }
