@@ -932,6 +932,20 @@
 "url":"https://www.catalist.network/version-test/trove-space/va?connection=1694132360594x813650856398028800",
 "title":"Trove Roadmap was informed by Ecosystem Map Meeting 3"
     }
+,{
+        "label": "should read",
+        "from": "1693531730473x278673726539563000",
+        "to": "1678501040651x973697958752813000",
+"strength":1,
+"connection subtype":"should read",
+"description":"",
+"connection type":"Suggestion",
+"one-way":"yes",
+"direction":"directed",
+"id":"1694133125560x624393211874902000",
+"url":"https://www.catalist.network/version-test/trove-space/va?connection=1694133125560x624393211874902000",
+"title":"Vincent Arena should read The Stack"
+    }
 
  ]
 }
