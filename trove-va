@@ -81,6 +81,12 @@
 "type":"Object Type",
 "description":"Something happening with a start and end date"
 },{
+"label":"Member",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"id":"Member",
+"type":"Object Type",
+"description":"People who are verified members of a group or event"
+},{
 "label":"Collective Action & Collaboration",
 "image":"//s3.amazonaws.com/appforest_uf/f1678145360984x682281328145267600/collaboration.svg",
 "id":"1615672041912x871760549889363100",
@@ -850,6 +856,22 @@
 "size":"",
 
 "label":"Ideas from Jenn convo"
+    },{
+        "id": "1693531730473x278673726539563000",
+"url":"",
+"object url":"https://www.catalist.network/version-test/trove-space/va?object=1693531730473x278673726539563000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"tags":[],
+"sectors":[],
+"locations":[],
+"address":"East Rockaway, NY, USA",
+"types":[],
+"skills":[],
+"description":"Systems designer, entrepreneur, and information architect. Founder of Catalist and Trove. Test",
+"size":"",
+
+"label":"Vincent Arena"
     }
 ],
 
@@ -895,6 +917,20 @@
 "id":"1694119392795x376903669262057500",
 "url":"https://www.catalist.network/version-test/trove-space/va?connection=1694119392795x376903669262057500",
 "title":"Vincent Arena Lives in Vincent\"s House"
+    }
+,{
+        "label": "was informed by",
+        "from": "1678510898855x570291333496832000",
+        "to": "1683406297310x108014319873818620",
+"strength":5,
+"connection subtype":"was informed by",
+"description":"",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1694132360594x813650856398028800",
+"url":"https://www.catalist.network/version-test/trove-space/va?connection=1694132360594x813650856398028800",
+"title":"Trove Roadmap was informed by Ecosystem Map Meeting 3"
     }
 
  ]
