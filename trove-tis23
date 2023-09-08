@@ -3131,6 +3131,20 @@
 "url":"https://www.catalist.network/trove-space/tis23?connection=1694139649176x185807129390088200",
 "title":"Media Sponsor works together with Elliott Bayev"
     }
+,{
+        "label": "should connect with",
+        "from": "1688587747048x796677149873668100",
+        "to": "1688590919019x566250318530640900",
+"strength":1,
+"connection subtype":"should connect with",
+"description":"They've met but it would be great if they worked together more deeply",
+"connection type":"Suggestion",
+"one-way":"no",
+"direction":"undirected",
+"id":"1694144828259x772719005688397800",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694144828259x772719005688397800",
+"title":"Vincent Arena should connect with Or Katzman "
+    }
 
  ]
 }
