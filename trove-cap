@@ -1,76 +1,73 @@
 {
   "elements": [
-
+{
+  "label": "Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"Type",
+"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Types",
+"type":"Object Type",
+"description":"Types of information"
+},
 {
 "label":"Event Idea",
 "image":"//s3.amazonaws.com/appforest_uf/f1676997926107x834517490194062200/idea.svg",
 "id":"Event Idea",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Event Ideas",
-"description":"A proposal for an event to get interest and figure out the details later\n[[list \" Event Idea\"]]"
+"description":"A proposal for an event to get interest and figure out the details later"
 },{
 "label":"Event",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "id":"Event",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Events",
-"description":"Something happening with a start and end date\n[[list \" Event\"]]"
+"description":"Something happening with a start and end date"
 },{
 "label":"Problem",
 "image":"//s3.amazonaws.com/appforest_uf/f1651961934441x185271160497220160/question.svg",
 "id":"Problem",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Problems",
-"description":"\n[[list \" Problem\"]]"
+"description":""
 },{
 "label":"Task",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962016372x592827556413217300/045-shopping-list.svg",
 "id":"Task",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Tasks",
-"description":"A task is work to be done\n[[list \" Task\"]]"
+"description":"A task is work to be done"
 },{
 "label":"Request",
 "image":"//s3.amazonaws.com/appforest_uf/f1677702427822x518049034375711800/hand.png",
 "id":"Request",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Requests",
-"description":"Something that someone is looking for help with\n[[list \" Request\"]]"
+"description":"Something that someone is looking for help with"
 },{
 "label":"Opportunity",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962146632x605832000456921600/001-door-open.svg",
 "id":"Opportunity",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Opportunities",
-"description":"Offers or requests that are linked to people or groups of people\n[[list \" Opportunity\"]]"
+"description":"Offers or requests that are linked to people or groups of people"
 },{
 "label":"Message",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "id":"Message",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Messages",
-"description":"\n[[list \" Message\"]]"
+"description":""
 },{
 "label":"Resource",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "id":"Resource",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Resources",
-"description":"Something that can be used to solve a problem\n[[list \" Resource\"]]"
+"description":"Something that can be used to solve a problem"
 },{
 "label":"Session",
 "image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
 "id":"Session",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=Sessions",
-"description":"Sessions within a main event where presenters get to share their expertise\n[[list \" Session\"]]"
+"description":"Sessions within a main event where presenters get to share their expertise"
 },{
 "label":"FAQ",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691427224870x237086246091215100/faq.png",
 "id":"FAQ",
 "type":"Object Type",
-"url":"https://www.catalist.network/trove-space/cap?filtered=yes&view=List&data-type=FAQs",
-"description":"\n[[list \" FAQ\"]]"
+"description":""
 },
 {
         "id": "1684535658061x933461510127616000",
@@ -78,7 +75,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1684535658061x933461510127616000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1676997926107x834517490194062200/idea.svg",
 "type":"Event Idea",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -86,6 +85,7 @@
 "skills":[],
 "description":"An offsite weeklong gathering and design sprint for Catalist",
 "size":"",
+
 "label":"Catalist Offsite"
     },{
         "id": "1684535834288x961591017601237000",
@@ -93,7 +93,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1684535834288x961591017601237000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651961934441x185271160497220160/question.svg",
 "type":"Problem",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -101,6 +103,7 @@
 "skills":[],
 "description":"We need to figure out which businesses models would be the best to test and move forward with.",
 "size":"",
+
 "label":"What would the best business model(s) be?"
     },{
         "id": "1684536537591x251141506348886440",
@@ -108,7 +111,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1684536537591x251141506348886440&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962016372x592827556413217300/045-shopping-list.svg",
 "type":"Task",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -116,6 +121,7 @@
 "skills":[],
 "description":"Go back and run workflows to tag everything with attributes!!! This will be run in multiple steps we will have to plan out in detail and test :D",
 "size":"",
+"Description":"Go back and run workflows to tag everything with attributes!!! This will be run in multiple steps we will have to plan out in detail and test :D","Task":"Retroactive bulk tagging all non-objects with attributes","URL":"https://www.catalist.network/explore-attributes",
 "label":"Retroactive bulk tagging all non-objects with attributes"
     },{
         "id": "1684536538649x279520113029923650",
@@ -123,7 +129,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1684536538649x279520113029923650&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962016372x592827556413217300/045-shopping-list.svg",
 "type":"Task",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -131,6 +139,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Task":"Ifandor Partnership",
 "label":"Ifandor Partnership"
     },{
         "id": "1684536539809x376694790386745900",
@@ -138,7 +147,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1684536539809x376694790386745900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962016372x592827556413217300/045-shopping-list.svg",
 "type":"Task",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -146,6 +157,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Description":"Create a business plan given everything we've learned from past prototypes","Task":"Business Plan 2.0",
 "label":"Business Plan 2.0"
     },{
         "id": "1684536540833x913718438670672000",
@@ -153,7 +165,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1684536540833x913718438670672000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962016372x592827556413217300/045-shopping-list.svg",
 "type":"Task",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -161,6 +175,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Task":"Pricing Strategy",
 "label":"Pricing Strategy"
     },{
         "id": "1684967269444x102316500830388220",
@@ -168,14 +183,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1684967269444x102316500830388220&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":[],
 "skills":[],
-"description":"A gathering of the Catalist team, advisors, partners, and community members.",
+"description":"A gathering of the Catalist team, advisors, partners, and community members.[[youtube/Ah1JBMEXI8M]]",
 "size":"",
+
 "label":"May 26th Gathering"
     },{
         "id": "1684967801300x957629263130132500",
@@ -183,7 +201,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1684967801300x957629263130132500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677702427822x518049034375711800/hand.png",
 "type":"Request",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -191,6 +211,7 @@
 "skills":[],
 "description":"Would you like to see Catalist quickly take off? If so, consider sharing the link to our open collective, where either you or someone you know can make a custom one-time donation or recurring contribution.",
 "size":"",
+
 "label":"Donate or Subscribe To Catalist On Open Collective"
     },{
         "id": "1685021609828x815938883722781700",
@@ -198,14 +219,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685021609828x815938883722781700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":[],
 "skills":[],
-"description":"Testing all messages being catalogues by catabot!\\n",
+"description":"Testing all messages being catalogues by catabot!\n",
 "size":"",
+
 "label":"Discord message from vincenzo3125"
     },{
         "id": "1685022437653x429318668308783740",
@@ -213,14 +237,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685022437653x429318668308783740&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
-"tags":["onboarding"],
+"topics":["onboarding"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":["faq"],
 "skills":[],
-"description":"How Catabot works: 1) Catabot added to this channel in Discord. 2) Catabot set to catalog all messages or only links3) When a message is sent it gets catalogued. 4) you choose where this message is sent to in Catalist, in the case the CAP space/trove.5) The message can be converted into other data types (a resource, question or task), tagged and added to, interacted with by anyone with access (saved, favorited, commented on, private notes added) and most importantly found when it is needed in the future. It will be linked back to the platform and channel as well as the person who sent it.\\nAdditionally, any hashtags like and type tags will automatically tag the message!\\n",
+"description":"How Catabot works: 1) Catabot added to this channel in Discord. 2) Catabot set to catalog all messages or only links3) When a message is sent it gets catalogued. 4) you choose where this message is sent to in Catalist, in the case the CAP space/trove.5) The message can be converted into other data types (a resource, question or task), tagged and added to, interacted with by anyone with access (saved, favorited, commented on, private notes added) and most importantly found when it is needed in the future. It will be linked back to the platform and channel as well as the person who sent it.\nAdditionally, any hashtags like and type tags will automatically tag the message!\n",
 "size":"",
+
 "label":"Discord message from vincenzo3125"
     },{
         "id": "1685022640296x580143202029833000",
@@ -228,14 +255,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685022640296x580143202029833000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
-"tags":["onboarding"],
+"topics":["onboarding"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":["faq"],
 "skills":[],
-"description":"Current Catabot limitations: 1) editing the message in discord won’t edit the message in Catalist2) we haven’t gotten linking to be a super smooth process (ability to edit/delete your own messages) so right now the claim system is being used. \\n",
+"description":"Current Catabot limitations: 1) editing the message in discord won’t edit the message in Catalist2) we haven’t gotten linking to be a super smooth process (ability to edit/delete your own messages) so right now the claim system is being used. \n",
 "size":"",
+
 "label":"Discord message from vincenzo3125"
     },{
         "id": "1685023326901x430440866340929540",
@@ -243,7 +273,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685023326901x430440866340929540&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
-"tags":["Matchmaking Tools"],
+"topics":["Matchmaking Tools"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -251,6 +283,7 @@
 "skills":[],
 "description":"An event to brainstorm, do user testing, and get feedback on current prototypes and design future systems for enabling connection and matchmaking at scale within and across spaces. and platforms.",
 "size":"",
+
 "label":"Catalist Deep Dive: Connections and Matchmaking"
     },{
         "id": "1685076608288x451401685813952500",
@@ -258,7 +291,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685076608288x451401685813952500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "type":"Resource",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -266,6 +301,7 @@
 "skills":[],
 "description":"A database of the various datatypes found across various community platforms.",
 "size":"",
+
 "label":"Data Types Research"
     },{
         "id": "1685114118388x771007713928806400",
@@ -273,7 +309,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685114118388x771007713928806400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
 "type":"Session",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -281,6 +319,7 @@
 "skills":[],
 "description":"An activity to brainstorm the best business models",
 "size":"",
+
 "label":"Business Model Brainstorm"
     },{
         "id": "1685126418438x579237159343226900",
@@ -288,7 +327,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685126418438x579237159343226900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "type":"Resource",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -296,6 +337,7 @@
 "skills":[],
 "description":"This document has some compelling visualizations and concepts that i think we can apply to funding emergent spaces at the intersections.",
 "size":"",
+
 "label":"Design Foundations for Systems Capital"
     },{
         "id": "1685462450886x453374558653120500",
@@ -303,7 +345,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685462450886x453374558653120500&view=Graph&filtered=yes",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691427224870x237086246091215100/faq.png",
 "type":"FAQ",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -311,6 +355,7 @@
 "skills":[],
 "description":"This is an invitation-only space for Catalist team-members, advisors, and strategic partners.",
 "size":"",
+
 "label":"Who is this space for?"
     },{
         "id": "1685462484273x210494831887646720",
@@ -318,7 +363,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685462484273x210494831887646720&view=Graph&filtered=yes",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691427224870x237086246091215100/faq.png",
 "type":"FAQ",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -326,6 +373,7 @@
 "skills":[],
 "description":"Feel free to add questions, problems, events you'd like to share with this group, etc. Feel free to use this as a space to learn more about Catalist and engage by commenting on any of the objects inside the directory!",
 "size":"",
+
 "label":"What should i post here?"
     },{
         "id": "1685475898899x570672088687050750",
@@ -333,7 +381,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685475898899x570672088687050750&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "type":"Resource",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -341,6 +391,7 @@
 "skills":[],
 "description":"I think this is a really good presentation to learn about the state of the \"personal knowledge management\" space (PKM) and second brains. Keep in mind Catalist is more about a collaborative brain but elements of this need to be incorporated.",
 "size":"",
+
 "label":"Building a Second Brain Video"
     },{
         "id": "1685504155254x533289182661552260",
@@ -348,7 +399,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504155254x533289182661552260&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -356,6 +409,7 @@
 "skills":[],
 "description":"hospital",
 "size":"",
+
 "label":"Message 100001 from May 26th Gathering#"
     },{
         "id": "1685504163567x391877892019357500",
@@ -363,7 +417,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504163567x391877892019357500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -371,6 +427,7 @@
 "skills":[],
 "description":"Careful to not become Twitter 🐦",
 "size":"",
+
 "label":"Message 100004 from May 26th Gathering"
     },{
         "id": "1685504166828x767089727406078000",
@@ -378,7 +435,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504166828x767089727406078000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -386,6 +445,7 @@
 "skills":[],
 "description":"I can reengage Miami-Dade on the ecosystem mapping opps",
 "size":"",
+
 "label":"Message 100005 from May 26th Gathering"
     },{
         "id": "1685504170904x294184158650382140",
@@ -393,7 +453,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504170904x294184158650382140&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -401,6 +463,7 @@
 "skills":[],
 "description":"Re: spaces haha",
 "size":"",
+
 "label":"Message 100006 from May 26th Gathering"
     },{
         "id": "1685504173314x546576194133090000",
@@ -408,7 +471,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504173314x546576194133090000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -416,6 +481,7 @@
 "skills":[],
 "description":"Yes Zebras!",
 "size":"",
+
 "label":"Message 100007 from May 26th Gathering"
     },{
         "id": "1685504175850x351430123422260540",
@@ -423,7 +489,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504175850x351430123422260540&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -431,6 +499,7 @@
 "skills":[],
 "description":"Zebras Unite",
 "size":"",
+
 "label":"Message 100008 from May 26th Gathering"
     },{
         "id": "1685504181170x479057592601515460",
@@ -438,7 +507,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504181170x479057592601515460&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -446,6 +517,7 @@
 "skills":[],
 "description":"https://zebrasunite.coop/",
 "size":"",
+
 "label":"Message 100009 from May 26th Gathering"
     },{
         "id": "1685504191268x261903020600120500",
@@ -453,7 +525,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504191268x261903020600120500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -461,6 +535,7 @@
 "skills":[],
 "description":"Please share the deck and I can give feedback",
 "size":"",
+
 "label":"Message 100013 from May 26th Gathering"
     },{
         "id": "1685504191860x238753907331465960",
@@ -468,7 +543,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504191860x238753907331465960&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -476,6 +553,7 @@
 "skills":[],
 "description":"One of my advisors has been working with them. Heard great things",
 "size":"",
+
 "label":"Message 100010 from May 26th Gathering"
     },{
         "id": "1685504203339x265632813792684670",
@@ -483,7 +561,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504203339x265632813792684670&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -491,6 +571,7 @@
 "skills":[],
 "description":"from Vincent: potentially a \"platform coop\" or a for-profit/non-profit hybrid",
 "size":"",
+
 "label":"Message 100011 from May 26th Gathering"
     },{
         "id": "1685504203372x574980683422170000",
@@ -498,7 +579,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504203372x574980683422170000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -506,6 +589,7 @@
 "skills":[],
 "description":"Reacted to \"Also - who are ideal...\" with 💯",
 "size":"",
+
 "label":"Message 100017 from May 26th Gathering"
     },{
         "id": "1685504210158x824468618359888800",
@@ -513,7 +597,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504210158x824468618359888800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -521,6 +607,7 @@
 "skills":[],
 "description":"Core team, advisors and partners, strategic",
 "size":"",
+
 "label":"Message 100019 from May 26th Gathering"
     },{
         "id": "1685504210294x173982638438201950",
@@ -528,7 +615,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504210294x173982638438201950&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -536,6 +625,7 @@
 "skills":[],
 "description":"Also have pitch deck templates to share",
 "size":"",
+
 "label":"Message 100015 from May 26th Gathering"
     },{
         "id": "1685504211318x693091954410525400",
@@ -543,7 +633,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504211318x693091954410525400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -551,6 +643,7 @@
 "skills":[],
 "description":"Placeholder slide for legal structure and business model",
 "size":"",
+
 "label":"Message 100012 from May 26th Gathering"
     },{
         "id": "1685504211887x801984850926942700",
@@ -558,7 +651,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504211887x801984850926942700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -566,6 +661,7 @@
 "skills":[],
 "description":"Reacted to \"Please share the dec...\" with 👍🏼",
 "size":"",
+
 "label":"Message 100014 from May 26th Gathering"
     },{
         "id": "1685504224228x556405225132627900",
@@ -573,7 +669,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504224228x556405225132627900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -581,6 +679,7 @@
 "skills":[],
 "description":"Appreciate you all and keep up the great work!!",
 "size":"",
+
 "label":"Message 100024 from May 26th Gathering"
     },{
         "id": "1685504233339x540478231873111600",
@@ -588,7 +687,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504233339x540478231873111600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -596,6 +697,7 @@
 "skills":[],
 "description":"Alexander: discuss how to measure impact",
 "size":"",
+
 "label":"Message 100027 from May 26th Gathering"
     },{
         "id": "1685504236223x413581623903624500",
@@ -603,7 +705,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504236223x413581623903624500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -611,6 +715,7 @@
 "skills":[],
 "description":"Verification is an important part of measurement. Many in our network working on this.",
 "size":"",
+
 "label":"Message 100028 from May 26th Gathering"
     },{
         "id": "1685504242600x437610136733558800",
@@ -618,7 +723,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504242600x437610136733558800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -626,6 +733,7 @@
 "skills":[],
 "description":"Connections made",
 "size":"",
+
 "label":"Message 100030 from May 26th Gathering"
     },{
         "id": "1685504247671x308271642165429700",
@@ -633,7 +741,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504247671x308271642165429700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -641,6 +751,7 @@
 "skills":[],
 "description":"Connections across",
 "size":"",
+
 "label":"Message 100032 from May 26th Gathering"
     },{
         "id": "1685504251565x493464646658033900",
@@ -648,7 +759,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504251565x493464646658033900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -656,6 +769,7 @@
 "skills":[],
 "description":"✌️",
 "size":"",
+
 "label":"Message 100025 from May 26th Gathering"
     },{
         "id": "1685504252773x259150116041875200",
@@ -663,7 +777,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504252773x259150116041875200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -671,6 +787,7 @@
 "skills":[],
 "description":"Also - who are ideal funders?",
 "size":"",
+
 "label":"Message 100016 from May 26th Gathering"
     },{
         "id": "1685504262613x358121518568912640",
@@ -678,7 +795,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504262613x358121518568912640&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -686,6 +805,7 @@
 "skills":[],
 "description":"+1 Daniel",
 "size":"",
+
 "label":"Message 100018 from May 26th Gathering"
     },{
         "id": "1685504270802x544447032052915300",
@@ -693,7 +813,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504270802x544447032052915300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -701,6 +823,7 @@
 "skills":[],
 "description":"Q: are you trying to change the world? how?",
 "size":"",
+
 "label":"Message 100039 from May 26th Gathering"
     },{
         "id": "1685504273481x100616863522863920",
@@ -708,7 +831,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504273481x100616863522863920&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -716,6 +841,7 @@
 "skills":[],
 "description":"Effecient finding of knowledge",
 "size":"",
+
 "label":"Message 100031 from May 26th Gathering"
     },{
         "id": "1685504276114x350939714361488500",
@@ -723,7 +849,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504276114x350939714361488500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -731,6 +859,7 @@
 "skills":[],
 "description":"from Alexander: \"golden connections\"",
 "size":"",
+
 "label":"Message 100033 from May 26th Gathering"
     },{
         "id": "1685504280436x588642670459503600",
@@ -738,7 +867,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504280436x588642670459503600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -746,6 +877,7 @@
 "skills":[],
 "description":"How does it benefit/look like for the person looking to contribute",
 "size":"",
+
 "label":"Message 100022 from May 26th Gathering"
     },{
         "id": "1685504289949x834098947791370100",
@@ -753,7 +885,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504289949x834098947791370100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -761,6 +895,7 @@
 "skills":[],
 "description":"I do have to jump in a sec - typing from a train but proud to see the evolution and focus. Critical challenge (we both deal with) not losing people in the high level / nebulousness",
 "size":"",
+
 "label":"Message 100021 from May 26th Gathering"
     },{
         "id": "1685504294721x864856289045546500",
@@ -768,7 +903,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504294721x864856289045546500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -776,6 +913,7 @@
 "skills":[],
 "description":"Q: What do you envision for Catalist?",
 "size":"",
+
 "label":"Message 100040 from May 26th Gathering"
     },{
         "id": "1685504296642x596615995198821500",
@@ -783,7 +921,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504296642x596615995198821500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -791,6 +931,7 @@
 "skills":[],
 "description":"Reacted to \"Verification is an i...\" with 💯",
 "size":"",
+
 "label":"Message 100029 from May 26th Gathering"
     },{
         "id": "1685504303458x272432051212666340",
@@ -798,7 +939,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504303458x272432051212666340&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -806,6 +949,7 @@
 "skills":[],
 "description":"Start with the basic layperson rather than the people you assume know / value systems change",
 "size":"",
+
 "label":"Message 100023 from May 26th Gathering"
     },{
         "id": "1685504303676x382348872511854460",
@@ -813,7 +957,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504303676x382348872511854460&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -821,6 +967,7 @@
 "skills":[],
 "description":"Q: What is your passion?",
 "size":"",
+
 "label":"Message 100037 from May 26th Gathering"
     },{
         "id": "1685504304152x520845480787279100",
@@ -828,7 +975,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504304152x520845480787279100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -836,6 +985,7 @@
 "skills":[],
 "description":"Bart from Gaianet hosts digital networking events where people post their Needs and Gifts. Maybe an interesting use case for you Vincent?",
 "size":"",
+
 "label":"Message 100036 from May 26th Gathering"
     },{
         "id": "1685504305562x821377136309510500",
@@ -843,7 +993,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504305562x821377136309510500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -851,6 +1003,7 @@
 "skills":[],
 "description":"What do you see as your relationship to the project?",
 "size":"",
+
 "label":"Message 100038 from May 26th Gathering"
     },{
         "id": "1685504312178x978975849165365800",
@@ -858,7 +1011,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504312178x978975849165365800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -866,6 +1021,7 @@
 "skills":[],
 "description":"Q: what would you like help with? Or… What would you like to help us with?",
 "size":"",
+
 "label":"Message 100041 from May 26th Gathering"
     },{
         "id": "1685504315982x727536731540745400",
@@ -873,7 +1029,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504315982x727536731540745400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -881,6 +1039,7 @@
 "skills":[],
 "description":"*an invitation",
 "size":"",
+
 "label":"Message 100047 from May 26th Gathering"
     },{
         "id": "1685504290586x730865911887298600",
@@ -888,7 +1047,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504290586x730865911887298600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "type":"Resource",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -896,6 +1057,7 @@
 "skills":[],
 "description":"We didn't get to these activities but will at future meetings - a miro board on space governance and design and catalist business models",
 "size":"",
+
 "label":"Brainstorming Activities Catalist 5/26"
     },{
         "id": "1685504321730x225478334824566140",
@@ -903,7 +1065,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504321730x225478334824566140&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -911,6 +1075,7 @@
 "skills":[],
 "description":"Carolina, do you want to share what that link is?!",
 "size":"",
+
 "label":"Message 100044 from May 26th Gathering"
     },{
         "id": "1685504325537x491036160352207300",
@@ -918,7 +1083,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504325537x491036160352207300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -926,6 +1093,7 @@
 "skills":[],
 "description":"Cross-network matchmaker’s guild",
 "size":"",
+
 "label":"Message 100050 from May 26th Gathering"
     },{
         "id": "1685504326849x701533267421748100",
@@ -933,7 +1101,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504326849x701533267421748100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -941,6 +1111,7 @@
 "skills":[],
 "description":"Collaborative funding —> structure of entities —> role of entities..",
 "size":"",
+
 "label":"Message 100045 from May 26th Gathering"
     },{
         "id": "1685504332121x488009441139743740",
@@ -948,7 +1119,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504332121x488009441139743740&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -956,6 +1129,7 @@
 "skills":[],
 "description":"Reacted to \"Cross-network matchm...\" with 👍",
 "size":"",
+
 "label":"Message 100052 from May 26th Gathering"
     },{
         "id": "1685504337702x726727655978607600",
@@ -963,14 +1137,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504337702x726727655978607600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":[],
 "skills":[],
-"description":"Might this be the link you are looking for? https://teamup.com/ksm8n8ujb3s5w5swqo\\n(happening right now)",
+"description":"Might this be the link you are looking for? https://teamup.com/ksm8n8ujb3s5w5swqo\n(happening right now)",
 "size":"",
+
 "label":"Message 100042 from May 26th Gathering"
     },{
         "id": "1685504338414x319516615694359200",
@@ -978,14 +1155,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504338414x319516615694359200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":[],
 "skills":[],
-"description":"You can find the full invitation in the link, but from the GRC Slack:\\nIt's na invitation to participate in a community-building effort to co-create funding ecosystems for regeneration, which springs from the Funding Governance for Systemic Transformation Blueprint that r3.0 published",
+"description":"You can find the full invitation in the link, but from the GRC Slack:\nIt's na invitation to participate in a community-building effort to co-create funding ecosystems for regeneration, which springs from the Funding Governance for Systemic Transformation Blueprint that r3.0 published",
 "size":"",
+
 "label":"Message 100046 from May 26th Gathering"
     },{
         "id": "1685504341959x804552495328279200",
@@ -993,7 +1173,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504341959x804552495328279200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1001,6 +1183,7 @@
 "skills":[],
 "description":"Reacted to \"Cross-network matchm...\" with 🔥",
 "size":"",
+
 "label":"Message 100051 from May 26th Gathering"
     },{
         "id": "1685504342641x423083659349568400",
@@ -1008,7 +1191,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504342641x423083659349568400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1016,6 +1201,7 @@
 "skills":[],
 "description":"Matchmaker’s Guild",
 "size":"",
+
 "label":"Message 100049 from May 26th Gathering"
     },{
         "id": "1685504345666x643142567897668700",
@@ -1023,7 +1209,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504345666x643142567897668700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1031,6 +1219,7 @@
 "skills":[],
 "description":"Quality + Quantity of Connections",
 "size":"",
+
 "label":"Message 100034 from May 26th Gathering"
     },{
         "id": "1685504349633x295245544495614140",
@@ -1038,7 +1227,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504349633x295245544495614140&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1046,6 +1237,7 @@
 "skills":[],
 "description":"I gotta go pick up my kids! Vincent, call me later. I will give you feedback on the presentation.",
 "size":"",
+
 "label":"Message 100035 from May 26th Gathering"
     },{
         "id": "1685504351539x240003583115421250",
@@ -1053,7 +1245,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504351539x240003583115421250&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1061,6 +1255,7 @@
 "skills":[],
 "description":"Agreed: We need clear mutual win - wins for goals that are aligned amongst our networks.",
 "size":"",
+
 "label":"Message 100048 from May 26th Gathering"
     },{
         "id": "1685504361324x855640229003551600",
@@ -1068,7 +1263,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504361324x855640229003551600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1076,6 +1273,7 @@
 "skills":[],
 "description":"Invitation: https://miro.com/app/board/uXjVMMa_3pA=/",
 "size":"",
+
 "label":"Message 100043 from May 26th Gathering"
     },{
         "id": "1685504368118x295832909854870200",
@@ -1083,7 +1281,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1685504368118x295832909854870200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1091,6 +1291,7 @@
 "skills":[],
 "description":"There are maybe 10 to 15 of these guilds that want to form…",
 "size":"",
+
 "label":"Message 100053 from May 26th Gathering"
     },{
         "id": "1686280042320x393736026284028160",
@@ -1098,14 +1299,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686280042320x393736026284028160&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":[],
 "skills":[],
-"description":"\\n",
+"description":"\n",
 "size":"",
+
 "label":"Telegram message from Jenn Baez"
     },{
         "id": "1686280437829x934576648425019100",
@@ -1113,14 +1317,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686280437829x934576648425019100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
-"tags":["knowledge"],
+"topics":["knowledge"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":["platform"],
 "skills":[],
-"description":"Interesting stuff, a notion alternative but they have semantic tags similar to Tana. I love how simple it is. \\n",
+"description":"Interesting stuff, a notion alternative but they have semantic tags similar to Tana. I love how simple it is. \n",
 "size":"",
+
 "label":"Telegram message from Vincent Arena"
     },{
         "id": "1686631948285x218489393646927870",
@@ -1128,7 +1335,9 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686631948285x218489393646927870&view=Graph&filtered=yes",
 "image":"https://projectmagnify.io/images/meta-images/magnify-meta-image.png",
 "type":"Task",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1136,6 +1345,7 @@
 "skills":[],
 "description":"We should run a pilot with a group on Catalist that wants to share their data onto a decentralized knowledge graph and get rewarded.",
 "size":"",
+
 "label":"Project Magnify"
     },{
         "id": "1686604773430x334891885279012350",
@@ -1143,14 +1353,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686604773430x334891885279012350&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
-"tags":["partner","knowledge"],
+"topics":["partner","knowledge"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":["organization"],
 "skills":[],
-"description":" specializing in graphs in operation for 11 years. Potential \\n",
+"description":" specializing in graphs in operation for 11 years. Potential \n",
 "size":"",
+
 "label":"Telegram message from Jenn Baez"
     },{
         "id": "1686605514047x457072471398009200",
@@ -1158,14 +1371,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686605514047x457072471398009200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":[],
 "skills":[],
-"description":"Wow yeah it’s essentially the opposite (brute force approach) as murmurations but we could totally integrate with their API as another way to pull structured data into a space. Great find!!\\n",
+"description":"Wow yeah it’s essentially the opposite (brute force approach) as murmurations but we could totally integrate with their API as another way to pull structured data into a space. Great find!!\n",
 "size":"",
+
 "label":"Telegram message from Vincent Arena"
     },{
         "id": "1686631454362x661114834093636900",
@@ -1173,14 +1389,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686631454362x661114834093636900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
-"tags":["open","climateresiliency"],
+"topics":["open","climateresiliency"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":["challenge"],
 "skills":[],
-"description":" challenge on OpenIDEO for 50k funding\\n",
+"description":" challenge on OpenIDEO for 50k funding\n",
 "size":"",
+
 "label":"Telegram message from Vincent Arena"
     },{
         "id": "1686765327132x321045332712391900",
@@ -1188,14 +1407,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686765327132x321045332712391900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
-"tags":["funding"],
+"topics":["funding"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":["grant"],
 "skills":[],
-"description":" 20k funding for individuals creating solutions at the intersection of climate change and business. \\n",
+"description":" 20k funding for individuals creating solutions at the intersection of climate change and business. \n",
 "size":"",
+
 "label":"Telegram message from Jenn Baez"
     },{
         "id": "1686783426823x458327756452910660",
@@ -1203,14 +1425,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686783426823x458327756452910660&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
-"tags":["research"],
+"topics":["research"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":["organization"],
 "skills":[],
-"description":"Heartmath.org discussing elevating collective consciousness and ability to cooperate by enhancing coherence with the heart \\n",
+"description":"Heartmath.org discussing elevating collective consciousness and ability to cooperate by enhancing coherence with the heart \n",
 "size":"",
+
 "label":"Telegram message from Jenn Baez"
     },{
         "id": "1686346431262x885180045897574500",
@@ -1218,14 +1443,17 @@
 "object url":"https://www.catalist.network/trove-space/cap?object=1686346431262x885180045897574500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1667436809740x944008030388757000/031-chat.svg",
 "type":"Message",
-"tags":["partnership"],
+"topics":["partnership"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":["organization"],
 "skills":[],
-"description":" non-profit enabling “people-powered” solutions with a focus on local news hubs\\n",
+"description":" non-profit enabling “people-powered” solutions with a focus on local news hubs\n",
 "size":"",
+
 "label":"Telegram message from Jenn Baez"
     }
 ],
