@@ -1,6 +1,12 @@
 {
   "elements": [
 {
+  "label": "Attribute",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1683760566455x232838937608571100/attribute-black.png",
+"id":"",
+"type":"Object Type",
+"description":""
+},{
   "label": "Type",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"Type",
@@ -74,6 +80,36 @@
 "id":"Opportunity",
 "type":"Object Type",
 "description":"Offers or requests that are linked to people or groups of people"
+},{
+"label":"Person",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"id":"Person",
+"type":"Object Type",
+"description":""
+},{
+"label":"Image",
+"image":"//s3.amazonaws.com/appforest_uf/f1676997948855x144707524222842400/gallery.svg",
+"id":"Image",
+"type":"Object Type",
+"description":"An image or gif"
+},{
+"label":"Post",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962090084x565173361310944000/033-feed.svg",
+"id":"Post",
+"type":"Object Type",
+"description":"A social post that could include photos and other features like polls, etc."
+},{
+"label":"FAQ",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691427224870x237086246091215100/faq.png",
+"id":"FAQ",
+"type":"Object Type",
+"description":""
+},{
+"label":"Justice",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688449708461x568976864647282560/Screenshot%20of%20www.collaborative.tech%20on%202023-06-27%20at%206.29.49%20PM.png",
+"id":"1688449691491x790293031056811500",
+"type":"Attribute",
+"color":""
 },{
 "label":"Currencies & Funding",
 "image":"//s3.amazonaws.com/appforest_uf/f1664401852871x216871358849328060/finance_black.svg",
@@ -179,7 +215,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151346982x270335483166988640&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
-"tags":["culture"],
+"topics":["culture"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -187,6 +225,7 @@
 "skills":[],
 "description":"An immersive experience where players design and play in a world that works for everyone, not just a wealthy few.",
 "size":"",
+
 "label":"Civilization 2.0 the game"
     },{
         "id": "1660151350032x769937635418378900",
@@ -194,7 +233,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151350032x769937635418378900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238979550x767962989877633700/8caaf8_cf05decde82749ce8e88104eac74b561~mv2.jpg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -202,6 +243,7 @@
 "skills":[],
 "description":"If we provide a grid, a framework, to help guide pieces of the puzzle into the right general area, then that greatly increases the chances that we start finding connections.  The faster the connections get made, the sooner new synergies are found.  Now they're not pieces of a puzzle, they're threads in a tapestry.  The act of weaving begins and images start to emerge more clearly.  A flower here, a fence there, a tree and a strawberry.  Transformation comes with the motion, the collaboration, the excitement over what might come next.",
 "size":"",
+
 "label":"The Tapestry"
     },{
         "id": "1660151353379x372974456950709800",
@@ -209,7 +251,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151353379x372974456950709800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238846908x621627535914171900/BPD-182-OGM-and-related-calls---peterkaminski---20220302.jpg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -217,6 +261,7 @@
 "skills":[],
 "description":"The Biweekly Plex Dispatch is an inter-community newspaper published by Collective Sense Commons on first and third Wednesdays of each month.",
 "size":"",
+
 "label":"Biweekly Plex"
     },{
         "id": "1660151354279x765988291194238300",
@@ -224,7 +269,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151354279x765988291194238300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -232,6 +279,7 @@
 "skills":[],
 "description":"Creating a tracking database for open loops/issues; started in Map Weavers, helps The Meta Project",
 "size":"",
+
 "label":"Open Loop Tracker"
     },{
         "id": "1660151359953x914995475148479900",
@@ -239,7 +287,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151359953x914995475148479900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238962783x449326455295907100/pier-with-beautiful-sky-2021-08-31-11-30-06-utc.jpg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -247,6 +297,7 @@
 "skills":[],
 "description":"Clambake is testing out the merger of a dynamic mapping UI, robust web content curation, and powerful project hub to create a knowledge platform that connects people with the information and opportunities at the right time, in the right place and in the right way.",
 "size":"",
+
 "label":"Project Clambake"
     },{
         "id": "1660151643417x327359834684741700",
@@ -254,7 +305,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151643417x327359834684741700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238929400x930275280202693200/Icon%2520Color.svg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -262,6 +315,7 @@
 "skills":[],
 "description":"Discover resources, opportunities, and communities inside the Mapping for a Betterverse Group.Exploring and creating mapping tools and functionality to better enable the good work that humans are doing in the world. - Meetings started April 2022..",
 "size":"",
+
 "label":"Map Weavers"
     },{
         "id": "1660151647926x261998978032234270",
@@ -269,7 +323,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151647926x261998978032234270&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
-"tags":["Fact checking","misinformation","debate"],
+"topics":["Fact checking","misinformation","debate"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -277,6 +333,7 @@
 "skills":[],
 "description":"Increase agreement on complicated and contentious issues",
 "size":"",
+
 "label":"Reasonpedia"
     },{
         "id": "1660151654272x135587692104269570",
@@ -284,7 +341,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151654272x135587692104269570&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -292,6 +351,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Tru.Net"
     },{
         "id": "1660151655055x936045179235784200",
@@ -299,7 +359,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151655055x936045179235784200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -307,6 +369,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"GreenMap"
     },{
         "id": "1660151655816x970288164854431200",
@@ -314,14 +377,17 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151655816x970288164854431200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1675784971083x816777559208076500/terran_collective_logo_blue-daab3c71f9b8012b567a0b4588f47f4c.svg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"San Francisco, CA, USA",
 "types":[],
 "skills":[],
-"description":"A community of care and practice building systems and tools for a regenerative future.[[youtube/DySUaA__VGY]]",
+"description":"A community of care and practice building systems and tools for a regenerative future[[youtube/DySUaA__VGY]]",
 "size":"",
+
 "label":"Terran Collective"
     },{
         "id": "1660151656698x169540187345731170",
@@ -329,7 +395,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151656698x169540187345731170&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -337,6 +405,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Hylo"
     },{
         "id": "1660151658192x143248321748860480",
@@ -344,7 +413,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151658192x143248321748860480&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -352,6 +423,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Global Regenerative Colab"
     },{
         "id": "1660151659228x510991517728019800",
@@ -359,7 +431,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151659228x510991517728019800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238885860x950215281475170300/Privacy-1.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -367,6 +441,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Droplet.Social"
     },{
         "id": "1660151660773x350718096267610000",
@@ -374,7 +449,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151660773x350718096267610000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1675784960285x919272456227551000/627c1319784951abe3762c76_Group%25201175%25202.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -382,6 +459,7 @@
 "skills":[],
 "description":"The all in one tool for organising change.[[youtube/VpmVCkybiFI]]",
 "size":"",
+
 "label":"Acter.Global"
     },{
         "id": "1660151661482x467222311350407940",
@@ -389,7 +467,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151661482x467222311350407940&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -397,6 +477,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"WeCo"
     },{
         "id": "1660151662506x598297018611649400",
@@ -404,7 +485,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151662506x598297018611649400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -412,6 +495,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Bloom Network"
     },{
         "id": "1660151663482x333245954083145860",
@@ -419,7 +503,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151663482x333245954083145860&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -427,6 +513,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Open World Alliance"
     },{
         "id": "1660151664363x126522770866811300",
@@ -434,7 +521,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151664363x126522770866811300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -442,6 +531,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"DigLife Collective"
     },{
         "id": "1660151665533x296524543999165950",
@@ -449,7 +539,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151665533x296524543999165950&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -457,6 +549,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Commons Engine"
     },{
         "id": "1660151666306x889365826334245600",
@@ -464,7 +557,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151666306x889365826334245600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -472,6 +567,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Armillaria"
     },{
         "id": "1660151667285x782973364883439100",
@@ -479,7 +575,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151667285x782973364883439100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -487,6 +585,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Shareable"
     },{
         "id": "1660151668091x734243992642486400",
@@ -494,7 +593,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151668091x734243992642486400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -502,6 +603,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Permaculture CoLab"
     },{
         "id": "1660151668872x740956604831361200",
@@ -509,7 +611,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151668872x740956604831361200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -517,6 +621,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Sacred Capital"
     },{
         "id": "1660151669671x257131462826062370",
@@ -524,7 +629,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151669671x257131462826062370&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -532,6 +639,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Murmurations"
     },{
         "id": "1660151670674x294611768150626600",
@@ -539,7 +647,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151670674x294611768150626600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -547,6 +657,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Deep Adaptation Forum"
     },{
         "id": "1660151671519x118973892468303040",
@@ -554,7 +665,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151671519x118973892468303040&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -562,6 +675,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Eco Hacker Farm"
     },{
         "id": "1660151672305x311421914875439360",
@@ -569,7 +683,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151672305x311421914875439360&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -577,6 +693,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Trove"
     },{
         "id": "1660151673044x603572688947009400",
@@ -584,7 +701,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151673044x603572688947009400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -592,6 +711,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"CICOLAB"
     },{
         "id": "1660151674887x344188902663833400",
@@ -599,7 +719,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151674887x344188902663833400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1675784956248x354110471095789840/AEF_Logo-01.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -607,6 +729,7 @@
 "skills":[],
 "description":"Help Grow The Permaculture Movement & Restore Our Global Ecosystem[[youtube/3hL7OXrJZ_Q]]",
 "size":"",
+
 "label":"Abundant Earth"
     },{
         "id": "1660151675993x539613587965433600",
@@ -614,7 +737,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151675993x539613587965433600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -622,6 +747,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Weaver Network"
     },{
         "id": "1660151676826x930255540056218500",
@@ -629,7 +755,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151676826x930255540056218500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -637,6 +765,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Economikit"
     },{
         "id": "1660151677506x899547716790233100",
@@ -644,7 +773,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151677506x899547716790233100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -652,6 +783,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Climate Foundation"
     },{
         "id": "1660151678485x965446414060005900",
@@ -659,7 +791,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151678485x965446414060005900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1675784963164x157394545985406700/Screen%20Shot%202022-08-11%20at%201.44.26%20PM.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -667,6 +801,7 @@
 "skills":[],
 "description":"BFI seeks to further Fuller’s work by inspiring and supporting a new generation of design science pioneers.[[youtube/D32XrSGuLbg]]",
 "size":"",
+
 "label":"BFI"
     },{
         "id": "1660151679426x684127615911171700",
@@ -674,7 +809,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151679426x684127615911171700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -682,6 +819,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Futures Space"
     },{
         "id": "1660151680672x721049176504649000",
@@ -689,7 +827,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151680672x721049176504649000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -697,6 +837,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"World Water Community"
     },{
         "id": "1660151681473x243412083602132740",
@@ -704,7 +845,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151681473x243412083602132740&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238891139x727089465545623300/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -712,6 +855,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Economikit Alliance"
     },{
         "id": "1660151682544x456606079806532800",
@@ -719,7 +863,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151682544x456606079806532800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238911496x399268759058777340/hREA",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -727,6 +873,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"HREA"
     },{
         "id": "1660151683364x271447887116893730",
@@ -734,7 +881,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151683364x271447887116893730&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238940869x280517899136630180/preview_banner.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -742,6 +891,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Neighbourhoods"
     },{
         "id": "1660151684133x615202625803732600",
@@ -749,7 +899,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151684133x615202625803732600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -757,6 +909,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Braid"
     },{
         "id": "1660151684882x158047887776947100",
@@ -764,7 +917,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151684882x158047887776947100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -772,6 +927,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Prosocial"
     },{
         "id": "1660151686160x455318531050600960",
@@ -779,7 +935,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151686160x455318531050600960&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -787,6 +945,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"dWeb"
     },{
         "id": "1660151687072x627991211825968300",
@@ -794,7 +953,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151687072x627991211825968300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -802,6 +963,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Fediverse"
     },{
         "id": "1660151687831x453159920468281200",
@@ -809,7 +971,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151687831x453159920468281200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -817,6 +981,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Bra.in"
     },{
         "id": "1660151688532x606675212804801200",
@@ -824,7 +989,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151688532x606675212804801200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -832,6 +999,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"CoTech"
     },{
         "id": "1660151689458x179579758964260480",
@@ -839,7 +1007,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151689458x179579758964260480&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -847,6 +1017,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Indiverse"
     },{
         "id": "1660151691642x847773231847746200",
@@ -854,7 +1025,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151691642x847773231847746200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -862,6 +1035,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Open Web Systems"
     },{
         "id": "1660151694503x119400014914739170",
@@ -869,7 +1043,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151694503x119400014914739170&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -877,6 +1053,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"AD4M & Perspect1ve"
     },{
         "id": "1660151695229x694535578941891800",
@@ -884,7 +1061,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151695229x694535578941891800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -892,6 +1071,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"CommonsHood"
     },{
         "id": "1660151696014x915767446976065900",
@@ -899,7 +1079,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151696014x915767446976065900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -907,6 +1089,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Assemblée Virtuelle"
     },{
         "id": "1660151696771x607097602143010300",
@@ -914,7 +1097,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151696771x607097602143010300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -922,6 +1107,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Anytype"
     },{
         "id": "1660151697554x961980678620892000",
@@ -929,7 +1115,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151697554x961980678620892000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -937,6 +1125,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Threefold"
     },{
         "id": "1660151698237x286516899409257080",
@@ -944,7 +1133,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151698237x286516899409257080&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -952,6 +1143,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Mosaic"
     },{
         "id": "1660151701466x888296589531097900",
@@ -959,7 +1151,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151701466x888296589531097900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238851144x881301098112911700/branding_logo_text_dark_dtp.svg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -967,6 +1161,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Bonfire"
     },{
         "id": "1660151702345x686262869262903800",
@@ -974,7 +1169,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151702345x686262869262903800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -982,6 +1179,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Open Future Coalition"
     },{
         "id": "1660151703384x126359691324002380",
@@ -989,7 +1187,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151703384x126359691324002380&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -997,6 +1197,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"https://truluv.ai/"
     },{
         "id": "1660151704384x762262234499527600",
@@ -1004,7 +1205,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151704384x762262234499527600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1012,6 +1215,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Scuttlebutt"
     },{
         "id": "1660151706032x142563851540661760",
@@ -1019,7 +1223,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151706032x142563851540661760&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238871703x639360254503779100/Logo.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1027,6 +1233,7 @@
 "skills":[],
 "description":"The Consilience Project is a non-profit media organization catalyzing critical conversations for the future of human civilization",
 "size":"",
+
 "label":"Consilience Project"
     },{
         "id": "1660151707777x670257788641525100",
@@ -1034,7 +1241,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151707777x670257788641525100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238875008x218839652469878140/Countable-logo---orange-large%2520%281%29.png%3Fwidth%3D1509%26name%3DCountable-logo---orange-large%2520%281%29.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1042,6 +1251,7 @@
 "skills":[],
 "description":"Countable: Engage stakeholders Create communities of engaged stakeholders to power change.",
 "size":"",
+
 "label":"Countable"
     },{
         "id": "1660151708554x426164298491335200",
@@ -1049,7 +1259,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151708554x426164298491335200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1057,6 +1269,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Connective"
     },{
         "id": "1660151709356x554972584446850050",
@@ -1064,7 +1277,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151709356x554972584446850050&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238865725x292554785763937900/iStock-147643421.jpg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1072,6 +1287,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Co-op Source"
     },{
         "id": "1660151710273x341653165613074560",
@@ -1079,7 +1295,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151710273x341653165613074560&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238971860x780572749146219800/logo%402x.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1087,6 +1305,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Sphaera"
     },{
         "id": "1660151712771x873185009395860400",
@@ -1094,7 +1313,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151712771x873185009395860400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238934863x647410916732117800/synapse16-f5470570837b43c6a650a869e9f36726fdbe6b42a4ad643acc86ed77679d0904.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1102,6 +1323,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Metamaps"
     },{
         "id": "1660151718549x155408402860796930",
@@ -1109,7 +1331,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151718549x155408402860796930&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1117,6 +1341,7 @@
 "skills":[],
 "description":"Local and community based change,\nBringing in influencers to engage the public,\nInstitutional change,\nDecember 18, 2022",
 "size":"",
+
 "label":"Transformative Impact Summit"
     },{
         "id": "1660151719473x546958974657796540",
@@ -1124,7 +1349,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151719473x546958974657796540&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1132,6 +1359,7 @@
 "skills":[],
 "description":"Convening inspiring, energizing, Powerful online conversations in a New Era of Orality, Visuality, & Experience. How we can re-frame the work done by English Coffehouses, Paris Salons, and Viennese Circles in the age of the Metaverse",
 "size":"",
+
 "label":"Oracy Labs"
     },{
         "id": "1660151721388x254008838237596670",
@@ -1139,7 +1367,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151721388x254008838237596670&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238938767x214806673656983140/Logo_Final_color.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1147,6 +1377,7 @@
 "skills":[],
 "description":"Network of philanthropic marketplaces",
 "size":"",
+
 "label":"Neighborhood Economics"
     },{
         "id": "1660151722194x779658154134292400",
@@ -1154,7 +1385,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151722194x779658154134292400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1162,6 +1395,7 @@
 "skills":[],
 "description":"A prototype platform to help us relate ideas, people, projects.\nAnd now also at Rel8, ",
 "size":"",
+
 "label":"The Big Fungus"
     },{
         "id": "1660151722940x401952596157901600",
@@ -1169,7 +1403,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151722940x401952596157901600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1177,14 +1413,17 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Jerry's Brain"
+
+"label":"Jerry\"s Brain"
     },{
         "id": "1660151724414x701185643730305000",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151724414x701185643730305000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1192,6 +1431,7 @@
 "skills":[],
 "description":"Building the bridge between Mother Earth and modern technology",
 "size":"",
+
 "label":"Ancestor Wisdom"
     },{
         "id": "1660151725825x575413119759912800",
@@ -1199,7 +1439,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151725825x575413119759912800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1207,6 +1449,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Global Unity"
     },{
         "id": "1660151727133x725268218777424900",
@@ -1214,7 +1457,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151727133x725268218777424900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1222,6 +1467,7 @@
 "skills":[],
 "description":"The idea of the Good Country Index is simple: to measure what each country on earth contributes to the common good of humanity, and what it takes away, relative to its size.\nCan businesses support community projects without risking capital? Without perpetuating an extractive, enclosing, coercive model?",
 "size":"",
+
 "label":"Good Country Index"
     },{
         "id": "1660151728652x533468100949709300",
@@ -1229,7 +1475,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151728652x533468100949709300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238893984x272488361925503600/factr-logo.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1237,6 +1485,7 @@
 "skills":[],
 "description":"Ad-free, privacy-first, Factr helps you gather, organize, share, and present all kinds of content—exactly the way you want to.",
 "size":"",
+
 "label":"Factr"
     },{
         "id": "1660151730871x977137294806052900",
@@ -1244,7 +1493,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151730871x977137294806052900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238858908x978835676622686900/https%253A%252F%252Fs3.amazonaws.com%252Fappforest_uf%252Ff1628037462478x801117214202725600%252FCatalist%2520Home%2520Page%2520Illustration-02-min.jpg%3Fw%3D%26h%3D%26auto%3Dcompress%26dpr%3D1%26fit%3Dmax",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1252,14 +1503,17 @@
 "skills":[],
 "description":"Trove is a connection platform designed to empower communities to build collective intelligence and inspire coordinated action.",
 "size":"",
-"label":"catalist.network"
+"Project Name":"Catalist Network",
+"label":"Catalist Network"
     },{
         "id": "1660151732488x651507900690955300",
 "url":"https://www.jlinc.com/",
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151732488x651507900690955300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238925463x340194867758494300/5ff78cd03b924249281eb778_JLINC%2520OpenGraph.jpg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1267,6 +1521,7 @@
 "skills":[],
 "description":"JLINC is a new protocol for permissioned data exchange on the Internet. This creates “data provenance” where all parties can prove the chain of custody and agreement for the data they share.",
 "size":"",
+
 "label":"JLINC"
     },{
         "id": "1660151734594x915802904795557800",
@@ -1274,7 +1529,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151734594x915802904795557800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238922388x514923524923468000/20200226-alliance-healthcare-foundation-proclamation-heart-people.svg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1282,6 +1539,7 @@
 "skills":[],
 "description":"Working with social impact, wellness, and social determinants of health through local foundation. Very interested in connecting with others innovating in that space",
 "size":"",
+
 "label":"Innovation & Social Impact"
     },{
         "id": "1660151736278x613785307165206640",
@@ -1289,7 +1547,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151736278x613785307165206640&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238955451x794799442245176600/logo",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1297,6 +1557,7 @@
 "skills":[],
 "description":"OGM2 is Green Map System’s second Open Green Map platform. Designed for community mapping, this platform is ready for all kinds of mapmakers - from students to professionals - who want to draw attention to sustainability in their own city or town.",
 "size":"",
+
 "label":"OpenGreenMap"
     },{
         "id": "1660151737261x998083352813498500",
@@ -1304,7 +1565,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151737261x998083352813498500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1312,6 +1575,7 @@
 "skills":[],
 "description":"Building Global Resilience through Regenerative Agriculture. Collaborative commons to accelerate regenerative practices in food and agriculture.",
 "size":"",
+
 "label":"PlanetaryCARE"
     },{
         "id": "1660151738150x695333792763038300",
@@ -1319,7 +1583,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151738150x695333792763038300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1327,6 +1593,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Explorer.Land"
     },{
         "id": "1660151739901x789745356482282800",
@@ -1334,7 +1601,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151739901x789745356482282800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238876888x915299843986340700/crowdpol_ecosystem_logo_nov2020.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1342,6 +1611,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Crowdpol/Kamooni"
     },{
         "id": "1660151741808x842792150427457400",
@@ -1349,7 +1619,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151741808x842792150427457400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238927623x969745200053329300/https%253A%252F%252Fs3.amazonaws.com%252Fappforest_uf%252Ff1648574500543x946237292573589400%252FLIFT.PNG%3Fw%3D%26h%3D%26auto%3Dcompress%26dpr%3D1%26fit%3Dmax",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1357,6 +1629,7 @@
 "skills":[],
 "description":"Explore this curated list of interconnected frameworks for transformation.",
 "size":"",
+
 "label":"List of Interconnected Frameworks (LIFT)"
     },{
         "id": "1660151742587x653566317351344400",
@@ -1364,7 +1637,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151742587x653566317351344400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1372,6 +1647,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Noo Network"
     },{
         "id": "1660151743733x620993204491357600",
@@ -1379,7 +1655,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151743733x620993204491357600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238878816x515762037688737540/Everyone%27s%2520Wisdom%2520Logo%2520blue.jpg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1387,6 +1665,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Cycle of Emergence"
     },{
         "id": "1660151745814x589339115254232600",
@@ -1394,7 +1673,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151745814x589339115254232600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238901224x671259546727528800/logo2.svg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1402,6 +1683,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"GISCollective"
     },{
         "id": "1660151746958x273845771334801020",
@@ -1409,7 +1691,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151746958x273845771334801020&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1417,6 +1701,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"No Code Schemas"
     },{
         "id": "1660151755079x440925479915824000",
@@ -1424,7 +1709,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151755079x440925479915824000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
-"tags":["Mapping","Directories","Data","Visualization"],
+"topics":["Mapping","Directories","Data","Visualization"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1432,6 +1719,7 @@
 "skills":[],
 "description":"Our purpose is to create maps that enable people to interact with data, produce the visuals needed for deeper understanding, match needs with offers, discover the synergies, reveal the gaps and serve collaboration.",
 "size":"",
+
 "label":"Meta Project"
     },{
         "id": "1660151755827x472984486843904400",
@@ -1439,7 +1727,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151755827x472984486843904400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1447,6 +1737,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Tru Social"
     },{
         "id": "1660151757115x641139360116705900",
@@ -1454,7 +1745,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151757115x641139360116705900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1462,6 +1755,7 @@
 "skills":[],
 "description":"Library system, Help desk, New hierarchy / system of info; \nLinks to research, insights, methodologies…,\nWays to categorize and organize the complexity we are dealing with.",
 "size":"",
+
 "label":"Online Living Library"
     },{
         "id": "1660151758037x429407038516372160",
@@ -1469,7 +1763,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151758037x429407038516372160&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238856096x738541381845668100/https%253A%252F%252Fs3.amazonaws.com%252Fappforest_uf%252Ff1638153276248x149599858193192770%252FCatabot_Cover-05.png%3Fw%3D%26h%3D%26auto%3Dcompress%26dpr%3D1%26fit%3Dmax",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1477,6 +1773,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Catabot"
     },{
         "id": "1660151758813x695424940242698400",
@@ -1484,7 +1781,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151758813x695424940242698400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1492,6 +1791,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Open Global Mind"
     },{
         "id": "1660151760678x536491364766774600",
@@ -1499,7 +1799,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151760678x536491364766774600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238919101x383399604910773760/idealoom.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1507,6 +1809,7 @@
 "skills":[],
 "description":"IdeaLoom is a Collective Intelligence platform, which allows large communities to hold a meaningful conversation at scale, reach a common understanding, and develop solutions beyond what each participant could have envisioned.",
 "size":"",
+
 "label":"Idealoom"
     },{
         "id": "1660151762747x265000410046183580",
@@ -1514,7 +1817,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151762747x265000410046183580&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238904447x123623927861984830/1200x675-v3.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":["Currencies & Funding"],
 "locations":[],
 "address":"",
@@ -1522,6 +1827,7 @@
 "skills":[],
 "description":"Overview Gitcoin was founded in 2017 with the mission to build and sustain digital public goods. While there are a number of podcasts and blog posts written about why Owocki (alongside Scott and Vivek) started Gitcoin, and how it has grown into the amazing community that it is today, many often find…",
 "size":"",
+
 "label":"GitCoin & Quadratic Funding"
     },{
         "id": "1660151765310x369620571410163700",
@@ -1529,7 +1835,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151765310x369620571410163700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238974162x826448031899326800/1649963755_STXOGImage1200x627.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1537,6 +1845,7 @@
 "skills":[],
 "description":"conscious COmmUNITY network of Super Connectors, Changemakers & Light Leaders with a Mission to Uplift Humanity Together through Peace Cafe wisdom healing circles, Global Peace Movements & Seeding the Future Together initiatives. ",
 "size":"",
+
 "label":"StrongerTogetherX"
     },{
         "id": "1660151766912x440612743832944400",
@@ -1544,7 +1853,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151766912x440612743832944400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238842347x271439939656525900/MegaFury.jpg%3Fformat%3D1500w",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1552,6 +1863,7 @@
 "skills":[],
 "description":"Beacon - A New Kind of Social Network. Step into the center of your world.",
 "size":"",
+
 "label":"Beacon"
     },{
         "id": "1660151768643x522448180879207600",
@@ -1559,7 +1871,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660151768643x522448180879207600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660238883744x137543397623267400/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1567,6 +1881,7 @@
 "skills":[],
 "description":"A Kumu Project.",
 "size":"",
+
 "label":"DigLife Tech Map"
     },{
         "id": "1660242209362x932654881984030800",
@@ -1574,7 +1889,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660242209362x932654881984030800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1626418592063x355002434043668160/Permaculture%20Data%20Commons%20-%20PBL%20Example.jpg",
 "type":"Project",
-"tags":["Community-building","Technology","Collaboration","Information and Communications Technology (ICT)","Technical Education","Social Applications","Interoperability"],
+"topics":["Community-building","Technology","Collaboration","Information and Communications Technology (ICT)","Technical Education","Social Applications","Interoperability"],
+"tags":[],
+"attribute-tags":"",
 "sectors":["Regenerative Economy & Systems","Innovation Invention & Ideation","Design","Collective Action & Collaboration","Cooperative Economics","Business","Systems Design & Thinking","Technology Culture & Society","Software Internet & Automation"],
 "locations":["Global"],
 "address":"",
@@ -1582,6 +1899,7 @@
 "skills":[],
 "description":"A joint project which dances with the devils in the details of platform interoperability - reckoning with what it takes to build an ecosystem of tools for change, for planetary-scale cooperation, for regeneration. \n\nWe are building the community to have the conversations that need to happen and to build the layers of trust and accountability which accelerate openness and justice in the space. Tools are the nodes, and we are building the relational web which lets us play together - from the technical to the social, the economic, the cultural, and the experiential.",
 "size":"",
+
 "label":"Collaborative Tech Alliance "
     },{
         "id": "1660242219100x632470605006407600",
@@ -1589,7 +1907,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660242219100x632470605006407600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1618332400604x382911960212631200/98DCD072-521A-49A2-A32E-57E2413789E4.jpeg",
 "type":"Profile",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":["United States","Long Island","Italy"],
 "address":"East Rockaway, NY, USA",
@@ -1597,6 +1917,7 @@
 "skills":[],
 "description":"Systems designer, social entrepreneur, and knowledge architect. Founder of Catalist",
 "size":"",
+
 "label":"Vincent Arena"
     },{
         "id": "1660253915035x318769811226195400",
@@ -1604,7 +1925,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660253915035x318769811226195400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
-"tags":["Mapping"],
+"topics":["Mapping"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1612,6 +1935,7 @@
 "skills":[],
 "description":"An event to further design the kumu map that is currently holding the collaborative tech alliance.",
 "size":"",
+
 "label":"CTA Kumu Ecosystem Map Design "
     },{
         "id": "1660253916996x814775133691331600",
@@ -1619,7 +1943,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660253916996x814775133691331600&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":["Collective Action & Collaboration","Software Internet & Automation"],
 "locations":[],
 "address":"",
@@ -1627,6 +1953,7 @@
 "skills":[],
 "description":"Welcome to the [color=rgb(26, 115, 232)][url=https://www.google.com/url?q=https://www.hylo.com/groups/collaborative-technology-alliance/join/Ns3yUfMuTV&sa=D&source=calendar&usd=2&usg=AOvVaw2IFS1aCd_PIvzAFHEJ9rsq]Collaborative Technology Alliance[/url][/color]! [b]We facilitate collaboration among those building social technology in service to a thriving world. [/b]These regular open community meetups build community among these values aligned technology platforms and move us towards our objective of interoperability between our respective platforms.",
 "size":"",
+
 "label":"Collaborative Technology Alliance Open Meetup "
     },{
         "id": "1660255843375x921187119912714200",
@@ -1634,7 +1961,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660255843375x921187119912714200&view=Graph&filtered=yes",
 "image":"https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/1147749/551626_187530.png",
 "type":"Project",
-"tags":["Decentralization"],
+"topics":["Decentralization"],
+"tags":[],
+"attribute-tags":"",
 "sectors":["Tools & Technology"],
 "locations":[],
 "address":"",
@@ -1642,6 +1971,7 @@
 "skills":[],
 "description":"Nestr.io is here to serve decentralised organisations get work done and to make sure the impact they create is aligned with your personal values.",
 "size":"",
+
 "label":"Decentralised collaboration. Create & find organisations you actually care for!"
     },{
         "id": "1660256798214x196405248897159040",
@@ -1649,7 +1979,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660256798214x196405248897159040&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1657,6 +1989,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Collaborative Technology Alliance"
     },{
         "id": "1660256800007x750867831650021800",
@@ -1664,7 +1997,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660256800007x750867831650021800&view=Graph&filtered=yes",
 "image":"https://lh3.googleusercontent.com/dUjC5NTk131QRCZNEY9y14ScdYz0GtRdJOQp1Dtw7he8mZ6-SB3OfZ_uPttrBmM3F9VL3HrGM1Nbuw=w1200-h630-p",
 "type":"Resource",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1672,6 +2007,7 @@
 "skills":[],
 "description":"Important Links CTA Landing page: https://www.collaborative.tech Meeting Link: https://zoom.us/j/98579753712?pwd=WkIxdHE2Y2V0ai9kNk9sbVYyUjJSQT09 👈☎️ In progress list of represented platforms Join the Hylo group Principles and values (previous era): http://198.38.77.184/~collaborative/principles...",
 "size":"",
+
 "label":"🤝📱⭕️ CTA Open Community Meeting notes"
     },{
         "id": "1660256805876x767601442984250100",
@@ -1679,7 +2015,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660256805876x767601442984250100&view=Graph&filtered=yes",
 "image":"https://dwebcamp.org/static/img/fb-dwebcamp.png?year=2022a",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1687,6 +2025,7 @@
 "skills":[],
 "description":"We invite you to join us at the DWeb Camp!",
 "size":"",
+
 "label":"DWeb Camp 2022"
     },{
         "id": "1660256811920x651717626389299200",
@@ -1694,7 +2033,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660256811920x651717626389299200&view=Graph&filtered=yes",
 "image":"https://mirror-media.imgix.net/publication-images/AkoPaqW77wICZzT79xokA.png?height=1000&width=1999&h=1000&w=1999&auto=compress",
 "type":"Resource",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1702,6 +2043,7 @@
 "skills":[],
 "description":"zodiac.wiki is a living resource for DAOs. The wiki houses documentation, a library, and a pattern language for organizations.",
 "size":"",
+
 "label":"Zodiac.wiki Begins"
     },{
         "id": "1660256832823x926683772981506600",
@@ -1709,7 +2051,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660256832823x926683772981506600&view=Graph&filtered=yes",
 "image":"https://murmurations.network/wp-content/uploads/2021/02/profile-icons4.gif",
 "type":"Project",
-"tags":["Resource Aggregator"],
+"topics":["Resource Aggregator"],
+"tags":[],
+"attribute-tags":"",
 "sectors":["Software Internet & Automation"],
 "locations":["Global"],
 "address":"",
@@ -1717,6 +2061,7 @@
 "skills":[],
 "description":"The Murmurations protocol is a new way to manage directories and maps.",
 "size":"",
+
 "label":"Murmurations – Making Movements Visible"
     },{
         "id": "1660256842569x350189356486010560",
@@ -1724,7 +2069,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660256842569x350189356486010560&view=Graph&filtered=yes",
 "image":"https://dd7tel2830j4w.cloudfront.net/f1637688036873x574664730130787000/Icon%20Color.svg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1732,6 +2079,7 @@
 "skills":[],
 "description":"The Encyclopedia of World Problems and Human Potential is an online platform with profiles or world problems, action strategies, and human values that are interlinked in novel and innovative ways.\n",
 "size":"",
+
 "label":"THE ENCYCLOPEDIA of World Problems and Human Potential"
     },{
         "id": "1660320418874x698716089624996000",
@@ -1739,7 +2087,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660320418874x698716089624996000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1660153472315x696755507093088900/Screen%20Shot%202022-08-03%20at%2011.59.04%20AM.png",
 "type":"Event",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":["Systems Design & Thinking","Regenerative Economy & Systems"],
 "locations":["Global"],
 "address":"",
@@ -1747,6 +2097,7 @@
 "skills":[],
 "description":"Join us for the second annual Mapathon, a virtual gathering with opportunities for interactive demonstrations of maps, discussing and developing interoperability of data across maps, and showcasing mapping projects.",
 "size":"",
+
 "label":"MAPATHON22 "
     },{
         "id": "1660881187218x399954068410970800",
@@ -1754,7 +2105,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660881187218x399954068410970800&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962126841x937328034580616300/034-link.svg",
 "type":"Link",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1762,6 +2115,7 @@
 "skills":[],
 "description":"A list of list sites that are doing mapping",
 "size":"",
+
 "label":"Database of Maps and directories - Google Drive"
     },{
         "id": "1661274276955x502196416566263800",
@@ -1769,7 +2123,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1661274276955x502196416566263800&view=Graph&filtered=yes",
 "image":"https://assets-global.website-files.com/5f0e1294f002b15080e1f2ff/61324eeea8507b26ff6a411a_people-interacting-home.png",
 "type":"Organization",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":["Technology Culture & Society","Ethics"],
 "locations":[],
 "address":"",
@@ -1777,6 +2133,7 @@
 "skills":[],
 "description":"We’re a nonprofit exposing the negative effects of persuasive technology and social media and empowering people to take action. Discover The Social Dilemma, our podcast, course, and more.",
 "size":"",
+
 "label":"Center for Humane Technology"
     },{
         "id": "1662143274748x943104287603687400",
@@ -1784,7 +2141,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1662143274748x943104287603687400&view=Graph&filtered=yes",
 "image":"http://static1.squarespace.com/static/5f19985874011d5032b0bf8e/t/5f4e1415a82f1a123aabb4b5/1611600354020/gaianet--horizontal-transparent.png?format=1500w",
 "type":"Group",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":["Regenerative Economy & Systems"],
 "locations":["Global"],
 "address":"",
@@ -1792,6 +2151,7 @@
 "skills":[],
 "description":"We are a global community connecting purpose-driven individuals and projects. Together, we are working towards a harmonised world for all life on Earth. We’re sharing our knowledge, experience and resources to co-create this reality.",
 "size":"",
+
 "label":"Gaianet"
     },{
         "id": "1675785699830x982584689950720000",
@@ -1799,7 +2159,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1675785699830x982584689950720000&view=Graph&filtered=yes",
 "image":"https://murmurations.network/wp-content/uploads/2021/02/profile-icons4.gif",
 "type":"Project",
-"tags":["Directories"],
+"topics":["Directories"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1807,6 +2169,7 @@
 "skills":[],
 "description":"Murmurations is an open source decentralised data sharing project, which provides a flexible approach to ontology to accelerate the use of interoperable, composable data. We want to put end users in charge of their data and to increase the reliability, integrity, and portability of data.",
 "size":"",
+
 "label":"Murmurations – Making Movements Visible"
     },{
         "id": "1676399390957x524905906867535900",
@@ -1814,7 +2177,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676399390957x524905906867535900&view=Graph&filtered=yes",
 "image":"https://decentsocial.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdecentsocial-anim1-big.3e4f6111.gif&w=3840&q=75",
 "type":"Event",
-"tags":["Decentralization","Social Media"],
+"topics":["Decentralization","Social Media"],
+"tags":[],
+"attribute-tags":"",
 "sectors":["Decentralized Web"],
 "locations":[],
 "address":"",
@@ -1822,6 +2187,7 @@
 "skills":[],
 "description":"We’re not asking for a perfect social web. We’re just want something decent.",
 "size":"",
+
 "label":"DecentSocial"
     },{
         "id": "1660256842875x617120118476038700",
@@ -1829,7 +2195,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1660256842875x617120118476038700&view=Graph&filtered=yes",
 "image":"https://openimpact.io/wp-content/uploads/2022/05/oi-logo-dark.svg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1837,6 +2205,7 @@
 "skills":[],
 "description":"",
 "size":"",
+
 "label":"Open Impact"
     },{
         "id": "1676412556659x536932129761355650",
@@ -1844,7 +2213,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412556659x536932129761355650&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1852,6 +2223,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"tibet@terran.io","Name":"Tibet Sprague","Role At Organization":"Lead Developer at Hylo, Terran Collective, Collaborate Tech Alliance","Privacy":"Public","Asks":"Other platforms to figure out and implement interoperability with!","Offers":"Stewardship",
 "label":"Tibet Sprague"
     },{
         "id": "1676412557842x319287516611036500",
@@ -1859,7 +2231,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412557842x319287516611036500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1867,6 +2241,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"vincent.l.arena@gmail.com","Bio":"Vincent arena is a designer, entrepreneur and information architect.","URL":"https://www.vincentarena.com","Location Address":"Long Beach, NY","Name":"Vincent Arena","Role At Organization":"Founder at Catalist","Privacy":"Public","Asks":"We are working on protocols to help interoperability across platforms.","Offers":"Expertise in information architecture, mapping, collaboration and matchmaking tools.","URL":"https://www.vincentarena.com","Location Address":"East Rockaway NY",
 "label":"Vincent Arena"
     },{
         "id": "1676412558989x339035392305669060",
@@ -1874,7 +2249,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412558989x339035392305669060&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1882,6 +2259,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"scott@vineberg.com","Name":"Scott Vineberg","Role At Organization":"CEO: vision and articulation at ","Privacy":"Public","Asks":"Aligned talent and services network","Offers":"Catalyzing top opportunities for thriving platform coops",
 "label":"Scott Vineberg"
     },{
         "id": "1676412560122x479566490702396700",
@@ -1889,7 +2267,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412560122x479566490702396700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1897,6 +2277,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"Johannes.Ernst@gmail.com","Name":"Johannes Ernst","Role At Organization":"Instigator, entrepreneur, technologists, cat herder, manager, business developer and a few others at Indie Computing Corp., Dazzle","Privacy":"Public","Asks":"Not sure yet","Offers":"Building a network of alternate technologies",
 "label":"Johannes Ernst"
     },{
         "id": "1676412560928x995070781882629900",
@@ -1904,7 +2285,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412560928x995070781882629900&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1912,6 +2295,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"bdegraf@gmail.com","Name":"Brad DeGraf","Role At Organization":"Founder at NooNet","Privacy":"Public","Asks":"Collaboration, extended developer community, coordinated funding strategy","Offers":"Ideas, APIs for experimenting with trust networks, an architecture for decision-making innovation, reference implementations",
 "label":"Brad DeGraf"
     },{
         "id": "1676412562030x271106961884901120",
@@ -1919,7 +2303,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412562030x271106961884901120&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1927,6 +2313,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"michael@factr.com","Name":"Michael Grossman","Role At Organization":"Co-founder & chairman at Factr","Privacy":"Public","Asks":"Invite participants to share components. Facilitate models for sharing developmentsexpenses rather than duplicating efforts.","Offers":"Work on linking to other orgs, publicizing our efforts, honing our story, bringing in new platforms, bringing new members/supporters to our ecosystem.",
 "label":"Michael Grossman"
     },{
         "id": "1676412563257x574457848701787700",
@@ -1934,7 +2321,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412563257x574457848701787700&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1942,6 +2331,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"laure@getwith.app","Name":"Laure Cast","Role At Organization":"Founder, Board Member at GetWith, Prosocial Design Network","Privacy":"Public","Asks":"I'm a startup founder building a platform for conversations in community. I love learning and collaborating.","Offers":"Any learning, experience, or support that is useful",
 "label":"Laure Cast"
     },{
         "id": "1676412564376x982694403517507000",
@@ -1949,7 +2339,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412564376x982694403517507000&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1957,14 +2349,17 @@
 "skills":[],
 "description":"",
 "size":"",
+"Name":"Keala Young","Email":"keala@villagelab.net","Role At Organization":"Member at Permaculture CoLab Digital Circle","Privacy":"Public","Asks":"Let’s keep weaving interoperability across contexts including Prosocial tech","Offers":"Prosocial Design Lab and governance",
 "label":"Keala Young"
     },{
         "id": "1676412565119x674714955928532100",
-"url":"",
+"url":"https://app.nestr.io/pp/mkJv9mdtzdnCS9DTi",
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412565119x674714955928532100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1972,6 +2367,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"joost@nestr.io","Name":"Joost Schouten","Role At Organization":"Founding member and here are all my roles at nestr: https://app.nestr.io/pp/mkJv9mdtzdnCS9DTi at Nestr","Privacy":"Public","Asks":"Connecting to a wider community of decentralised and self-organised organisations and people.","Offers":"Offering our self-organisation tools for mapping of and collaboration in the community.","URL":"https://app.nestr.io/pp/mkJv9mdtzdnCS9DTi",
 "label":"Joost Schouten"
     },{
         "id": "1676412566047x552827163634408640",
@@ -1979,7 +2375,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412566047x552827163634408640&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1987,6 +2385,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"jaredclucas@gmail.com","Name":"Jared Lucas","Role At Organization":"Founder at LiminalDAO","Privacy":"Public","Asks":"Unclear at the moment","Offers":"Systems thinking",
 "label":"Jared Lucas"
     },{
         "id": "1676412566692x871351266676060200",
@@ -1994,7 +2393,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412566692x871351266676060200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2002,6 +2403,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"sam@forby.org","Name":"Sam Schikowitz","Role At Organization":"Founder at Forby.org","Privacy":"Public","Asks":"Ideation, collaboration","Offers":"Ideation, collaboration",
 "label":"Sam Schikowitz"
     },{
         "id": "1676412567563x247846861831221500",
@@ -2009,7 +2411,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412567563x247846861831221500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2017,6 +2421,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"day.waterbury@gmail.com","Name":"Day Waterbury","Role At Organization":"Cofounder / Thought Partner at Consensual Ventures","Privacy":"Public","Asks":"Help me help you.","Offers":"Relationship Building. Facilitation. Coordination.",
 "label":"Day Waterbury"
     },{
         "id": "1676412568422x405450596066822850",
@@ -2024,7 +2429,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412568422x405450596066822850&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2032,6 +2439,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"adriana@agamistudios.com","Name":"Adriana Ruiz","Role At Organization":"Founder at Agami Studios","Privacy":"Public","Asks":"Share knowledge / expertise with projects we are working with. Collaboration spaces. Networking spaces.","Offers":"Working on complex challenges together.",
 "label":"Adriana Ruiz"
     },{
         "id": "1676412569411x224555036830609300",
@@ -2039,7 +2447,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412569411x224555036830609300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2047,6 +2457,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"Booking@TaoTeTurquoise.com","Name":"Turquoise Sound","Role At Organization":"Co-Steward, Strategic Advisor, Regenerative Governance Board Member at Dyer Global Solutions, Integral Leadership Review, Consultant for Other Organizations","Privacy":"Public","Asks":"Funding. Coordination. Collaboration. Trust Relationships of Sustained Interdependence. Unknown Emergent Reciprocality: Needs and Offers.","Offers":"Relationships with people, places, projects, and communities: Research, Content, Theory - Praxis Models, Participation, Built Technology, Partnership Weaving, Cultural Strategy, Vision, Ideation, and Awareness.",
 "label":"Turquoise Sound"
     },{
         "id": "1676412570290x196713465053524930",
@@ -2054,7 +2465,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412570290x196713465053524930&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2062,6 +2475,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"jackpark@topicquests.org","Name":"Jack Park","Role At Organization":"Co-founder at TopicQuests Foundation","Privacy":"Public","Asks":"Working towards federation of socio-technological boundary infrastructures","Offers":"Our OSS sensemaking tools, ideas,collaboration",
 "label":"Jack Park"
     },{
         "id": "1676412571168x119251493471480110",
@@ -2069,7 +2483,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412571168x119251493471480110&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2077,6 +2493,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"stephen.vitka@gmail.com","Name":"Stephen Vitka","Role At Organization":"Designer at Dazzle DAO, PublicNet","Privacy":"Public","Asks":"Critique","Offers":"high level strategy",
 "label":"Stephen Vitka"
     },{
         "id": "1676412572065x505246525213778300",
@@ -2084,7 +2501,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412572065x505246525213778300&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2092,6 +2511,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"maparent@conversence.com","Name":"Marc-Antoine Parent","Role At Organization":"Founder at Conversence","Privacy":"Public","Asks":"Think about interoperability at the level of meaning","Offers":"Models of knowledge",
 "label":"Marc-Antoine Parent"
     },{
         "id": "1676412572969x317377539037968060",
@@ -2099,7 +2519,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412572969x317377539037968060&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2107,6 +2529,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"osb@open.coop","Name":"Oliver Sylvester-Bradley","Role At Organization":"Collaborator at The Open Co-op, Murmurations, Meet.coop","Privacy":"Public","Asks":"Networking and funding (if possible)!","Offers":"Open Source tools i.e. murmurations, mccs (mutual credit system) etc",
 "label":"Oliver Sylvester-Bradley"
     },{
         "id": "1676412574046x994799380798406500",
@@ -2114,7 +2537,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412574046x994799380798406500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2122,6 +2547,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"roberto@liminalvillage.com","Name":"Roberto Valenti","Role At Organization":"Social Technologist at Liminal Village, Co:Do","Privacy":"Public","Asks":"Collaborations, Co-creation, Visibility","Offers":"Ideas, Technologies, Experiences",
 "label":"Roberto Valenti"
     },{
         "id": "1676412574944x243299400631199500",
@@ -2129,7 +2555,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412574944x243299400631199500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2137,6 +2565,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"christopher@maujean.org","Name":"Christopher Maujean","Role At Organization":"Development Lead at Consensual Ventures","Privacy":"Public","Asks":"To exchange and share work and ideas to push the stone of global collaboration forward.","Offers":"You tell me what you need, I'll see if I can do it.",
 "label":"Christopher Maujean"
     },{
         "id": "1676412575851x301457252466015740",
@@ -2144,7 +2573,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412575851x301457252466015740&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2152,6 +2583,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"starone@earth-star-network.com","Name":"Andrea Harding","Role At Organization":"Co-founding Steward at Symphonics","Privacy":"Public","Asks":"The most honest answer is that this will emerge through re-acclimating my self and becoming immersed again in the community.","Offers":"I would love to dovetail and contribute the work I am (and have been) already doing on Co-creation Technology which touches upon several key areas from theory of change, to social and technological interoperability and protocols for co-creation etc.",
 "label":"Andrea Harding"
     },{
         "id": "1676412576950x903319787904683500",
@@ -2159,7 +2591,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412576950x903319787904683500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2167,6 +2601,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"sybille@valeureux.org","Name":"Sybille Saint Girons","Role At Organization":"cooperation architect at Valeureux, Humans, Home, Heliotop","Privacy":"Public","Asks":"ease cooperation, pool resources & needs","Offers":"pooling needs & resources",
 "label":"Sybille Saint Girons"
     },{
         "id": "1676412577883x862385369065740500",
@@ -2174,7 +2609,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412577883x862385369065740500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2182,6 +2619,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"lynn@mikorizal.org","Name":"Lynn Foster","Role At Organization":"Mikorizal Software, Valueflows","Privacy":"Public","Asks":"Supporting interops and open source software","Offers":"Help with interops standards",
 "label":"Lynn Foster"
     },{
         "id": "1676412578733x414629944390108500",
@@ -2189,7 +2627,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412578733x414629944390108500&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2197,6 +2637,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"steph@stephanierearick.com","Name":"Stephanie Rearick","Role At Organization":"Founder, President at Humans United in Mutual Aid Networks (HUMANs)","Privacy":"Public","Asks":"Collaborating, experimenting separately or together, learning each other's work and seeing where we can each complement each other's limitations with strengths","Offers":"Mutual aid economic framework and connection with communities of collaborators and experimenters",
 "label":"Stephanie Rearick"
     },{
         "id": "1676412579725x694287808827422100",
@@ -2204,7 +2645,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412579725x694287808827422100&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2212,6 +2655,7 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"evomimic@gmail.com","Name":"Steve Melville","Role At Organization":"Founder at Evolutionary Enterprises LLC","Privacy":"Public","Asks":"Continue to provide forums for collaborative opportunities to emerge.","Offers":"An enterprise architecture that can enable coherent and cooperative collective action at all scales from the individual to planetary organisms. And a platform that supports that architecture.",
 "label":"Steve Melville"
     },{
         "id": "1676412580638x885990282613726200",
@@ -2219,7 +2663,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1676412580638x885990282613726200&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2227,14 +2673,17 @@
 "skills":[],
 "description":"",
 "size":"",
+"Email":"tib@co.tools","Name":"Tibor Katelbach","Role At Organization":"Project Manager at OPEN ATLAS, COmmunecter , HUMANS","Privacy":"Public","Asks":"collaboration and cofunding","Offers":"interoperability and collective intelligence",
 "label":"Tibor Katelbach"
     },{
         "id": "1679419062145x697214071565713400",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1679419062145x697214071565713400&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"image":"//s3.amazonaws.com/appforest_uf/f1662071266921x839042517086788400/IMG_0798.JPG",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"East Rockaway, NY, USA",
@@ -2242,6 +2691,7 @@
 "skills":["Creativity","Design","Collaboration","Teambuilding","Connector","Ideation","Operations"],
 "description":"Systems designer, social entrepreneur, and knowledge architect. Founder of Catalist",
 "size":"",
+
 "label":"Vincent Arena"
     },{
         "id": "1679419634249x582976551893860400",
@@ -2249,7 +2699,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1679419634249x582976551893860400&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1677702447235x423945010205213600/courier.png",
 "type":"Offer",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":["Systems Design & Thinking","Software Internet & Automation"],
 "locations":[],
 "address":"",
@@ -2257,14 +2709,17 @@
 "skills":[],
 "description":"If you need help setting up an airtable database or form that can be more robust and interoperable, let me know!",
 "size":"",
-"label":"Offering expertise on crafting Airtable's"
+
+"label":"Offering expertise on crafting Airtable\"s"
     },{
         "id": "1680669477325x693577525526790100",
 "url":"https://www.communecter.org/#@oceatoon",
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1680669477325x693577525526790100&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"image":"//s3.amazonaws.com/appforest_uf/f1680669339377x167211764199539650/Screenshot%20from%202021-09-27%2011-34-10.png",
 "type":"Member",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"Réunion",
@@ -2272,6 +2727,7 @@
 "skills":["Creativity","Collaboration","Leadership","Ideation","Design","Information Architecture"],
 "description":"web dev and digital permaculture design or society in building communecter.org",
 "size":"",
+
 "label":"Tibor Kat"
     },{
         "id": "1682444863575x713808883589316600",
@@ -2279,7 +2735,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1682444863575x713808883589316600&view=Graph&filtered=yes",
 "image":"https://www.isocfoundation.org/wp-content/uploads/2020/08/ISOC-IMAGE-80-RGB-1-1.jpg",
 "type":"Resource",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2287,6 +2745,7 @@
 "skills":[],
 "description":"The Internet Society Foundation’s Research Programme supports global research collaborations that advance understanding of the Internet and its value for all.",
 "size":"",
+
 "label":"Research Grant Program | Internet Society Foundation"
     },{
         "id": "1682611133787x693414282058793000",
@@ -2294,7 +2753,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1682611133787x693414282058793000&view=Graph&filtered=yes",
 "image":"http://static1.squarespace.com/static/60355084905d134a93c099a8/t/61fad3b7de66f8737a6afaf2/1667867567482/Responsible+Tech+Job+Board.png?format=1500w",
 "type":"Resource",
-"tags":["Responsible Tech"],
+"topics":["Responsible Tech"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2302,6 +2763,7 @@
 "skills":[],
 "description":"All Tech Is Human’s Responsible Tech Job Board curates roles focused on reducing the harms of technology, diversifying the tech pipeline, and ensuring that technology is aligned with the public interest. It is the premiere resource in the field for people exploring a career change, new role, or interested in the growing responsible tech ecosystem.",
 "size":"",
+
 "label":"Responsible Tech Job Board — By All Tech Is Human"
     },{
         "id": "1682612058589x142509328725442560",
@@ -2309,7 +2771,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1682612058589x142509328725442560&view=Graph&filtered=yes",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
 "type":"Event",
-"tags":["Sociocracy"],
+"topics":["Sociocracy"],
+"tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":["Global"],
 "address":"",
@@ -2317,6 +2781,7 @@
 "skills":[],
 "description":"A global sociocracy conference ",
 "size":"",
+
 "label":"Sociocracy Conference 2023 - Sociocracy For All"
     },{
         "id": "1682613918894x406242520856264700",
@@ -2324,7 +2789,9 @@
 "object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1682613918894x406242520856264700&view=Graph&filtered=yes",
 "image":"https://about.peerdom.org/images/screenshots/peerdomScreenshotMain.jpg",
 "type":"Project",
+"topics":[],
 "tags":[],
+"attribute-tags":"",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2332,136 +2799,435 @@
 "skills":[],
 "description":"Use Peerdom to enable collaboration and communication in your team. A dynamic org chart that helps you navigate challenges of new work. 30 days free trial.",
 "size":"",
+
 "label":"Peerdom | Surf the challenges of collaboration."
+    },{
+        "id": "1683057574790x876851158625550300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1683057574790x876851158625550300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1629930947760x637926618347315300/profile.png",
+"type":"Member",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"Boulder Creek, CA 95006, USA",
+"types":[],
+"skills":[],
+"description":"By temperament I am an artist and by profession I am a software engineer. Lately, I'm into writing and connecting.",
+"size":"",
+
+"label":"Jonathan Sand"
+    },{
+        "id": "1688426488094x689789430444064800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1688426488094x689789430444064800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Name":"Test Name","Bio":"Test Bio","URL":"https://www.website.com","Location Address":"new york ny",
+"label":""
+    },{
+        "id": "1688437780459x106554358501998600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1688437780459x106554358501998600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Vincent is a designer and information architect",
+"size":"",
+"Name":"Vincent Arena","Bio":"Vincent is a designer and information architect","URL":"https://www.vincentarena.com","Location Address":"East Rockaway, NY",
+"label":"Vincent Arena"
+    },{
+        "id": "1688438614497x553886524005679100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1688438614497x553886524005679100&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Information architect and designer :D",
+"size":"",
+"Name":"Vincent Arena","":"vincent.l.arena@gmail.com","Bio":"Information architect and designer :D","":"Founder at Catalist","":"Looking for volunteers for Catalist","":"Help with airtable or schemas","URL":"https://www.vincentarena.com","Location Address":"East Rockaway, NY",
+"label":"Vincent Arena"
+    },{
+        "id": "1689023601322x379632418285944800",
+"url":"https://www.url.com",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1689023601322x379632418285944800&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1689023618733x249315780258359650/link%20%281%29.png",
+"type":"Project",
+"topics":[],
+"tags":["Justice"],
+"attribute-tags":"Justice",
+"sectors":[],
+"locations":[],
+"address":"New York, NY, USA",
+"types":[],
+"skills":[],
+"description":"Summary[[youtube/3GfsPYnIB4c]]",
+"size":"",
+"Project Name":"New Project2","URL":"https://www.url2.com","Privacy":"Public","Description":"2Summary","Video ID":"3GfsPYnIB4c",
+"label":"New Project2"
+    },{
+        "id": "1689622977639x287396246070231040",
+"url":"https://www.website.com",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1689622977639x287396246070231040&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1689623551309x137354951709543150/image%20%284%29.png",
+"type":"Member",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"I'm a person",
+"size":"",
+"CTA Principles":"Co-Creation","Email":"testemail@gmail.com","Name":"Vincent Lucas Arena","Bio":"I'm a person","URL":"https://www.website.com","Role At Organization":"Founder of systems","Location Address":"manhattan, NY","Asks":"Asks","Offers":"Offers",
+"label":"Test Name"
+    },{
+        "id": "1691425967730x980013517274611700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1691425967730x980013517274611700&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691425559907x306656893350581760/Screenshot%202023-08-07%20at%205.25.22%20PM.png",
+"type":"Image",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"A brief update and short description about the current status of the Murmurations and Catalist Integration",
+"size":"",
+
+"label":"Murmurations and Catalist Integration"
+    },{
+        "id": "1691426974205x436417014464512000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?object=1691426974205x436417014464512000&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1691427224870x237086246091215100/faq.png",
+"type":"FAQ",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"You will be able to access all the data here through murmurations.network. We also will have other export formats such as csv and json, for public data - but we hope to create this dataset as a dynamic one where you can pull the most up-to-date data and not have to deal with static import/exports.",
+"size":"",
+
+"label":"Where can I access the data?"
     }
 ],
 
   "connections": [
 {
-        "id": "1660242804066x488949886447779800",
+        "label": "is founder of",
         "from": "1660242219100x632470605006407600",
         "to": "1660151730871x977137294806052900",
 "strength":1,
-"type":"is founder of",
+"connection subtype":"is founder of",
 "description":"",
-"label":"Vincent Arena is founder of catalist.network"
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1660242804066x488949886447779800",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1660242804066x488949886447779800",
+"title":"Vincent Arena is founder of Catalist Network"
     }
 ,{
-        "id": "1660242883743x751556127984713700",
+        "label": "is stewarded by",
         "from": "1660151768643x522448180879207600",
         "to": "1660151664363x126522770866811300",
 "strength":1,
-"type":"is stewarded by",
+"connection subtype":"is stewarded by",
 "description":"",
-"label":"DigLife Tech Map is stewarded by DigLife Collective"
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1660242883743x751556127984713700",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1660242883743x751556127984713700",
+"title":"DigLife Tech Map is stewarded by DigLife Collective"
     }
 ,{
-        "id": "1660244305949x749254352527425500",
+        "label": "is stewarded by",
         "from": "1660151656698x169540187345731170",
         "to": "1660151655816x970288164854431200",
 "strength":1,
-"type":"is stewarded by",
+"connection subtype":"is stewarded by",
 "description":"",
-"label":"Hylo is stewarded by Terran Collective"
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1660244305949x749254352527425500",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1660244305949x749254352527425500",
+"title":"Hylo is stewarded by Terran Collective"
     }
 ,{
-        "id": "1660244374587x175596527481782270",
+        "label": "is member of",
         "from": "1660242219100x632470605006407600",
         "to": "1660242209362x932654881984030800",
 "strength":1,
-"type":"is member of",
+"connection subtype":"is member of",
 "description":"",
-"label":"Vincent Arena is member of Collaborative Tech Alliance "
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1660244374587x175596527481782270",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1660244374587x175596527481782270",
+"title":"Vincent Arena is member of Collaborative Tech Alliance "
     }
 ,{
-        "id": "1660254013609x726614006815260700",
+        "label": "is related to",
         "from": "1660253915035x318769811226195400",
         "to": "1660242209362x932654881984030800",
 "strength":1,
-"type":"is related to",
+"connection subtype":"is related to",
 "description":"",
-"label":"CTA Kumu Ecosystem Map Design  is related to Collaborative Tech Alliance "
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1660254013609x726614006815260700",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1660254013609x726614006815260700",
+"title":"CTA Kumu Ecosystem Map Design  is related to Collaborative Tech Alliance "
     }
 ,{
-        "id": "1660320238686x153133359135457280",
+        "label": "are related to",
         "from": "1660256800007x750867831650021800",
         "to": "1660242209362x932654881984030800",
 "strength":1,
-"type":"are related to",
+"connection subtype":"are related to",
 "description":"",
-"label":"🤝📱⭕️ CTA Open Community Meeting notes are related to Collaborative Tech Alliance "
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1660320238686x153133359135457280",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1660320238686x153133359135457280",
+"title":"🤝📱⭕️ CTA Open Community Meeting notes are related to Collaborative Tech Alliance "
     }
 ,{
-        "id": "1661274296148x709765911209050100",
+        "label": "might partner with",
         "from": "1661274276955x502196416566263800",
         "to": "1660242209362x932654881984030800",
 "strength":1,
-"type":"might partner with",
+"connection subtype":"might partner with",
 "description":"",
-"label":"Center for Humane Technology might partner with Collaborative Tech Alliance "
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1661274296148x709765911209050100",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1661274296148x709765911209050100",
+"title":"Center for Humane Technology might partner with Collaborative Tech Alliance "
     }
 ,{
-        "id": "1661797251138x728173115827814400",
+        "label": "is being run by",
         "from": "1660320418874x698716089624996000",
         "to": "1660242219100x632470605006407600",
 "strength":1,
-"type":"is being run by",
+"connection subtype":"is being run by",
 "description":"",
-"label":"MAPATHON22  is being run by Vincent Arena"
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1661797251138x728173115827814400",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1661797251138x728173115827814400",
+"title":"MAPATHON22  is being run by Vincent Arena"
     }
 ,{
-        "id": "1664213260709x724234434548596700",
+        "label": "is reccomended by",
         "from": "1661274276955x502196416566263800",
         "to": "1660242219100x632470605006407600",
 "strength":1,
-"type":"is reccomended by",
+"connection subtype":"is reccomended by",
 "description":"",
-"label":"Center for Humane Technology is reccomended by Vincent Arena"
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1664213260709x724234434548596700",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1664213260709x724234434548596700",
+"title":"Center for Humane Technology is reccomended by Vincent Arena"
     }
 ,{
-        "id": "1675785724562x199422599371588800",
+        "label": "is related to",
         "from": "1675785699830x982584689950720000",
         "to": "1660242209362x932654881984030800",
 "strength":1,
-"type":"is related to",
+"connection subtype":"is related to",
 "description":"",
-"label":"Murmurations – Making Movements Visible is related to Collaborative Tech Alliance "
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1675785724562x199422599371588800",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1675785724562x199422599371588800",
+"title":"Murmurations – Making Movements Visible is related to Collaborative Tech Alliance "
     }
 ,{
-        "id": "1676440218291x930451407836545000",
+        "label": "wants to meet with",
         "from": "1676412557842x319287516611036500",
         "to": "1676412560928x995070781882629900",
 "strength":1,
-"type":"wants to meet with",
+"connection subtype":"wants to meet with",
 "description":"Hey Brad, would love to have a 1-on-1 soon to chat about Noonet and knowledge graphs!",
-"label":"Vincent Arena wants to meet with Brad DeGraf"
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1676440218291x930451407836545000",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1676440218291x930451407836545000",
+"title":"Vincent Arena wants to meet with Brad DeGraf"
     }
 ,{
-        "id": "1681942786017x740766217095872500",
+        "label": "should collaborate with",
         "from": "1660151346982x270335483166988640",
         "to": "1660151350032x769937635418378900",
 "strength":1,
-"type":"should collaborate with",
+"connection subtype":"should collaborate with",
 "description":"Tapestry has information civilization 2.0 could use",
-"label":"Civilization 2.0 the game should collaborate with The Tapestry"
+"connection type":"Suggestion",
+"one-way":"no",
+"direction":"undirected",
+"id":"1681942786017x740766217095872500",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1681942786017x740766217095872500",
+"title":"Civilization 2.0 the game should collaborate with The Tapestry"
     }
 ,{
-        "id": "1682028702180x808608962495119400",
+        "label": "should collaborate",
         "from": "1660151643417x327359834684741700",
         "to": "1660256800007x750867831650021800",
 "strength":1,
-"type":"should collaborate",
+"connection subtype":"should collaborate",
 "description":"you guys have data to share",
-"label":"Map Weavers should collaborate 🤝📱⭕️ CTA Open Community Meeting notes"
+"connection type":"Suggestion",
+"one-way":"no",
+"direction":"undirected",
+"id":"1682028702180x808608962495119400",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1682028702180x808608962495119400",
+"title":"Map Weavers should collaborate 🤝📱⭕️ CTA Open Community Meeting notes"
     }
 ,{
-        "id": "1682544541624x755370989210304500",
+        "label": "has supported",
         "from": "1679419062145x697214071565713400",
         "to": "1660151350032x769937635418378900",
 "strength":7,
-"type":"has supported",
+"connection subtype":"has supported",
 "description":"Vincent has worked with Wendy to create a prototype of The Tapestry that is integrated into Troves as a new way to view information.",
-"label":"Vincent Arena has supported The Tapestry"
+"connection type":"Your Perspective",
+"one-way":"no",
+"direction":"mutual",
+"id":"1682544541624x755370989210304500",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1682544541624x755370989210304500",
+"title":"Vincent Arena has supported The Tapestry"
+    }
+,{
+        "label": "should share a story for",
+        "from": "1676412556659x536932129761355650",
+        "to": "1660151353379x372974456950709800",
+"strength":1,
+"connection subtype":"should share a story for",
+"description":"Tibet you should share your work about Terran collective on the Plex, and maybe a debrief of the collabathon!",
+"connection type":"Suggestion",
+"one-way":"no",
+"direction":"undirected",
+"id":"1682742260436x422614931505676300",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1682742260436x422614931505676300",
+"title":"Tibet Sprague should share a story for Biweekly Plex"
+    }
+,{
+        "label": "Is Related To",
+        "from": "1679419062145x697214071565713400",
+        "to": "1660151353379x372974456950709800",
+"strength":1,
+"connection subtype":"Is Related To",
+"description":"",
+"connection type":"Your Perspective",
+"one-way":"no",
+"direction":"mutual",
+"id":"1682742324852x324030703545876500",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1682742324852x324030703545876500",
+"title":"Vincent Arena Is Related To Biweekly Plex"
+    }
+,{
+        "label": "should attend",
+        "from": "1660242219100x632470605006407600",
+        "to": "1660253915035x318769811226195400",
+"strength":1,
+"connection subtype":"should attend",
+"description":"testing",
+"connection type":"Suggestion",
+"one-way":"no",
+"direction":"undirected",
+"id":"1685472552189x829288396550570000",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1685472552189x829288396550570000",
+"title":"Vincent Arena should attend CTA Kumu Ecosystem Map Design "
+    }
+,{
+        "label": "Is Related To",
+        "from": "1679419062145x697214071565713400",
+        "to": "1660253915035x318769811226195400",
+"strength":1,
+"connection subtype":"Is Related To",
+"description":"",
+"connection type":"Your Perspective",
+"one-way":"no",
+"direction":"mutual",
+"id":"1685472600295x340331963662729200",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1685472600295x340331963662729200",
+"title":"Vincent Arena Is Related To CTA Kumu Ecosystem Map Design "
+    }
+,{
+        "label": "is collaborating with",
+        "from": "1675785699830x982584689950720000",
+        "to": "1660151656698x169540187345731170",
+"strength":1,
+"connection subtype":"is collaborating with",
+"description":"Hylo will be uploading public group data to murmurations index",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1693257902970x500370182219235300",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1693257902970x500370182219235300",
+"title":"Murmurations – Making Movements Visible is collaborating with Hylo"
+    }
+,{
+        "label": "is member of",
+        "from": "1683057574790x876851158625550300",
+        "to": "1660151346982x270335483166988640",
+"strength":1,
+"connection subtype":"is member of",
+"description":"Jonathan is the creator - and looking for other people to get involved!",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1694445998865x669891556405149700",
+"url":"https://www.catalist.network/trove-space/collaborative-tech-alliance?connection=1694445998865x669891556405149700",
+"title":"Jonathan Sand is member of Civilization 2.0 the game"
     }
 
  ]
