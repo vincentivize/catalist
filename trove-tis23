@@ -51,6 +51,18 @@
 "type":"Object Type",
 "description":"Locations are places, countries, cities or other areas of geographical space."
 },{
+"label":"Session",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"id":"Session",
+"type":"Object Type",
+"description":"Sessions within a main event where presenters get to share their expertise"
+},{
+"label":"Event",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"id":"Event",
+"type":"Object Type",
+"description":"Something happening with a start and end date"
+},{
 "label":"16. Peace Justice & Strong Institutions",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966467016x420927088310531600/Goal_16_.._Sustainable_Development_Knowledge_Platform",
 "id":"1681938200800x388147865806190100",
@@ -393,11 +405,23 @@
 "type":"Attribute",
 "color":"#FB7E50"
 },{
+"label":"Ecological",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966092296x561519152433861200/cloud-sun-rain.svg",
+"id":"1681937819619x855276088919363800",
+"type":"Attribute",
+"color":"#A3CE56"
+},{
 "label":"Relations & Economics",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966163990x456597509691203840/date_hires.png",
 "id":"1681937908770x362537939924779460",
 "type":"Attribute",
 "color":"#77C98D"
+},{
+"label":"Politics & Policy",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966209424x541920357754717100/policy_black.svg",
+"id":"1681937901575x932032258878655400",
+"type":"Attribute",
+"color":"#56B8CE"
 },{
 "label":"Energy & Industry",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966242147x368402184937917600/nuclear-plant%20%281%29.svg",
@@ -417,21 +441,9 @@
 "type":"Attribute",
 "color":"#56B8CE"
 },{
-"label":"Ecological",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966092296x561519152433861200/cloud-sun-rain.svg",
-"id":"1681937819619x855276088919363800",
-"type":"Attribute",
-"color":"#A3CE56"
-},{
 "label":"Anthropology Housing & Shelter",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966199448x554043289156279000/housing-01.svg",
 "id":"1681937870337x387451720141541250",
-"type":"Attribute",
-"color":"#56B8CE"
-},{
-"label":"Politics & Policy",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966209424x541920357754717100/policy_black.svg",
-"id":"1681937901575x932032258878655400",
 "type":"Attribute",
 "color":"#56B8CE"
 },{
@@ -440,6 +452,18 @@
 "id":"1681937798674x841682754869276400",
 "type":"Attribute",
 "color":"#9b59b6"
+},{
+"label":"Design",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966269097x945577963356784300/design.svg",
+"id":"1681937796461x757058317804692400",
+"type":"Attribute",
+"color":"#9b59b6"
+},{
+"label":"Creativity Expression & Language",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1688966056535x450480112997701440/document.svg",
+"id":"1681937977182x191640933769767780",
+"type":"Attribute",
+"color":"#FB7E50"
 },
 {
         "id": "1688056238375x912452831677775900",
@@ -457,7 +481,7 @@
 "skills":[],
 "description":"The crisis of human meaning and agency: How can we be sure we determine our destiny despite major challenges and the competition of AI?",
 "size":"",
-"Attendee Location":"Not Sure Yet","Full Name":"Brigham Adams","Organization Name":"Goodly Labs","Organization Role":"Chief","Bio":"We build collective intelligence systems to solve major societal challenges... and we train AI to understand our social reality.","Description":"The crisis of human meaning and agency: How can we be sure we determine our destiny despite major challenges and the competition of AI?","Privacy":"Private",
+"Attendee Location":"Not Sure Yet","Full Name":"Brigham Adams","Organization Name":"Goodly Labs","Organization Role":"Chief","Bio":"We build collective intelligence systems to solve major societal challenges... and we train AI to understand our social reality.","Description":"The crisis of human meaning and agency: How can we be sure we determine our destiny despite major challenges and the competition of AI?","Privacy":"Public",
 "label":"Brigham Adams"
     },{
         "id": "1688056252875x759561445423185900",
@@ -517,7 +541,7 @@
         "id": "1688448775627x427127243265429400",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448775627x427127243265429400&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652588298x197099435997876830/AITFw-zPIozjS_mV6Qj-FSfozUNNczAODkrochLNM57LpJLYecIkEvly_-25QSbUlNqr5y9ih9G0tzy_9hZ4tycdS4XQZklJ%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":["Agriculture"],
@@ -527,15 +551,15 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"We are all the guardians of our environment and thoughtful approaches to food systems, soil health, water stewardship are needed now more than ever. We’ll explore bioregionalism and other intelligent approaches to regenerative agriculture.",
 "size":"",
 
-"label":"Bioregionalism, Regenerative Agriculture, Water, and Soil"
+"label":"Regenerative Agriculture, Bioregionalism, Food Systems, and Soil"
     },{
         "id": "1688448776976x659283846301514800",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448776976x659283846301514800&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652590839x228366284518883840/AITFw-ynCu2byfhoL_4dvveGq6xgZ1DIvCJUBl_DvTnlkk5iP13H2D-T53eqSOjEdGd2n43cxCdUZKlkIbULPXt7pvNVPLGgBw%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -545,15 +569,15 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Indigenous communities account for 80% of global land stewardship. These organizations have developed unique solutions to their unique and challenging circumstances. We’ll be highlighting their success stories as well as their as we feature leading solutions from Africa, South and Central America, Asia, Oceana, and more.",
 "size":"",
 
-"label":"Indigenous and Local Solutions Across The World"
+"label":"Indigenous and Local Solutions Around the World"
     },{
         "id": "1688448777802x195950652025915760",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448777802x195950652025915760&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652593737x670700546535456560/AITFw-yz7EmMc64rVIo0KEaehg9VzFItii-CvKgV2g9GgCeIr1_L75fZ99WvY6ChtOhVSTCn-OpswB8VJnOOxGC1ISIF91dF3A%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -563,15 +587,15 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Family offices, investors, VC’s and philanthropists want to see their funding drive meaningful impact. Regenerative & Transparent forms of funding have emerged that ensure funds are directed into the hands of those who need it.",
 "size":"",
 
-"label":"Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+"label":"Financial Innovation, Regenerative Finance, and New Philanthropy"
     },{
         "id": "1688448778691x211835393054933250",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448778691x211835393054933250&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652596324x818274653138535700/AITFw-z4IMTlAeV5aBfR4_s6PVH6G_ZFMoaus0btr_s-WuAorKqkKw4Dwu-u-tPJPExoOX3kP0jI1o58QBv6VDpkaF2-UJCaXw%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -581,7 +605,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Local, national, and global institutions are key players in affecting positive change. Many are creating groundbreaking innovations, from new political parties and tools, to new ways to have the voice of the people heard.",
 "size":"",
 
 "label":"Institutional Change, Civic Innovation, and Social Justice"
@@ -589,7 +613,7 @@
         "id": "1688448779596x132969029951544260",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448779596x132969029951544260&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652598673x864856046666932000/AITFw-wD3TLRAc-lvFkz7FEfnUTxgJAHJNvU9G9KtswGC_XCA7TeWw3y27sq2r78te-7FkEkP6CaChXvjv2GjP1JXVmZDE0ztQ%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -599,15 +623,15 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Explore inspired environmental innovations that help design a healthier planet for all. From clean energy and materials to intentional communities and regenerative villages and beyond.",
 "size":"",
 
-"label":"Energy, The Built Environment, and Infrastructure"
+"label":"Energy, Infrastructure and The Built Environment"
     },{
         "id": "1688448780588x393288317001168100",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448780588x393288317001168100&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652601320x220870930463261700/AITFw-xgpSbh8ZctGAuVjg0a_-SGCozJodnaktvikcUBXU1D0eGkVy9MMemt1UC4DBH-ETxkbgHOR7ITw3W6aTHNFj7cSrjfBA%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -617,15 +641,15 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Web3, Blockchain and AI have all advanced rapidly over the past few years, creating great new capabilities for change. We’ll explore how these technologies are impacting the way we work, exchange value, automate for impact and driven financial freedom.",
 "size":"",
 
-"label":"Web3 & Tech For Good"
+"label":"Web3, AI & Tech For Good"
     },{
         "id": "1688448781812x236166426604033300",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448781812x236166426604033300&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652603976x339725963717411000/AITFw-zxhCYMfNUCxBomJ0_7SIKV7TEa3by35L_l2CqczC9jQQH5KDIshpU9dyQuIUqcF3V4OBQeBxJ6AKB1LR1QtHxxJkha8g%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -635,7 +659,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"With 2% of global profits going to corporate social responsibility (CSR), business has the potential to be one of the greatest levers of change today. We’ll explore how companies everywhere are providing vital products and services for communities in need.",
 "size":"",
 
 "label":"Business As A Vehicle For Good"
@@ -643,7 +667,7 @@
         "id": "1688448782985x739111207261327700",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448782985x739111207261327700&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652606367x828983660172235500/AITFw-yz_sInk9cllpga_TsUIkl11Zfu2-qV6RuSDc1-eOoCIvH1DJs40DV5SyKWB59ev5vcLUFb7R7F5-_fAH0G-oj4ias0%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -653,15 +677,15 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"The UN's Sustainable Development Goals (SDGs) are a useful framework for focusing our collective efforts, but they are just one among an emerging set of impact categorizations. We’ll explore how we can move from frameworks to impact measurement & coordination.",
 "size":"",
 
-"label":"SDGs, Impact Mapping, and Impact Measurement"
+"label":"SDGs, Impact Mapping & Impact Measurement"
     },{
         "id": "1688448783932x331392909016211100",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448783932x331392909016211100&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652608514x104189910191564660/AITFw-xlLMIVxd71iqQDD2AE9VQ8jlAmeLzDvYMbUzok3dJI9UYDsAWven9i_RgYkxElW7n_AbDqCH74wPsIf9PiUVnwnH1H%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -671,7 +695,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Inner change is as much a part of our path forward as outer change. We’ll explore how we can nourish our mental health, foster social connections, and focus on our own grounding, growth, and development to build a world that works for all.",
 "size":"",
 
 "label":"Inner Development, Mental Health, and Social Connection"
@@ -679,7 +703,7 @@
         "id": "1688448784946x802278372286245900",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448784946x802278372286245900&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652611034x293521938105094640/AITFw-yWhJ9IwqsIPpZMCugOheS50SDCzYiv-1JbsK_jBCwoZnKafRuGg6uAvMbx9rQ17H9uQvSDRatabtD5DWdzhWyQp7jEfw%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -689,7 +713,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Given the rapid rate of change, our educational institutions are struggling to adapt to the needs of students and communities alike. Beyond skill development and employment prep, can we re-imagine how education can align impact, purpose and values into the very fabric of learning.",
 "size":"",
 
 "label":"Impact-Focused Education"
@@ -697,7 +721,7 @@
         "id": "1688448785844x475165719604572400",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448785844x475165719604572400&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652613549x515068126952791700/AITFw-xwLAFkDCuj3kdPB3X7qIxA39EnDNezYieBlpVs5BIWj_3NVqtnFtDXDJezTgqBRBa00T-oLpykyKuws5mMTcyPBeMTTQ%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -707,15 +731,15 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"The stories we tell and the channels we communicate through help define the world we create. We can change that narrative for good by amplifying both unheard voices and those fostering a more kind, healthy and regenerative world.",
 "size":"",
 
-"label":"Storytelling, Media, and Art"
+"label":"Storytelling, Media, Games & Art"
     },{
         "id": "1688448787355x475779005041589760",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688448787355x475779005041589760&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694652615909x770422106413002400/AITFw-z6xsUB-qFI3zbHblZzW651jYBuwfiNIIHCQOcC8-QTZ3cZNQD-4Y--miDSW4lMjH8pvnSbhVLA8F2o_IeyQXTH_UoO3g%3Ds2560",
 "type":"Track",
 "topics":[],
 "tags":[],
@@ -725,10 +749,10 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Civilization design is the process of choosing the kind of world we want to build together. Traditional cities face new challenges. From Startup cities to Network state/coordi-nation (a hybrid virtual and place-based country united not by geography but purpose), we’ll explore how we can create more idealistic cities and civilizations.",
 "size":"",
 
-"label":"Cities, Network States,  and Civilization Design"
+"label":"Cities, Network States, & Civilization Design"
     },{
         "id": "1688578861152x566637835233787900",
 "url":"",
@@ -949,7 +973,7 @@
         "id": "1688657909255x103780976005993800",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657909255x103780976005993800&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694016006432x714311875619254400/Alexander%20Nicholas.webp",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694625194605x691443649044083800/Alexander%20Nicholas.webp",
 "type":"Presenter",
 "topics":[],
 "tags":[],
@@ -1003,7 +1027,7 @@
         "id": "1688657913404x712729711751827200",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657913404x712729711751827200&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693972714177x332380870878037570/Zach%20Bronstein.jpeg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694625088027x694188154455829900/Zach%20Bronstein.jpeg",
 "type":"Presenter",
 "topics":[],
 "tags":[],
@@ -1075,7 +1099,7 @@
         "id": "1688657918974x455686485722307500",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657918974x455686485722307500&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693972547717x736189156432054400/Steven%20Donziger.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694625059031x505369600931661950/Steven%20Donziger.png",
 "type":"Presenter",
 "topics":[],
 "tags":[],
@@ -1093,7 +1117,7 @@
         "id": "1688657920103x876807437024717400",
 "url":"https://planetlive.at",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657920103x876807437024717400&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693971339584x760953044443065200/Christian%20Bauer.jpeg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694624969728x704128969929942400/Christian%20Bauer.jpeg",
 "type":"Presenter",
 "topics":[],
 "tags":["Innovation Invention & Ideation","Collaboration & Sharing","Worldview & Wholeness","Technology Culture & Society","Systems Design & Thinking","4. Quality Education","11. Sustainable cities and communities","13. Climate Action"],
@@ -1105,7 +1129,7 @@
 "skills":[],
 "description":"Planet Live - Realizing the Idea of a World Game by Buckminster Fuller",
 "size":"",
-"Societal Sectors":"Worldview & Wholeness | Collaboration & Sharing | Systems Design & Thinking | Technology Culture & Society | Innovation Invention & Ideation","SDGs":"4. Quality Education | 13. Climate Action | 11. Sustainable cities and communities","Organization Role":"Founder","Organization Name":"Planet Live","Bio":"Christian Bauer got his inspiration for Planet Live from the idea of a World Game invented by Buckminster Fuller. Bauer was a GIS (Geographical Informations Systems) pioneer who in 1989 invented the method for creating the Digital Catastral Map of Austria. Bauer has a background not only in IT and computer graphics but also in the creative domain. Bauer has worked for organizations and companies like FIFA, UN, IOC, Swarovski, Red Bull, Mercedes, Porsche, BMW, Bertelsmann, the German Federal Government and others.","Description":"Planet Live - Realizing the Idea of a World Game by Buckminster Fuller","Full Name":"Christian Bauer","Privacy":"Public","Headshot URL":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693425630464x560219364327333000/_a_DSC5878Atwa.JPG","Organization Website":"https://planetlive.at","Attendee Location":"Virtual",
+"Societal Sectors":"Innovation Invention & Ideation | Collaboration & Sharing | Technology Culture & Society | Systems Design & Thinking | Worldview & Wholeness","SDGs":"4. Quality Education | 13. Climate Action | 11. Sustainable cities and communities","Organization Role":"Founder","Organization Name":"Planet Live","Bio":"Christian Bauer got his inspiration for Planet Live from the idea of a World Game invented by Buckminster Fuller. Bauer was a GIS (Geographical Informations Systems) pioneer who in 1989 invented the method for creating the Digital Catastral Map of Austria. Bauer has a background not only in IT and computer graphics but also in the creative domain. Bauer has worked for organizations and companies like FIFA, UN, IOC, Swarovski, Red Bull, Mercedes, Porsche, BMW, Bertelsmann, the German Federal Government and others.","Description":"Planet Live - Realizing the Idea of a World Game by Buckminster Fuller","Full Name":"Christian Bauer","Privacy":"Public","Headshot URL":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693425630464x560219364327333000/_a_DSC5878Atwa.JPG","Organization Website":"https://planetlive.at","Attendee Location":"Virtual",
 "label":"Christian Bauer"
     },{
         "id": "1688657921466x819541638407778700",
@@ -1147,7 +1171,7 @@
         "id": "1688657925327x284076246671838300",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688657925327x284076246671838300&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694134783479x734766197018406900/Miguel%20Kudry.webp",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694625303047x170272253477393950/Miguel%20Kudry.webp",
 "type":"Presenter",
 "topics":[],
 "tags":[],
@@ -1327,7 +1351,7 @@
         "id": "1688844296618x381118970917290000",
 "url":"https://spiritdao.org",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1688844296618x381118970917290000&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693421342230x902862506638508500/rrivers.png",
+"image":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693579894321x227514817603186700/rriversheadshot.jpg",
 "type":"Presenter",
 "topics":[],
 "tags":["3. Good health and well-being for people","11. Sustainable cities and communities","16. Peace Justice & Strong Institutions","17. Partnerships for the goals","Collaboration & Sharing","Knowledge Wisdom & Intelligence","Fufillment Meaning & Purpose","Spirituality & Religion","Community & Relationships"],
@@ -1339,7 +1363,7 @@
 "skills":[],
 "description":"Exploring the necessity of binding systemic reformation to spiritual renaissance to scale transformative impact effectively. Including new first principles for orienting our experience with the world informed by cosmology and physics, the systemic rights these revelations demand, and why it is a critical element of transcending our various crises.",
 "size":"",
-"Societal Sectors":"Spirituality & Religion | Collaboration & Sharing | Fufillment Meaning & Purpose | Community & Relationships | Knowledge Wisdom & Intelligence","SDGs":"16. Peace Justice & Strong Institutions | 3. Good health and well-being for people | 17. Partnerships for the goals | 11. Sustainable cities and communities","Full Name":"Ron Rivers","Organization Name":"SpiritDAO","Organization Role":"Co-Founding Member","Bio":"I am the author of Self-Actualization in the Age of Crisis, a book that develops new frameworks of meaning and value informed by cosmology and physics. \n\nIt binds spiritual renaissance to systemic reformation through the context of the non-religion religion as a means of transcending the crisis. I am also a Co-Founding member of SpiritDAO, a community embracing the philosophies and practices in the text.\n\nMy efforts coalesce at the intersection of Web3, AI, Political Economy, Systemic Reformation, and Spirituality.","Description":"Exploring the necessity of binding systemic reformation to spiritual renaissance to scale transformative impact effectively. Including new first principles for orienting our experience with the world informed by cosmology and physics, the systemic rights these revelations demand, and why it is a critical element of transcending our various crises.","Attendee Location":"In-Person","Organization Website":"https://spiritdao.org","Headshot URL":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693579894321x227514817603186700/rriversheadshot.jpg","Title of Talk":"Binding System and Spirit to Scale Transformation","Organization Logo":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693422506085x756522345575179000/SpiritDAOlogoICON.png","Privacy":"Public",
+"SDGs":"11. Sustainable cities and communities | 3. Good health and well-being for people | 16. Peace Justice & Strong Institutions | 17. Partnerships for the goals","Societal Sectors":"Knowledge Wisdom & Intelligence | Fufillment Meaning & Purpose | Spirituality & Religion | Collaboration & Sharing | Community & Relationships","Societal Sectors":"Spirituality & Religion | Collaboration & Sharing | Fufillment Meaning & Purpose | Community & Relationships | Knowledge Wisdom & Intelligence","SDGs":"16. Peace Justice & Strong Institutions | 3. Good health and well-being for people | 17. Partnerships for the goals | 11. Sustainable cities and communities","Full Name":"Ron Rivers","Organization Name":"SpiritDAO","Organization Role":"Co-Founding Member","Bio":"I am the author of Self-Actualization in the Age of Crisis, a book that develops new frameworks of meaning and value informed by cosmology and physics. \n\nIt binds spiritual renaissance to systemic reformation through the context of the non-religion religion as a means of transcending the crisis. I am also a Co-Founding member of SpiritDAO, a community embracing the philosophies and practices in the text.\n\nMy efforts coalesce at the intersection of Web3, AI, Political Economy, Systemic Reformation, and Spirituality.","Description":"Exploring the necessity of binding systemic reformation to spiritual renaissance to scale transformative impact effectively. Including new first principles for orienting our experience with the world informed by cosmology and physics, the systemic rights these revelations demand, and why it is a critical element of transcending our various crises.","Attendee Location":"In-Person","Organization Website":"https://spiritdao.org","Headshot URL":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693579894321x227514817603186700/rriversheadshot.jpg","Title of Talk":"Binding System and Spirit to Scale Transformation","Organization Logo":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693422506085x756522345575179000/SpiritDAOlogoICON.png","Organization Logo":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693422506085x756522345575179000/SpiritDAOlogoICON.png","Privacy":"Public",
 "label":"Ron Rivers"
     },{
         "id": "1688930388320x321767521696350200",
@@ -1597,7 +1621,7 @@
         "id": "1690987435026x978368121463539100",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1690987435026x978368121463539100&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693972372133x400061190101526100/Shawanna%20Vaughn.jpeg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694638045922x506958394816631900/Shawanna%20Vaughn.jpeg",
 "type":"Presenter",
 "topics":[],
 "tags":[],
@@ -1607,9 +1631,9 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"https://theappeal.org/post-traumatic-prison-disorder-research-congress/",
 "size":"",
-"Full Name":"Shawanna Vaughn ","Privacy":"Public","Headshot URL":"https://web.miniextensions.com/api/public-attachments/4Ezb7NeecnqxBhNylmiL/recLd6sIyFB57VNJ6/1",
+"Organization Role":"Executive Director ","Organization Name":"Silent Cry Inc ","Bio":"\n1 / 1\nShawanna Erena Vaughn Bio\n\nShawanna Erena Vaughn the founder and Director of Silent Cry Inc. A native of Bakersfield CA, and mother of two wonderful individuals.  \n\nSilent Cry Inc is the product of the tears she shed while overcoming pain and hardships of incarceration and loss of a brother to gang initiation from a young man, as well as surviving cancer. She is the true meaning of strength, courage, and determination.\n\nShawanna shared with us that, “She’s was formerly incarcerated and has been impacted by the aftermath of senseless violence. Since then, she has turned the tragedy of her pain into healing. Through Shawanna’s process of healing, she found her voice and now amplifies it for the justice of people, communities, and shattered hearts.\nHer life has been a journey which has led her to many places that allowed her the wonderful pleasure to work with Columbia business school in simulations, as well as reform and criminal justice issues. Shawanna is a member of the Confined arts project. A member of Peace and Justice studies. And is proud to say, that May of 2019, she began attending Columbia University. Education over adversity is a model she believes in and advocate to young people.  \n\nShawanna’s greatest accomplishment is being a mother of two wonderful children, who’s passions are spoken word, Civic engagement, visual arts, and literature.  \n\nHer motto is, Triumphantly I March through the battles with optimistic lenses because “I am Shawanna Erena Vaughn and I will continue the fight to answer Silent Cry's.”\n\n","Description":"https://theappeal.org/post-traumatic-prison-disorder-research-congress/","Full Name":"Shawanna Vaughn ","Privacy":"Public","Headshot URL":"https://web.miniextensions.com/api/public-attachments/4Ezb7NeecnqxBhNylmiL/recLd6sIyFB57VNJ6/1",
 "label":"Shawanna Vaughn "
     },{
         "id": "1691008863612x827010783825072900",
@@ -1631,21 +1655,21 @@
 "label":"John D Liu"
     },{
         "id": "1691007621744x701478483766793100",
-"url":"",
+"url":"https://regen.foundation/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1691007621744x701478483766793100&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694015938674x477444430464725600/Austin%20Wade%20Smith.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694625167045x926049222076922500/Austin%20Wade%20Smith.png",
 "type":"Presenter",
 "topics":[],
-"tags":[],
-"attribute-tags":"",
+"tags":["Economics & Business","Regenerative Economy & Systems","Decentralized Web","Cooperative Economics","Ecological","Relations & Economics","Climate Environment & Resiliency","Social Justice Equality & Impact","Politics & Policy","Networks & Connectivity","15. Life on Land","10. Reducing inequalities","13. Climate Action"],
+"attribute-tags":"Economics & Business|Regenerative Economy & Systems|Decentralized Web|Cooperative Economics|Ecological|Relations & Economics|Climate Environment & Resiliency|Social Justice Equality & Impact|Politics & Policy|Networks & Connectivity|15. Life on Land|10. Reducing inequalities|13. Climate Action",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"Non-human legal rights and personhood is a pivotal approach for ecosystems to directly influence the climate justice movement. In this talk, I'll explore the potential for regenerative economics and DAOs on the blockchain to leverage a value-based approach to expand and fortify the impact of the rights of nature movement. In the process we'll explore novel governance and funding instruments which reflect animist and interdependent world view.",
 "size":"",
-"Organization Role":"Executive Director","Organization Name":"Regen Foundation","Full Name":"Austin Wade Smith","Privacy":"Public","Headshot URL":"https://web.miniextensions.com/api/public-attachments/4Ezb7NeecnqxBhNylmiL/recEWuB8W8ZsdDBdt/1",
+"Societal Sectors":"Decentralized Web | Ecological | Social Justice Equality & Impact | Cooperative Economics | Regenerative Economy & Systems | Climate Environment & Resiliency | Economics & Business | Relations & Economics | Networks & Connectivity | Politics & Policy","SDGs":"15. Life on Land | 13. Climate Action | 10. Reducing inequalities","Organization Role":"Executive Director","Organization Name":"Regen Foundation","Bio":"Regen Foundation supports diverse communities with ideas and technologies which integrate ecological, economic, and human well-being. We build the Regen Commons. A global network of grassroots DAOs to ensure climate finance ultimately supports sovereign regenerative bioregional economies. As the non-profit arm of Regen Network. We pilot implementation level research in community ownership and governance in regenerative finance.","Title of Talk":"Autonomous Ecological Funds - Upholding the Rights of Nature with Regenerative Economics and DAOs","Description":"Non-human legal rights and personhood is a pivotal approach for ecosystems to directly influence the climate justice movement. In this talk, I'll explore the potential for regenerative economics and DAOs on the blockchain to leverage a value-based approach to expand and fortify the impact of the rights of nature movement. In the process we'll explore novel governance and funding instruments which reflect animist and interdependent world view.","Full Name":"Austin Wade Smith","Privacy":"Public","Headshot URL":"https://regen.foundation/wp-content/uploads/2022/04/austin-scaled.jpg","Organization Logo":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694450374815x887540876217742000/Screen%20Shot%202023-09-11%20at%2010.39.21%20AM.png","Organization Website":"https://regen.foundation/","Attendee Location":"In-Person",
 "label":"Austin Wade Smith"
     },{
         "id": "1690987448912x788323913949954700",
@@ -1759,7 +1783,7 @@
         "id": "1690987436486x560419801870569100",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1690987436486x560419801870569100&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694016036965x226201732884594440/Alice%20Maggio.jpeg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694625223101x681289789352874400/Alice%20Maggio.jpeg",
 "type":"Presenter",
 "topics":[],
 "tags":[],
@@ -1777,7 +1801,7 @@
         "id": "1691615648884x312602559375474700",
 "url":"https://www.resource.finance/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1691615648884x312602559375474700&view=Graph&filtered=yes",
-"image":"https://media.licdn.com/dms/image/D5603AQFHZ7Zb-IKVtg/profile-displayphoto-shrink_800_800/0/1691615428070?e=1698883200&v=beta&t=6wlArResUU5bWj6A9sNvKZelPXQmWdAqWxv4ZDjguLI",
+"image":"https://drive.google.com/file/d/15WBz7Q8Dz4BVFE98LjJdtWKqRIt-sAmq/preview",
 "type":"Presenter",
 "topics":[],
 "tags":["10. Reducing inequalities","8. Decent work and economic growth","Circular Economy","Decentralized Web","Cooperative Economics","Relations & Economics","Economics & Business"],
@@ -1789,8 +1813,8 @@
 "skills":[],
 "description":"Many people around the world suffer from not having access to affordable credit. The only options available to them are so costly that they result in high rates of defaults and/or perpetual debt entrapment. This cyclical spiral results in a chronic lack of liquidity and underemployment, which severely constrain economic growth and human development in many regions around the world.  The estimated unmet demand for credit in these markets is 5.2T, which traditional finance has proven inadequate to address. Innovative financial models within the collaborative finance umbrella are better suited for tackling this problem because they don’t rely solely on external capital sources to bootstrap funding, and thus lower the cost of credit. I will share about our team’s contribution to collaborative finance, the stable credit protocol, which provides communities the tools they need to build a more self-reliant credit system and improve their local economy, while simultaneously gaining access to the global financial network. \n",
 "size":"",
-"SDGs":"10. Reducing inequalities | 8. Decent work and economic growth","Societal Sectors":"Circular Economy | Decentralized Web | Cooperative Economics | Relations & Economics | Economics & Business","Full Name":"Ashley Taylor Buck","Organization Name":"ReSource","Organization Website":"https://www.resource.finance/","Organization Role":"Founder & Principal","Bio":"Ashley Taylor Buck is an entrepreneur and international policy advisor focusing on how technology can reshape society and forge more resilient, capital-efficient economic structures.","Headshot URL":"https://drive.google.com/file/d/15WBz7Q8Dz4BVFE98LjJdtWKqRIt-sAmq/preview","Title of Talk":"How Collaborative Capital Efficiency Can Solve the Affordable Credit Crisis ","Description":"Many people around the world suffer from not having access to affordable credit. The only options available to them are so costly that they result in high rates of defaults and/or perpetual debt entrapment. This cyclical spiral results in a chronic lack of liquidity and underemployment, which severely constrain economic growth and human development in many regions around the world.  The estimated unmet demand for credit in these markets is 5.2T, which traditional finance has proven inadequate to address. Innovative financial models within the collaborative finance umbrella are better suited for tackling this problem because they don’t rely solely on external capital sources to bootstrap funding, and thus lower the cost of credit. I will share about our team’s contribution to collaborative finance, the stable credit protocol, which provides communities the tools they need to build a more self-reliant credit system and improve their local economy, while simultaneously gaining access to the global financial network. \n","Attendee Location":"In-Person","Privacy":"Public",
-"label":"Ashley Taylor Buck"
+"SDGs":"8. Decent work and economic growth | 10. Reducing inequalities","Societal Sectors":"Cooperative Economics | Circular Economy | Decentralized Web | Relations & Economics | Economics & Business","Full Name":"Sayer Tindall","Organization Name":"ReSource","Organization Website":"https://www.resource.finance/","Organization Role":"Founder & Principal","Headshot URL":"https://drive.google.com/file/d/15WBz7Q8Dz4BVFE98LjJdtWKqRIt-sAmq/preview","Title of Talk":"How Collaborative Capital Efficiency Can Solve the Affordable Credit Crisis ","Description":"Many people around the world suffer from not having access to affordable credit. The only options available to them are so costly that they result in high rates of defaults and/or perpetual debt entrapment. This cyclical spiral results in a chronic lack of liquidity and underemployment, which severely constrain economic growth and human development in many regions around the world.  The estimated unmet demand for credit in these markets is 5.2T, which traditional finance has proven inadequate to address. Innovative financial models within the collaborative finance umbrella are better suited for tackling this problem because they don’t rely solely on external capital sources to bootstrap funding, and thus lower the cost of credit. I will share about our team’s contribution to collaborative finance, the stable credit protocol, which provides communities the tools they need to build a more self-reliant credit system and improve their local economy, while simultaneously gaining access to the global financial network. \n","Attendee Location":"In-Person","Privacy":"Public",
+"label":"Sayer Tindall"
     },{
         "id": "1692138470504x346095467720867840",
 "url":"https://www.solarfoundation.xyz/",
@@ -1825,7 +1849,7 @@
 "skills":[],
 "description":"Transparent Budgets + the Future of Philanthropy",
 "size":"",
-"SDGs":"11. Sustainable cities and communities | 10. Reducing inequalities | 5. Gender equality | 1. No Poverty | 13. Climate Action | 9. Industry Innovation and Infrastructure | 8. Decent work and economic growth","Societal Sectors":"Currencies & Funding | Arts Media & Culture | Technology & Applied Sciences | Cooperative Economics | Decentralized Web","Full Name":"Caroline Woolard","Organization Name":"Open Collective","Organization Website":"https://discover.opencollective.com/","Organization Role":"Chief Cultivation Officer","Headshot URL":"https://media.licdn.com/dms/image/C4D03AQFgIdRWhyWhNA/profile-displayphoto-shrink_800_800/0/1592169516922?e=1698883200&v=beta&t=Am0gag6-70auu78-uypanbyjdi5K1pj_Zhc5zf4aOHg","Title of Talk":"TBD","Description":"Transparent Budgets + the Future of Philanthropy","Attendee Location":"In-Person","Bio":"Caroline Woolard is an artist, educator, and the Chief Cultivation Officer at Open Collective, a technology platform that supports 15,000 groups to raise and spend $35 million a year in full transparency. Woolard is a founding co-organizer of http://Art.coop which exists to grow the Solidarity Economy movement by centering systems change work led by artists.","Privacy":"Public",
+"SDGs":"5. Gender equality | 10. Reducing inequalities | 1. No Poverty | 9. Industry Innovation and Infrastructure | 11. Sustainable cities and communities | 13. Climate Action | 8. Decent work and economic growth","Societal Sectors":"Decentralized Web | Cooperative Economics | Arts Media & Culture | Technology & Applied Sciences | Currencies & Funding","Full Name":"Caroline Woolard","Organization Name":"Open Collective","Organization Website":"https://discover.opencollective.com/","Organization Role":"Chief Cultivation Officer","Headshot URL":"https://media.licdn.com/dms/image/C4D03AQFgIdRWhyWhNA/profile-displayphoto-shrink_800_800/0/1592169516922?e=1698883200&v=beta&t=Am0gag6-70auu78-uypanbyjdi5K1pj_Zhc5zf4aOHg","Title of Talk":"TBD","Description":"Transparent Budgets + the Future of Philanthropy","Attendee Location":"In-Person","Bio":"Caroline Woolard is an artist, educator, and the Chief Cultivation Officer at Open Collective, a technology platform that supports 15,000 groups to raise and spend $35 million a year in full transparency. Woolard is a founding co-organizer of http://Art.coop which exists to grow the Solidarity Economy movement by centering systems change work led by artists.","Privacy":"Public",
 "label":"Caroline Woolard"
     },{
         "id": "1692355221623x438469264607805440",
@@ -1888,8 +1912,8 @@
 "image":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693424686395x241419835372155260/Coleen%20Chase%20headshot.jpeg",
 "type":"Presenter",
 "topics":[],
-"tags":["7. Affordable and Clean Energy","5. Gender equality","13. Climate Action","17. Partnerships for the goals","Climate Environment & Resiliency","Social Justice Equality & Impact","Regenerative Economy & Systems","Social Entrepreneurship & Innovation","Collaboration & Sharing"],
-"attribute-tags":"7. Affordable and Clean Energy|5. Gender equality|13. Climate Action|17. Partnerships for the goals|Climate Environment & Resiliency|Social Justice Equality & Impact|Regenerative Economy & Systems|Social Entrepreneurship & Innovation|Collaboration & Sharing",
+"tags":["5. Gender equality","7. Affordable and Clean Energy","17. Partnerships for the goals","13. Climate Action","Climate Environment & Resiliency","Regenerative Economy & Systems","Social Justice Equality & Impact","Social Entrepreneurship & Innovation","Collaboration & Sharing"],
+"attribute-tags":"5. Gender equality|7. Affordable and Clean Energy|17. Partnerships for the goals|13. Climate Action|Climate Environment & Resiliency|Regenerative Economy & Systems|Social Justice Equality & Impact|Social Entrepreneurship & Innovation|Collaboration & Sharing",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1897,7 +1921,7 @@
 "skills":[],
 "description":"1. Small solar delivers big impacts to underserved and unpowered communities. With approx. 600 million people lacking access to electricity in Africa, accelerating access to off-grid solar is essential to climate action, social justice & ensuring no one is left behind in the transition to clean energy.\n2. Blockchain-enabled collaboration is key! By collaborating with local nonprofits in Uganda, Nigeria and very soon, Tanzania, we are leveraging the power of blockchain to fund and accelerate real-life impact on the quality of people's lives, on addressing climate change and on working towards SDG #7 & SDG 13: Achieving universal (and clean!) energy access by 2030.\n3. Business as usual won't sufficiently address our global challenges such as climate crisis, gender inequity and financial exclusion. At The Solar Foundation, we aim to reinvent the nonprofit and NGO model using the tools of web3 and the power of DeFi to create regenerative, open-source, novel funding mechanisms. A collaborative approach is essential to our mission and we are currently collaborating with GoodDollar on a community solar + UBI pilot for 50 women in Uganda, working on solar impact certs & retroactive funding, and we seek to coordinate with diverse partners who share our desire to accelerate universal access to clean energy and provide an ownership stake in the solar deployed.",
 "size":"",
-"SDGs":"5. Gender equality | 7. Affordable and Clean Energy | 17. Partnerships for the goals | 13. Climate Action","Societal Sectors":"Climate Environment & Resiliency | Regenerative Economy & Systems | Social Justice Equality & Impact | Social Entrepreneurship & Innovation | Collaboration & Sharing","Full Name":"Coleen Chase","Organization Name":"The Solar Foundation","Organization Website":"https://www.solarfoundation.xyz/","Organization Role":"Co-Founder","Bio":"The Solar Foundation’s mission is to accelerate access to off-grid solar energy for underserved communities in emerging markets. We harness the power of the sun and the power of the blockchain to deliver real-world impact by providing reliable and affordable access to clean electricity while reducing CO2e and increasing climate resilience.","Headshot URL":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693424686395x241419835372155260/Coleen%20Chase%20headshot.jpeg","Title of Talk":"Empowering Women by Using Web3 & Solar: How the Solar Foundation harnesses the power of the sun + the power of blockchain to accelerate off-grid solar for underserved communities in Africa.\n","Description":"1. Small solar delivers big impacts to underserved and unpowered communities. With approx. 600 million people lacking access to electricity in Africa, accelerating access to off-grid solar is essential to climate action, social justice & ensuring no one is left behind in the transition to clean energy.\n2. Blockchain-enabled collaboration is key! By collaborating with local nonprofits in Uganda, Nigeria and very soon, Tanzania, we are leveraging the power of blockchain to fund and accelerate real-life impact on the quality of people's lives, on addressing climate change and on working towards SDG #7 & SDG 13: Achieving universal (and clean!) energy access by 2030.\n3. Business as usual won't sufficiently address our global challenges such as climate crisis, gender inequity and financial exclusion. At The Solar Foundation, we aim to reinvent the nonprofit and NGO model using the tools of web3 and the power of DeFi to create regenerative, open-source, novel funding mechanisms. A collaborative approach is essential to our mission and we are currently collaborating with GoodDollar on a community solar + UBI pilot for 50 women in Uganda, working on solar impact certs & retroactive funding, and we seek to coordinate with diverse partners who share our desire to accelerate universal access to clean energy and provide an ownership stake in the solar deployed.","Attendee Location":"In-Person","Organization Logo":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693423091167x120535997863341570/TheSolarFoundationNewLogo.jpg","Privacy":"Public",
+"SDGs":"5. Gender equality | 7. Affordable and Clean Energy | 17. Partnerships for the goals | 13. Climate Action","Societal Sectors":"Climate Environment & Resiliency | Regenerative Economy & Systems | Social Justice Equality & Impact | Social Entrepreneurship & Innovation | Collaboration & Sharing","Full Name":"Coleen Chase","Organization Name":"The Solar Foundation","Organization Website":"https://www.solarfoundation.xyz/","Organization Role":"Co-Founder","Bio":"The Solar Foundation’s mission is to accelerate access to off-grid solar energy for underserved communities in emerging markets. We harness the power of the sun and the power of the blockchain to deliver real-world impact by providing reliable and affordable access to clean electricity while reducing CO2e and increasing climate resilience.","Headshot URL":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693424686395x241419835372155260/Coleen%20Chase%20headshot.jpeg","Title of Talk":"Using New Technologies to Fund Solar in Developing Countries\n","Description":"This talk will discuss the mission and impact of The Solar Foundation, why we're passionate about blockchain-enabled, off-grid solar solutions for underserved communities, and how we're leveraging new technologies for a transformative approach to scaling impact.","Attendee Location":"In-Person","Organization Logo":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693423091167x120535997863341570/TheSolarFoundationNewLogo.jpg","Organization Logo":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693423091167x120535997863341570/TheSolarFoundationNewLogo.jpg","Privacy":"Public",
 "label":"Coleen Chase"
     },{
         "id": "1692739700221x841803853172310000",
@@ -1993,7 +2017,7 @@
         "id": "1691659017840x210250434614031500",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1691659017840x210250434614031500&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694016132125x319789271832858750/Sindre%20Ostgard.jpeg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694625247787x486993429334670900/Sindre%20Ostgard.jpeg",
 "type":"Presenter",
 "topics":[],
 "tags":[],
@@ -2131,7 +2155,7 @@
 "skills":[],
 "description":"Unlocking Potential with Gratitude-Based Learning: A Guide to Improving Our Schools, Companies, and Communities",
 "size":"",
-"Speaker Status":"Applied","Full Name":"Adam Fishman","Organization Name":"Onora Global","Organization Role":"Co-Founder","Description":"Unlocking Potential with Gratitude-Based Learning: A Guide to Improving Our Schools, Companies, and Communities","Attendee Location":"Virtual","Bio":"www.OnoraGlobal.com/Lab\nCo-creator of a new field of education & innovation called Gratitude-Based Learning. We've trained youth & adults across 6 continents how to learn, grow, and evolve (themselves & their teams/organizations) using gratitude and curiosity.","Privacy":"Private",
+"Speaker Status":"Applied","Full Name":"Adam Fishman","Organization Name":"Onora Global","Organization Role":"Co-Founder","Description":"Unlocking Potential with Gratitude-Based Learning: A Guide to Improving Our Schools, Companies, and Communities","Attendee Location":"Virtual","Bio":"www.OnoraGlobal.com/Lab\nCo-creator of a new field of education & innovation called Gratitude-Based Learning. We've trained youth & adults across 6 continents how to learn, grow, and evolve (themselves & their teams/organizations) using gratitude and curiosity.","Privacy":"Public",
 "label":"Adam Fishman"
     },{
         "id": "1691601733466x134180148793311230",
@@ -2315,21 +2339,21 @@
 "label":"Restless Group"
     },{
         "id": "1693418292444x608312007690855400",
-"url":"",
+"url":"www.OpenCivics.co",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1693418292444x608312007690855400&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694016066202x691809474172356400/Benjamin%20Life.jpeg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694655585589x974228311093994200/Benjamin%20Life.jpeg",
 "type":"Presenter",
 "topics":[],
-"tags":[],
-"attribute-tags":"",
+"tags":["Innovation Invention & Ideation","Technology & Applied Sciences","Food Habitat & Biodiversity","Collaboration & Sharing","1. No Poverty","2. Zero hunger","3. Good health and well-being for people","8. Decent work and economic growth","9. Industry Innovation and Infrastructure","10. Reducing inequalities","11. Sustainable cities and communities","13. Climate Action","15. Life on Land","17. Partnerships for the goals"],
+"attribute-tags":"Innovation Invention & Ideation|Technology & Applied Sciences|Food Habitat & Biodiversity|Collaboration & Sharing|1. No Poverty|2. Zero hunger|3. Good health and well-being for people|8. Decent work and economic growth|9. Industry Innovation and Infrastructure|10. Reducing inequalities|11. Sustainable cities and communities|13. Climate Action|15. Life on Land|17. Partnerships for the goals",
 "sectors":[],
 "locations":[],
 "address":"",
 "types":[],
 "skills":[],
-"description":"",
+"description":"We’re all inherently stewards as participants in the places and on the planet that we share. \n\nAnd when our systems of collective stewardship are insufficient to empower people to care for our home and for each other, we have a sacred civic responsibility to innovate.",
 "size":"",
-"Full Name":"Benjamin Life ","Privacy":"Public","Headshot URL":"https://web.miniextensions.com/api/public-attachments/4Ezb7NeecnqxBhNylmiL/recpDPKoLAkm06BQp?attachmentNumber=1",
+"Societal Sectors":"Food Habitat & Biodiversity | Innovation Invention & Ideation | Collaboration & Sharing | Technology & Applied Sciences","SDGs":"10. Reducing inequalities | 9. Industry Innovation and Infrastructure | 15. Life on Land | 3. Good health and well-being for people | 11. Sustainable cities and communities | 13. Climate Action | 2. Zero hunger | 17. Partnerships for the goals | 1. No Poverty | 8. Decent work and economic growth","Organization Logo":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694653187862x893925712037904500/IMG_6854.webp","Organization Role":"Co-Founder","Organization Name":"OpenCivics","Bio":"OpenCivics convenes and facilitates a civic innovation network of leaders, innovators, change agents, and public servants actualized in service to the public good.\n\nTogether, we form a research and development consortium by connecting projects and organizations in an open collaborative ecosystem. This decentralized institution utilizes collaborative design and governance processes to generate actionable solutions to outstanding public needs and critical civilizational challenges.\n\nThrough synchronizing independent actors in their shared purposes and creating synergy through frameworks of agreement that promote trust and transparency, OpenCivics is a return to the origin of civics as the sacred and shared responsibility to engage the public in co-creating a participatory, vital and resilient civilization.","Title of Talk":"Civic Innovation For People & Planet","Description":"We’re all inherently stewards as participants in the places and on the planet that we share. \n\nAnd when our systems of collective stewardship are insufficient to empower people to care for our home and for each other, we have a sacred civic responsibility to innovate.","Full Name":"Benjamin Life ","Privacy":"Public","Headshot URL":"https://web.miniextensions.com/api/public-attachments/4Ezb7NeecnqxBhNylmiL/recpDPKoLAkm06BQp?attachmentNumber=1","Organization Website":"www.OpenCivics.co","Attendee Location":"In-Person",
 "label":"Benjamin Life "
     },{
         "id": "1693418321568x101479586036745680",
@@ -2461,7 +2485,7 @@
         "id": "1693418464407x487152992367161800",
 "url":"http://gooddollar.org/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1693418464407x487152992367161800&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694134478303x454704074391066000/Anna_Stone-060-700x700%20%281%29%20%281%29%20%281%29%20%281%29.jpg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694625275497x319989114630112100/Anna_Stone-060-700x700%20%281%29%20%281%29%20%281%29%20%281%29.jpg",
 "type":"Presenter",
 "topics":[],
 "tags":["Relations & Economics","Currencies & Funding","Cooperative Economics","Circular Economy","Technology Culture & Society","1. No Poverty","3. Good health and well-being for people","5. Gender equality","8. Decent work and economic growth","10. Reducing inequalities","13. Climate Action"],
@@ -2473,7 +2497,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"Societal Sectors":"Relations & Economics | Currencies & Funding | Cooperative Economics | Circular Economy | Technology Culture & Society","SDGs":"3. Good health and well-being for people | 1. No Poverty | 13. Climate Action | 10. Reducing inequalities | 5. Gender equality | 8. Decent work and economic growth","Organization Role":"Executive Director","Organization Name":"GoodDollar","Bio":"Anna Stone is an accomplished Web3 innovator and passionate advocate for using crypto to advance financial inclusion. Stone is the Executive Director and one of the founding team members behind GoodDollar, the world's largest crypto universal basic income project that is used by over 500,000 people around the globe, and one of the industry's strongest examples of blockhchain making a positive impact. Stone also leads the corporate social responsibility division at eToro, and contributes to the Web3 business and product strategy. Her journey to blockchain began in 2018, when she led growth for the Bancor Protocol in the early days of decentralized finance. She has over 12 years experience in bringing to market complex technologies and leading growth teams across Web3, blockchain, big data, and advanced analytics. She holds a BA from Dartmouth College, and a masters in global political economy from The Fletcher School, at Tufts.","Full Name":"Anna Stone","Privacy":"Public","Headshot URL":"https://web.miniextensions.com/api/public-attachments/4Ezb7NeecnqxBhNylmiL/rec9SRCBwZTGyMT32/1","Organization Website":"http://gooddollar.org/","Attendee Location":"In-Person",
+"Societal Sectors":"Cooperative Economics | Circular Economy | Currencies & Funding | Technology Culture & Society | Relations & Economics","SDGs":"1. No Poverty | 3. Good health and well-being for people | 8. Decent work and economic growth | 5. Gender equality | 10. Reducing inequalities | 13. Climate Action","Organization Logo":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694195694805x298544020585121540/Logo_Wide.jpeg","Organization Role":"Executive Director","Organization Name":"GoodDollar","Bio":"Anna Stone is an accomplished Web3 innovator and passionate advocate for using crypto to advance financial inclusion. Stone is the Executive Director and one of the founding team members behind GoodDollar, the world's largest crypto universal basic income project that is used by over 500,000 people around the globe, and one of the industry's strongest examples of blockhchain making a positive impact. Stone also leads the corporate social responsibility division at eToro, and contributes to the Web3 business and product strategy. Her journey to blockchain began in 2018, when she led growth for the Bancor Protocol in the early days of decentralized finance. She has over 12 years experience in bringing to market complex technologies and leading growth teams across Web3, blockchain, big data, and advanced analytics. She holds a BA from Dartmouth College, and a masters in global political economy from The Fletcher School, at Tufts.","Title of Talk":"Utopia or Dystopia - The Role of Universal Basic Income and Blockchain in Building the Next Sustainable Business Model for Humanity ","Full Name":"Anna Stone","Privacy":"Public","Headshot URL":"https://web.miniextensions.com/api/public-attachments/4Ezb7NeecnqxBhNylmiL/rec9SRCBwZTGyMT32/1","Organization Website":"http://gooddollar.org/","Attendee Location":"In-Person",
 "label":"Anna Stone"
     },{
         "id": "1693418486809x866724368629741400",
@@ -2569,8 +2593,8 @@
         "id": "1693575000201x991089529457607000",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1693575000201x991089529457607000&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1677703083152x721471071221902800/structure.png",
-"type":"Track",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
+"type":"Location",
 "topics":[],
 "tags":[],
 "attribute-tags":"",
@@ -2582,7 +2606,7 @@
 "description":"",
 "size":"",
 
-"label":"Main Stage"
+"label":"Royalton Main Stage"
     },{
         "id": "1693683351465x994379165796925400",
 "url":"",
@@ -2599,7 +2623,7 @@
 "skills":[],
 "description":"Panelist: Education in a Time between Worlds",
 "size":"",
-"Full Name":"Danny Laker","Organization Name":"ANEXO.IT Ventures ","Organization Role":"CEO ","Bio":"Serial Entrepreneur & CEO","Description":"Panelist: Education in a Time between Worlds","Attendee Location":"In-Person","Speaker Status":"Applied",
+"Full Name":"Danny Laker","Organization Name":"ANEXO.IT Ventures ","Organization Role":"CEO ","Bio":"Serial Entrepreneur & CEO","Description":"Panelist: Education in a Time between Worlds","Attendee Location":"In-Person","Speaker Status":"Applied","Privacy":"Public",
 "label":"Danny Laker"
     },{
         "id": "1693691665299x126091762520817660",
@@ -2675,10 +2699,28 @@
 "label":"Timothy Kwabla Zilevu"
     },{
         "id": "1693971413900x361889988266695300",
-"url":"",
+"url":"https://www.theweavemagazine.earth/",
 "object url":"https://www.catalist.network/trove-space/tis23?object=1693971413900x361889988266695300&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1693971413089x376499156849816600/convert.jpg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694624998044x342070085462952100/convert.jpg",
 "type":"Presenter",
+"topics":[],
+"tags":["Design","Education & Learning","Creativity Expression & Language","Communications & Media","Networks & Connectivity","4. Quality Education","2. Zero hunger","1. No Poverty","3. Good health and well-being for people","5. Gender equality","6. Clean Water and Sanitation","8. Decent work and economic growth","16. Peace Justice & Strong Institutions","17. Partnerships for the goals","15. Life on Land","14. Life Below Water","12. Responsible consumption and production","13. Climate Action","10. Reducing inequalities","11. Sustainable cities and communities","9. Industry Innovation and Infrastructure","7. Affordable and Clean Energy"],
+"attribute-tags":"Design|Education & Learning|Creativity Expression & Language|Communications & Media|Networks & Connectivity|4. Quality Education|2. Zero hunger|1. No Poverty|3. Good health and well-being for people|5. Gender equality|6. Clean Water and Sanitation|8. Decent work and economic growth|16. Peace Justice & Strong Institutions|17. Partnerships for the goals|15. Life on Land|14. Life Below Water|12. Responsible consumption and production|13. Climate Action|10. Reducing inequalities|11. Sustainable cities and communities|9. Industry Innovation and Infrastructure|7. Affordable and Clean Energy",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The essence of The Weave Magazine is a design journey from human regeneration to planetary regeneration. In this talk, we will embark on this journey together and explore how the The Weave is supporting the expansion of the Regenaissance and the rise of a new paradigm of regenerative communication and media. ",
+"size":"",
+"Societal Sectors":"Networks & Connectivity | Creativity Expression & Language | Design | Communications & Media | Education & Learning","SDGs":"16. Peace Justice & Strong Institutions | 6. Clean Water and Sanitation | 1. No Poverty | 5. Gender equality | 8. Decent work and economic growth | 17. Partnerships for the goals | 10. Reducing inequalities | 15. Life on Land | 3. Good health and well-being for people | 7. Affordable and Clean Energy | 13. Climate Action | 9. Industry Innovation and Infrastructure | 11. Sustainable cities and communities | 14. Life Below Water | 4. Quality Education | 12. Responsible consumption and production | 2. Zero hunger","Organization Logo":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694203393626x397186218186963840/logo_The_Weave.png","Organization Role":"Founder, Editor-in-Chief & Creative Director","Organization Name":"The Weave Magazine","Bio":"The Weave - Human & Planetary Regeneration in Motion opened its seasonal pages for the first time on September 22, 2022. \n\nOur multimedia publication bloomed with the mission to reflect the vastness and the colours of the global regenerative movement by amplifying inspiring, pioneering voices of regenerative visionaries and communities. \n\nThrough authentic and heart-driven sharing of ideas, experiences, perspectives, best practices, and other New-Earth intelligences and technologies, The Weave cradles the vision to inspire readers to live consciously and regeneratively by becoming a worldwide pillar publication for the visionary voices, the weavers, and the deep listeners of the Regenaissance. \n\nWe are a values-based, purpose-driven and community-powered co-creative magazine. Our editorial choices are made independently and in service of a new world that is collectively woven for the thriving of all life. \n\nIn the spirit of regeneration, we accept gifts, grants and sponsorship from individuals and organizations who embody regenerative solutions on the level of the individual, the community and/or the planet and would like to support our mission.\n\nLet’s thrive together. \n\nWe, The Weave. ","Title of Talk":"Regenerative Impact Media - Introducing The Weave","Description":"The essence of The Weave Magazine is a design journey from human regeneration to planetary regeneration. In this talk, we will embark on this journey together and explore how the The Weave is supporting the expansion of the Regenaissance and the rise of a new paradigm of regenerative communication and media. ","Full Name":"Barbara Lima","Privacy":"Public","Headshot URL":"https://media.licdn.com/dms/image/C5603AQFXeR_7Puy7dw/profile-displayphoto-shrink_800_800/0/1662674627522?e=1699488000&v=beta&t=QRJePT_5-FF1DYuC_e7ka3tB6AK0Xqc0ob_rJLxG4cY","Organization Website":"https://www.theweavemagazine.earth/","Attendee Location":"In-Person",
+"label":"Barbara Lima"
+    },{
+        "id": "1694626034337x806144523936003500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626034337x806144523936003500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
 "topics":[],
 "tags":[],
 "attribute-tags":"",
@@ -2689,8 +2731,1970 @@
 "skills":[],
 "description":"",
 "size":"",
-"Full Name":"Barbara Lima","Privacy":"Public","Headshot URL":"https://media.licdn.com/dms/image/C5603AQFXeR_7Puy7dw/profile-displayphoto-shrink_800_800/0/1662674627522?e=1699488000&v=beta&t=QRJePT_5-FF1DYuC_e7ka3tB6AK0Xqc0ob_rJLxG4cY",
-"label":"Barbara Lima"
+
+"label":"Co-creating A Regenerative Blue Economy For All"
+    },{
+        "id": "1694626210205x311391736072086400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626210205x311391736072086400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"7 Gen Cities"
+    },{
+        "id": "1694626211372x355729309731968700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626211372x355729309731968700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"A New City Focused on Longevity"
+    },{
+        "id": "1694626212522x930329220321438300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626212522x930329220321438300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"A Year\"s Worth of Skill Development In 8 Weeks"
+    },{
+        "id": "1694626213741x397441372743857500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626213741x397441372743857500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"ACE TCG - Games To Spread Memes"
+    },{
+        "id": "1694626215155x575359515997951400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626215155x575359515997951400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Beating Big Oil With Indigenous Soverignty"
+    },{
+        "id": "1694626216784x960927655989084700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626216784x960927655989084700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Beyond Sustainability - Regeneration"
+    },{
+        "id": "1694626218103x529070746260112060",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626218103x529070746260112060&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Bringing African Developers To The Global Market"
+    },{
+        "id": "1694626219228x730956317119662000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626219228x730956317119662000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Can The Stock Market Regenerate The Earth? A Potential New Multi-Trillion Dollar Opportunity"
+    },{
+        "id": "1694626220326x950310354071046700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626220326x950310354071046700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Catawba Special Economic Zone"
+    },{
+        "id": "1694626224536x911384448836427800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626224536x911384448836427800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Community-Based Financial Innovations Showcase (First, Berkshares Commmunity Currency)"
+    },{
+        "id": "1694626225976x461785080264592450",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626225976x461785080264592450&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Crowdsourced Compost Networks In New York City"
+    },{
+        "id": "1694626227057x385377731652024400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626227057x385377731652024400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Eliminating All Waste (While Sequestering Carbon!)"
+    },{
+        "id": "1694626228152x490025665902939600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626228152x490025665902939600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Funding Impact Latin America"
+    },{
+        "id": "1694626229341x177190580806368500",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626229341x177190580806368500&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Future of Governance and Conscious Leadership"
+    },{
+        "id": "1694626230542x539136862340155600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626230542x539136862340155600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"GoodDollar Universal Basic Income"
+    },{
+        "id": "1694626232041x290724203540025700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626232041x290724203540025700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"How can global blockchain technology enable sustainable local impact?"
+    },{
+        "id": "1694626235115x836067976697020300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626235115x836067976697020300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"How To Embed Values In Economic Systems"
+    },{
+        "id": "1694626236413x501993773920236900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626236413x501993773920236900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Impact Media and The Vital Importance of Storytelling For Catalizing Collective Climate Action"
+    },{
+        "id": "1694626237552x641680741071508200",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626237552x641680741071508200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Incentive Competitions For 10Xing Impact"
+    },{
+        "id": "1694626239250x614988123303952000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626239250x614988123303952000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"It\"s Time To Unite Humanity - Global Unity and Transformative Impact Summit"
+    },{
+        "id": "1694626240562x878680644860716000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626240562x878680644860716000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Joyful Education in Jails"
+    },{
+        "id": "1694626241646x447102088994840060",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626241646x447102088994840060&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Lessons From Bhutan: Educating For Happiness "
+    },{
+        "id": "1694626242933x649048257052212900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626242933x649048257052212900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Negotiating Between Contentious Nations- Lessons From The WTO, China/Taiwan, and Russia/Ukraine"
+    },{
+        "id": "1694626244094x937377328363944600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626244094x937377328363944600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"New York City Watershed and Regional Food Economies"
+    },{
+        "id": "1694626245602x190083944583066430",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626245602x190083944583066430&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"One Dollar/Month To Change The World"
+    },{
+        "id": "1694626246918x490700923516566300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626246918x490700923516566300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"OpenCivics: Giving Power To The People"
+    },{
+        "id": "1694626248194x275712942849868360",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626248194x275712942849868360&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Regen Networks: Using Sensors To Verify Regeneration Efforts"
+    },{
+        "id": "1694626249415x988559432680170100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626249415x988559432680170100&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Regenitech: Producing Elecetricity Through Biowaste Reactors"
+    },{
+        "id": "1694626250599x225436591673267900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626250599x225436591673267900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Restoring Watersheds In India and Beyond"
+    },{
+        "id": "1694626251859x756590456947692200",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626251859x756590456947692200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Shelter For Everyone - 20 Years of Hexayurt"
+    },{
+        "id": "1694626253128x702996990075349400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626253128x702996990075349400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"The Pokemon Go of Education"
+    },{
+        "id": "1694626254547x416304153777840900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626254547x416304153777840900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"The Power of BIPOC Food Coops"
+    },{
+        "id": "1694395545678x557540544912031740",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694395545678x557540544912031740&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The current UNFCCC process is failing to resolve the climate crisis because greenhouse gas emissions are intrinsically linked to economic activity.  Dr Delton Chen introduces a new development pathway for the world economy, called “optimal growth”. \n\nOptimal growth is framed by a new climate policy and carbon currency that aim to trigger a radical shift in cooperation between governments and financial institutions for meeting the Paris climate goals. The new policy requires governments to coordinate their central banks to reach Net Zero emissions without using offsetting.",
+"size":"",
+"Full Name":"Dr Delton Chen","Organization Name":"Global Carbon Reward","Organization Role":"Project Director & Founder","Description":"The current UNFCCC process is failing to resolve the climate crisis because greenhouse gas emissions are intrinsically linked to economic activity.  Dr Delton Chen introduces a new development pathway for the world economy, called “optimal growth”. \n\nOptimal growth is framed by a new climate policy and carbon currency that aim to trigger a radical shift in cooperation between governments and financial institutions for meeting the Paris climate goals. The new policy requires governments to coordinate their central banks to reach Net Zero emissions without using offsetting.","Attendee Location":"In-Person","Bio":"Introduction\n\nThe Global Carbon Reward (GCR) is a new international climate policy that is designed to dissolve political gridlock and establish a regenerative financial system.\n\nPolicy Breakthroughs\n\nThe GCR policy includes a new financial mechanism that can:\n●\tmobilize several trillion dollars per year of debt-free climate finance\n●\treduce reliance on carbon offsetting\n●\tfinance “energy asset exchanges” for leaving fossil fuels in the ground\n●\tfund the strategic decarbonization of hard-to-abate industries\n●\tfund greenhouse gas removal in a manner that avoids a moral hazard\n●\tprotect vulnerable communities and valuable ecosystems\n\nThe GCR policy is grounded in an expanded economic theory that promotes:\n●\tcooperation via carrots and sticks\n●\teconomic growth management\n●\tgood governance","Speaker Status":"Applied",
+"label":"Dr Delton Chen"
+    },{
+        "id": "1694626255580x745032861691636400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626255580x745032861691636400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"The Surprising 1,000X+ Return Climate Investment Opportunity"
+    },{
+        "id": "1694626256938x624163855164533000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626256938x624163855164533000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Upskilling For A Radically Better Future"
+    },{
+        "id": "1694626258078x248022315835774620",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626258078x248022315835774620&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Using Film To Amplify Indigenous Voices"
+    },{
+        "id": "1694626260148x477233362606561900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626260148x477233362606561900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Using New Technologies To Fund Solar In Developing Countries"
+    },{
+        "id": "1694626261159x174514910955133600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626261159x174514910955133600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Why Bioregionalism Must Be The Heart of Ecological Efforts"
+    },{
+        "id": "1694626262526x786628446759783000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626262526x786628446759783000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Why Everyone Should Have Their Own Token"
+    },{
+        "id": "1694626263752x611668917680484600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626263752x611668917680484600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Why Philosophy Must Be Embedded In Adult(technology) Education"
+    },{
+        "id": "1694626264881x219897677117536700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694626264881x219897677117536700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"WorldCoin and Trust"
+    },{
+        "id": "1694018492900x345380340934639600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694018492900x345380340934639600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Web3 is a nascent space where there has been a slew of governance and grant program experiments run in recent years. This talk will provide some takeaways after interviewing operators and leaders from over a dozen grant programs, especially highlighting how these programs define and measure impact. The talk will also cover the question of the role of governance in grant programs and what activities and practices need to take place to better measure impact. ",
+"size":"",
+"Full Name":"Eugene Leventhal","Organization Name":"Metagov","Organization Role":"Interim Executive Director","Bio":"Metagov is a 501c3 nonprofit exploring digital governance broadly. We conduct research, develop standards, and build community amongst governance researchers and practitioners. A new line of research that I kicked off this year is around grants management in the web3 space and what we can learn about the governance of grant programs and how impact is defined and measured in the web3 space. ","Description":"Web3 is a nascent space where there has been a slew of governance and grant program experiments run in recent years. This talk will provide some takeaways after interviewing operators and leaders from over a dozen grant programs, especially highlighting how these programs define and measure impact. The talk will also cover the question of the role of governance in grant programs and what activities and practices need to take place to better measure impact. ","Attendee Location":"Not Sure Yet","Speaker Status":"Applied",
+"label":"Eugene Leventhal"
+    },{
+        "id": "1694107487345x548886021684592600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694107487345x548886021684592600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Would like to share our theories of change at Silvi, namely how it will take a billion people to plant a trillion trees. And how that theory of change compares and contrasts in urban and rural environments. Would also like to leave everyone with a call to action on how they can propagate a tree where they live from seed or sutting",
+"size":"",
+"Attendee Location":"In-Person","Speaker Status":"Applied","Full Name":"Djimo Serodio","Organization Name":"Silvi","Organization Role":"CEO","Bio":"Silvi is building financial and coordination tools for reforestation. Features include TreeForwards, Library of species-specific methodologies, app for MRV, and OpenTrees for structured tree data standard. More info can be found here:\nhttps://twitter.com/SilviProtocol/status/1693779242952364439?s=20","Description":"Would like to share our theories of change at Silvi, namely how it will take a billion people to plant a trillion trees. And how that theory of change compares and contrasts in urban and rural environments. Would also like to leave everyone with a call to action on how they can propagate a tree where they live from seed or sutting",
+"label":"Djimo Serodio"
+    },{
+        "id": "1694126191552x662076736079396900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694126191552x662076736079396900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Bioregional Watershed Restoration is the most accessible high-impact, nature-based solution that we can begin to apply immediately, everywhere, all at once, for addressing the looming Climate Catastrophe. There is ample evidence to indicate that regenerating the local small Water Cycle significantly provides beneficial influence to the greater planetary Water Cycle. \n\nThe traditional Native Hawaiian model of the Moku Ahupua'a Watershed management system and the rainforest guardianship of the Amazon biosphere by the Indigenous Peoples is clear proof of concept that what is being proposed, adapted to each Watersheds' unique circumstances and to our modern times, is a simple system that will work well over the long run. The torching of Lahaina is a prime example of the dire consequences in following land use practices that DO NOT work, killing our precious children.\n\nWe already have every tool we will need, as well as a full quiver of expertise and viable solutions ready to engage for this movement. What we're missing is the comprehensive organizational design framework serving to bridge our vast inspiration for a world that works for All Life with the effective, efficient implementation of practical field projects getting the work done in the shortest amount of time.\n\nOn behalf of generations far into the future. we must ask ourselves, how do we organize our species in turning the tipping point towards abundant thriving life?\n\nTHIS is the most important conversation we could be having as we gather together during this Climate Week in NYC.",
+"size":"",
+"Full Name":"Elizabeth Herald","Organization Name":"WaterUnity Network / Be. Platform","Organization Role":"Whole-System Organizational Designer","Bio":"The WaterUnity Networks (WUN), guided by the Watershed Wisdom Council Concept, is an emerging whole-system framework that weaves online partner platforms and Watershed restoration practitioners with the committed concerned citizens ready to work together toward the shared evolutionary imperative of regenerating our bioregions and Watersheds in order to rebalance our planetary Water Cycle.\n\nBe. is an aligned online solutions-ready community mobilization platform aiming to change how humans live in the world.  Our mission is to enable secure community mobilization at-scale & at-pace to advance social causes led by members sharing common values and principles, offering curated products and services design to make a significant beneficial difference for our environment and quality of life.\n\nProviding a curated set of navigational templates and curriculum, as well as a strong Water-centric Ethos, this alliance of organizational design structures brings together the Water Stewards deeply committed to inspiring an aligned, locally empowered, regionally connected, and globally networked system of Watershed Wisdom Councils, striving to aggregate our collective intelligence for retaining what remains of our intact vital biomes and restoring what we've lost of our Watersheds and bioregions... from Source to Sea and back again.\n\nOur ultimate goal is to cherish Water if our very existence depends on it (because it does) to revitalize and align society's core relationship within the essential Nature of Water and our sustaining Earth's biosphere as the source of all Life, rebooting humanity from the roots up, for the enduring benefit of present and future generations of All Life.\n\n\n","Attendee Location":"In-Person","Speaker Status":"Applied","Description":"Bioregional Watershed Restoration is the most accessible high-impact, nature-based solution that we can begin to apply immediately, everywhere, all at once, for addressing the looming Climate Catastrophe. There is ample evidence to indicate that regenerating the local small Water Cycle significantly provides beneficial influence to the greater planetary Water Cycle. \n\nThe traditional Native Hawaiian model of the Moku Ahupua'a Watershed management system and the rainforest guardianship of the Amazon biosphere by the Indigenous Peoples is clear proof of concept that what is being proposed, adapted to each Watersheds' unique circumstances and to our modern times, is a simple system that will work well over the long run. The torching of Lahaina is a prime example of the dire consequences in following land use practices that DO NOT work, killing our precious children.\n\nWe already have every tool we will need, as well as a full quiver of expertise and viable solutions ready to engage for this movement. What we're missing is the comprehensive organizational design framework serving to bridge our vast inspiration for a world that works for All Life with the effective, efficient implementation of practical field projects getting the work done in the shortest amount of time.\n\nOn behalf of generations far into the future. we must ask ourselves, how do we organize our species in turning the tipping point towards abundant thriving life?\n\nTHIS is the most important conversation we could be having as we gather together during this Climate Week in NYC.",
+"label":"Elizabeth Herald"
+    },{
+        "id": "1694171746552x701802149820760000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694171746552x701802149820760000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Anne Charlotte Mornington will describe how Olio's sharing community grew from a few users in a North London neighbouhood in the UK to 7 million community members around the world, with over 130 million portions of food shared and 10 million household items given away. She will describe how Olio leveraged community to scale their sharing platfrom and how their product evolved to better acheive their waste reduction goal. ",
+"size":"",
+"Full Name":"Anne Charlotte Mornington","Organization Name":"Olio","Organization Role":"Head of Impact ","Bio":"Olio is an app tackling the climate crisis by solving the problem of waste in the home & local community. \nWe do this by connecting people with their local community so they can give, get, buy, sell, lend and borrow pre-loved items, as well as give away surplus food. \nWe also have 100,000 volunteers who collect unsold food from local businesses and redistribute it to the community via the Olio app\n","Description":"Anne Charlotte Mornington will describe how Olio's sharing community grew from a few users in a North London neighbouhood in the UK to 7 million community members around the world, with over 130 million portions of food shared and 10 million household items given away. She will describe how Olio leveraged community to scale their sharing platfrom and how their product evolved to better acheive their waste reduction goal. ","Attendee Location":"In-Person","Speaker Status":"Applied",
+"label":"Anne Charlotte Mornington"
+    },{
+        "id": "1694273413772x392829255806353400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694273413772x392829255806353400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Investing in blockchain and AI for impact ",
+"size":"",
+"Full Name":"Nisa Amoils","Organization Name":"A100x","Organization Role":"Managing Partner ","Bio":"Investing in blockchain and AI for impact ","Description":"Investing in blockchain and AI for impact ","Attendee Location":"In-Person","Speaker Status":"Applied",
+"label":"Nisa Amoils"
+    },{
+        "id": "1694395015967x435531223323639800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694395015967x435531223323639800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677696925337x552445871860436400/speaker.png",
+"type":"Presenter",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"The current UNFCCC process is failing to resolve the climate crisis because greenhouse gas emissions are intrinsically linked to economic activity.  Dr Delton Chen introduces a new development pathway for the world economy, called “optimal growth”. \n\nOptimal growth is framed by a new climate policy and carbon currency that aim to trigger a radical shift in cooperation between governments and financial institutions for meeting the Paris climate goals. The new policy requires governments to coordinate their central banks to reach Net Zero emissions without using offsetting.",
+"size":"",
+"Full Name":"Dr Delton Chen","Organization Name":"Global Carbon Reward","Organization Role":"Project Director & Founder","Bio":"Introduction\n\nThe Global Carbon Reward (GCR) is a new international climate policy that is designed to dissolve political gridlock and establish a regenerative financial system.\n\nPolicy Breakthroughs\n\nThe GCR policy includes a new financial mechanism that can:\n●\tmobilize several trillion dollars per year of debt-free climate finance\n●\treduce reliance on carbon offsetting\n●\tfinance “energy asset exchanges” for leaving fossil fuels in the ground\n●\tfund the strategic decarbonization of hard-to-abate industries\n●\tfund greenhouse gas removal in a manner that avoids a moral hazard\n●\tprotect vulnerable communities and valuable ecosystems\n\nThe GCR policy is grounded in an expanded economic theory that promotes:\n●\tcooperation via carrots and sticks\n●\teconomic growth management\n●\tgood governance\n\n","Attendee Location":"In-Person","Description":"The current UNFCCC process is failing to resolve the climate crisis because greenhouse gas emissions are intrinsically linked to economic activity.  Dr Delton Chen introduces a new development pathway for the world economy, called “optimal growth”. \n\nOptimal growth is framed by a new climate policy and carbon currency that aim to trigger a radical shift in cooperation between governments and financial institutions for meeting the Paris climate goals. The new policy requires governments to coordinate their central banks to reach Net Zero emissions without using offsetting.","Speaker Status":"Applied",
+"label":"Dr Delton Chen"
+    },{
+        "id": "1694647913507x905119064114930300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694647913507x905119064114930300&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Richard Lipkin","Privacy":"Public",
+"label":"Richard Lipkin"
+    },{
+        "id": "1694647935307x421658234917750200",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694647935307x421658234917750200&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Kaitlin Archambault","Privacy":"Public",
+"label":"Kaitlin Archambault"
+    },{
+        "id": "1694647977461x848155416446936400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694647977461x848155416446936400&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Scott Moore","Privacy":"Public",
+"label":"Scott Moore"
+    },{
+        "id": "1694647998062x743268686400090800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694647998062x743268686400090800&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Gilad Regev","Privacy":"Public",
+"label":"Gilad Regev"
+    },{
+        "id": "1694648019412x442953372712909400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648019412x442953372712909400&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Elina Idrisova","Privacy":"Public",
+"label":"Elina Idrisova"
+    },{
+        "id": "1694648040973x726114697093925100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648040973x726114697093925100&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Emino Mahrt","Privacy":"Public",
+"label":"Emino Mahrt"
+    },{
+        "id": "1694648059841x144527401799695360",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648059841x144527401799695360&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Nedo Bellucci","Privacy":"Public",
+"label":"Nedo Bellucci"
+    },{
+        "id": "1694648080098x459927868449122200",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648080098x459927868449122200&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Laurie Maedoff","Privacy":"Public",
+"label":"Laurie Maedoff"
+    },{
+        "id": "1694648099878x227873019730774340",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648099878x227873019730774340&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"David Homan","Privacy":"Public",
+"label":"David Homan"
+    },{
+        "id": "1694648120049x890895610604485100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648120049x890895610604485100&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Steve Cohen","Privacy":"Public",
+"label":"Steve Cohen"
+    },{
+        "id": "1694648139438x882401431531743900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648139438x882401431531743900&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Forrest Landry","Privacy":"Public",
+"label":"Forrest Landry"
+    },{
+        "id": "1694648158485x584589784665110000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648158485x584589784665110000&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Kristof De Spiegeleer","Privacy":"Public",
+"label":"Kristof De Spiegeleer"
+    },{
+        "id": "1694648177515x384196696297364000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648177515x384196696297364000&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Janine Dyer","Privacy":"Public",
+"label":"Janine Dyer"
+    },{
+        "id": "1694648196562x741056237166801000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648196562x741056237166801000&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Shaila Z","Privacy":"Public",
+"label":"Shaila Z"
+    },{
+        "id": "1694648215779x715442794396344800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648215779x715442794396344800&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Ladi Amusu","Privacy":"Public",
+"label":"Ladi Amusu"
+    },{
+        "id": "1694648234495x276273109308117660",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648234495x276273109308117660&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Xander Shultz","Privacy":"Public",
+"label":"Xander Shultz"
+    },{
+        "id": "1694648253177x382072970323886100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648253177x382072970323886100&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Matthew Chavez","Privacy":"Public",
+"label":"Matthew Chavez"
+    },{
+        "id": "1694648272621x377515530823658430",
+"url":"celo.org",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648272621x377515530823658430&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":["Collaboration & Sharing","Currencies & Funding","Decentralized Web","Cooperative Economics","Regenerative Economy & Systems","1. No Poverty","8. Decent work and economic growth","17. Partnerships for the goals"],
+"attribute-tags":"Collaboration & Sharing|Currencies & Funding|Decentralized Web|Cooperative Economics|Regenerative Economy & Systems|1. No Poverty|8. Decent work and economic growth|17. Partnerships for the goals",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Societal Sectors":"Collaboration & Sharing | Currencies & Funding | Decentralized Web | Cooperative Economics | Regenerative Economy & Systems","SDGs":"1. No Poverty | 8. Decent work and economic growth | 17. Partnerships for the goals","Organization Role":"Head, Social Impact Collective","Organization Name":"Celo Foundation","Bio":"At Celo, I am part of the Ecosystem Strategy and Innovation team, which aims to support the growth of the Celo ecosystem and use blockchain technology to make financial tools accessible to anyone with a mobile phone. I head the Social Impact Collective, an initiative that aims to catalyze web3 and blockchain as a tool to help solve the world's most urgent problems and create a regenerative economy.","Full Name":"Angelo Kalaw","Privacy":"Public","Headshot URL":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1694667478054x997744574466896000/IMG_3779%203.jpg","Organization Website":"celo.org","Attendee Location":"In-Person",
+"label":"Angelo Kalaw"
+    },{
+        "id": "1694648290946x917161541151952900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648290946x917161541151952900&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Jahed Momand","Privacy":"Public",
+"label":"Jahed Momand"
+    },{
+        "id": "1694648309695x190046085221177150",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648309695x190046085221177150&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"Full Name":"Mathilde Everaere","Privacy":"Public",
+"label":"Mathilde Everaere"
+    },{
+        "id": "1694648364811x873255664153163000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648364811x873255664153163000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Changing How We Think About Change"
+    },{
+        "id": "1694648365815x839600937782580900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648365815x839600937782580900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"An Overview of The Impact Ecosystem"
+    },{
+        "id": "1694648370697x228787526966317300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648370697x228787526966317300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Impact From The VC Perspective"
+    },{
+        "id": "1694648371737x909305021553489000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648371737x909305021553489000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Panel: Impact From The Perspective of The Family Office"
+    },{
+        "id": "1694648372852x969273397898669400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648372852x969273397898669400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"An Innovative Twist on The VC Model: Catalytic Impact Foundation"
+    },{
+        "id": "1694648373863x213871597414612800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648373863x213871597414612800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Quadratic Funding, Retroactive Public Good Funding, and Regenerateive Finance, Oh My!"
+    },{
+        "id": "1694648374919x840726278302460300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648374919x840726278302460300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Friday Lunch Break"
+    },{
+        "id": "1694648375844x723663894476601900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648375844x723663894476601900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Panel: How New Technology Can Maximize Philanthropic Dollars"
+    },{
+        "id": "1694648379749x697055323441866400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648379749x697055323441866400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"ReSourcing Communities In Africa"
+    },{
+        "id": "1694648384541x798413634506267400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648384541x798413634506267400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"*Open Impact"
+    },{
+        "id": "1694648387464x228746785834372580",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648387464x228746785834372580&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Panel: The Power of Web3 For Good"
+    },{
+        "id": "1694648392942x884436729502974200",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648392942x884436729502974200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Digital Carbon Offsetting"
+    },{
+        "id": "1694648393918x284166290381495420",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648393918x284166290381495420&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Breakthrough Process Improves Crop Yields 10X"
+    },{
+        "id": "1694648398146x852999319574759200",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648398146x852999319574759200&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Impact Speeddating"
+    },{
+        "id": "1694648403678x951641514827557000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648403678x951641514827557000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Trust, Trusts, and Trustees - How We Protect Land Forever"
+    },{
+        "id": "1694648406202x605120464506217000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648406202x605120464506217000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Africa\"s Largest SME Funder: The Growth Platform"
+    },{
+        "id": "1694648410640x374240229859619300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648410640x374240229859619300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Breakthrough Shared Funding Mechaisms Developed By Rural African Women"
+    },{
+        "id": "1694648415539x462833872324776900",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648415539x462833872324776900&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Why Ecological Restoration Must Be The Heart of Impact"
+    },{
+        "id": "1694648422100x198857625095182800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648422100x198857625095182800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Saturday Lunch Break"
+    },{
+        "id": "1694648424321x250407323141450300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648424321x250407323141450300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Policy as a force for change"
+    },{
+        "id": "1694648429967x474316025337556030",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648429967x474316025337556030&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"The Transformative Power of Digital Free Zones"
+    },{
+        "id": "1694648430875x346887434880307100",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648430875x346887434880307100&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Relationships—How to Orchestrate Them to Build Purposeful Community"
+    },{
+        "id": "1694648431700x380793168620499000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648431700x380793168620499000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Crowdsourcing Governance Design"
+    },{
+        "id": "1694648432848x768964176675003300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648432848x768964176675003300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Democratizing Venture Capital"
+    },{
+        "id": "1694648434137x632071375909325300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648434137x632071375909325300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Civic Innovation and Social Justice Showcase (Breakthroughs In Prison Justice)"
+    },{
+        "id": "1694648437631x414903961765639600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648437631x414903961765639600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Panel AI "
+    },{
+        "id": "1694648439006x863926700884176000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648439006x863926700884176000&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Panel: Education in a Time Between Worlds - How New Technologies Can Help Us Navigate Education in the 21st Century Panel"
+    },{
+        "id": "1694648441570x310048547636495170",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648441570x310048547636495170&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Digital Free Zones - Freeing The World"
+    },{
+        "id": "1694648444028x843663561336079600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648444028x843663561336079600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"A Networked Society"
+    },{
+        "id": "1694648446462x236641871028002050",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648446462x236641871028002050&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Zuzalu Startup City"
+    },{
+        "id": "1694648447391x391948117540543700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648447391x391948117540543700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"LifeSkills Education For Everyone"
+    },{
+        "id": "1694648448741x353235509117151300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648448741x353235509117151300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Palau Digital Free Zone"
+    },{
+        "id": "1694648455089x109688800305713920",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648455089x109688800305713920&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Making Wisdom Accessible For Children"
+    },{
+        "id": "1694648456027x569876667343418600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648456027x569876667343418600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Gratitude-Based Learning"
+    },{
+        "id": "1694648458547x367436411750928800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648458547x367436411750928800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Sunday Lunch Break"
+    },{
+        "id": "1694648459439x708802657343492700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648459439x708802657343492700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Shelter For Everyone - 20 Years of Hexayurt"
+    },{
+        "id": "1694648460464x854437182097188700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648460464x854437182097188700&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"How Ecotech Can Free Communities From The Constraints of Corporate-Controlled Life"
+    },{
+        "id": "1694648463251x137691828244504770",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648463251x137691828244504770&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Using Art To Support Social Justice - Art for Healing Incarceration"
+    },{
+        "id": "1694648465488x379851136638312800",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648465488x379851136638312800&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Storytelling For Urban Community Change"
+    },{
+        "id": "1694648469590x639690058362936300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694648469590x639690058362936300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1668392003846x247667997380165860/presentation.svg",
+"type":"Session",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Matthew post it notes"
+    },{
+        "id": "1694652619440x858834648917055400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694652619440x858834648917055400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
+"type":"Location",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Zoom"
+    },{
+        "id": "1694652620448x558206597594541400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/tis23?object=1694652620448x558206597594541400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
+"type":"Location",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+
+"label":"Royalton Stage B"
     }
 ],
 
@@ -2707,7 +4711,7 @@
 "direction":"mutual",
 "id":"1688449353388x618041985926096000",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1688449353388x618041985926096000",
-"title":" is part of track Storytelling, Media, and Art"
+"title":" is part of track Storytelling, Media, Games & Art"
     }
 ,{
         "label": "also presented",
@@ -2735,7 +4739,7 @@
 "direction":"directed",
 "id":"1688836259372x119398661939609240",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1688836259372x119398661939609240",
-"title":"Elliott Bayev is part of track Storytelling, Media, and Art"
+"title":"Elliott Bayev is part of track Storytelling, Media, Games & Art"
     }
 ,{
         "label": "is part of track",
@@ -2805,7 +4809,7 @@
 "direction":"directed",
 "id":"1693411202434x591556672407871400",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693411202434x591556672407871400",
-"title":"New Speaker Name is part of track Cities, Network States,  and Civilization Design"
+"title":"New Speaker Name is part of track Cities, Network States, & Civilization Design"
     }
 ,{
         "label": "is part of track",
@@ -2819,7 +4823,7 @@
 "direction":"directed",
 "id":"1693419833374x814615356382156300",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693419833374x814615356382156300",
-"title":"Coleen Chase is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+"title":"Coleen Chase is part of track Financial Innovation, Regenerative Finance, and New Philanthropy"
     }
 ,{
         "label": "is part of track",
@@ -2833,7 +4837,7 @@
 "direction":"directed",
 "id":"1693419836379x398157076269538100",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693419836379x398157076269538100",
-"title":"Coleen Chase is part of track SDGs, Impact Mapping, and Impact Measurement"
+"title":"Coleen Chase is part of track SDGs, Impact Mapping & Impact Measurement"
     }
 ,{
         "label": "is part of track",
@@ -2847,7 +4851,7 @@
 "direction":"directed",
 "id":"1693419839245x112079747904984430",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693419839245x112079747904984430",
-"title":"Coleen Chase is part of track Web3 & Tech For Good"
+"title":"Coleen Chase is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -2861,7 +4865,7 @@
 "direction":"directed",
 "id":"1693420604436x907737402977228500",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693420604436x907737402977228500",
-"title":"Daniel Kleinman is part of track Bioregionalism, Regenerative Agriculture, Water, and Soil"
+"title":"Daniel Kleinman is part of track Regenerative Agriculture, Bioregionalism, Food Systems, and Soil"
     }
 ,{
         "label": "is part of track",
@@ -2889,7 +4893,7 @@
 "direction":"directed",
 "id":"1693420610393x698553901492787300",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693420610393x698553901492787300",
-"title":"Daniel Kleinman is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+"title":"Daniel Kleinman is part of track Financial Innovation, Regenerative Finance, and New Philanthropy"
     }
 ,{
         "label": "is part of track",
@@ -2903,7 +4907,7 @@
 "direction":"directed",
 "id":"1693421113579x538436109597663300",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693421113579x538436109597663300",
-"title":"Kelsey Driscoll is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+"title":"Kelsey Driscoll is part of track Financial Innovation, Regenerative Finance, and New Philanthropy"
     }
 ,{
         "label": "is part of track",
@@ -2931,7 +4935,7 @@
 "direction":"directed",
 "id":"1693421119520x726965777871625500",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693421119520x726965777871625500",
-"title":"Kelsey Driscoll is part of track Web3 & Tech For Good"
+"title":"Kelsey Driscoll is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -2973,7 +4977,7 @@
 "direction":"directed",
 "id":"1693422726212x582263946443637000",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693422726212x582263946443637000",
-"title":"Ron Rivers is part of track Web3 & Tech For Good"
+"title":"Ron Rivers is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3015,7 +5019,7 @@
 "direction":"directed",
 "id":"1693422944238x501805085811726200",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693422944238x501805085811726200",
-"title":"Taylor Kendal is part of track Web3 & Tech For Good"
+"title":"Taylor Kendal is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3029,7 +5033,7 @@
 "direction":"directed",
 "id":"1693433277273x915158970505776800",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693433277273x915158970505776800",
-"title":"Andy Tudhope  is part of track Web3 & Tech For Good"
+"title":"Andy Tudhope  is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3057,7 +5061,7 @@
 "direction":"directed",
 "id":"1693466831480x602157732729224700",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693466831480x602157732729224700",
-"title":"Minni Jain is part of track Bioregionalism, Regenerative Agriculture, Water, and Soil"
+"title":"Minni Jain is part of track Regenerative Agriculture, Bioregionalism, Food Systems, and Soil"
     }
 ,{
         "label": "is part of track",
@@ -3071,7 +5075,7 @@
 "direction":"directed",
 "id":"1693576503526x476693205310955600",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693576503526x476693205310955600",
-"title":"Daniel Kleinman is part of track Bioregionalism, Regenerative Agriculture, Water, and Soil"
+"title":"Daniel Kleinman is part of track Regenerative Agriculture, Bioregionalism, Food Systems, and Soil"
     }
 ,{
         "label": "is part of track",
@@ -3099,7 +5103,7 @@
 "direction":"directed",
 "id":"1693576509320x703927390497133300",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693576509320x703927390497133300",
-"title":"Daniel Kleinman is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+"title":"Daniel Kleinman is part of track Financial Innovation, Regenerative Finance, and New Philanthropy"
     }
 ,{
         "label": "is part of track",
@@ -3127,7 +5131,7 @@
 "direction":"directed",
 "id":"1693592693434x139345534455879380",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693592693434x139345534455879380",
-"title":"Vriti Saraf is part of track Web3 & Tech For Good"
+"title":"Vriti Saraf is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3155,7 +5159,7 @@
 "direction":"directed",
 "id":"1693592821652x618714798379026000",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693592821652x618714798379026000",
-"title":"Vriti Saraf is part of track SDGs, Impact Mapping, and Impact Measurement"
+"title":"Vriti Saraf is part of track SDGs, Impact Mapping & Impact Measurement"
     }
 ,{
         "label": "is part of track",
@@ -3169,7 +5173,7 @@
 "direction":"directed",
 "id":"1693592824744x406230313146128700",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693592824744x406230313146128700",
-"title":"Vriti Saraf is part of track Web3 & Tech For Good"
+"title":"Vriti Saraf is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3183,7 +5187,7 @@
 "direction":"mutual",
 "id":"1693593608418x954686680613388000",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693593608418x954686680613388000",
-"title":"Colton Orr is part of track Storytelling, Media, and Art"
+"title":"Colton Orr is part of track Storytelling, Media, Games & Art"
     }
 ,{
         "label": "is part of track",
@@ -3197,7 +5201,7 @@
 "direction":"mutual",
 "id":"1693593611418x801174319208701300",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693593611418x801174319208701300",
-"title":"Colton Orr is part of track Web3 & Tech For Good"
+"title":"Colton Orr is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3211,7 +5215,7 @@
 "direction":"mutual",
 "id":"1693737060261x768503605128099100",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693737060261x768503605128099100",
-"title":"Eric Annan is part of track Web3 & Tech For Good"
+"title":"Eric Annan is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3225,7 +5229,7 @@
 "direction":"mutual",
 "id":"1693737063167x796677641832709900",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693737063167x796677641832709900",
-"title":"Eric Annan is part of track Indigenous and Local Solutions Across The World"
+"title":"Eric Annan is part of track Indigenous and Local Solutions Around the World"
     }
 ,{
         "label": "is part of track",
@@ -3239,7 +5243,7 @@
 "direction":"mutual",
 "id":"1693798463273x196758141900158720",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693798463273x196758141900158720",
-"title":"Elaine Wang is part of track Cities, Network States,  and Civilization Design"
+"title":"Elaine Wang is part of track Cities, Network States, & Civilization Design"
     }
 ,{
         "label": "is part of track",
@@ -3267,7 +5271,7 @@
 "direction":"mutual",
 "id":"1693934261718x163331517238245250",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693934261718x163331517238245250",
-"title":"Anna Stone is part of track Web3 & Tech For Good"
+"title":"Anna Stone is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3281,7 +5285,7 @@
 "direction":"mutual",
 "id":"1693944626008x994223689751937400",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693944626008x994223689751937400",
-"title":"Sam Stephens is part of track Bioregionalism, Regenerative Agriculture, Water, and Soil"
+"title":"Sam Stephens is part of track Regenerative Agriculture, Bioregionalism, Food Systems, and Soil"
     }
 ,{
         "label": "is part of track",
@@ -3295,7 +5299,7 @@
 "direction":"mutual",
 "id":"1693944629057x555447690178318100",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1693944629057x555447690178318100",
-"title":"Sam Stephens is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+"title":"Sam Stephens is part of track Financial Innovation, Regenerative Finance, and New Philanthropy"
     }
 ,{
         "label": "is part of track",
@@ -3323,7 +5327,7 @@
 "direction":"mutual",
 "id":"1694017931598x212376300172300030",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1694017931598x212376300172300030",
-"title":"Chauncey St. John is part of track Financial Innovation, Regenerative Finance (ReFi), and New Philanthropy"
+"title":"Chauncey St. John is part of track Financial Innovation, Regenerative Finance, and New Philanthropy"
     }
 ,{
         "label": "is part of track",
@@ -3337,7 +5341,7 @@
 "direction":"mutual",
 "id":"1694017934559x378401675479255200",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1694017934559x378401675479255200",
-"title":"Chauncey St. John is part of track Main Stage"
+"title":"Chauncey St. John is part of track Royalton Main Stage"
     }
 ,{
         "label": "is part of track",
@@ -3351,7 +5355,7 @@
 "direction":"mutual",
 "id":"1694017937582x667530636035865700",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1694017937582x667530636035865700",
-"title":"Chauncey St. John is part of track Web3 & Tech For Good"
+"title":"Chauncey St. John is part of track Web3, AI & Tech For Good"
     }
 ,{
         "label": "is part of track",
@@ -3365,7 +5369,7 @@
 "direction":"mutual",
 "id":"1694095865707x305014381544309200",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1694095865707x305014381544309200",
-"title":"Anastasia Kalinina is part of track Cities, Network States,  and Civilization Design"
+"title":"Anastasia Kalinina is part of track Cities, Network States, & Civilization Design"
     }
 ,{
         "label": "works together with",
@@ -3394,6 +5398,118 @@
 "id":"1694144828259x772719005688397800",
 "url":"https://www.catalist.network/trove-space/tis23?connection=1694144828259x772719005688397800",
 "title":"Vincent Arena should connect with Or Katzman "
+    }
+,{
+        "label": "is part of track",
+        "from": "1693971413900x361889988266695300",
+        "to": "1688448785844x475165719604572400",
+"strength":1,
+"connection subtype":"is part of track",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694203167846x233860113142563940",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694203167846x233860113142563940",
+"title":"Barbara Lima is part of track Storytelling, Media, Games & Art"
+    }
+,{
+        "label": "is part of track",
+        "from": "1693971413900x361889988266695300",
+        "to": "1688448785844x475165719604572400",
+"strength":1,
+"connection subtype":"is part of track",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694203186376x268575336840447780",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694203186376x268575336840447780",
+"title":"Barbara Lima is part of track Storytelling, Media, Games & Art"
+    }
+,{
+        "label": "is part of track",
+        "from": "1693418292444x608312007690855400",
+        "to": "1688448787355x475779005041589760",
+"strength":1,
+"connection subtype":"is part of track",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694653005134x442368753031293000",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694653005134x442368753031293000",
+"title":"Benjamin Life  is part of track Cities, Network States, & Civilization Design"
+    }
+,{
+        "label": "is part of track",
+        "from": "1693418292444x608312007690855400",
+        "to": "1688448778691x211835393054933250",
+"strength":1,
+"connection subtype":"is part of track",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694653008060x181075398035900350",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694653008060x181075398035900350",
+"title":"Benjamin Life  is part of track Institutional Change, Civic Innovation, and Social Justice"
+    }
+,{
+        "label": "is part of track",
+        "from": "1693418292444x608312007690855400",
+        "to": "1688448775627x427127243265429400",
+"strength":1,
+"connection subtype":"is part of track",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694653011103x164223202251523320",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694653011103x164223202251523320",
+"title":"Benjamin Life  is part of track Regenerative Agriculture, Bioregionalism, Food Systems, and Soil"
+    }
+,{
+        "label": "is part of track",
+        "from": "1688844296618x381118970917290000",
+        "to": "1688448780588x393288317001168100",
+"strength":1,
+"connection subtype":"is part of track",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694653783796x262632566469571000",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694653783796x262632566469571000",
+"title":"Ron Rivers is part of track Web3, AI & Tech For Good"
+    }
+,{
+        "label": "is part of track",
+        "from": "1688844296618x381118970917290000",
+        "to": "1688448778691x211835393054933250",
+"strength":1,
+"connection subtype":"is part of track",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694653786737x196712929094463800",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694653786737x196712929094463800",
+"title":"Ron Rivers is part of track Institutional Change, Civic Innovation, and Social Justice"
+    }
+,{
+        "label": "is part of track",
+        "from": "1688844296618x381118970917290000",
+        "to": "1688448783932x331392909016211100",
+"strength":1,
+"connection subtype":"is part of track",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"direction":"mutual",
+"id":"1694653789735x141807680119748320",
+"url":"https://www.catalist.network/trove-space/tis23?connection=1694653789735x141807680119748320",
+"title":"Ron Rivers is part of track Inner Development, Mental Health, and Social Connection"
     }
 
  ]
