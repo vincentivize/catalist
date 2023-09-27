@@ -1,2 +1,2 @@
 object id,url,object url,image,data type,tags,attributes,address,latitude,longitude,description,label
-1234,https://www.catalist.network,https://www.catatlist.network/object=1234,project,tags,attribute,88 hewlett point ave east rockaway ny 11518,40.642078,-73.669479,description,label
+1234,https://www.catalist.network,https://www.catatlist.network/object=1234,https://b2408965.smushcdn.com/2408965/wp-content/uploads/image-1.png?lossy=0&strip=1&webp=1,project,tags,"attribute1,attribute2","88 hewlett point ave,east rockaway ny 11518",40.642078,-73.669479,description,label
