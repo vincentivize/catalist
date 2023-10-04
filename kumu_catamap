@@ -2,7 +2,7 @@
   "elements": [
 {
 "label":"Societal Sectors",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229409345x504969614993838100/EToSS_ETHIC_Catalist_Gitcoin_Cover_ETHIC.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387600583x229723456578535100/EToSS_ETHIC_Catalist_Gitcoin_Cover_ETHIC.png",
 "description":"A comprehensive, dynamic, and intuitive framework for categorizing and teaching the sectors of societal transformation. Explore the main elements of social impact below. [[youtube/3sXZxz9ZdQA]][[list?mode=loose&sort=label&desc=true \"['Set'='Societal Sectors']\"]]",
 "type":"Set",
 "types":["Sectors"],
@@ -11,7 +11,7 @@
 "video":"[[https://www.youtube.com/watch?v=3sXZxz9ZdQA]]",
 "url":"https://www.catalist.network/set/societal-sectors-1681784100584x231540670378034280",
 "learn_more":"https://www.catalist.network/encyclopedic-table",
-"image_setting":"",
+"image_setting":"Square",
 "id":"1681784100584x231540670378034280"
 },{
 "label":"Blackfoot Levels: First Nations",
@@ -28,8 +28,8 @@
 "id":"1681784163913x669478769208572700"
 },{
 "label":"Doughnut Economics Sectors",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229281128x784261183085881500/Doughtnut%20SEctors%20Square%20Large.png",
-"description":"The Doughnut of social and planetary boundaries is a playfully serious approach to framing humanity's challenge - to meet the needs of all within the means of the planet - and it acts as a compass for human progress this century.  The sectors are split into environmental ceilings and social floors.\n\nThe environmental ceiling consists of nine planetary boundaries, as set out by Rockstrom et al, beyond which lie unacceptable environmental degradation and potential tipping points in Earth systems, within which humanity can continue to develop and thrive for generations to come.\n\nThe twelve dimensions of the social foundation are derived from internationally agreed minimum social standards, as identified by the world’s governments in the Sustainable Development Goals in 2015. Between social and planetary boundaries lies an environmentally safe and socially just space in which humanity can thrive.\n [[youtube/Rhcrbcg8HBw]][[list?mode=loose&sort=label&desc=true \"['Set'='Doughnut Economics Sectors']\"]]",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387570636x822666001352980500/Doughtnut%20SEctors%20Square%20Large.png",
+"description":"The Doughnut of social and planetary boundaries is a playfully serious approach to framing humanity's challenge - to meet the needs of all within the means of the planet - and it acts as a compass for human progress this century.  The sectors are split into environmental ceilings and social floors.\n\nThe environmental ceiling consists of nine planetary boundaries, as set out by Rockstrom et al, beyond which lie unacceptable environmental degradation and potential tipping points in Earth systems, within which humanity can continue to develop and thrive for generations to come.\n\nThe twelve dimensions of the social foundation are derived from internationally agreed minimum social standards, as identified by the world’s governments in the Sustainable Development Goals in 2015. Between social and planetary boundaries lies an environmentally safe and socially just space in which humanity can thrive. [[youtube/Rhcrbcg8HBw]][[list?mode=loose&sort=label&desc=true \"['Set'='Doughnut Economics Sectors']\"]]",
 "type":"Set",
 "types":["Sectors"],
 "tags":["Sectors"],
@@ -37,7 +37,7 @@
 "video":"[[https://www.youtube.com/watch?v=Rhcrbcg8HBw]]",
 "url":"https://www.catalist.network/set/doughnut-economics-sectors-1681784165807x726546614761828900",
 "learn_more":"https://doughnuteconomics.org/about-doughnut-economics",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1681784165807x726546614761828900"
 },{
 "label":"International Futures Forum World Systems Model",
@@ -67,16 +67,16 @@
 "id":"1681784170982x598934961116044200"
 },{
 "label":"Planetary Boundaries",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229361160x116779192518948530/Planetary%20Boundaries.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387591849x458633897898300860/Planetary%20Boundaries.png",
 "description":"These are the non planetary boundaries, as set out by Rockstrom et al, which in turn inspired the environmental ceiling of Doughnut Economics. Beyond these boundaries lie unacceptable environmental degradation and potential tipping points in Earth systems.  Within the boundaries, humanity can continue to develop and thrive for generations to come. [[youtube/RgqtrlixYR4]][[list?mode=loose&sort=label&desc=true \"['Set'='Planetary Boundaries']\"]]",
 "type":"Set",
-"types":["Sectors"],
+"types":["Sectors","Boundaries"],
 "tags":["Sectors"],
 "size":"8",
 "video":"[[https://www.youtube.com/watch?v=RgqtrlixYR4]]",
 "url":"https://www.catalist.network/set/planetary-boundaries-1681784173067x323612536810804500",
 "learn_more":"https://www.stockholmresilience.org/research/planetary-boundaries/the-nine-planetary-boundaries.html",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1681784173067x323612536810804500"
 },{
 "label":"Project Drawdown Sectors",
@@ -93,7 +93,7 @@
 "id":"1681784174917x607699161526226200"
 },{
 "label":"Wheel of Society",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229400811x938003159997339900/image1.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387596493x692948124068921200/image1.png",
 "description":"An evolving framework with roots in the Wheel of Co-Creation and since then has been worked on and iterated by multiple teams at United Earth / WorldSummit / HackHumanity / Gaianet.\n\nThe 13-sector ‘Wheel of Society’ is based on & inspired by the 12-sector ‘Wheel of Co-creation’ by Barbara Marx Hubbard. The wheel evolved via interpretations of firstly the United Earth Team (Wheel of Synergy) & secondly the WorldSummit Team (Wheel of Society), still having 12 sectors. The wheel was renamed after refining some sectors and to (in addition) give Love & Sexuality a place in the center, as these energies are central parts of our lives. This completed the wheel to 13 sectors. One of the latest variations of the wheel is created by the Gaianet Team. [via Robert Schram][[list?mode=loose&sort=label&desc=true \"['Set'='Wheel of Society']\"]]",
 "type":"Set",
 "types":["Sectors"],
@@ -102,7 +102,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/wheel-of-society-1681784178887x728176431448048800",
 "learn_more":"https://docs.google.com/document/d/1MiBDsj-kBBnJKPwi0H1zi-39YZZkclX2mcE_rIc_Aho/edit",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1681784178887x728176431448048800"
 },{
 "label":"Solutionista Sectors",
@@ -119,7 +119,7 @@
 "id":"1681784188287x996080976976483400"
 },{
 "label":"Wheel of CoCreation",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229460299x518263251811973900/Wheel%20of%20Co-Creation.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387618994x314168285917998600/Wheel%20of%20Co-Creation.png",
 "description":"The Wheel of Co-Creation, conceived by renowned thought leader Barbara Marx Hubbard, is based on a whole systems design worldview that identifies a central hub and twelve sectors of a social body and active community, namely Infrastructure, Justice, Media, Relations, Science, Spirituality, Arts, Economics, Education, Environment, Governance, Health. All sectors represent interconnected needs within a community. [[youtube/iFeZZsqvHAw]][[list?mode=loose&sort=label&desc=true \"['Set'='Wheel of CoCreation']\"]]",
 "type":"Set",
 "types":["Sectors"],
@@ -128,7 +128,7 @@
 "video":"[[https://www.youtube.com/watch?v=iFeZZsqvHAw]]",
 "url":"https://www.catalist.network/set/wheel-of-cocreation-1681784191704x140118696925375600",
 "learn_more":"https://www.marcgafni.com/the-wheel-of-co-creation-2-0/",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1681784191704x140118696925375600"
 },{
 "label":"Yelp",
@@ -184,7 +184,7 @@
 "id":"1681784207525x157494388726288740"
 },{
 "label":"United Nations Sustainable Development Goals",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229447248x101807310409740600/circle-sustainable-development-goals.jpg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387612338x336233549546611140/circle-sustainable-development-goals.jpg",
 "description":"The 17 Sustainable Development Goals (SDGs) are an urgent call for action by all countries - developed and developing - in a global partnership. [[youtube/M-iJM02m_Hg]][[list?mode=loose&sort=label&desc=true \"['Set'='United Nations Sustainable Development Goals']\"]]",
 "type":"Set",
 "types":["Sectors",""],
@@ -193,7 +193,7 @@
 "video":"[[https://www.youtube.com/watch?v=M-iJM02m_Hg]]",
 "url":"https://www.catalist.network/set/united-nations-sustainable-development-goals-1681784209474x370338908124507840",
 "learn_more":"https://sdgs.un.org/goals",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1681784209474x370338908124507840"
 },{
 "label":"Causes",
@@ -431,7 +431,7 @@
 "id":"1681784235230x537190588032811400"
 },{
 "label":"Inner Development Goals",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229309312x681308949560622000/IDG%20spiral.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387584142x759644028050974000/IDG%20spiral.png",
 "description":"Inner Development Goals (IDGs) is a blueprint of the capabilities, qualities and skills we need in order to achieve the 17 Sustainable Development Goals (SDGs). We want to educate, inspire and empower people to be a positive force for change in society and find a more purposeful way to look at our lives and the lives of the people around us.[[list?mode=loose&sort=label&desc=true \"['Set'='Inner Development Goals']\"]]",
 "type":"Set",
 "types":["Personality Traits",""],
@@ -440,7 +440,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/inner-development-goals-1681784244070x829615851702864900",
 "learn_more":"https://www.innerdevelopmentgoals.org/",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1681784244070x829615851702864900"
 },{
 "label":"7 Core Needs",
@@ -535,7 +535,7 @@
 "id":"1681784264979x698837779669361200"
 },{
 "label":"Doughnut Economics Dimensions",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229277983x134919422882642910/Doughtnut%20SEctors%20Square%20Large.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387567361x400388131568665000/Doughtnut%20SEctors%20Square%20Large.png",
 "description":"The Doughnut consists of two concentric rings: a social foundation, to ensure that no one is left falling short on life’s essentials, and an ecological ceiling, to ensure that humanity does not collectively overshoot the planetary boundaries that protect Earth's life-supporting systems. Between these two sets of boundaries lies a doughnut-shaped space that is both ecologically safe and socially just: a space in which humanity can thrive. [[youtube/Ziw-wK03TSw]][[list?mode=loose&sort=label&desc=true \"['Set'='Doughnut Economics Dimensions']\"]]",
 "type":"Set",
 "types":["Sectors","Dimensions"],
@@ -544,7 +544,7 @@
 "video":"[[https://www.youtube.com/watch?v=Ziw-wK03TSw]]",
 "url":"https://www.catalist.network/set/doughnut-economics-dimensions-1681784266934x427058565092759600",
 "learn_more":"https://www.kateraworth.com/doughnut/",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1681784266934x427058565092759600"
 },{
 "label":"Coherence Chart Domains",
@@ -613,16 +613,16 @@
 "id":"1681784296127x382022283408886900"
 },{
 "label":"Theory U",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229430374x748121281639476500/large_PI_Slides_TU_Underlying_Frame_66341340ab.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387607535x933064006518947100/large_PI_Slides_TU_Underlying_Frame_66341340ab.png",
 "description":"Authored by Otto Scharmer of MIT, Theory U is a framework at the intersection of science, profound social and organizational change, and consciousness. It has been used by thousands of teams, organizations and communities worldwide to address more effectively our most pressing global challenges: climate change, food systems, inequality and exclusion, finance, healthcare and education.\n\nTheory U offers a method for rethinking the parts and the whole by making it possible for the system to sense and see itself. When that happens, the collective consciousness begins to shift from ego-system awareness to eco-system awareness - from a silo view, to a systems view.\n\nWe live in a time of massive institutional failure, in which we collectively create results that (almost) nobody wants. The list is well known: Climate change. Hunger. Poverty. Terrorism. Violence. Destruction of communities, nature, life—the foundations of our social, economic, ecological, and spiritual well being. These times call for a new collective leadership capacity to meet these challenges in a more conscious, intentional, and strategic way. The development of such a capacity would allow us to create a future of greater possibilities. [[youtube/GMJefS7s3lc]][[list?mode=loose&sort=label&desc=true \"['Set'='Theory U']\"]]",
 "type":"Set",
-"types":["Sectors","Personality Traits"],
+"types":["Sectors","Personality Traits","Capacities"],
 "tags":["Sectors","Capacities"],
 "size":"8",
 "video":"[[https://www.youtube.com/watch?v=GMJefS7s3lc]]",
 "url":"https://www.catalist.network/set/theory-u-1681784297592x355206554661789500",
 "learn_more":"https://presencinginstitute.org/",
-"image_setting":"",
+"image_setting":"Square",
 "id":"1681784297592x355206554661789500"
 },{
 "label":"Top 100 Languages",
@@ -782,7 +782,7 @@
 "id":"1681784307140x115541090488774600"
 },{
 "label":"United Nations Sustainable Development Goals & Indicators",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229450764x384828791014033800/circle-sustainable-development-goals.jpg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387615660x556911409563140030/circle-sustainable-development-goals.jpg",
 "description":"The 17 Sustainable Development Goals (SDGs) are an urgent call for action by all countries - developed and developing - in a global partnership.\n\nThe global indicator framework for Sustainable Development Goals was developed by the Inter-Agency and Expert Group on SDG Indicators (IAEG-SDGs) and agreed upon at the 48th session of the United Nations Statistical Commission held in March 2017.\n\nThe global indicator framework includes 231 unique indicators. Please note that the total number of indicators listed in the global indicator framework of SDG indicators is 248. However, thirteen indicators repeat under two or three different targets (see below). [[youtube/M-iJM02m_Hg]][[list?mode=loose&sort=label&desc=true \"['Set'='United Nations Sustainable Development Goals & Indicators']\"]]",
 "type":"Set",
 "types":["Sectors","","Indicators"],
@@ -791,7 +791,7 @@
 "video":"[[https://www.youtube.com/watch?v=M-iJM02m_Hg]]",
 "url":"https://www.catalist.network/set/united-nations-sustainable-development-goals--indicators-1682019432146x411524269383232200",
 "learn_more":"https://unstats.un.org/sdgs/indicators/indicators-list/",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1682019432146x411524269383232200"
 },{
 "label":"Domain",
@@ -1028,6 +1028,19 @@
 "image_setting":"",
 "id":"1688070819401x269372976913264900"
 },{
+"label":"CliftonStrengths Assessment",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387564456x821505376887956400/CliftonStrengths.jpg",
+"description":"Clifton Strengths Explains How You Are Uniquely Powerful\n\nInvented by Don Clifton, the CliftonStrengths assessment uncovers your unique rank order of 34 CliftonStrengths themes.\n\nYour CliftonStrengths themes are your talent DNA. They explain the ways you most naturally think, feel and behave.\n\nWhether you're looking to improve yourself or if you're a leader wanting to empower your people to perform better, your efforts start with CliftonStrengths.\n\n[Assessment requires a fee or an access code to complete][[list?mode=loose&sort=label&desc=true \"['Set'='CliftonStrengths Assessment']\"]]",
+"type":"Set",
+"types":["Personality Traits","Strengths","Topics"],
+"tags":["Strengths","Themes"],
+"size":"8",
+"video":"",
+"url":"https://www.catalist.network/set/cliftonstrengths-assessment-1688070824551x873784570172001900",
+"learn_more":"https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx",
+"image_setting":"Circle",
+"id":"1688070824551x873784570172001900"
+},{
 "label":"LSC Frameworks",
 "image":"",
 "description":"LSC integrated the Positive Leadership curriculum and CliftonStrengths Assessment into the annual program in 2016. Our intention was to deepen the program’s focus on leadership development and enhance the overall program experience. The response from class members has been very positive!   [[list?mode=loose&sort=label&desc=true \"['Set'='LSC Frameworks']\"]]",
@@ -1042,29 +1055,42 @@
 "id":"1688070825360x972247737517162400"
 },{
 "label":"Human Design Types",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229292851x817422863733570800/Human%20Design.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387577387x445615040288870500/Human%20Design.png",
 "description":"The first place to start when you’re learning about your human design is your energy type – this is how you’re designed to interact and exchange energy with the world around you, whether that be with people, your purpose, or the things that life puts on your path. When we’re using our energy correctly, there is more flow and life unfolds with ease, synchronicities are everywhere. Whereas when we’re not, that’s when life throws us roadblocks like tiredness, lack of opportunities, and generally feeling uninspired. The latter symptoms are simply the Universe’s way of getting you to pivot and re-align with who you really are.\n\nOf all the sections in Human Design, Mastering your energy type is the one that has the most profound and life-altering impact on not only you, but also everyone around you: how to use your energy, what to conserve it on, and how to re-align.\n\nHuman Design System is the work of Ra Uru Hu.[[list?mode=loose&sort=label&desc=true \"['Set'='Human Design Types']\"]]",
 "type":"Set",
-"types":["Personality Traits"],
+"types":["Personality Traits","Types"],
 "tags":["Personality Types"],
 "size":"8",
 "video":"",
 "url":"https://www.catalist.network/set/human-design-types-1688070826145x373749496824210100",
 "learn_more":"https://jovianarchive.com/Get_Your_Chart",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1688070826145x373749496824210100"
 },{
+"label":"Gene Keys Qualities",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387581546x545758279637137200/Gene%20Keys%20Profile.png",
+"description":"The Gene Keys Approach is a path of gentle transformation. It invites us to develop our humility through embodying the four qualities that lie at the heart of the Gene Keys. \n\nCreate your profile for free on the website. Your Gene Keys Profile is the beginning of an epic journey into the depths of your soul. Each Gene Key in your Profile is a portal of transformation that can be activated through the power of contemplation. As a system of universal correspondences, each of the 64 Gene Keys is an encyclopaedia of insight, information and revelation. \n\nTo fully understand your Profile you are recommended to explore the Golden Path Program - a guided journey that shows you how to apply this wisdom to your life. This program describes in detail how to decode your profile, describing each Line, Sphere, and Pathway.[[list?mode=loose&sort=label&desc=true \"['Set'='Gene Keys Qualities']\"]]",
+"type":"Set",
+"types":["Personality Traits","Keys","Qualities"],
+"tags":["Keys"],
+"size":"8",
+"video":"",
+"url":"https://www.catalist.network/set/gene-keys-qualities-1688070834273x939932334127956400",
+"learn_more":"https://genekeys.com/free-profile/",
+"image_setting":"Circle",
+"id":"1688070834273x939932334127956400"
+},{
 "label":"The Enneagram of Personality Types",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229443732x930212045034411400/Enneagram%20image-asset.gif",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387609950x368891417902295740/Enneagram%20image-asset.gif",
 "description":"Discover your type by taking the Riso-Hudson Enneagram Type Indicator (RHETI® version 2.5)\n\nThe Enneagram of Personality Types is a modern synthesis of a number of ancient wisdom traditions, but the person who originally put the system together was Oscar Ichazo. Ichazo saw the Enneagram as a way of examining specifics about the structure of the human soul and particularly about the ways in which actual soul qualities of Essence become distorted, or contracted into states of ego. \n\nIn developing his Enneagram theories, he drew upon a recurrent theme in Western mystical and philosophical tradition—the idea of nine divine forms. This idea was discussed by Plato as the Divine Forms or Platonic Solids, qualities of existence that are essential, that cannot be broken down into constituent parts. In addition, the philosophy behind the Enneagram contains components from mystical Judaism, Christianity, Islam, Taoism, and Buddhism —all traditions that stretch back into antiquity.\n\nThe Enneagram Institute®, created in 1997 by the late Don Richard Riso and by Russ Hudson, was formed to further the research and development of the Enneagram. At its core, the Enneagram helps us to see ourselves at a deeper, more objective level and can be of invaluable assistance on our path to self-knowledge.   \n\nThe Enneagram Institute® is currently engaged in presenting and sponsoring workshops and courses devoted to the many unique aspects of the Enneagram and their relationships to human nature.  Our office is located in Stone Ridge, New York.\n\n[[list?mode=loose&sort=label&desc=true \"['Set'='The Enneagram of Personality Types']\"]]",
 "type":"Set",
-"types":["Personality Traits"],
+"types":["Personality Traits","Types"],
 "tags":["Personality Types"],
 "size":"8",
 "video":"",
 "url":"https://www.catalist.network/set/the-enneagram-of-personality-types-1688070835156x101908320775824240",
 "learn_more":"https://www.enneagraminstitute.com/type-descriptions",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1688070835156x101908320775824240"
 },{
 "label":"8 Stages of Development",
@@ -1093,6 +1119,19 @@
 "image_setting":"",
 "id":"1688070840546x762169696203174300"
 },{
+"label":"VIA Character Strengths and Virtues",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387561101x497523160221439800/Character%20Strengths%20pie%20chart%20VIA%20Institute.jpg",
+"description":"Join the over 27 million people who have taken the only free, scientific survey on character strengths. Character strengths are the positive parts of your personality that make you feel authentic and engaged. You possess all 24 character strengths in different degrees, giving you a unique character strengths profile. Take the free questionnaire to uncover your strengths and learn how to apply them to improve your work, relationships and well-being. [[youtube/U3nT2KDAGOc]][[list?mode=loose&sort=label&desc=true \"['Set'='VIA Character Strengths and Virtues']\"]]",
+"type":"Set",
+"types":["Personality Traits","Strengths"],
+"tags":["Strengths","Virtues"],
+"size":"8",
+"video":"[[https://www.youtube.com/watch?v=U3nT2KDAGOc]]",
+"url":"https://www.catalist.network/set/via-character-strengths-and-virtues-1688070841170x193527691626457660",
+"learn_more":"https://www.viacharacter.org/",
+"image_setting":"Circle",
+"id":"1688070841170x193527691626457660"
+},{
 "label":"The Seven Emotional Command Centers",
 "image":"",
 "description":"According to research conducted by neuroscientist Dr. Jaak Panksepp, there are seven distinct “emotional command systems” believed to be present in each person’s brain. Each command system coordinates the emotional, behavioral, and physical responses needed for certain functions related to survival, including rest, procreation, and self-defense.\n\nDr. Gottman labeled these systems (e.g., “Jester,” “Sensualist,” etc.) to help people understand how each one functions. As he explains in “The Relationship Cure,” acknowledging emotional similarities and differences in your relationships is an important part of bidding and responding to bids for emotional connection.\n\nThe Gottman Institute - A RESEARCH-BASED APPROACH TO RELATIONSHIPS[[list?mode=loose&sort=label&desc=true \"['Set'='The Seven Emotional Command Centers']\"]]",
@@ -1107,16 +1146,16 @@
 "id":"1688070841974x847005459793426200"
 },{
 "label":"The Sparketype Assessment®",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229418343x552523825387569100/sparketype.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387603484x860883832247107700/sparketype.png",
 "description":"Discover the work that makes you come alive. To take the Assessment is free.  Completed by more than 500,000 individuals and organizations, generating more than 25-million data points and a wealth of groundbreaking insights, this assessment is not just a tool for personal and professional discovery, it’s also one of the largest studies on meaning, purpose, flow, and engagement in the workplace.\n\nFor individuals - when you discover and tap your Sparketype, you understand yourself, what fills you up and empties you out on an entirely different level. You are better equipped to find jobs, companies, projects, and craft a career that energizes and inspires you. If your current work isn't working for you, you are far more capable of understanding why, then reimagining and redesigning it to give you so much more of what you need.\n\nFor organizations - you benefit when your team members, leaders, and colleagues not only become Sparked, but also understand how to leverage the power of the Sparketype Assessment and tools to spur not only personal growth but also more organic, intrinsic motivation, high-performance, and more effective and inspiring leadership.[[list?mode=loose&sort=label&desc=true \"['Set'='The Sparketype Assessment®']\"]]",
 "type":"Set",
-"types":["Personality Traits"],
+"types":["Personality Traits","Personality Types","Personas"],
 "tags":["Personality Types"],
 "size":"8",
 "video":"",
 "url":"https://www.catalist.network/set/the-sparketype-assessment®-1688070845050x956170050729179300",
 "learn_more":"https://sparketype.com/",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1688070845050x956170050729179300"
 },{
 "label":"Creative Types",
@@ -1246,7 +1285,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/supercontinent-1688070918239x414888351204041800",
 "learn_more":"",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1688070918239x414888351204041800"
 },{
 "label":"Solutions",
@@ -1354,16 +1393,16 @@
 "id":"1688071141022x187646514534918880"
 },{
 "label":"Kairotic Flow",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696229322210x774105714466281500/Kairotic%20Flow.webp",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696387589081x502443325559205400/Kairotic%20Flow.webp",
 "description":"The Cycle of Kairotic Flow is a framework or map for seeing where we are in the bigger picture of natural cycles of life, getting a sense of what would naturally come next, and what conditions we might prepare for those changes to occur in a healthy, generative flow of activity. \n\nKairotic Flow proposes 6 lenses or 'archetypes' that describe Phases of activity, and also the perspectives of the Roles most energetically suited to those activities. \n\nThere is no set starting point to the cycle -- we simply are where we are -- however given the current state of the world, Archetypes are frequently presented like this: Steward, Curator, Scout, Pioneer, Settler, Town Planner.\n\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/ [[youtube/AIs5uqpIUXk]][[list?mode=loose&sort=label&desc=true \"['Set'='Kairotic Flow']\"]]",
 "type":"Set",
-"types":["Sectors","Personality Traits"],
+"types":["Sectors","Archetypes","Phases","Personality Traits"],
 "tags":["Archetypes","Phases"],
 "size":"8",
 "video":"[[https://www.youtube.com/watch?v=AIs5uqpIUXk]]",
 "url":"https://www.catalist.network/set/kairotic-flow-1688071142591x402229159162663700",
 "learn_more":"https://medium.com/@kylie_23759/introducing-the-cycle-of-kairotic-flow-da32daf2b1fa",
-"image_setting":"",
+"image_setting":"Circle",
 "id":"1688071142591x402229159162663700"
 },{
 "label":"Skills",
@@ -1441,8 +1480,21 @@
 "video":"",
 "url":"https://www.catalist.network/set/refidao-impact-areas-1689721281732x144701976461545820",
 "learn_more":"https://airtable.com/shrqW7JfvsWQlgEZy/tbliygFkgPnNNB8L4/viw4RGglXugaO7Xos/rec93XBlu164qBGhG/fldgAmN7YlrS18Ztl/attzK6mj26b72CZoB",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1689721281732x144701976461545820"
+},{
+"label":"Ecoregions",
+"image":"",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Ecoregions']\"]]",
+"type":"Set",
+"types":[],
+"tags":[],
+"size":"8",
+"video":"",
+"url":"https://www.catalist.network/set/ecoregions-1696229107212x103916639254275640",
+"learn_more":"",
+"image_setting":"No Image",
+"id":"1696229107212x103916639254275640"
 },{
 "label":"Goals",
 "image":"",
@@ -1454,7 +1506,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/goals-1696229108176x793939882947667400",
 "learn_more":"",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1696229108176x793939882947667400"
 },{
 "label":"Indicators",
@@ -1467,7 +1519,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/indicators-1696229111282x634578945667961100",
 "learn_more":"",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1696229111282x634578945667961100"
 },{
 "label":"Needs",
@@ -1480,7 +1532,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/needs-1696229115515x202461499056763260",
 "learn_more":"",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1696229115515x202461499056763260"
 },{
 "label":"Personality Traits",
@@ -1493,7 +1545,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/personality-traits-1696229117062x343414947941547400",
 "learn_more":"",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1696229117062x343414947941547400"
 },{
 "label":"Principles",
@@ -1506,7 +1558,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/principles-1696229117765x787775880396308400",
 "learn_more":"",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1696229117765x787775880396308400"
 },{
 "label":"Problems",
@@ -1519,7 +1571,7 @@
 "video":"",
 "url":"https://www.catalist.network/set/problems-1696229118672x575750597720013440",
 "learn_more":"",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1696229118672x575750597720013440"
 },{
 "label":"Sectors",
@@ -1532,8 +1584,73 @@
 "video":"",
 "url":"https://www.catalist.network/set/sectors-1696229121222x656513940171626200",
 "learn_more":"",
-"image_setting":"",
+"image_setting":"No Image",
 "id":"1696229121222x656513940171626200"
+},{
+"label":"Strengths",
+"image":"",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='Strengths']\"]]",
+"type":"Set",
+"types":[],
+"tags":[],
+"size":"8",
+"video":"",
+"url":"https://www.catalist.network/set/strengths-1696229121825x682850980612817200",
+"learn_more":"",
+"image_setting":"No Image",
+"id":"1696229121825x682850980612817200"
+},{
+"label":"RESOLVE Bioregions",
+"image":"",
+"description":"The RESOLVE Ecoregions dataset, updated in 2017, offers a depiction of the 846 terrestrial ecoregions that represent our living planet. View the stylized map at https://ecoregions2017.appspot.com/ or in Earth Engine.\n\nEcoregions, in the simplest definition, are ecosystems of regional extent. Specifically, ecoregions represent distinct assemblages of biodiversity-all taxa, not just vegetation-whose boundaries include the space required to sustain ecological processes. Ecoregions provide a useful basemap for conservation planning in particular because they draw on natural, rather than political, boundaries, define distinct biogeographic assemblages and ecological habitats within biomes, and assist in representation of Earth's biodiversity.\n\nThis dataset is based on recent advances in biogeography - the science concerning the distribution of plants and animals. The original ecoregions dataset has been widely used since its introduction in 2001, underpinning the most recent analyses of the effects of global climate change on nature by ecologists to the distribution of the world's beetles to modern conservation planning.\n\nThe 846 terrestrial ecoregions are grouped into 14 biomes and 8 realms. Six of these biomes are forest biomes and remaining eight are non-forest biomes. For the forest biomes, the geographic boundaries of the ecoregions (Dinerstein et al., 2017) and protected areas (UNEP-WCMC 2016) were intersected with the Global Forest Change data (Hansen et al. 2013) for the years 2000 to 2015, to calculate percent of habitat in protected areas and percent of remaining habitat outside protected areas. Likewise, the boundaries of the non-forest ecoregions and protected areas (UNEP-WCMC 2016) were intersected with Anthropogenic Biomes data (Anthromes v2) for the year 2000 (Ellis et al., 2010) to identify remaining habitats inside and outside the protected areas. Each ecoregion has a unique ID, area (sq. degrees), and NNH (Nature Needs Half) categories 1-4. NNH categories are based on percent of habitat in protected areas and percent of remaining habitat outside protected areas.\n\nHalf Protected: More than 50% of the total ecoregion area is already protected.\n\nNature Could Reach Half: Less than 50% of the total ecoregion area is protected but the amount of remaining unprotected natural habitat could bring protection to over 50% if new conservation areas are added to the system.\n\nNature Could Recover: The amount of protected and unprotected natural habitat remaining is less than 50% but more than 20%. Ecoregions in this category would require restoration to reach Half Protected.\n\nNature Imperiled: The amount of protected and unprotected natural habitat remaining is less than or equal to 20%. Achieving half protected is not possible in the short term and efforts should focus on conserving remaining, native habitat fragments.\nThe updated Ecoregions 2017 is the most-up-to-date (as of February 2018) dataset on remaining habitat in each terrestrial ecoregion. It was released to chart progress towards achieving the visionary goal of Nature Needs Half, to protect half of all the land on Earth to save a living terrestrial biosphere.[[list?mode=loose&sort=label&desc=true \"['Set'='RESOLVE Bioregions']\"]]",
+"type":"Set",
+"types":["Bioregion"],
+"tags":[],
+"size":"8",
+"video":"",
+"url":"https://www.catalist.network/set/resolve-bioregions-1696229126132x317554860530459460",
+"learn_more":"",
+"image_setting":"No Image",
+"id":"1696229126132x317554860530459460"
+},{
+"label":"Nature Needs Half Categories",
+"image":"",
+"description":"NNH has 4 categories (1-4) that describe ecoregions based on percent of habitat in protected areas and percent of remaining habitat outside protected areas. The intention is to ensure that at least half of the earth's surface is protected.[[list?mode=loose&sort=label&desc=true \"['Set'='Nature Needs Half Categories']\"]]",
+"type":"Set",
+"types":["Categories"],
+"tags":[],
+"size":"8",
+"video":"",
+"url":"https://www.catalist.network/set/nature-needs-half-categories-1696229126979x807946414062157000",
+"learn_more":"https://natureneedshalf.org/",
+"image_setting":"No Image",
+"id":"1696229126979x807946414062157000"
+},{
+"label":"RESOLVE Ecoregions",
+"image":"",
+"description":"846 ecoregions that represent our living planet. Ecoregions are ecosystems of regional extent.[[list?mode=loose&sort=label&desc=true \"['Set'='RESOLVE Ecoregions']\"]]",
+"type":"Set",
+"types":["Ecoregion"],
+"tags":[],
+"size":"8",
+"video":"",
+"url":"https://www.catalist.network/set/resolve-ecoregions-1696229127874x968491371189874600",
+"learn_more":"https://ecoregions.appspot.com/",
+"image_setting":"No Image",
+"id":"1696229127874x968491371189874600"
+},{
+"label":"RESOLVE Realms",
+"image":"",
+"description":"[[list?mode=loose&sort=label&desc=true \"['Set'='RESOLVE Realms']\"]]",
+"type":"Set",
+"types":[],
+"tags":[],
+"size":"8",
+"video":"",
+"url":"https://www.catalist.network/set/resolve-realms-1696229129188x189580818637306240",
+"learn_more":"",
+"image_setting":"No Image",
+"id":"1696229129188x189580818637306240"
 },{
 "label":"Types",
 "image":"",
@@ -58653,6 +58770,14 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696235761208x538957369278644900",
+"to":"Theory U",
+"from":"Prototyping",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1681938332934x864219733707119100",
 "to":"Theory U",
 "from":"Presencing",
@@ -58672,6 +58797,30 @@
 "id":"connection-1681938332460x841963356770595600",
 "to":"Theory U",
 "from":"Sensing",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235757192x619007325659240300",
+"to":"Theory U",
+"from":"Holding the space of listening",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235758417x584648863748937300",
+"to":"Theory U",
+"from":"Observing",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235759787x668400837179917300",
+"to":"Theory U",
+"from":"Crystallizing",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -65277,6 +65426,294 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696234713883x535523288108802370",
+"to":"CliftonStrengths Assessment",
+"from":"Developer",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234665354x361431714250010100",
+"to":"CliftonStrengths Assessment",
+"from":"Strategic Thinking",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234715311x392702662060941500",
+"to":"CliftonStrengths Assessment",
+"from":"Consistency",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234716532x146528516833979160",
+"to":"CliftonStrengths Assessment",
+"from":"Adaptability",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234717754x688564000608787000",
+"to":"CliftonStrengths Assessment",
+"from":"Competition",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234718915x500042133297959000",
+"to":"CliftonStrengths Assessment",
+"from":"Focus",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234720089x311239419471557100",
+"to":"CliftonStrengths Assessment",
+"from":"Self-Assurance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234721191x668130843148455800",
+"to":"CliftonStrengths Assessment",
+"from":"Ideation (Theme)",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234722462x879359540173397800",
+"to":"CliftonStrengths Assessment",
+"from":"Intellection",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234723687x597467234305541600",
+"to":"CliftonStrengths Assessment",
+"from":"Analytical",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234724749x779030911320036500",
+"to":"CliftonStrengths Assessment",
+"from":"Includer",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234725992x710326697231410600",
+"to":"CliftonStrengths Assessment",
+"from":"Woo",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234727130x855637786740368600",
+"to":"CliftonStrengths Assessment",
+"from":"Communication",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234728372x928458632373741000",
+"to":"CliftonStrengths Assessment",
+"from":"Input",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234729598x679470185767849000",
+"to":"CliftonStrengths Assessment",
+"from":"Command",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234730781x241116481517553950",
+"to":"CliftonStrengths Assessment",
+"from":"Maximizer",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234732057x189105010925143740",
+"to":"CliftonStrengths Assessment",
+"from":"Achiever",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234733162x990942974254021900",
+"to":"CliftonStrengths Assessment",
+"from":"Restorative",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234734505x244772486646163140",
+"to":"CliftonStrengths Assessment",
+"from":"Deliberative",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234735787x727321483316158100",
+"to":"CliftonStrengths Assessment",
+"from":"Discipline",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234737049x520570756598721700",
+"to":"CliftonStrengths Assessment",
+"from":"Context",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234738216x610521674272475900",
+"to":"CliftonStrengths Assessment",
+"from":"Positivity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234739316x822062859001034400",
+"to":"CliftonStrengths Assessment",
+"from":"Connectedness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234740636x213103535500432480",
+"to":"CliftonStrengths Assessment",
+"from":"Learner",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234742483x321654417511966200",
+"to":"CliftonStrengths Assessment",
+"from":"Harmony",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234743883x850139864471328800",
+"to":"CliftonStrengths Assessment",
+"from":"Responsibility",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234745308x808557865234147200",
+"to":"CliftonStrengths Assessment",
+"from":"Significance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234746518x383613961813015000",
+"to":"CliftonStrengths Assessment",
+"from":"Relator",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234747688x160064323989199680",
+"to":"CliftonStrengths Assessment",
+"from":"Fairness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234748888x683611980220523100",
+"to":"CliftonStrengths Assessment",
+"from":"Individualization",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234750230x550021240419005250",
+"to":"CliftonStrengths Assessment",
+"from":"Belief",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234751270x237620709485461660",
+"to":"CliftonStrengths Assessment",
+"from":"Activator",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234752322x551961293056276500",
+"to":"CliftonStrengths Assessment",
+"from":"Empathy",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234753488x107935566278538180",
+"to":"CliftonStrengths Assessment",
+"from":"Futuristic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234754760x374894740829746050",
+"to":"CliftonStrengths Assessment",
+"from":"Strategic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234755792x772052034125631600",
+"to":"CliftonStrengths Assessment",
+"from":"Arranger",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1683318721627x140035317595711860",
 "to":"Types",
 "from":"Purpose",
@@ -65325,6 +65762,14 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696234678892x306999930250498900",
+"to":"Human Design Types",
+"from":"Generator",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1688766972030x220445138603131870",
 "to":"Human Design Types",
 "from":"Projector",
@@ -65336,6 +65781,38 @@
 "id":"connection-1688766976338x869126204097034900",
 "to":"Human Design Types",
 "from":"Reflector",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234666809x596001974473651000",
+"to":"Gene Keys Qualities",
+"from":"Contemplation",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234668625x667377054909013200",
+"to":"Gene Keys Qualities",
+"from":"Inquiry",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234670720x173829786149328100",
+"to":"Gene Keys Qualities",
+"from":"Gentleness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234672833x203656341509761860",
+"to":"Gene Keys Qualities",
+"from":"Patience",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -65600,6 +66077,246 @@
 "id":"connection-1683318512579x500200189958466240",
 "to":"The Myers & Briggs Type Indicator (MBTI)",
 "from":"INTP",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234757130x113831146577290540",
+"to":"VIA Character Strengths and Virtues",
+"from":"Creativity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234792497x620520320424995800",
+"to":"VIA Character Strengths and Virtues",
+"from":"Wisdom",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234793262x381900409686935200",
+"to":"VIA Character Strengths and Virtues",
+"from":"Transcendence",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234793824x652966345623886000",
+"to":"VIA Character Strengths and Virtues",
+"from":"Justice",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234794358x218323609697990600",
+"to":"VIA Character Strengths and Virtues",
+"from":"Courage",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234794867x287638931375909340",
+"to":"VIA Character Strengths and Virtues",
+"from":"Temperance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234795523x469607761179013900",
+"to":"VIA Character Strengths and Virtues",
+"from":"Humanity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234758474x595094378023031100",
+"to":"VIA Character Strengths and Virtues",
+"from":"Spirituality",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234759883x276828402004956500",
+"to":"VIA Character Strengths and Virtues",
+"from":"Fairness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234761191x195007423395972000",
+"to":"VIA Character Strengths and Virtues",
+"from":"Zest",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234762400x532070080460983230",
+"to":"VIA Character Strengths and Virtues",
+"from":"Bravery",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234763648x524937116841145200",
+"to":"VIA Character Strengths and Virtues",
+"from":"Teamwork",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234764888x197903740658791360",
+"to":"VIA Character Strengths and Virtues",
+"from":"Perseverance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234767080x463618110923526900",
+"to":"VIA Character Strengths and Virtues",
+"from":"Humility",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234769016x361932408833951740",
+"to":"VIA Character Strengths and Virtues",
+"from":"Judgment",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234770250x487903758599380160",
+"to":"VIA Character Strengths and Virtues",
+"from":"Humor",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234771501x718349287584947700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Kindness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234773386x658755389183569800",
+"to":"VIA Character Strengths and Virtues",
+"from":"Hope",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234775916x633236875124255400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Love of Learning",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234777454x655728426966713900",
+"to":"VIA Character Strengths and Virtues",
+"from":"Honesty",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234779166x661394350228830800",
+"to":"VIA Character Strengths and Virtues",
+"from":"Appreciation of beauty",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234780822x751968262026722700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Curiosity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234782637x122426532748871620",
+"to":"VIA Character Strengths and Virtues",
+"from":"Perspective",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234783944x911694745333639400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Love",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234785117x619954035806462100",
+"to":"VIA Character Strengths and Virtues",
+"from":"Social intelligence",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234786628x162082304561965700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Self-regulation",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234788312x303602728507850430",
+"to":"VIA Character Strengths and Virtues",
+"from":"Prudence",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234789622x136473093766942300",
+"to":"VIA Character Strengths and Virtues",
+"from":"Forgiveness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234790854x103251629615495060",
+"to":"VIA Character Strengths and Virtues",
+"from":"Leadership",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234792039x765337696064897400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Gratitude",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -69885,6 +70602,1750 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696231262124x492368110849766850",
+"to":"RESOLVE Ecoregions",
+"from":"North Victoria Land tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231262593x919057798801917700",
+"to":"RESOLVE Ecoregions",
+"from":"Tumbes-Piura dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231262981x981783015608602500",
+"to":"RESOLVE Ecoregions",
+"from":"Renosterveld shrubland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231263519x789161814404015400",
+"to":"RESOLVE Ecoregions",
+"from":"Nama Karoo shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231264390x866125791807575900",
+"to":"RESOLVE Ecoregions",
+"from":"Pilbara shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231264875x821281564241754400",
+"to":"RESOLVE Ecoregions",
+"from":"Iberian conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231265437x450368502268536000",
+"to":"RESOLVE Ecoregions",
+"from":"Tenasserim-South Thailand semi-evergreen rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231265919x310072641016136770",
+"to":"RESOLVE Ecoregions",
+"from":"Cross-Timbers savanna-woodland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231266452x352299575579392260",
+"to":"RESOLVE Ecoregions",
+"from":"Cayos Miskitos-San Andr�s and Providencia moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231267093x546482951275280000",
+"to":"RESOLVE Ecoregions",
+"from":"Jos Plateau forest-grassland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231267641x659392922926792700",
+"to":"RESOLVE Ecoregions",
+"from":"Cordillera Central p�ramo",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231268103x382267310312367500",
+"to":"RESOLVE Ecoregions",
+"from":"Northland temperate kauri forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231268578x412607556646515700",
+"to":"RESOLVE Ecoregions",
+"from":"Northeast US Coastal forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231269215x410261087266879300",
+"to":"RESOLVE Ecoregions",
+"from":"Mara��n dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231269749x483706392060151230",
+"to":"RESOLVE Ecoregions",
+"from":"Maraj� v�rzea",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231270551x427138832304919400",
+"to":"RESOLVE Ecoregions",
+"from":"Brooks-British Range tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231271275x890501086966819500",
+"to":"RESOLVE Ecoregions",
+"from":"Red River freshwater swamp forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231271862x345472224513185150",
+"to":"RESOLVE Ecoregions",
+"from":"Gobi Lakes Valley desert steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231272404x540529763305725300",
+"to":"RESOLVE Ecoregions",
+"from":"Himalayan subtropical broadleaf forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231272897x685571288987500000",
+"to":"RESOLVE Ecoregions",
+"from":"Sulu Archipelago rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231273432x247266626102375940",
+"to":"RESOLVE Ecoregions",
+"from":"Sri Lanka montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231273914x168412648887219520",
+"to":"RESOLVE Ecoregions",
+"from":"Eastern Congolian swamp forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231274425x729622414307202000",
+"to":"RESOLVE Ecoregions",
+"from":"California coastal sage and chaparral",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231274954x637552333159539000",
+"to":"RESOLVE Ecoregions",
+"from":"Central Asian riparian woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231275625x209161320786896960",
+"to":"RESOLVE Ecoregions",
+"from":"East African mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231276332x398123789577979460",
+"to":"RESOLVE Ecoregions",
+"from":"Naracoorte woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231276848x531826502665003300",
+"to":"RESOLVE Ecoregions",
+"from":"Amur meadow steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231277354x148534596178448320",
+"to":"RESOLVE Ecoregions",
+"from":"Norfolk Island subtropical forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231277844x574995511739010200",
+"to":"RESOLVE Ecoregions",
+"from":"Northeast China Plain deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231278298x260509656374115400",
+"to":"RESOLVE Ecoregions",
+"from":"Beringia upland tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231278995x856026121364472700",
+"to":"RESOLVE Ecoregions",
+"from":"Cameroon Highlands forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231279605x708354796155644700",
+"to":"RESOLVE Ecoregions",
+"from":"East Antarctic tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231280027x341136354935303940",
+"to":"RESOLVE Ecoregions",
+"from":"East African montane moorlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231280455x424151035573882700",
+"to":"RESOLVE Ecoregions",
+"from":"Louisiade Archipelago rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231281033x121798191788002880",
+"to":"RESOLVE Ecoregions",
+"from":"Xingu-Tocantins-Araguaia moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231281550x432834901988837300",
+"to":"RESOLVE Ecoregions",
+"from":"Southwest Iberian Mediterranean sclerophyllous and mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231282038x839252161747040300",
+"to":"RESOLVE Ecoregions",
+"from":"Brigalow tropical savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231282650x496256117990587140",
+"to":"RESOLVE Ecoregions",
+"from":"Guianan Highlands moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231283109x855759624492535700",
+"to":"RESOLVE Ecoregions",
+"from":"Carolines tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231283565x415987665327693950",
+"to":"RESOLVE Ecoregions",
+"from":"Humid Chaco",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231284977x734815205920392400",
+"to":"RESOLVE Ecoregions",
+"from":"Zagros Mountains forest steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231285689x513566005953347300",
+"to":"RESOLVE Ecoregions",
+"from":"Aldabra Island xeric scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231286215x361247582386730940",
+"to":"RESOLVE Ecoregions",
+"from":"Caledon conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231286697x300193743836384000",
+"to":"RESOLVE Ecoregions",
+"from":"English Lowlands beech forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231287118x546867472285782000",
+"to":"RESOLVE Ecoregions",
+"from":"Esperance mallee",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231287538x985469808693655000",
+"to":"RESOLVE Ecoregions",
+"from":"Angolan montane forest-grassland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231288095x564653614289587700",
+"to":"RESOLVE Ecoregions",
+"from":"Southeast Australia temperate savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231288579x529361556776089400",
+"to":"RESOLVE Ecoregions",
+"from":"Samoan tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231289037x290247878272596800",
+"to":"RESOLVE Ecoregions",
+"from":"California interior chaparral and woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231289460x534301489683413040",
+"to":"RESOLVE Ecoregions",
+"from":"Tapaj�s-Xingu moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231289911x258126845412978600",
+"to":"RESOLVE Ecoregions",
+"from":"Arctic coastal tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231290483x586050546346766700",
+"to":"RESOLVE Ecoregions",
+"from":"Western Congolian forest-savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231290975x872264604482759200",
+"to":"RESOLVE Ecoregions",
+"from":"Sulawesi lowland rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231291438x126394472237237000",
+"to":"RESOLVE Ecoregions",
+"from":"Murray-Darling woodlands and mallee",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231291881x906562166632949200",
+"to":"RESOLVE Ecoregions",
+"from":"Canary Islands dry woodlands and forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231292544x373353820089242100",
+"to":"RESOLVE Ecoregions",
+"from":"Fiordland temperate forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231293298x627547073203340500",
+"to":"RESOLVE Ecoregions",
+"from":"Meghalaya subtropical forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231294096x291713770655499100",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Triangle subtropical forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231294577x145873036087040800",
+"to":"RESOLVE Ecoregions",
+"from":"Mediterranean dry woodlands and steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231295036x225525606788051100",
+"to":"RESOLVE Ecoregions",
+"from":"East European forest steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231295773x863393420812114800",
+"to":"RESOLVE Ecoregions",
+"from":"Chao Phraya freshwater swamp forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231296264x237177206189901340",
+"to":"RESOLVE Ecoregions",
+"from":"Russian Arctic desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231296797x370752586075834500",
+"to":"RESOLVE Ecoregions",
+"from":"Midwest Canadian Shield forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231297497x805235128575152600",
+"to":"RESOLVE Ecoregions",
+"from":"Cuban dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231297949x152891227560869820",
+"to":"RESOLVE Ecoregions",
+"from":"Myanmar Coast mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231298443x188094215554992740",
+"to":"RESOLVE Ecoregions",
+"from":"Central Tallgrass prairie",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231298896x770245964401511200",
+"to":"RESOLVE Ecoregions",
+"from":"Panamanian dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231299408x738494571661802100",
+"to":"RESOLVE Ecoregions",
+"from":"Masai xeric grasslands and shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231299859x300382812134552900",
+"to":"RESOLVE Ecoregions",
+"from":"East African halophytics",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231300328x209300299283921020",
+"to":"RESOLVE Ecoregions",
+"from":"Himalayan subtropical pine forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231300851x104103825661265860",
+"to":"RESOLVE Ecoregions",
+"from":"Appalachian-Blue Ridge forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231301342x169763828633757720",
+"to":"RESOLVE Ecoregions",
+"from":"Wasatch and Uinta montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231301831x859756180020986500",
+"to":"RESOLVE Ecoregions",
+"from":"Northwest Antarctic Peninsula tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231302391x219616873538808640",
+"to":"RESOLVE Ecoregions",
+"from":"Central Andean dry puna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231302821x458485198234020100",
+"to":"RESOLVE Ecoregions",
+"from":"Pacific Coastal Mountain icefields and tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231303863x420203023191346940",
+"to":"RESOLVE Ecoregions",
+"from":"Madagascar ericoid thickets",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231304335x578715161574086700",
+"to":"RESOLVE Ecoregions",
+"from":"South Taiwan monsoon rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231304823x183719489973840580",
+"to":"RESOLVE Ecoregions",
+"from":"Nyanga-Chimanimani Montane forest-grassland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231305884x491611751584598600",
+"to":"RESOLVE Ecoregions",
+"from":"Gibson desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231306462x452475764963754300",
+"to":"RESOLVE Ecoregions",
+"from":"Daba Mountains evergreen forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231306950x352485984207447040",
+"to":"RESOLVE Ecoregions",
+"from":"Hawai'i tropical dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231307511x220821130615699970",
+"to":"RESOLVE Ecoregions",
+"from":"Dry miombo woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231308011x447470106028100800",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Tallgrass prairie",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231308504x401058359797017200",
+"to":"RESOLVE Ecoregions",
+"from":"Cordillera de Merida p�ramo",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231308939x943089329896056600",
+"to":"RESOLVE Ecoregions",
+"from":"Guajira-Barranquilla xeric scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231309476x417290919776995650",
+"to":"RESOLVE Ecoregions",
+"from":"Chihuahuan desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231309913x353610658808058960",
+"to":"RESOLVE Ecoregions",
+"from":"Central China Loess Plateau mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231310412x561034816772370000",
+"to":"RESOLVE Ecoregions",
+"from":"Namib Desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231310886x501791022425503740",
+"to":"RESOLVE Ecoregions",
+"from":"Rio Negro campinarana",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231311445x482938480020942400",
+"to":"RESOLVE Ecoregions",
+"from":"Ethiopian montane grasslands and woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231311965x756506052539252200",
+"to":"RESOLVE Ecoregions",
+"from":"Cuban cactus scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231312737x414963209356403700",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Canadian Shield taiga",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231313243x379370876333164900",
+"to":"RESOLVE Ecoregions",
+"from":"Marianas tropical dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231313715x374309742399690800",
+"to":"RESOLVE Ecoregions",
+"from":"Society Islands tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231314370x267562816767536580",
+"to":"RESOLVE Ecoregions",
+"from":"Taimyr-Central Siberian tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231315329x246027527286327940",
+"to":"RESOLVE Ecoregions",
+"from":"Western Guinean lowland forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231315909x876793667690212200",
+"to":"RESOLVE Ecoregions",
+"from":"European Atlantic mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231316420x193839153954677760",
+"to":"RESOLVE Ecoregions",
+"from":"Deccan thorn scrub forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231317040x162832453898965820",
+"to":"RESOLVE Ecoregions",
+"from":"Valdivian temperate forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231317496x848467368368793600",
+"to":"RESOLVE Ecoregions",
+"from":"Pat�a valley dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231317983x590710167592447500",
+"to":"RESOLVE Ecoregions",
+"from":"Eastern Mediterranean conifer-broadleaf forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231318441x821521593405473200",
+"to":"RESOLVE Ecoregions",
+"from":"Talamancan montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231318909x700729308953533600",
+"to":"RESOLVE Ecoregions",
+"from":"Victoria Plains tropical savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231319370x670116573837766500",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Anatolian conifer and deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231319842x337039484862001700",
+"to":"RESOLVE Ecoregions",
+"from":"Pantanos de Centla",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231320392x963061277692106400",
+"to":"RESOLVE Ecoregions",
+"from":"Eastern Gobi desert steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231320963x949659823391642200",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Congolian Forest-Savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231321621x564669824084587970",
+"to":"RESOLVE Ecoregions",
+"from":"Mississippi lowland forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231322207x822611080219860400",
+"to":"RESOLVE Ecoregions",
+"from":"Tongan tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231322838x956251207470598900",
+"to":"RESOLVE Ecoregions",
+"from":"Northeast Siberian coastal tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231323469x473167832460284600",
+"to":"RESOLVE Ecoregions",
+"from":"Christmas and Cocos Islands tropical forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231324069x319064930149717250",
+"to":"RESOLVE Ecoregions",
+"from":"Solim�es-Japur� moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231324524x682864136052287700",
+"to":"RESOLVE Ecoregions",
+"from":"Arabian desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231324986x269500532144624200",
+"to":"RESOLVE Ecoregions",
+"from":"Central American Atlantic moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231325482x551693095932231500",
+"to":"RESOLVE Ecoregions",
+"from":"Araucaria moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231326156x439532155533799440",
+"to":"RESOLVE Ecoregions",
+"from":"Knysna-Amatole montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231326794x372235342983402430",
+"to":"RESOLVE Ecoregions",
+"from":"Chiquitano dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231327255x782193721774613500",
+"to":"RESOLVE Ecoregions",
+"from":"Mentawai Islands rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231327734x882301425945520400",
+"to":"RESOLVE Ecoregions",
+"from":"West Sudanian savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231328215x317945961513785150",
+"to":"RESOLVE Ecoregions",
+"from":"Paraguan� xeric scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231328725x577299880836196600",
+"to":"RESOLVE Ecoregions",
+"from":"Orinoco wetlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231329320x827555178671063000",
+"to":"RESOLVE Ecoregions",
+"from":"Khangai Mountains alpine meadow",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231329696x227503733825435330",
+"to":"RESOLVE Ecoregions",
+"from":"Sierra Madre Occidental pine-oak forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231330138x835011833023174400",
+"to":"RESOLVE Ecoregions",
+"from":"Illyrian deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231330556x892704422921112300",
+"to":"RESOLVE Ecoregions",
+"from":"Cauca Valley dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231331039x470179096727513660",
+"to":"RESOLVE Ecoregions",
+"from":"Colorado Plateau shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231331513x674600946580101800",
+"to":"RESOLVE Ecoregions",
+"from":"East Siberian taiga",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231332012x914783436199265900",
+"to":"RESOLVE Ecoregions",
+"from":"Sumatran montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231332588x826653407716788600",
+"to":"RESOLVE Ecoregions",
+"from":"Clipperton Island shrub and grasslands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231333081x399441225982248800",
+"to":"RESOLVE Ecoregions",
+"from":"Willamette Valley oak savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231333665x118323467505038860",
+"to":"RESOLVE Ecoregions",
+"from":"Mid-Atlantic US coastal savannas",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231334128x738888664628078700",
+"to":"RESOLVE Ecoregions",
+"from":"Kamchatka taiga",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231334854x673018636778107900",
+"to":"RESOLVE Ecoregions",
+"from":"Karakoram-West Tibetan Plateau alpine steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231335508x438160958485187800",
+"to":"RESOLVE Ecoregions",
+"from":"Central American montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231336155x429915653498808260",
+"to":"RESOLVE Ecoregions",
+"from":"Sahelian Acacia savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231336580x769122543462273900",
+"to":"RESOLVE Ecoregions",
+"from":"Hawai'i tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231337062x748930427476796900",
+"to":"RESOLVE Ecoregions",
+"from":"East Deccan moist deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231337582x699045897222028100",
+"to":"RESOLVE Ecoregions",
+"from":"Iquitos v�rzea",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231338079x486277011922180700",
+"to":"RESOLVE Ecoregions",
+"from":"Ordos Plateau steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231338582x605103624854668800",
+"to":"RESOLVE Ecoregions",
+"from":"Taiheiyo montane deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231339196x150364008549328060",
+"to":"RESOLVE Ecoregions",
+"from":"Mato Grosso tropical dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231339739x889157083012062700",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Mesoamerican Pacific mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231340211x453361010947085400",
+"to":"RESOLVE Ecoregions",
+"from":"Palau tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231340690x592705231791061200",
+"to":"RESOLVE Ecoregions",
+"from":"Kola Peninsula tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231341154x607524728901744600",
+"to":"RESOLVE Ecoregions",
+"from":"Westland temperate forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231341557x715267389852970600",
+"to":"RESOLVE Ecoregions",
+"from":"Junggar Basin semi-desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231342088x570096934368260030",
+"to":"RESOLVE Ecoregions",
+"from":"Northwest Iberian montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231342629x289288989949277000",
+"to":"RESOLVE Ecoregions",
+"from":"Rann of Kutch seasonal salt marsh",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231343125x474468419387024600",
+"to":"RESOLVE Ecoregions",
+"from":"Trinidad and Tobago dry forest",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231343627x411650857595994300",
+"to":"RESOLVE Ecoregions",
+"from":"Central Pacific Northwest coastal forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231344023x489129834158955840",
+"to":"RESOLVE Ecoregions",
+"from":"Kopet Dag woodlands and forest steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231344460x739710356652793300",
+"to":"RESOLVE Ecoregions",
+"from":"Helanshan montane conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231344906x438427138205967900",
+"to":"RESOLVE Ecoregions",
+"from":"Luzon tropical pine forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231345448x861212513055908100",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Triangle temperate forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231345901x922220539291518300",
+"to":"RESOLVE Ecoregions",
+"from":"Japur�-Solim�es-Negro moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231346419x715710300238780300",
+"to":"RESOLVE Ecoregions",
+"from":"North Arabian highland shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231346916x312212896052792100",
+"to":"RESOLVE Ecoregions",
+"from":"Eyre and York mallee",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231347398x860714620028366500",
+"to":"RESOLVE Ecoregions",
+"from":"Qilian Mountains conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231347814x466448060858247300",
+"to":"RESOLVE Ecoregions",
+"from":"Mandara Plateau woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231348324x673160356330885900",
+"to":"RESOLVE Ecoregions",
+"from":"Central Mexican matorral",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231348784x186673995828716670",
+"to":"RESOLVE Ecoregions",
+"from":"Coolgardie woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231349237x704065895826645000",
+"to":"RESOLVE Ecoregions",
+"from":"Pontic steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231349747x969042380333706800",
+"to":"RESOLVE Ecoregions",
+"from":"East Arabian fog shrublands and sand desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231350261x401631958624335500",
+"to":"RESOLVE Ecoregions",
+"from":"Southwest Amazon moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231350719x629316170161204200",
+"to":"RESOLVE Ecoregions",
+"from":"Mesoamerican Gulf-Caribbean mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231351193x533177292624973800",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Swahili coastal forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231351831x126561562352097470",
+"to":"RESOLVE Ecoregions",
+"from":"Appenine deciduous montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231352651x928813494722872800",
+"to":"RESOLVE Ecoregions",
+"from":"Daurian forest steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231353164x785776452346227400",
+"to":"RESOLVE Ecoregions",
+"from":"Southern Andean Yungas",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231353586x420498811402761500",
+"to":"RESOLVE Ecoregions",
+"from":"Altai alpine meadow and tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231354101x741707672610377100",
+"to":"RESOLVE Ecoregions",
+"from":"Cuban moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231354712x439188830202018370",
+"to":"RESOLVE Ecoregions",
+"from":"Syrian xeric grasslands and shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231355203x554162309483458000",
+"to":"RESOLVE Ecoregions",
+"from":"Southern Anatolian montane conifer and deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231355612x887692023102131200",
+"to":"RESOLVE Ecoregions",
+"from":"Luang Prabang montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231356039x171510763202146880",
+"to":"RESOLVE Ecoregions",
+"from":"Mitchell Grass Downs",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231356605x749883551021518500",
+"to":"RESOLVE Ecoregions",
+"from":"Central Congolian lowland forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231357155x528002711655197950",
+"to":"RESOLVE Ecoregions",
+"from":"Qionglai-Minshan conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231357801x129636695701512930",
+"to":"RESOLVE Ecoregions",
+"from":"Miskito pine forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231358497x916576001719986000",
+"to":"RESOLVE Ecoregions",
+"from":"Southern Annamites montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231358954x323466698523560400",
+"to":"RESOLVE Ecoregions",
+"from":"Everglades flooded grasslands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231359433x530819226629644540",
+"to":"RESOLVE Ecoregions",
+"from":"Nujiang Langcang Gorge alpine conifer and mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231359874x784348565743958400",
+"to":"RESOLVE Ecoregions",
+"from":"San Lucan xeric scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231360554x656169836405340300",
+"to":"RESOLVE Ecoregions",
+"from":"East Sahara Desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231361063x170776184352859900",
+"to":"RESOLVE Ecoregions",
+"from":"S�o Tom�, Pr�ncipe, and Annob�n forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231361552x288416396656626400",
+"to":"RESOLVE Ecoregions",
+"from":"Nihonkai evergreen forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231362101x127093792212574990",
+"to":"RESOLVE Ecoregions",
+"from":"Alps conifer and mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231362603x642794973333949300",
+"to":"RESOLVE Ecoregions",
+"from":"Central Range Papuan montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231363047x951571255374182000",
+"to":"RESOLVE Ecoregions",
+"from":"Snake-Columbia shrub steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231363477x927980381460227000",
+"to":"RESOLVE Ecoregions",
+"from":"Zambezian evergreen dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231363934x986112602442064400",
+"to":"RESOLVE Ecoregions",
+"from":"Tasmanian temperate rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231364422x453197509439824830",
+"to":"RESOLVE Ecoregions",
+"from":"Celtic broadleaf forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231364957x983675995350298500",
+"to":"RESOLVE Ecoregions",
+"from":"Dinaric Mountains mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231365419x251833799265036130",
+"to":"RESOLVE Ecoregions",
+"from":"Espinal",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231365917x478739885676736900",
+"to":"RESOLVE Ecoregions",
+"from":"New Zealand South Island montane grasslands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231366283x224815312702876930",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Rockies conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231367374x199273515034882560",
+"to":"RESOLVE Ecoregions",
+"from":"Greater Negros-Panay rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231367852x677612881136424300",
+"to":"RESOLVE Ecoregions",
+"from":"Angolan wet miombo woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231368321x842576667721223400",
+"to":"RESOLVE Ecoregions",
+"from":"Purus-Madeira moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231368765x506192947918012300",
+"to":"RESOLVE Ecoregions",
+"from":"Venezuelan Andes montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231369373x323437328415581600",
+"to":"RESOLVE Ecoregions",
+"from":"Iberian sclerophyllous and semi-deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231700761x799144534507548800",
+"to":"Personal Goals Using Catalist",
+"from":"Find a New Job",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231701177x476299005467788000",
+"to":"Personal Goals Using Catalist",
+"from":"Help Other Projects",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231701766x298586248397241900",
+"to":"Personal Goals Using Catalist",
+"from":"Find New Friends and Collaborators",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231702282x819836002813362200",
+"to":"Personal Goals Using Catalist",
+"from":"Find Co-founders",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231702804x652176142115388400",
+"to":"Personal Goals Using Catalist",
+"from":"Hire Freelancers",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231703251x590088946542279200",
+"to":"Personal Goals Using Catalist",
+"from":"Invest in Projects",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231703762x478137953157802300",
+"to":"Personal Goals Using Catalist",
+"from":"Start a Community",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231704247x298815343820497200",
+"to":"Personal Goals Using Catalist",
+"from":"Get Inspired",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231704751x398841409586350850",
+"to":"Personal Goals Using Catalist",
+"from":"Get Connected with Resources",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231705215x830211969942609200",
+"to":"Personal Goals Using Catalist",
+"from":"Mentor Others",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231705640x411818836341251840",
+"to":"Personal Goals Using Catalist",
+"from":"Find Mentors",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231706141x945039989052477700",
+"to":"Personal Goals Using Catalist",
+"from":"Find Freelance Gigs",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231706603x153452969284747040",
+"to":"Personal Goals Using Catalist",
+"from":"Find Help with Your Project",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231707024x672860317913520000",
+"to":"Personal Goals Using Catalist",
+"from":"Find Funding",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231707452x442172585012206660",
+"to":"Personal Goals Using Catalist",
+"from":"Hire Employees",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231707907x239207016436976160",
+"to":"Personal Goals Using Catalist",
+"from":"Learn and Share",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231708508x163875762764081900",
+"to":"Personal Goals Using Catalist",
+"from":"Grow My Business",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231708961x888443699644724900",
+"to":"Personal Goals Using Catalist",
+"from":"Explore a Career Change",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1681938190002x908483856365702300",
 "to":"United Nations Sustainable Development Goals",
 "from":"5. Gender equality",
@@ -71685,9 +74146,313 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696230937948x486045684020792500",
+"to":"CICOLAB's Attributes",
+"from":"Highly present and paying attention",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230938369x502204538116259460",
+"to":"CICOLAB's Attributes",
+"from":"Acts diplomatically",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230938841x779451032620173600",
+"to":"CICOLAB's Attributes",
+"from":"Exercises group leadership",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230939846x398437202090645700",
+"to":"CICOLAB's Attributes",
+"from":"Attentive listening",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230940409x370823091511883800",
+"to":"CICOLAB's Attributes",
+"from":"Demonstrates depth of thought or knowledge",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230940901x226930557134690240",
+"to":"CICOLAB's Attributes",
+"from":"Contributes to group flow",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230941410x825130162189323600",
+"to":"CICOLAB's Attributes",
+"from":"Walking Facilitation Encyclopedia",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230941996x721080071860871200",
+"to":"CICOLAB's Attributes",
+"from":"Demonstrates curiousity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230942549x240941429157284000",
+"to":"CICOLAB's Attributes",
+"from":"Clearly explains a difficult concept",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230943098x959558830068976400",
+"to":"CICOLAB's Attributes",
+"from":"Asks insightful questions",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230943539x518808672280585340",
+"to":"CICOLAB's Attributes",
+"from":"Shows willingness to admit error",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230944011x571078919297530500",
+"to":"CICOLAB's Attributes",
+"from":"Notices and responds to social dynamics",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230944490x133367165680951200",
+"to":"CICOLAB's Attributes",
+"from":"Demonstrates a strong sense of purpose",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230945021x517321067102796160",
+"to":"CICOLAB's Attributes",
+"from":"Inspires others",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230945566x506047558570446000",
+"to":"CICOLAB's Attributes",
+"from":"Shows originality or offers fresh perspective",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230946193x762855706253949600",
+"to":"CICOLAB's Attributes",
+"from":"Helps others do or learn things",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230946685x923264810971965000",
+"to":"CICOLAB's Attributes",
+"from":"Builds or makes things for the group",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230947218x337472679862555140",
+"to":"CICOLAB's Attributes",
+"from":"Negotiates well",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230947661x372436352942369800",
+"to":"CICOLAB's Attributes",
+"from":"Is fun or funny",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230948111x113270342918589280",
+"to":"CICOLAB's Attributes",
+"from":"Shows authenticity or humbleness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230948637x569249108858182600",
+"to":"CICOLAB's Attributes",
+"from":"Shows pragmatism",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230949123x329410160392333630",
+"to":"CICOLAB's Attributes",
+"from":"Shows streetwise characteristics",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230949813x627084748165733400",
+"to":"CICOLAB's Attributes",
+"from":"Show great enthusiasm ",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230950564x551623041176863700",
+"to":"CICOLAB's Attributes",
+"from":"Comes up with brilliant ideas",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230951149x428001091107800500",
+"to":"CICOLAB's Attributes",
+"from":"Shows Originality",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230951648x731895481313376000",
+"to":"CICOLAB's Attributes",
+"from":"Shines own light without showing off",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230952525x159686340444216140",
+"to":"CICOLAB's Attributes",
+"from":"Creativity across disciplines, sectors, systems",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230953110x930920289599786400",
+"to":"CICOLAB's Attributes",
+"from":"Shows courage",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230953564x900588325919306600",
+"to":"CICOLAB's Attributes",
+"from":"Makes others feel valued",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230954085x553043470214193300",
+"to":"CICOLAB's Attributes",
+"from":"Fixes something that doesn't work",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230954502x689989457788420500",
+"to":"CICOLAB's Attributes",
+"from":"Understands power dynamics",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230954988x227924641101119780",
+"to":"CICOLAB's Attributes",
+"from":"Summarizes a long conversation",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230955550x332643117390261080",
+"to":"CICOLAB's Attributes",
+"from":"Brings the group to focus",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1681936529315x167138173875487360",
 "to":"The Sparketype Assessment®",
 "from":"Advisor",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231258411x438286830809120300",
+"to":"",
+"from":"Capacities",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231259874x821894629540379800",
+"to":"",
+"from":"Qualities",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231261651x297335169140381800",
+"to":"Tag Types",
+"from":"Traits",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234665354x361431714250010100",
+"to":"CliftonStrengths Assessment",
+"from":"Strategic Thinking",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234666809x596001974473651000",
+"to":"Gene Keys Qualities",
+"from":"Contemplation",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -71717,9 +74482,49 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696234713883x535523288108802370",
+"to":"CliftonStrengths Assessment",
+"from":"Developer",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234668625x667377054909013200",
+"to":"Gene Keys Qualities",
+"from":"Inquiry",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234670720x173829786149328100",
+"to":"Gene Keys Qualities",
+"from":"Gentleness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234672833x203656341509761860",
+"to":"Gene Keys Qualities",
+"from":"Patience",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1688766978028x104365041153793520",
 "to":"Human Design Types",
 "from":"Manifesting Generator",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234678892x306999930250498900",
+"to":"Human Design Types",
+"from":"Generator",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -71869,6 +74674,70 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696234757130x113831146577290540",
+"to":"VIA Character Strengths and Virtues",
+"from":"Creativity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234792497x620520320424995800",
+"to":"VIA Character Strengths and Virtues",
+"from":"Wisdom",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234793262x381900409686935200",
+"to":"VIA Character Strengths and Virtues",
+"from":"Transcendence",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234793824x652966345623886000",
+"to":"VIA Character Strengths and Virtues",
+"from":"Justice",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234794358x218323609697990600",
+"to":"VIA Character Strengths and Virtues",
+"from":"Courage",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234794867x287638931375909340",
+"to":"VIA Character Strengths and Virtues",
+"from":"Temperance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234795523x469607761179013900",
+"to":"VIA Character Strengths and Virtues",
+"from":"Humanity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696272003075x787729451441339000",
+"to":"Personality Traits",
+"from":"Archetypes",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1683318513050x400074365831747400",
 "to":"The Myers & Briggs Type Indicator (MBTI)",
 "from":"INFP",
@@ -72005,6 +74874,14 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696235761208x538957369278644900",
+"to":"Theory U",
+"from":"Prototyping",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1681938332934x864219733707119100",
 "to":"Theory U",
 "from":"Presencing",
@@ -72024,6 +74901,30 @@
 "id":"connection-1681938332460x841963356770595600",
 "to":"Theory U",
 "from":"Sensing",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235757192x619007325659240300",
+"to":"Theory U",
+"from":"Holding the space of listening",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235758417x584648863748937300",
+"to":"Theory U",
+"from":"Observing",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235759787x668400837179917300",
+"to":"Theory U",
+"from":"Crystallizing",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -72064,6 +74965,702 @@
 "id":"connection-1688070744031x594915315654200600",
 "to":"Kairotic Flow",
 "from":"Steward",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234715311x392702662060941500",
+"to":"CliftonStrengths Assessment",
+"from":"Consistency",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234716532x146528516833979160",
+"to":"CliftonStrengths Assessment",
+"from":"Adaptability",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234717754x688564000608787000",
+"to":"CliftonStrengths Assessment",
+"from":"Competition",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234718915x500042133297959000",
+"to":"CliftonStrengths Assessment",
+"from":"Focus",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234720089x311239419471557100",
+"to":"CliftonStrengths Assessment",
+"from":"Self-Assurance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234721191x668130843148455800",
+"to":"CliftonStrengths Assessment",
+"from":"Ideation (Theme)",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234722462x879359540173397800",
+"to":"CliftonStrengths Assessment",
+"from":"Intellection",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234723687x597467234305541600",
+"to":"CliftonStrengths Assessment",
+"from":"Analytical",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234724749x779030911320036500",
+"to":"CliftonStrengths Assessment",
+"from":"Includer",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234725992x710326697231410600",
+"to":"CliftonStrengths Assessment",
+"from":"Woo",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234727130x855637786740368600",
+"to":"CliftonStrengths Assessment",
+"from":"Communication",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234728372x928458632373741000",
+"to":"CliftonStrengths Assessment",
+"from":"Input",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234729598x679470185767849000",
+"to":"CliftonStrengths Assessment",
+"from":"Command",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234730781x241116481517553950",
+"to":"CliftonStrengths Assessment",
+"from":"Maximizer",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234732057x189105010925143740",
+"to":"CliftonStrengths Assessment",
+"from":"Achiever",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234733162x990942974254021900",
+"to":"CliftonStrengths Assessment",
+"from":"Restorative",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234734505x244772486646163140",
+"to":"CliftonStrengths Assessment",
+"from":"Deliberative",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234735787x727321483316158100",
+"to":"CliftonStrengths Assessment",
+"from":"Discipline",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234737049x520570756598721700",
+"to":"CliftonStrengths Assessment",
+"from":"Context",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234738216x610521674272475900",
+"to":"CliftonStrengths Assessment",
+"from":"Positivity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234739316x822062859001034400",
+"to":"CliftonStrengths Assessment",
+"from":"Connectedness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234740636x213103535500432480",
+"to":"CliftonStrengths Assessment",
+"from":"Learner",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234742483x321654417511966200",
+"to":"CliftonStrengths Assessment",
+"from":"Harmony",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234743883x850139864471328800",
+"to":"CliftonStrengths Assessment",
+"from":"Responsibility",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234745308x808557865234147200",
+"to":"CliftonStrengths Assessment",
+"from":"Significance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234746518x383613961813015000",
+"to":"CliftonStrengths Assessment",
+"from":"Relator",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234747688x160064323989199680",
+"to":"CliftonStrengths Assessment",
+"from":"Fairness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234748888x683611980220523100",
+"to":"CliftonStrengths Assessment",
+"from":"Individualization",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234750230x550021240419005250",
+"to":"CliftonStrengths Assessment",
+"from":"Belief",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234751270x237620709485461660",
+"to":"CliftonStrengths Assessment",
+"from":"Activator",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234752322x551961293056276500",
+"to":"CliftonStrengths Assessment",
+"from":"Empathy",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234753488x107935566278538180",
+"to":"CliftonStrengths Assessment",
+"from":"Futuristic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234754760x374894740829746050",
+"to":"CliftonStrengths Assessment",
+"from":"Strategic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234755792x772052034125631600",
+"to":"CliftonStrengths Assessment",
+"from":"Arranger",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234758474x595094378023031100",
+"to":"VIA Character Strengths and Virtues",
+"from":"Spirituality",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234759883x276828402004956500",
+"to":"VIA Character Strengths and Virtues",
+"from":"Fairness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234761191x195007423395972000",
+"to":"VIA Character Strengths and Virtues",
+"from":"Zest",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234762400x532070080460983230",
+"to":"VIA Character Strengths and Virtues",
+"from":"Bravery",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234763648x524937116841145200",
+"to":"VIA Character Strengths and Virtues",
+"from":"Teamwork",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234764888x197903740658791360",
+"to":"VIA Character Strengths and Virtues",
+"from":"Perseverance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234767080x463618110923526900",
+"to":"VIA Character Strengths and Virtues",
+"from":"Humility",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234769016x361932408833951740",
+"to":"VIA Character Strengths and Virtues",
+"from":"Judgment",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234770250x487903758599380160",
+"to":"VIA Character Strengths and Virtues",
+"from":"Humor",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234771501x718349287584947700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Kindness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234773386x658755389183569800",
+"to":"VIA Character Strengths and Virtues",
+"from":"Hope",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234775916x633236875124255400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Love of Learning",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234777454x655728426966713900",
+"to":"VIA Character Strengths and Virtues",
+"from":"Honesty",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234779166x661394350228830800",
+"to":"VIA Character Strengths and Virtues",
+"from":"Appreciation of beauty",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234780822x751968262026722700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Curiosity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234782637x122426532748871620",
+"to":"VIA Character Strengths and Virtues",
+"from":"Perspective",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234783944x911694745333639400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Love",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234785117x619954035806462100",
+"to":"VIA Character Strengths and Virtues",
+"from":"Social intelligence",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234786628x162082304561965700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Self-regulation",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234788312x303602728507850430",
+"to":"VIA Character Strengths and Virtues",
+"from":"Prudence",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234789622x136473093766942300",
+"to":"VIA Character Strengths and Virtues",
+"from":"Forgiveness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234790854x103251629615495060",
+"to":"VIA Character Strengths and Virtues",
+"from":"Leadership",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234792039x765337696064897400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Gratitude",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234797849x911213089469915500",
+"to":"Catalist Principles",
+"from":"Automation (Catalist Principle)",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234799451x708389795074027400",
+"to":"Catalist Principles",
+"from":"Hide irrelevant information but let it be found",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234800834x731480376001485400",
+"to":"Catalist Principles",
+"from":"Discover, Dont Invent",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234802189x187584299297003600",
+"to":"Catalist Principles",
+"from":"Wisdom > Knowledge > Information",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234803524x791388137796153300",
+"to":"Catalist Principles",
+"from":"Memory Science Reduce Overload",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234804568x405919853552166400",
+"to":"Catalist Principles",
+"from":"Deep Profiles For Project/Business/Website",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234805919x772591596933119900",
+"to":"Catalist Principles",
+"from":"Act Together",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234807240x427495668079781000",
+"to":"Catalist Principles",
+"from":"Allow spaces for complexity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234808724x791601955132278400",
+"to":"Catalist Principles",
+"from":"It Needs To Be Easy",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234809996x794245578647368600",
+"to":"Catalist Principles",
+"from":"Suitability",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234811693x911236467909006100",
+"to":"Catalist Principles",
+"from":"Non-Duplication of Efforts",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234813212x642324224313989800",
+"to":"Catalist Principles",
+"from":"Minimize time on site",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234815237x275471474955125920",
+"to":"Catalist Principles",
+"from":"Low Code Understanding",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234816484x669806365470321400",
+"to":"Catalist Principles",
+"from":"Mutually Exclusive",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234817817x433839123984930900",
+"to":"Catalist Principles",
+"from":"Producitvity > Novelty",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234819546x882810262081401600",
+"to":"Catalist Principles",
+"from":"Context",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234821065x276051990200635740",
+"to":"Catalist Principles",
+"from":"Art as a window to understanding",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234822278x301295276225415300",
+"to":"Catalist Principles",
+"from":"Multi-Stakeholder",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234823573x923443531962863500",
+"to":"Catalist Principles",
+"from":"Perserving Context",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234824818x178964525403534140",
+"to":"Catalist Principles",
+"from":"Quality Capture",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234826094x471275515140085800",
+"to":"Catalist Principles",
+"from":"People Centered",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234827375x503236718132201700",
+"to":"Catalist Principles",
+"from":"Actionable information",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234828802x531414355674043600",
+"to":"Catalist Principles",
+"from":"Control & Agency",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234830073x700496517700791300",
+"to":"Catalist Principles",
+"from":"Humans Over Algorithms",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234831263x354899740027483600",
+"to":"Catalist Principles",
+"from":"Help people translate",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234832633x611172206100176300",
+"to":"Catalist Principles",
+"from":"Social Algorithms",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234834469x452094196663504400",
+"to":"Catalist Principles",
+"from":"Simplicity & Accessibility",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234835770x470454867654060540",
+"to":"Catalist Principles",
+"from":"Peer Review",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234836941x188064464891220640",
+"to":"Catalist Principles",
+"from":"Interoperable",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234838023x294316026695138360",
+"to":"Catalist Principles",
+"from":"Predict Based On Future Not Past",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -72368,6 +75965,14 @@
 "id":"connection-1681938331860x626560190132025000",
 "to":"Problems",
 "from":"Co-Initiating",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696271112850x759779388575625400",
+"to":"",
+"from":"Economic Development",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -73237,6 +76842,14 @@
 "label":"",
 "description":""
 },{
+"id":"connection-1696235761208x538957369278644900",
+"to":"Theory U",
+"from":"Prototyping",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
 "id":"connection-1681938332934x864219733707119100",
 "to":"Theory U",
 "from":"Presencing",
@@ -73256,6 +76869,30 @@
 "id":"connection-1681938332460x841963356770595600",
 "to":"Theory U",
 "from":"Sensing",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235757192x619007325659240300",
+"to":"Theory U",
+"from":"Holding the space of listening",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235758417x584648863748937300",
+"to":"Theory U",
+"from":"Observing",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696235759787x668400837179917300",
+"to":"Theory U",
+"from":"Crystallizing",
 "strength":"1",
 "type":"is part of set",
 "label":"",
@@ -73973,33 +77610,2305 @@
 "label":"",
 "description":""
 },{
-"id":"connection-1681938044506x198615906343848200",
-"to":"Solutionista Sectors",
-"from":"Ethics (Solutionista Sector)",
+"id":"connection-1696234713883x535523288108802370",
+"to":"CliftonStrengths Assessment",
+"from":"Developer",
 "strength":"1",
 "type":"is part of set",
 "label":"",
 "description":""
 },{
-"id":"connection-1681938045800x669159293500259500",
-"to":"Solutionista Sectors",
-"from":"Wellness (Solutionista Sector)",
+"id":"connection-1696234715311x392702662060941500",
+"to":"CliftonStrengths Assessment",
+"from":"Consistency",
 "strength":"1",
 "type":"is part of set",
 "label":"",
 "description":""
 },{
-"id":"connection-1681937948304x513843662362384960",
-"to":"Main Societal Sectors",
-"from":"Technology & Applied Sciences",
+"id":"connection-1696234716532x146528516833979160",
+"to":"CliftonStrengths Assessment",
+"from":"Adaptability",
 "strength":"1",
 "type":"is part of set",
 "label":"",
 "description":""
 },{
-"id":"connection-1681937774052x248978176215853380",
-"to":"Main Societal Sectors",
-"from":"Collaboration & Sharing",
+"id":"connection-1696234717754x688564000608787000",
+"to":"CliftonStrengths Assessment",
+"from":"Competition",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234718915x500042133297959000",
+"to":"CliftonStrengths Assessment",
+"from":"Focus",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234720089x311239419471557100",
+"to":"CliftonStrengths Assessment",
+"from":"Self-Assurance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234721191x668130843148455800",
+"to":"CliftonStrengths Assessment",
+"from":"Ideation (Theme)",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234722462x879359540173397800",
+"to":"CliftonStrengths Assessment",
+"from":"Intellection",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234723687x597467234305541600",
+"to":"CliftonStrengths Assessment",
+"from":"Analytical",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234724749x779030911320036500",
+"to":"CliftonStrengths Assessment",
+"from":"Includer",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234725992x710326697231410600",
+"to":"CliftonStrengths Assessment",
+"from":"Woo",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234727130x855637786740368600",
+"to":"CliftonStrengths Assessment",
+"from":"Communication",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234728372x928458632373741000",
+"to":"CliftonStrengths Assessment",
+"from":"Input",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234729598x679470185767849000",
+"to":"CliftonStrengths Assessment",
+"from":"Command",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234730781x241116481517553950",
+"to":"CliftonStrengths Assessment",
+"from":"Maximizer",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234732057x189105010925143740",
+"to":"CliftonStrengths Assessment",
+"from":"Achiever",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234733162x990942974254021900",
+"to":"CliftonStrengths Assessment",
+"from":"Restorative",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234734505x244772486646163140",
+"to":"CliftonStrengths Assessment",
+"from":"Deliberative",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234735787x727321483316158100",
+"to":"CliftonStrengths Assessment",
+"from":"Discipline",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234737049x520570756598721700",
+"to":"CliftonStrengths Assessment",
+"from":"Context",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234738216x610521674272475900",
+"to":"CliftonStrengths Assessment",
+"from":"Positivity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234739316x822062859001034400",
+"to":"CliftonStrengths Assessment",
+"from":"Connectedness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234740636x213103535500432480",
+"to":"CliftonStrengths Assessment",
+"from":"Learner",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234742483x321654417511966200",
+"to":"CliftonStrengths Assessment",
+"from":"Harmony",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234743883x850139864471328800",
+"to":"CliftonStrengths Assessment",
+"from":"Responsibility",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234745308x808557865234147200",
+"to":"CliftonStrengths Assessment",
+"from":"Significance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234746518x383613961813015000",
+"to":"CliftonStrengths Assessment",
+"from":"Relator",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234747688x160064323989199680",
+"to":"CliftonStrengths Assessment",
+"from":"Fairness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234748888x683611980220523100",
+"to":"CliftonStrengths Assessment",
+"from":"Individualization",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234750230x550021240419005250",
+"to":"CliftonStrengths Assessment",
+"from":"Belief",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234751270x237620709485461660",
+"to":"CliftonStrengths Assessment",
+"from":"Activator",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234752322x551961293056276500",
+"to":"CliftonStrengths Assessment",
+"from":"Empathy",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234753488x107935566278538180",
+"to":"CliftonStrengths Assessment",
+"from":"Futuristic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234754760x374894740829746050",
+"to":"CliftonStrengths Assessment",
+"from":"Strategic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234755792x772052034125631600",
+"to":"CliftonStrengths Assessment",
+"from":"Arranger",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234757130x113831146577290540",
+"to":"VIA Character Strengths and Virtues",
+"from":"Creativity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234758474x595094378023031100",
+"to":"VIA Character Strengths and Virtues",
+"from":"Spirituality",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234759883x276828402004956500",
+"to":"VIA Character Strengths and Virtues",
+"from":"Fairness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234761191x195007423395972000",
+"to":"VIA Character Strengths and Virtues",
+"from":"Zest",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234762400x532070080460983230",
+"to":"VIA Character Strengths and Virtues",
+"from":"Bravery",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234763648x524937116841145200",
+"to":"VIA Character Strengths and Virtues",
+"from":"Teamwork",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234764888x197903740658791360",
+"to":"VIA Character Strengths and Virtues",
+"from":"Perseverance",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234767080x463618110923526900",
+"to":"VIA Character Strengths and Virtues",
+"from":"Humility",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234769016x361932408833951740",
+"to":"VIA Character Strengths and Virtues",
+"from":"Judgment",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234770250x487903758599380160",
+"to":"VIA Character Strengths and Virtues",
+"from":"Humor",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234771501x718349287584947700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Kindness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234773386x658755389183569800",
+"to":"VIA Character Strengths and Virtues",
+"from":"Hope",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234775916x633236875124255400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Love of Learning",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234777454x655728426966713900",
+"to":"VIA Character Strengths and Virtues",
+"from":"Honesty",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234779166x661394350228830800",
+"to":"VIA Character Strengths and Virtues",
+"from":"Appreciation of beauty",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234780822x751968262026722700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Curiosity",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234782637x122426532748871620",
+"to":"VIA Character Strengths and Virtues",
+"from":"Perspective",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234783944x911694745333639400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Love",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234785117x619954035806462100",
+"to":"VIA Character Strengths and Virtues",
+"from":"Social intelligence",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234786628x162082304561965700",
+"to":"VIA Character Strengths and Virtues",
+"from":"Self-regulation",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234788312x303602728507850430",
+"to":"VIA Character Strengths and Virtues",
+"from":"Prudence",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234789622x136473093766942300",
+"to":"VIA Character Strengths and Virtues",
+"from":"Forgiveness",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234790854x103251629615495060",
+"to":"VIA Character Strengths and Virtues",
+"from":"Leadership",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696234792039x765337696064897400",
+"to":"VIA Character Strengths and Virtues",
+"from":"Gratitude",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231203000x823347121576159600",
+"to":"RESOLVE Bioregions",
+"from":"Deserts & Xeric Shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231203552x383810684129385340",
+"to":"RESOLVE Bioregions",
+"from":"Tropical & Subtropical Grasslands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231204027x932855954675619800",
+"to":"RESOLVE Bioregions",
+"from":"Tropical & Subtropical Moist Broadleaf Forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231204540x260581529326724200",
+"to":"RESOLVE Bioregions",
+"from":"Temperate Broadleaf & Mixed Forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231205038x604824943552465500",
+"to":"RESOLVE Bioregions",
+"from":"Montane Grasslands & Shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231205514x813315248082357100",
+"to":"RESOLVE Bioregions",
+"from":"Woodlands & Scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231205943x109811242530940320",
+"to":"RESOLVE Bioregions",
+"from":"Mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231206591x830723532689990400",
+"to":"RESOLVE Bioregions",
+"from":"Flooded Grasslands & Savannas",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231207108x821184890663686600",
+"to":"RESOLVE Bioregions",
+"from":"Temperate Grasslands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231207517x778990360057493600",
+"to":"RESOLVE Bioregions",
+"from":"Temperate Conifer Forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231208352x903169933091845000",
+"to":"RESOLVE Bioregions",
+"from":"Savannas & Shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231208859x144282445979046600",
+"to":"RESOLVE Bioregions",
+"from":"Mediterranean Forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231209331x285561553506569180",
+"to":"RESOLVE Bioregions",
+"from":"Tropical & Subtropical Coniferous Forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231209794x619092137385461200",
+"to":"RESOLVE Bioregions",
+"from":"Tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231210307x395797473181259700",
+"to":"RESOLVE Bioregions",
+"from":"Tropical & Subtropical Dry Broadleaf Forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231210749x998720328126918600",
+"to":"RESOLVE Bioregions",
+"from":"Boreal Forests/Taiga",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230231203x773496062563442600",
+"to":"Nature Needs Half Categories",
+"from":"Half Protected",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230232948x753974258068674700",
+"to":"Nature Needs Half Categories",
+"from":"Nature Could Reach Half Protected",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230231788x275775812562299780",
+"to":"Nature Needs Half Categories",
+"from":"Nature Imperiled",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230232445x173522697288375220",
+"to":"Nature Needs Half Categories",
+"from":"Nature Could Recover",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231262124x492368110849766850",
+"to":"RESOLVE Ecoregions",
+"from":"North Victoria Land tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231262593x919057798801917700",
+"to":"RESOLVE Ecoregions",
+"from":"Tumbes-Piura dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231262981x981783015608602500",
+"to":"RESOLVE Ecoregions",
+"from":"Renosterveld shrubland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231263519x789161814404015400",
+"to":"RESOLVE Ecoregions",
+"from":"Nama Karoo shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231264390x866125791807575900",
+"to":"RESOLVE Ecoregions",
+"from":"Pilbara shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231264875x821281564241754400",
+"to":"RESOLVE Ecoregions",
+"from":"Iberian conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231265437x450368502268536000",
+"to":"RESOLVE Ecoregions",
+"from":"Tenasserim-South Thailand semi-evergreen rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231265919x310072641016136770",
+"to":"RESOLVE Ecoregions",
+"from":"Cross-Timbers savanna-woodland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231266452x352299575579392260",
+"to":"RESOLVE Ecoregions",
+"from":"Cayos Miskitos-San Andr�s and Providencia moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231267093x546482951275280000",
+"to":"RESOLVE Ecoregions",
+"from":"Jos Plateau forest-grassland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231267641x659392922926792700",
+"to":"RESOLVE Ecoregions",
+"from":"Cordillera Central p�ramo",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231268103x382267310312367500",
+"to":"RESOLVE Ecoregions",
+"from":"Northland temperate kauri forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231268578x412607556646515700",
+"to":"RESOLVE Ecoregions",
+"from":"Northeast US Coastal forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231269215x410261087266879300",
+"to":"RESOLVE Ecoregions",
+"from":"Mara��n dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231269749x483706392060151230",
+"to":"RESOLVE Ecoregions",
+"from":"Maraj� v�rzea",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231270551x427138832304919400",
+"to":"RESOLVE Ecoregions",
+"from":"Brooks-British Range tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231271275x890501086966819500",
+"to":"RESOLVE Ecoregions",
+"from":"Red River freshwater swamp forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231271862x345472224513185150",
+"to":"RESOLVE Ecoregions",
+"from":"Gobi Lakes Valley desert steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231272404x540529763305725300",
+"to":"RESOLVE Ecoregions",
+"from":"Himalayan subtropical broadleaf forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231272897x685571288987500000",
+"to":"RESOLVE Ecoregions",
+"from":"Sulu Archipelago rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231273432x247266626102375940",
+"to":"RESOLVE Ecoregions",
+"from":"Sri Lanka montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231273914x168412648887219520",
+"to":"RESOLVE Ecoregions",
+"from":"Eastern Congolian swamp forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231274425x729622414307202000",
+"to":"RESOLVE Ecoregions",
+"from":"California coastal sage and chaparral",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231274954x637552333159539000",
+"to":"RESOLVE Ecoregions",
+"from":"Central Asian riparian woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231275625x209161320786896960",
+"to":"RESOLVE Ecoregions",
+"from":"East African mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231276332x398123789577979460",
+"to":"RESOLVE Ecoregions",
+"from":"Naracoorte woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231276848x531826502665003300",
+"to":"RESOLVE Ecoregions",
+"from":"Amur meadow steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231277354x148534596178448320",
+"to":"RESOLVE Ecoregions",
+"from":"Norfolk Island subtropical forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231277844x574995511739010200",
+"to":"RESOLVE Ecoregions",
+"from":"Northeast China Plain deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231278298x260509656374115400",
+"to":"RESOLVE Ecoregions",
+"from":"Beringia upland tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231278995x856026121364472700",
+"to":"RESOLVE Ecoregions",
+"from":"Cameroon Highlands forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231279605x708354796155644700",
+"to":"RESOLVE Ecoregions",
+"from":"East Antarctic tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231280027x341136354935303940",
+"to":"RESOLVE Ecoregions",
+"from":"East African montane moorlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231280455x424151035573882700",
+"to":"RESOLVE Ecoregions",
+"from":"Louisiade Archipelago rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231281033x121798191788002880",
+"to":"RESOLVE Ecoregions",
+"from":"Xingu-Tocantins-Araguaia moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231281550x432834901988837300",
+"to":"RESOLVE Ecoregions",
+"from":"Southwest Iberian Mediterranean sclerophyllous and mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231282038x839252161747040300",
+"to":"RESOLVE Ecoregions",
+"from":"Brigalow tropical savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231282650x496256117990587140",
+"to":"RESOLVE Ecoregions",
+"from":"Guianan Highlands moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231283109x855759624492535700",
+"to":"RESOLVE Ecoregions",
+"from":"Carolines tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231283565x415987665327693950",
+"to":"RESOLVE Ecoregions",
+"from":"Humid Chaco",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231284977x734815205920392400",
+"to":"RESOLVE Ecoregions",
+"from":"Zagros Mountains forest steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231285689x513566005953347300",
+"to":"RESOLVE Ecoregions",
+"from":"Aldabra Island xeric scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231286215x361247582386730940",
+"to":"RESOLVE Ecoregions",
+"from":"Caledon conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231286697x300193743836384000",
+"to":"RESOLVE Ecoregions",
+"from":"English Lowlands beech forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231287118x546867472285782000",
+"to":"RESOLVE Ecoregions",
+"from":"Esperance mallee",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231287538x985469808693655000",
+"to":"RESOLVE Ecoregions",
+"from":"Angolan montane forest-grassland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231288095x564653614289587700",
+"to":"RESOLVE Ecoregions",
+"from":"Southeast Australia temperate savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231288579x529361556776089400",
+"to":"RESOLVE Ecoregions",
+"from":"Samoan tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231289037x290247878272596800",
+"to":"RESOLVE Ecoregions",
+"from":"California interior chaparral and woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231289460x534301489683413040",
+"to":"RESOLVE Ecoregions",
+"from":"Tapaj�s-Xingu moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231289911x258126845412978600",
+"to":"RESOLVE Ecoregions",
+"from":"Arctic coastal tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231290483x586050546346766700",
+"to":"RESOLVE Ecoregions",
+"from":"Western Congolian forest-savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231290975x872264604482759200",
+"to":"RESOLVE Ecoregions",
+"from":"Sulawesi lowland rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231291438x126394472237237000",
+"to":"RESOLVE Ecoregions",
+"from":"Murray-Darling woodlands and mallee",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231291881x906562166632949200",
+"to":"RESOLVE Ecoregions",
+"from":"Canary Islands dry woodlands and forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231292544x373353820089242100",
+"to":"RESOLVE Ecoregions",
+"from":"Fiordland temperate forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231293298x627547073203340500",
+"to":"RESOLVE Ecoregions",
+"from":"Meghalaya subtropical forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231294096x291713770655499100",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Triangle subtropical forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231294577x145873036087040800",
+"to":"RESOLVE Ecoregions",
+"from":"Mediterranean dry woodlands and steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231295036x225525606788051100",
+"to":"RESOLVE Ecoregions",
+"from":"East European forest steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231295773x863393420812114800",
+"to":"RESOLVE Ecoregions",
+"from":"Chao Phraya freshwater swamp forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231296264x237177206189901340",
+"to":"RESOLVE Ecoregions",
+"from":"Russian Arctic desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231296797x370752586075834500",
+"to":"RESOLVE Ecoregions",
+"from":"Midwest Canadian Shield forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231297497x805235128575152600",
+"to":"RESOLVE Ecoregions",
+"from":"Cuban dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231297949x152891227560869820",
+"to":"RESOLVE Ecoregions",
+"from":"Myanmar Coast mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231298443x188094215554992740",
+"to":"RESOLVE Ecoregions",
+"from":"Central Tallgrass prairie",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231298896x770245964401511200",
+"to":"RESOLVE Ecoregions",
+"from":"Panamanian dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231299408x738494571661802100",
+"to":"RESOLVE Ecoregions",
+"from":"Masai xeric grasslands and shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231299859x300382812134552900",
+"to":"RESOLVE Ecoregions",
+"from":"East African halophytics",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231300328x209300299283921020",
+"to":"RESOLVE Ecoregions",
+"from":"Himalayan subtropical pine forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231300851x104103825661265860",
+"to":"RESOLVE Ecoregions",
+"from":"Appalachian-Blue Ridge forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231301342x169763828633757720",
+"to":"RESOLVE Ecoregions",
+"from":"Wasatch and Uinta montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231301831x859756180020986500",
+"to":"RESOLVE Ecoregions",
+"from":"Northwest Antarctic Peninsula tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231302391x219616873538808640",
+"to":"RESOLVE Ecoregions",
+"from":"Central Andean dry puna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231302821x458485198234020100",
+"to":"RESOLVE Ecoregions",
+"from":"Pacific Coastal Mountain icefields and tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231303863x420203023191346940",
+"to":"RESOLVE Ecoregions",
+"from":"Madagascar ericoid thickets",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231304335x578715161574086700",
+"to":"RESOLVE Ecoregions",
+"from":"South Taiwan monsoon rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231304823x183719489973840580",
+"to":"RESOLVE Ecoregions",
+"from":"Nyanga-Chimanimani Montane forest-grassland",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231305884x491611751584598600",
+"to":"RESOLVE Ecoregions",
+"from":"Gibson desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231306462x452475764963754300",
+"to":"RESOLVE Ecoregions",
+"from":"Daba Mountains evergreen forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231306950x352485984207447040",
+"to":"RESOLVE Ecoregions",
+"from":"Hawai'i tropical dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231307511x220821130615699970",
+"to":"RESOLVE Ecoregions",
+"from":"Dry miombo woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231308011x447470106028100800",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Tallgrass prairie",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231308504x401058359797017200",
+"to":"RESOLVE Ecoregions",
+"from":"Cordillera de Merida p�ramo",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231308939x943089329896056600",
+"to":"RESOLVE Ecoregions",
+"from":"Guajira-Barranquilla xeric scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231309476x417290919776995650",
+"to":"RESOLVE Ecoregions",
+"from":"Chihuahuan desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231309913x353610658808058960",
+"to":"RESOLVE Ecoregions",
+"from":"Central China Loess Plateau mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231310412x561034816772370000",
+"to":"RESOLVE Ecoregions",
+"from":"Namib Desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231310886x501791022425503740",
+"to":"RESOLVE Ecoregions",
+"from":"Rio Negro campinarana",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231311445x482938480020942400",
+"to":"RESOLVE Ecoregions",
+"from":"Ethiopian montane grasslands and woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231311965x756506052539252200",
+"to":"RESOLVE Ecoregions",
+"from":"Cuban cactus scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231312737x414963209356403700",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Canadian Shield taiga",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231313243x379370876333164900",
+"to":"RESOLVE Ecoregions",
+"from":"Marianas tropical dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231313715x374309742399690800",
+"to":"RESOLVE Ecoregions",
+"from":"Society Islands tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231314370x267562816767536580",
+"to":"RESOLVE Ecoregions",
+"from":"Taimyr-Central Siberian tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231315329x246027527286327940",
+"to":"RESOLVE Ecoregions",
+"from":"Western Guinean lowland forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231315909x876793667690212200",
+"to":"RESOLVE Ecoregions",
+"from":"European Atlantic mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231316420x193839153954677760",
+"to":"RESOLVE Ecoregions",
+"from":"Deccan thorn scrub forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231317040x162832453898965820",
+"to":"RESOLVE Ecoregions",
+"from":"Valdivian temperate forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231317496x848467368368793600",
+"to":"RESOLVE Ecoregions",
+"from":"Pat�a valley dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231317983x590710167592447500",
+"to":"RESOLVE Ecoregions",
+"from":"Eastern Mediterranean conifer-broadleaf forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231318441x821521593405473200",
+"to":"RESOLVE Ecoregions",
+"from":"Talamancan montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231318909x700729308953533600",
+"to":"RESOLVE Ecoregions",
+"from":"Victoria Plains tropical savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231319370x670116573837766500",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Anatolian conifer and deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231319842x337039484862001700",
+"to":"RESOLVE Ecoregions",
+"from":"Pantanos de Centla",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231320392x963061277692106400",
+"to":"RESOLVE Ecoregions",
+"from":"Eastern Gobi desert steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231320963x949659823391642200",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Congolian Forest-Savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231321621x564669824084587970",
+"to":"RESOLVE Ecoregions",
+"from":"Mississippi lowland forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231322207x822611080219860400",
+"to":"RESOLVE Ecoregions",
+"from":"Tongan tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231322838x956251207470598900",
+"to":"RESOLVE Ecoregions",
+"from":"Northeast Siberian coastal tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231323469x473167832460284600",
+"to":"RESOLVE Ecoregions",
+"from":"Christmas and Cocos Islands tropical forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231324069x319064930149717250",
+"to":"RESOLVE Ecoregions",
+"from":"Solim�es-Japur� moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231324524x682864136052287700",
+"to":"RESOLVE Ecoregions",
+"from":"Arabian desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231324986x269500532144624200",
+"to":"RESOLVE Ecoregions",
+"from":"Central American Atlantic moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231325482x551693095932231500",
+"to":"RESOLVE Ecoregions",
+"from":"Araucaria moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231326156x439532155533799440",
+"to":"RESOLVE Ecoregions",
+"from":"Knysna-Amatole montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231326794x372235342983402430",
+"to":"RESOLVE Ecoregions",
+"from":"Chiquitano dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231327255x782193721774613500",
+"to":"RESOLVE Ecoregions",
+"from":"Mentawai Islands rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231327734x882301425945520400",
+"to":"RESOLVE Ecoregions",
+"from":"West Sudanian savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231328215x317945961513785150",
+"to":"RESOLVE Ecoregions",
+"from":"Paraguan� xeric scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231328725x577299880836196600",
+"to":"RESOLVE Ecoregions",
+"from":"Orinoco wetlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231329320x827555178671063000",
+"to":"RESOLVE Ecoregions",
+"from":"Khangai Mountains alpine meadow",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231329696x227503733825435330",
+"to":"RESOLVE Ecoregions",
+"from":"Sierra Madre Occidental pine-oak forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231330138x835011833023174400",
+"to":"RESOLVE Ecoregions",
+"from":"Illyrian deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231330556x892704422921112300",
+"to":"RESOLVE Ecoregions",
+"from":"Cauca Valley dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231331039x470179096727513660",
+"to":"RESOLVE Ecoregions",
+"from":"Colorado Plateau shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231331513x674600946580101800",
+"to":"RESOLVE Ecoregions",
+"from":"East Siberian taiga",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231332012x914783436199265900",
+"to":"RESOLVE Ecoregions",
+"from":"Sumatran montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231332588x826653407716788600",
+"to":"RESOLVE Ecoregions",
+"from":"Clipperton Island shrub and grasslands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231333081x399441225982248800",
+"to":"RESOLVE Ecoregions",
+"from":"Willamette Valley oak savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231333665x118323467505038860",
+"to":"RESOLVE Ecoregions",
+"from":"Mid-Atlantic US coastal savannas",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231334128x738888664628078700",
+"to":"RESOLVE Ecoregions",
+"from":"Kamchatka taiga",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231334854x673018636778107900",
+"to":"RESOLVE Ecoregions",
+"from":"Karakoram-West Tibetan Plateau alpine steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231335508x438160958485187800",
+"to":"RESOLVE Ecoregions",
+"from":"Central American montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231336155x429915653498808260",
+"to":"RESOLVE Ecoregions",
+"from":"Sahelian Acacia savanna",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231336580x769122543462273900",
+"to":"RESOLVE Ecoregions",
+"from":"Hawai'i tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231337062x748930427476796900",
+"to":"RESOLVE Ecoregions",
+"from":"East Deccan moist deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231337582x699045897222028100",
+"to":"RESOLVE Ecoregions",
+"from":"Iquitos v�rzea",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231338079x486277011922180700",
+"to":"RESOLVE Ecoregions",
+"from":"Ordos Plateau steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231338582x605103624854668800",
+"to":"RESOLVE Ecoregions",
+"from":"Taiheiyo montane deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231339196x150364008549328060",
+"to":"RESOLVE Ecoregions",
+"from":"Mato Grosso tropical dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231339739x889157083012062700",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Mesoamerican Pacific mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231340211x453361010947085400",
+"to":"RESOLVE Ecoregions",
+"from":"Palau tropical moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231340690x592705231791061200",
+"to":"RESOLVE Ecoregions",
+"from":"Kola Peninsula tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231341154x607524728901744600",
+"to":"RESOLVE Ecoregions",
+"from":"Westland temperate forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231341557x715267389852970600",
+"to":"RESOLVE Ecoregions",
+"from":"Junggar Basin semi-desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231342088x570096934368260030",
+"to":"RESOLVE Ecoregions",
+"from":"Northwest Iberian montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231342629x289288989949277000",
+"to":"RESOLVE Ecoregions",
+"from":"Rann of Kutch seasonal salt marsh",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231343125x474468419387024600",
+"to":"RESOLVE Ecoregions",
+"from":"Trinidad and Tobago dry forest",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231343627x411650857595994300",
+"to":"RESOLVE Ecoregions",
+"from":"Central Pacific Northwest coastal forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231344023x489129834158955840",
+"to":"RESOLVE Ecoregions",
+"from":"Kopet Dag woodlands and forest steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231344460x739710356652793300",
+"to":"RESOLVE Ecoregions",
+"from":"Helanshan montane conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231344906x438427138205967900",
+"to":"RESOLVE Ecoregions",
+"from":"Luzon tropical pine forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231345448x861212513055908100",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Triangle temperate forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231345901x922220539291518300",
+"to":"RESOLVE Ecoregions",
+"from":"Japur�-Solim�es-Negro moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231346419x715710300238780300",
+"to":"RESOLVE Ecoregions",
+"from":"North Arabian highland shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231346916x312212896052792100",
+"to":"RESOLVE Ecoregions",
+"from":"Eyre and York mallee",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231347398x860714620028366500",
+"to":"RESOLVE Ecoregions",
+"from":"Qilian Mountains conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231347814x466448060858247300",
+"to":"RESOLVE Ecoregions",
+"from":"Mandara Plateau woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231348324x673160356330885900",
+"to":"RESOLVE Ecoregions",
+"from":"Central Mexican matorral",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231348784x186673995828716670",
+"to":"RESOLVE Ecoregions",
+"from":"Coolgardie woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231349237x704065895826645000",
+"to":"RESOLVE Ecoregions",
+"from":"Pontic steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231349747x969042380333706800",
+"to":"RESOLVE Ecoregions",
+"from":"East Arabian fog shrublands and sand desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231350261x401631958624335500",
+"to":"RESOLVE Ecoregions",
+"from":"Southwest Amazon moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231350719x629316170161204200",
+"to":"RESOLVE Ecoregions",
+"from":"Mesoamerican Gulf-Caribbean mangroves",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231351193x533177292624973800",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Swahili coastal forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231351831x126561562352097470",
+"to":"RESOLVE Ecoregions",
+"from":"Appenine deciduous montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231352651x928813494722872800",
+"to":"RESOLVE Ecoregions",
+"from":"Daurian forest steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231353164x785776452346227400",
+"to":"RESOLVE Ecoregions",
+"from":"Southern Andean Yungas",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231353586x420498811402761500",
+"to":"RESOLVE Ecoregions",
+"from":"Altai alpine meadow and tundra",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231354101x741707672610377100",
+"to":"RESOLVE Ecoregions",
+"from":"Cuban moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231354712x439188830202018370",
+"to":"RESOLVE Ecoregions",
+"from":"Syrian xeric grasslands and shrublands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231355203x554162309483458000",
+"to":"RESOLVE Ecoregions",
+"from":"Southern Anatolian montane conifer and deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231355612x887692023102131200",
+"to":"RESOLVE Ecoregions",
+"from":"Luang Prabang montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231356039x171510763202146880",
+"to":"RESOLVE Ecoregions",
+"from":"Mitchell Grass Downs",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231356605x749883551021518500",
+"to":"RESOLVE Ecoregions",
+"from":"Central Congolian lowland forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231357155x528002711655197950",
+"to":"RESOLVE Ecoregions",
+"from":"Qionglai-Minshan conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231357801x129636695701512930",
+"to":"RESOLVE Ecoregions",
+"from":"Miskito pine forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231358497x916576001719986000",
+"to":"RESOLVE Ecoregions",
+"from":"Southern Annamites montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231358954x323466698523560400",
+"to":"RESOLVE Ecoregions",
+"from":"Everglades flooded grasslands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231359433x530819226629644540",
+"to":"RESOLVE Ecoregions",
+"from":"Nujiang Langcang Gorge alpine conifer and mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231359874x784348565743958400",
+"to":"RESOLVE Ecoregions",
+"from":"San Lucan xeric scrub",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231360554x656169836405340300",
+"to":"RESOLVE Ecoregions",
+"from":"East Sahara Desert",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231361063x170776184352859900",
+"to":"RESOLVE Ecoregions",
+"from":"S�o Tom�, Pr�ncipe, and Annob�n forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231361552x288416396656626400",
+"to":"RESOLVE Ecoregions",
+"from":"Nihonkai evergreen forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231362101x127093792212574990",
+"to":"RESOLVE Ecoregions",
+"from":"Alps conifer and mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231362603x642794973333949300",
+"to":"RESOLVE Ecoregions",
+"from":"Central Range Papuan montane rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231363047x951571255374182000",
+"to":"RESOLVE Ecoregions",
+"from":"Snake-Columbia shrub steppe",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231363477x927980381460227000",
+"to":"RESOLVE Ecoregions",
+"from":"Zambezian evergreen dry forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231363934x986112602442064400",
+"to":"RESOLVE Ecoregions",
+"from":"Tasmanian temperate rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231364422x453197509439824830",
+"to":"RESOLVE Ecoregions",
+"from":"Celtic broadleaf forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231364957x983675995350298500",
+"to":"RESOLVE Ecoregions",
+"from":"Dinaric Mountains mixed forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231365419x251833799265036130",
+"to":"RESOLVE Ecoregions",
+"from":"Espinal",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231365917x478739885676736900",
+"to":"RESOLVE Ecoregions",
+"from":"New Zealand South Island montane grasslands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231366283x224815312702876930",
+"to":"RESOLVE Ecoregions",
+"from":"Northern Rockies conifer forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231367374x199273515034882560",
+"to":"RESOLVE Ecoregions",
+"from":"Greater Negros-Panay rain forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231367852x677612881136424300",
+"to":"RESOLVE Ecoregions",
+"from":"Angolan wet miombo woodlands",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231368321x842576667721223400",
+"to":"RESOLVE Ecoregions",
+"from":"Purus-Madeira moist forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231368765x506192947918012300",
+"to":"RESOLVE Ecoregions",
+"from":"Venezuelan Andes montane forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696231369373x323437328415581600",
+"to":"RESOLVE Ecoregions",
+"from":"Iberian sclerophyllous and semi-deciduous forests",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230796127x307051837830139650",
+"to":"RESOLVE Realms",
+"from":"Afrotropic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230797108x782358737457862700",
+"to":"RESOLVE Realms",
+"from":"Neotropic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230794939x604822639814324400",
+"to":"RESOLVE Realms",
+"from":"Indomalayan",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230793457x876178744077194000",
+"to":"RESOLVE Realms",
+"from":"Nearctic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230794449x340752654850437400",
+"to":"RESOLVE Realms",
+"from":"Palearctic",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230793884x406861298668090900",
+"to":"RESOLVE Realms",
+"from":"Australasia",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230796672x901057182399925100",
+"to":"RESOLVE Realms",
+"from":"Antarctica",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230795523x979939103068425700",
+"to":"RESOLVE Realms",
+"from":"N/A",
+"strength":"1",
+"type":"is part of set",
+"label":"",
+"description":""
+},{
+"id":"connection-1696230797626x103971340589429140",
+"to":"RESOLVE Realms",
+"from":"Oceania",
 "strength":"1",
 "type":"is part of set",
 "label":"",
