@@ -1,8 +1,8 @@
-from,to,order
-Seriously,Data Types,0.0
-Data Types,Links,0.0
-Links,Vincent's Portfolio,0.0
-Data Types,Projects,0.0
-Data Types,Resources,0.0
-Resources,Seriously Prototype,0.0
-Resources,Everyone's Wisdom,0.0
+from,to,trait,backlink
+Seriously,Data Types,!,https://www.catalist.network/version-test/trove-space/seriously
+Data Types,Links,"",""
+Links,Vincent's Portfolio,"",https://www.catalist.network/version-test/object/vincent-arena-design-portfolio-1696449069999x994859647718654000
+Data Types,Projects,"",""
+Data Types,Resources,"",""
+Resources,Seriously Prototype,"",https://www.catalist.network/version-test/object/1696449093865x815627172199530500
+Resources,Everyone's Wisdom,"",https://www.catalist.network/version-test/object/wise-collaboration-%7C-everyone’s-wisdom-1696449168311x534828590328184800
