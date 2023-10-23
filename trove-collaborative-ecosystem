@@ -2712,7 +2712,7 @@
 "skills":[],
 "description":"Resilience through regeneration. Forming alliances and growing community. Envisioning a planet where thriving regional farm communities supply nutrient-dense food for humanity while living in harmony with Nature.",
 "size":"",
-"related objects":[],"Attributes Type":"Regen Ag Network","Data Type Attributes":"Groups","Main Sectors":"Environment","Sub Sectors":"Climate Environment & Resiliency | Food Habitat & Biodiversity","Description":"Resilience through regeneration. Forming alliances and growing community. Envisioning a planet where thriving regional farm communities supply nutrient-dense food for humanity while living in harmony with Nature.","Editable Title":"SoFIA (Soil First Industry Association ",
+"related objects":[],"Attributes Type":"Regen Ag Network","Data Type Attributes":"Groups","Main Sectors":"Environment","Sub Sectors":"Climate Environment & Resiliency | Food Habitat & Biodiversity","Description":"Resilience through regeneration. Forming alliances and growing community. Envisioning a planet where thriving regional farm communities supply nutrient-dense food for humanity while living in harmony with Nature.","Editable Title":"SoFIA (Soil First Industry Association",
 "label":"SoFIA (Soil First Industry Association\\n"
     },{
         "id": "1677730385427x470160704016342300",
@@ -2730,7 +2730,7 @@
 "skills":[],
 "description":"Strategic Action for Change Agents. Generating equitable and enduring results using a unique response model based on extensive application world-wide in many sectors, themes and topics –the conscious full-spectrum response model.",
 "size":"",
-"related objects":[],"Attributes Type":"Facilitators","Data Type Attributes":"Groups","Main Sectors":"Relations","Sub Sectors":"Community & Relationships","Description":"Strategic Action for Change Agents. Generating equitable and enduring results using a unique response model based on extensive application world-wide in many sectors, themes and topics –the conscious full-spectrum response model.","Editable Title":"RTL Training ",
+"related objects":[],"Attributes Type":"Facilitators","Data Type Attributes":"Groups","Main Sectors":"Relations","Sub Sectors":"Community & Relationships","Description":"Strategic Action for Change Agents. Generating equitable and enduring results using a unique response model based on extensive application world-wide in many sectors, themes and topics –the conscious full-spectrum response model.","Editable Title":"RTL Training",
 "label":"RTL Training\\n"
     },{
         "id": "1677730386447x572567123040299600",
@@ -2748,7 +2748,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"related objects":[],"Attributes Type":"Graduates","Data Type Attributes":"Groups","Main Sectors":"Governance","Sub Sectors":"Relations & Economics","Editable Title":"Syntropic Masterclass ",
+"related objects":[],"Attributes Type":"Graduates","Data Type Attributes":"Groups","Main Sectors":"Governance","Sub Sectors":"Relations & Economics","Editable Title":"Syntropic Masterclass",
 "label":"Syntropic\\n\\nMasterclass\\n"
     },{
         "id": "1677730387082x437282735703815800",
@@ -2784,8 +2784,8 @@
 "skills":[],
 "description":"",
 "size":"",
-"related objects":[],
-"label":"WBI Network\\n"
+"related objects":[],"Editable Title":"WBI Network",
+"label":"WBI Network"
     },{
         "id": "1677730389256x400366214040755300",
 "url":"",
@@ -2982,7 +2982,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"related objects":[],"Data Type Attributes":"Organizations","Main Sectors":"Governance","Sub Sectors":"Collaboration & Sharing","Editable Title":"HVT Governance ",
+"related objects":[],"Data Type Attributes":"Organizations","Main Sectors":"Governance","Sub Sectors":"Collaboration & Sharing","Editable Title":"HVT Governance",
 "label":"HVT Governance"
     },{
         "id": "1677730398031x450908568020986560",
@@ -3162,8 +3162,8 @@
 "skills":[],
 "description":"Green America - Standing up to corporate abuses & keeping families safe, for 40 years. Green America harnesses economic power—the strength of consumers, investors, businesses, and the marketplace—to create a socially just and environmentally sustainable society.",
 "size":"",
-"related objects":[],"Attributes Type":"Regen Ag Network | Members","Data Type Attributes":"Groups","Main Sectors":"Environment","Sub Sectors":"Climate Environment & Resiliency | Food Habitat & Biodiversity","Description":"Green America - Standing up to corporate abuses & keeping families safe, for 40 years. Green America harnesses economic power—the strength of consumers, investors, businesses, and the marketplace—to create a socially just and environmentally sustainable society.","Editable Title":"Soil & Caron Alliance ",
-"label":"Soil & Caron Alliance\\n"
+"related objects":[],"Attributes Type":"Regen Ag Network | Members","Data Type Attributes":"Groups","Main Sectors":"Environment","Sub Sectors":"Climate Environment & Resiliency | Food Habitat & Biodiversity","Description":"Green America - Standing up to corporate abuses & keeping families safe, for 40 years. Green America harnesses economic power—the strength of consumers, investors, businesses, and the marketplace—to create a socially just and environmentally sustainable society.","Editable Title":"Soil & Caron Alliance",
+"label":"Soil & Caron Alliance"
     },{
         "id": "1677730406860x985063127305206700",
 "url":"",
