@@ -711,6 +711,12 @@
 "type":"Sector",
 "color":""
 },{
+"label":"Collective Action & Collaboration",
+"image":"//s3.amazonaws.com/appforest_uf/f1664401517023x357155348635609860/collaboration.svg",
+"id":"1615672041912x871760549889363100",
+"type":"Sector",
+"color":"#FFC04A"
+},{
 "label":"Global",
 "image":"https://dl.airtable.com/.attachments/45b0ff7162c913cae0de0673a477db0e/e71872b8/globe.svg",
 "id":"1616721864591x720620861514094600",
@@ -1525,7 +1531,7 @@
 "description":"",
 "size":"",
 "related objects":[],"Data Type Attributes":"People","Editable Title":"Christine",
-"label":"Christine"
+"label":"Christine McDougall"
     },{
         "id": "1677730323825x979428203172274600",
 "url":"",
@@ -2402,7 +2408,7 @@
 "sectors":[],
 "locations":[],
 "address":"",
-"types":[],
+"types":["Network"],
 "skills":[],
 "description":"THE POWER OF RELATIONSHIP TRUST\nOrchestrated Connecting is both an 1200 person private network of “action oriented givers” and a system of ethics and integrity around the world of connectivity.  We amplify and bring together “Connectors” by purposely embracing diversity to share in relational value and work to position this as a valued asset in business, impact, and philanthropy.",
 "size":"",
@@ -2448,8 +2454,8 @@
         "id": "1677730370400x751912032304459900",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/collaborative-ecosystem?object=1677730370400x751912032304459900&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
-"type":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962369452x518543624459538500/multiple-users-silhouette.png",
+"type":"Group",
 "topics":[],
 "tags":["Organizations"],
 "attribute-tags":"Organizations",
@@ -2749,7 +2755,7 @@
 "description":"",
 "size":"",
 "related objects":[],"Attributes Type":"Graduates","Data Type Attributes":"Groups","Main Sectors":"Governance","Sub Sectors":"Relations & Economics","Editable Title":"Syntropic Masterclass",
-"label":"Syntropic\\n\\nMasterclass\\n"
+"label":"Syntropic Masterclass"
     },{
         "id": "1677730387082x437282735703815800",
 "url":"",
@@ -3180,8 +3186,8 @@
 "skills":[],
 "description":"",
 "size":"",
-"related objects":[],"Data Type Attributes":"People","Editable Title":"Jesse",
-"label":"Jesse"
+"related objects":[],"Data Type Attributes":"People","Editable Title":"Jessie Balfour-Lynn",
+"label":"Jessie Balfour-Lynn"
     },{
         "id": "1677730407528x109884031810421060",
 "url":"https://www.cordialworld.org/",
@@ -5234,6 +5240,78 @@
 "size":"",
 "related objects":[],
 "label":"MyTeamAbroad"
+    },{
+        "id": "1698111774251x957135754966335500",
+"url":"https://windtunneling.com",
+"object url":"https://www.catalist.network/trove-space/collaborative-ecosystem?object=1698111774251x957135754966335500&view=Graph&filtered=yes",
+"image":"http://windtunneling.com/wp-content/uploads/2014/02/wt_home_wt_logo.png",
+"type":"Group",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"An innovative, web-based application, created to enable organizations and communities to gather and develop the wealth of knowledge that resides within.",
+"size":"",
+"related objects":[],
+"label":"WindTunneling | Navigating Complexity Together"
+    },{
+        "id": "1698112678492x970813427755515900",
+"url":"https://www.arcsfoundation.org/about-arcs-scholars",
+"object url":"https://www.catalist.network/trove-space/collaborative-ecosystem?object=1698112678492x970813427755515900&view=Graph&filtered=yes",
+"image":"https://www.arcsfoundation.org/sites/arcsfoundation.org/themes/custom/arcs2016/logo.png",
+"type":"Group",
+"topics":[],
+"tags":["Technology & Applied Sciences","STEM - Science Tech Engineering & Math","Education","Science & Tech","Groups"],
+"attribute-tags":"Technology & Applied Sciences|STEM - Science Tech Engineering & Math|Education|Science & Tech|Groups",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"related objects":[],
+"label":"About ARCS Scholars | ARCS Foundation"
+    },{
+        "id": "1698114965437x912097495944527900",
+"url":"https://planetarycare.org",
+"object url":"https://www.catalist.network/trove-space/collaborative-ecosystem?object=1698114965437x912097495944527900&view=Graph&filtered=yes",
+"image":"https://planetarycare.org/wp-content/uploads/2021/08/system.png",
+"type":"Organization",
+"topics":[],
+"tags":["Climate Environment & Resiliency","Environment","Organizations"],
+"attribute-tags":"Climate Environment & Resiliency|Environment|Organizations",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"Grow with a team of values-driven professionals on a mission to heal the earth’s soil.",
+"size":"",
+"related objects":[],
+"label":"Planetary CARE | Building Resilience through Regeneration"
+    },{
+        "id": "1670275800404x198049049943212830",
+"url":"https://www.catalist.network/event/transformative-impact-summit",
+"object url":"https://www.catalist.network/trove-space/collaborative-ecosystem?object=1670275800404x198049049943212830&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1669050589676x843073060827176200/TIS-Catalist_Cover_1920x1080.jpg",
+"type":"Event",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":["Collective Action & Collaboration"],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"A gathering featuring grand-scale changemakers from across the world who are affecting transformative change in various ways.",
+"size":"",
+"related objects":[],
+"label":"Transformative Impact Summit "
     }
 ],
 
@@ -5284,7 +5362,7 @@
         "label": "is part of",
         "from": "1677730387082x437282735703815800",
         "to": "1677730377104x502453931700996160",
-"strength":1,
+"strength":10,
 "connection subtype":"is part of",
 "description":"",
 "connection type":"Relationship",
@@ -5869,18 +5947,18 @@
 "title":"Wendy McLean is connected to Judith Benham"
     }
 ,{
-        "label": "is connected to",
+        "label": "knows",
         "from": "1677730317335x883077723753616800",
         "to": "1677730344278x313444679732509000",
 "strength":1,
-"connection subtype":"is connected to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1697085135695x850126941706518500",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1697085135695x850126941706518500",
-"title":"Wendy McLean is connected to Jerry Michalski"
+"title":"Wendy McLean knows Jerry Michalski"
     }
 ,{
         "label": "is connected to",
@@ -7127,6 +7205,2390 @@
 "id":"1698106077124x836023219250004000",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698106077124x836023219250004000",
 "title":"Wealth Dynamics is related to Killu Sanborn"
+    }
+,{
+        "label": "is related to",
+        "from": "1698111774251x957135754966335500",
+        "to": "1667853414533x138591998942904320",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698112220264x961422313120071700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698112220264x961422313120071700",
+"title":"WindTunneling | Navigating Complexity Together is related to Catalytic Thinking Labs"
+    }
+,{
+        "label": "is related to",
+        "from": "1698112678492x970813427755515900",
+        "to": "1681860608903x337523860990365000",
+"strength":9,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698112717398x267211510654697470",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698112717398x267211510654697470",
+"title":"About ARCS Scholars | ARCS Foundation is related to ARCS Foundation"
+    }
+,{
+        "label": "is related to",
+        "from": "1698112678492x970813427755515900",
+        "to": "1681860609640x594318489454453800",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698112742956x175921235472941060",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698112742956x175921235472941060",
+"title":"About ARCS Scholars | ARCS Foundation is related to Judith Benham"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860608903x337523860990365000",
+        "to": "1681860609640x594318489454453800",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698112761881x647378594732441600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698112761881x647378594732441600",
+"title":"ARCS Foundation is related to Judith Benham"
+    }
+,{
+        "label": "hosts",
+        "from": "1677730347210x450195519893510600",
+        "to": "1677730370400x751912032304459900",
+"strength":10,
+"connection subtype":"hosts",
+"description":"",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1698112861962x664687825059577900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698112861962x664687825059577900",
+"title":"Elizabeth Dreicer hosts Future Design Initiative"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730368050x332057151580770000",
+        "to": "1677730330181x662177442351782500",
+"strength":5,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698112952245x361647211592810500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698112952245x361647211592810500",
+"title":"Orchestrated Connecting is related to David Homan"
+    }
+,{
+        "label": "knows",
+        "from": "1677730330181x662177442351782500",
+        "to": "1677730357000x821235687633408200",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113349764x882477874460491800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113349764x882477874460491800",
+"title":"David Homan knows Jordan Nicholas"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730347210x450195519893510600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113373367x767910378700013600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113373367x767910378700013600",
+"title":"Jordan Nicholas knows Elizabeth Dreicer"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730317335x883077723753616800",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113387441x159862665106161660",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113387441x159862665106161660",
+"title":"Jordan Nicholas knows Wendy McLean"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1681860609640x594318489454453800",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113410921x706758950174851100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113410921x706758950174851100",
+"title":"Jordan Nicholas knows Judith Benham"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730343509x473426055356033400",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113432882x971371101685022700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113432882x971371101685022700",
+"title":"Jordan Nicholas knows Peter Kaminski"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113448053x662220009499525100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113448053x662220009499525100",
+"title":"Jordan Nicholas knows Killu Sanborn"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730344278x313444679732509000",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113471641x812956102219530200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113471641x812956102219530200",
+"title":"Jordan Nicholas knows Jerry Michalski"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730330181x662177442351782500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113487000x692200578393047000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113487000x692200578393047000",
+"title":"Jordan Nicholas knows David Homan"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730351715x200660214151191520",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113503733x907703159121248300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113503733x907703159121248300",
+"title":"Jordan Nicholas knows Lisa Ma"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730325604x253778437918006820",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113535292x640582543349383200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113535292x640582543349383200",
+"title":"Jordan Nicholas knows Stacey Druss"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730313841x756738255166685400",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113547385x278048434720079870",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113547385x278048434720079870",
+"title":"Jordan Nicholas knows Jonathan Sand"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730316574x876763912923586300",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113564799x193624094600069100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113564799x193624094600069100",
+"title":"Jordan Nicholas knows Forrist Lytehaause"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730338032x411244901585591500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113580795x704119770762444800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113580795x704119770762444800",
+"title":"Jordan Nicholas knows Marianne Wyne"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730406860x985063127305206700",
+        "to": "1677730374464x425078454681646200",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113765571x291502352026828800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113765571x291502352026828800",
+"title":"Jessie Balfour-Lynn is related to LeCiel Foundation"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730406860x985063127305206700",
+        "to": "1677730381794x311631407903010940",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113784329x907649180924903400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113784329x907649180924903400",
+"title":"Jessie Balfour-Lynn is related to Holistic Visions Training (HVT)"
+    }
+,{
+        "label": "knows",
+        "from": "1677730406860x985063127305206700",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113808117x963466628134338600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113808117x963466628134338600",
+"title":"Jessie Balfour-Lynn knows Killu Sanborn"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730406860x985063127305206700",
+        "to": "1677730397352x319258466065075000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113872014x577066686998118400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113872014x577066686998118400",
+"title":"Jessie Balfour-Lynn is related to HVT Governance"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730406860x985063127305206700",
+        "to": "1677730398838x690267391161154800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113893981x903556004476878800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113893981x903556004476878800",
+"title":"Jessie Balfour-Lynn is related to HVT Mapping"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730381794x311631407903010940",
+        "to": "1677730397352x319258466065075000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113915016x102521144448647170",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113915016x102521144448647170",
+"title":"Holistic Visions Training (HVT) is related to HVT Governance"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730381794x311631407903010940",
+        "to": "1677730398838x690267391161154800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113927006x580545039990521900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113927006x580545039990521900",
+"title":"Holistic Visions Training (HVT) is related to HVT Mapping"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730381794x311631407903010940",
+        "to": "1677730389256x400366214040755300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113936814x762659363007496200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113936814x762659363007496200",
+"title":"Holistic Visions Training (HVT) is related to HVT Open Community Stewards"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730389256x400366214040755300",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698113963436x792096864193478700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698113963436x792096864193478700",
+"title":"HVT Open Community Stewards is related to Killu Sanborn"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730368953x577173134612358900",
+        "to": "1677730335861x389184119972702850",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114006057x999199342308360200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114006057x999199342308360200",
+"title":"One Degree Network is related to Yanik Silver"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730368953x577173134612358900",
+        "to": "1677730351715x200660214151191520",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114024756x503689573879513100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114024756x503689573879513100",
+"title":"One Degree Network is related to Lisa Ma"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730335861x389184119972702850",
+        "to": "1677730361958x266486735366633150",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114053350x240644906691592200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114053350x240644906691592200",
+"title":"Yanik Silver is related to Mavericks"
+    }
+,{
+        "label": "knows",
+        "from": "1677730335861x389184119972702850",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114072611x292758035112132600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114072611x292758035112132600",
+"title":"Yanik Silver knows Killu Sanborn"
+    }
+,{
+        "label": "knows",
+        "from": "1677730351715x200660214151191520",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114096035x691740265618604000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114096035x691740265618604000",
+"title":"Lisa Ma knows Killu Sanborn"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730351715x200660214151191520",
+        "to": "1677730369660x933125371681110300",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114111867x568838600473182200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114111867x568838600473182200",
+"title":"Lisa Ma is related to Stronger Together"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730369660x933125371681110300",
+        "to": "1677730380381x151206587636552480",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114138824x835831613525852200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114138824x835831613525852200",
+"title":"Stronger Together is related to Peace Cafe"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730380381x151206587636552480",
+        "to": "1677730351715x200660214151191520",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114158688x246309664913621000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114158688x246309664913621000",
+"title":"Peace Cafe is related to Lisa Ma"
+    }
+,{
+        "label": "knows",
+        "from": "1677730351715x200660214151191520",
+        "to": "1677730347210x450195519893510600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114201345x261993429928509440",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114201345x261993429928509440",
+"title":"Lisa Ma knows Elizabeth Dreicer"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730351715x200660214151191520",
+        "to": "1677730381794x311631407903010940",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114222364x500306707668533250",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114222364x500306707668533250",
+"title":"Lisa Ma is related to Holistic Visions Training (HVT)"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730335861x389184119972702850",
+        "to": "1677730381794x311631407903010940",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114248599x287693929574039550",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114248599x287693929574039550",
+"title":"Yanik Silver is related to Holistic Visions Training (HVT)"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730376299x775435294763956900",
+        "to": "1677730342832x424155945272771900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114312118x475864844671647740",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114312118x475864844671647740",
+"title":"Radical Transformational Leadership (RTL) is related to Kirsten Gallo"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730376299x775435294763956900",
+        "to": "1677730385427x470160704016342300",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114333569x213752634643054600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114333569x213752634643054600",
+"title":"Radical Transformational Leadership (RTL) is related to RTL Training
+"
+    }
+,{
+        "label": "knows",
+        "from": "1677730342832x424155945272771900",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114370185x427555944015331300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114370185x427555944015331300",
+"title":"Kirsten Gallo knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1677730342832x424155945272771900",
+        "to": "1677730314575x381628694005460500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114381176x904757362902433800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114381176x904757362902433800",
+"title":"Kirsten Gallo knows Melanie Carlone"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730342832x424155945272771900",
+        "to": "1677730386447x572567123040299600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114415795x460878290118508540",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114415795x460878290118508540",
+"title":"Kirsten Gallo is related to Syntropic Masterclass"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730342832x424155945272771900",
+        "to": "1677730385427x470160704016342300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114433457x206465450013622270",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114433457x206465450013622270",
+"title":"Kirsten Gallo is related to RTL Training
+"
+    }
+,{
+        "label": "knows",
+        "from": "1677730342832x424155945272771900",
+        "to": "1677730338032x411244901585591500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114515033x656452447811928000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114515033x656452447811928000",
+"title":"Kirsten Gallo knows Marianne Wyne"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730377767x397784873889249800",
+        "to": "1677730386447x572567123040299600",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114551223x281575833113460740",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114551223x281575833113460740",
+"title":"Syntropic World is related to Syntropic Masterclass"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730377767x397784873889249800",
+        "to": "1677730323122x644905229929871500",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114604886x252137947254751230",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114604886x252137947254751230",
+"title":"Syntropic World is related to Christine McDougall"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730377767x397784873889249800",
+        "to": "1677730338032x411244901585591500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114632378x648448734957404200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114632378x648448734957404200",
+"title":"Syntropic World is related to Marianne Wyne"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730377767x397784873889249800",
+        "to": "1677730314575x381628694005460500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114651386x749355144979415000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114651386x749355144979415000",
+"title":"Syntropic World is related to Melanie Carlone"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730377767x397784873889249800",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114668018x453709653531688960",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114668018x453709653531688960",
+"title":"Syntropic World is related to Trae Ashlie-Garen"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730386447x572567123040299600",
+        "to": "1677730338032x411244901585591500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114695365x134315872982925310",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114695365x134315872982925310",
+"title":"Syntropic Masterclass is related to Marianne Wyne"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730386447x572567123040299600",
+        "to": "1677730314575x381628694005460500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114703785x460062872090705900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114703785x460062872090705900",
+"title":"Syntropic Masterclass is related to Melanie Carlone"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730386447x572567123040299600",
+        "to": "1677730316574x876763912923586300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114712957x854179073235615700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114712957x854179073235615700",
+"title":"Syntropic Masterclass is related to Forrist Lytehaause"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730386447x572567123040299600",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114731557x612077683008864300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114731557x612077683008864300",
+"title":"Syntropic Masterclass is related to Trae Ashlie-Garen"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730384222x498328875585907650",
+        "to": "1698114965437x912097495944527900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114980021x468252541951672300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114980021x468252541951672300",
+"title":"SoFIA (Soil First Industry Association
+ is related to Planetary CARE | Building Resilience through Regeneration"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730384222x498328875585907650",
+        "to": "1677730316574x876763912923586300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698114990369x130790185497264130",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114990369x130790185497264130",
+"title":"SoFIA (Soil First Industry Association
+ is related to Forrist Lytehaause"
+    }
+,{
+        "label": "is related to",
+        "from": "1698114965437x912097495944527900",
+        "to": "1677730304331x116571016422394320",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115044140x268158522850017300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115044140x268158522850017300",
+"title":"Planetary CARE | Building Resilience through Regeneration is related to Lionsberg"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730360617x149103714746468000",
+        "to": "1677730322504x209398487987495480",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115090190x465899085337722900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115090190x465899085337722900",
+"title":"Rancho Margot is related to Juan Sostheim"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730360617x149103714746468000",
+        "to": "1677730338032x411244901585591500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115114176x762569453144375300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115114176x762569453144375300",
+"title":"Rancho Margot is related to Marianne Wyne"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730360617x149103714746468000",
+        "to": "1677730314575x381628694005460500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115123577x503144532078493700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115123577x503144532078493700",
+"title":"Rancho Margot is related to Melanie Carlone"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730373759x128677613560453260",
+        "to": "1677730321751x306678137973143550",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115157507x524886521486245900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115157507x524886521486245900",
+"title":"Regenerativa Costa Rica is related to Eduard Muller"
+    }
+,{
+        "label": "is related to",
+        "from": "1677634359725x683448376572635800",
+        "to": "1677730309243x399572867505566600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115224917x999129508482646000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115224917x999129508482646000",
+"title":"NFTs is related to SEEDS"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730309243x399572867505566600",
+        "to": "1677730362927x807045455094020700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115244595x440625103330869250",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115244595x440625103330869250",
+"title":"SEEDS is related to Smart Village"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730309243x399572867505566600",
+        "to": "1677730301018x935337868034019200",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115257934x830174499464806400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115257934x830174499464806400",
+"title":"SEEDS is related to Hypha DAO"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730309243x399572867505566600",
+        "to": "1677730360617x149103714746468000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115282712x533839027361546240",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115282712x533839027361546240",
+"title":"SEEDS is related to Rancho Margot"
+    }
+,{
+        "label": "is related to",
+        "from": "1698114965437x912097495944527900",
+        "to": "1677730305199x280970601662741340",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115316325x681826534092439600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115316325x681826534092439600",
+"title":"Planetary CARE | Building Resilience through Regeneration is related to Innovation Agency"
+    }
+,{
+        "label": "is related to",
+        "from": "1698114965437x912097495944527900",
+        "to": "1677730300182x380536921670177900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115328794x353174925263765500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115328794x353174925263765500",
+"title":"Planetary CARE | Building Resilience through Regeneration is related to Grant Agency"
+    }
+,{
+        "label": "is related to",
+        "from": "1698114965437x912097495944527900",
+        "to": "1677730307676x471265479472143170",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115340769x569935115305877500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115340769x569935115305877500",
+"title":"Planetary CARE | Building Resilience through Regeneration is related to Theory U"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730307676x471265479472143170",
+        "to": "1677730312999x375885532499254460",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115357359x981735577758990300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115357359x981735577758990300",
+"title":"Theory U is related to Otto Scharmer"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730354887x287407833846438300",
+        "to": "1677730394674x400935056075001600",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115393953x354548195874308100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115393953x354548195874308100",
+"title":"Kaitlin Archem-bault is related to Open Future Coalition"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730354204x171123537181946180",
+        "to": "1677730394674x400935056075001600",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115420887x230404546379644930",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115420887x230404546379644930",
+"title":"Jamaica Stevens is related to Open Future Coalition"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730394674x400935056075001600",
+        "to": "1677730357000x821235687633408200",
+"strength":6,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115435817x908990906105856000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115435817x908990906105856000",
+"title":"Open Future Coalition is related to Jordan Nicholas"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730394674x400935056075001600",
+        "to": "1677730391944x235858860884460960",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115471447x580113674938089500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115471447x580113674938089500",
+"title":"Open Future Coalition is related to Open Impact Platform"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730394674x400935056075001600",
+        "to": "1681860617361x647185688151249300",
+"strength":5,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115488091x392750842040811500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115488091x392750842040811500",
+"title":"Open Future Coalition is related to Center for Regeneration"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730391944x235858860884460960",
+        "to": "1677730354887x287407833846438300",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115531952x515885761348501500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115531952x515885761348501500",
+"title":"Open Impact Platform is related to Kaitlin Archem-bault"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730391944x235858860884460960",
+        "to": "1677730354204x171123537181946180",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115548356x947070444419153900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115548356x947070444419153900",
+"title":"Open Impact Platform is related to Jamaica Stevens"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730395648x941036770044774000",
+        "to": "1681860552202x469409337035063200",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115579017x111978635659051000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115579017x111978635659051000",
+"title":"Praxorium is related to Parmjit Nahil"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730309243x399572867505566600",
+        "to": "1677730363681x383565316246933250",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115636726x639273918161223700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115636726x639273918161223700",
+"title":"SEEDS is related to Kinship EARTH"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730365043x212802149455426600",
+        "to": "1677730309243x399572867505566600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115654870x653753241440878600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115654870x653753241440878600",
+"title":"EarthWISE is related to SEEDS"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730310681x887411661519568100",
+        "to": "1677730392692x719108033345625200",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115686104x382744977853120500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115686104x382744977853120500",
+"title":"FairShares Association is related to FairShares Commons"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730392692x719108033345625200",
+        "to": "1677730332273x427662054932016900",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115710516x336284285554917400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115710516x336284285554917400",
+"title":"FairShares Commons is related to Graham Boyd"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730310681x887411661519568100",
+        "to": "1677730299478x880606039048883200",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115742130x203673087458672640",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115742130x203673087458672640",
+"title":"FairShares Association is related to Evolutesix"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730310681x887411661519568100",
+        "to": "1681860623975x865994930347432300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115763668x804713645009797100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115763668x804713645009797100",
+"title":"FairShares Association is related to Profit Pooling"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730310681x887411661519568100",
+        "to": "1681860623199x181999437502289100",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115776178x427583174035111940",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115776178x427583174035111940",
+"title":"FairShares Association is related to Adaptive Way"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730332273x427662054932016900",
+        "to": "1677730299478x880606039048883200",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115799820x945010731919867900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115799820x945010731919867900",
+"title":"Graham Boyd is related to Evolutesix"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730332273x427662054932016900",
+        "to": "1681860623199x181999437502289100",
+"strength":9,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115822675x426004455651541000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115822675x426004455651541000",
+"title":"Graham Boyd is related to Adaptive Way"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730332273x427662054932016900",
+        "to": "1681860623975x865994930347432300",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115843466x258665444390993920",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115843466x258665444390993920",
+"title":"Graham Boyd is related to Profit Pooling"
+    }
+,{
+        "label": "wrote",
+        "from": "1677730332273x427662054932016900",
+        "to": "1681860624704x658539477464519700",
+"strength":10,
+"connection subtype":"wrote",
+"description":"",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1698115868143x571241714640486400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115868143x571241714640486400",
+"title":"Graham Boyd wrote Book: Rebuild the Economy Leadership and You"
+    }
+,{
+        "label": "wrote",
+        "from": "1677730332273x427662054932016900",
+        "to": "1681860620037x986307615466956800",
+"strength":1,
+"connection subtype":"wrote",
+"description":"",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1698115892614x442298335310643200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115892614x442298335310643200",
+"title":"Graham Boyd wrote Book: The Ergodic Investor and Entrepreneur"
+    }
+,{
+        "label": "knows",
+        "from": "1677730332273x427662054932016900",
+        "to": "1677730357000x821235687633408200",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115906146x540099024222945300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115906146x540099024222945300",
+"title":"Graham Boyd knows Jordan Nicholas"
+    }
+,{
+        "label": "knows",
+        "from": "1677730332273x427662054932016900",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115940313x587487647750422500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115940313x587487647750422500",
+"title":"Graham Boyd knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1677730332273x427662054932016900",
+        "to": "1677730323825x979428203172274600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115953964x243760703719866370",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115953964x243760703719866370",
+"title":"Graham Boyd knows Lawrence Ford"
+    }
+,{
+        "label": "knows",
+        "from": "1677730332273x427662054932016900",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115967481x152144696967430140",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115967481x152144696967430140",
+"title":"Graham Boyd knows Killu Sanborn"
+    }
+,{
+        "label": "knows",
+        "from": "1677730332273x427662054932016900",
+        "to": "1681860619225x990182170230117600",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698115984471x321261832541831200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698115984471x321261832541831200",
+"title":"Graham Boyd knows Ted Rau"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730349423x530399261227300100",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116017990x436158736320954400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116017990x436158736320954400",
+"title":"Jordan Nicholas knows Steve Cook"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730341191x337860545345084500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116035366x689388869774475300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116035366x689388869774475300",
+"title":"Jordan Nicholas knows Donna Nelham"
+    }
+,{
+        "label": "knows",
+        "from": "1677730357000x821235687633408200",
+        "to": "1677730329473x944050733018899200",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116052665x355553010361040900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116052665x355553010361040900",
+"title":"Jordan Nicholas knows Kim Wright"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730328702x115757926661274500",
+        "to": "1677730329473x944050733018899200",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116109389x823325537636188200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116109389x823325537636188200",
+"title":"Trae Ashlie-Garen is related to Kim Wright"
+    }
+,{
+        "label": "knows",
+        "from": "1677730328702x115757926661274500",
+        "to": "1677730315692x301648927356855900",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116152607x661213512994652200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116152607x661213512994652200",
+"title":"Trae Ashlie-Garen knows Michael Lennon"
+    }
+,{
+        "label": "knows",
+        "from": "1677730328702x115757926661274500",
+        "to": "1677730334439x973233534321868900",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116190380x434748126508089340",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116190380x434748126508089340",
+"title":"Trae Ashlie-Garen knows Kylie Stedman Gomes"
+    }
+,{
+        "label": "knows",
+        "from": "1677730328702x115757926661274500",
+        "to": "1677730341191x337860545345084500",
+"strength":9,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116231256x198395097312395260",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116231256x198395097312395260",
+"title":"Trae Ashlie-Garen knows Donna Nelham"
+    }
+,{
+        "label": "knows",
+        "from": "1677730328702x115757926661274500",
+        "to": "1677730336601x704438838480570000",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116293867x537371754450911200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116293867x537371754450911200",
+"title":"Trae Ashlie-Garen knows Mike Shoeman"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730332273x427662054932016900",
+        "to": "1677730295543x776914120570700400",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116348971x246470035603718140",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116348971x246470035603718140",
+"title":"Graham Boyd is related to Transforming the Nature of Business (TTNB)"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730295543x776914120570700400",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116383784x123372962456797180",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116383784x123372962456797180",
+"title":"Transforming the Nature of Business (TTNB) is related to Killu Sanborn"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730298362x721132440417892200",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116392373x304001788687155200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116392373x304001788687155200",
+"title":"TTNB - Essence of Business is related to Killu Sanborn"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730296242x374212914400215740",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116402325x603681848194498600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116402325x603681848194498600",
+"title":"TTNB - Mapping is related to Killu Sanborn"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730298362x721132440417892200",
+        "to": "1677730332273x427662054932016900",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116412741x734187408971530200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116412741x734187408971530200",
+"title":"TTNB - Essence of Business is related to Graham Boyd"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730296242x374212914400215740",
+        "to": "1677730332273x427662054932016900",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116430297x936256791170252800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116430297x936256791170252800",
+"title":"TTNB - Mapping is related to Graham Boyd"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730320202x577328500462251600",
+        "to": "1677730309985x349877685004697400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116460804x362361617669160960",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116460804x362361617669160960",
+"title":"Killu Sanborn is related to Future Capital"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730309985x349877685004697400",
+        "to": "1677730332273x427662054932016900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116488607x796507106746564600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116488607x796507106746564600",
+"title":"Future Capital is related to Graham Boyd"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730309985x349877685004697400",
+        "to": "1677730323825x979428203172274600",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116499844x625550356613693400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116499844x625550356613693400",
+"title":"Future Capital is related to Lawrence Ford"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730309985x349877685004697400",
+        "to": "1677730306062x761653483825960600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116519222x925037662717870100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116519222x925037662717870100",
+"title":"Future Capital is related to Conscious Wealth"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730323825x979428203172274600",
+        "to": "1677730357000x821235687633408200",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116539987x829975940094492700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116539987x829975940094492700",
+"title":"Lawrence Ford is related to Jordan Nicholas"
+    }
+,{
+        "label": "knows",
+        "from": "1677730323825x979428203172274600",
+        "to": "1677730341191x337860545345084500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116570056x837927966670323700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116570056x837927966670323700",
+"title":"Lawrence Ford knows Donna Nelham"
+    }
+,{
+        "label": "knows",
+        "from": "1677730323825x979428203172274600",
+        "to": "1677730349423x530399261227300100",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116585174x870887578811760600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116585174x870887578811760600",
+"title":"Lawrence Ford knows Steve Cook"
+    }
+,{
+        "label": "knows",
+        "from": "1677730323825x979428203172274600",
+        "to": "1677730333759x187894433376627500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116601412x662617292577701900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116601412x662617292577701900",
+"title":"Lawrence Ford knows Melea Press"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860618291x652931218572841100",
+        "to": "1681860619225x990182170230117600",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116626291x349839733129740300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116626291x349839733129740300",
+"title":"Sociocracy is related to Ted Rau"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860618291x652931218572841100",
+        "to": "1677730299478x880606039048883200",
+"strength":6,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116659780x634789044867301400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116659780x634789044867301400",
+"title":"Sociocracy is related to Evolutesix"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730403996x668281626349118500",
+        "to": "1677730404834x310347213320724540",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116714530x150893995208998900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116714530x150893995208998900",
+"title":"Green America is related to Alisa Gravitz"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730403996x668281626349118500",
+        "to": "1677730406204x989776876396804000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116741869x291415256712085500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116741869x291415256712085500",
+"title":"Green America is related to Soil & Caron Alliance"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730403996x668281626349118500",
+        "to": "1677730363681x383565316246933250",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116759599x309367407409365000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116759599x309367407409365000",
+"title":"Green America is related to Kinship EARTH"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730363681x383565316246933250",
+        "to": "1677730338886x312748795194502900",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116788306x141571640183488510",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116788306x141571640183488510",
+"title":"Kinship EARTH is related to Lauren Archer"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730363681x383565316246933250",
+        "to": "1677730316574x876763912923586300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116811141x565139297775124500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116811141x565139297775124500",
+"title":"Kinship EARTH is related to Forrist Lytehaause"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730372495x786818312879458800",
+        "to": "1677730330905x664021613909189200",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116834892x727327800193450000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116834892x727327800193450000",
+"title":"ProSocial is related to Mila Aliana"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730372495x786818312879458800",
+        "to": "1677730318661x855430474435656400",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116855496x506975826900680700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116855496x506975826900680700",
+"title":"ProSocial is related to Dounia Saeme"
+    }
+,{
+        "label": "knows",
+        "from": "1677730330905x664021613909189200",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116889724x587274843183120400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116889724x587274843183120400",
+"title":"Mila Aliana knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1677730318661x855430474435656400",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116904748x805401593891782700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116904748x805401593891782700",
+"title":"Dounia Saeme knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730365043x212802149455426600",
+        "to": "1677730339624x780979650016018800",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116950245x666782402169536500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116950245x666782402169536500",
+"title":"EarthWISE is related to Anneloes Smitsman"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730365043x212802149455426600",
+        "to": "1677730325604x253778437918006820",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116970504x580290413828767700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116970504x580290413828767700",
+"title":"EarthWISE is related to Stacey Druss"
+    }
+,{
+        "label": "knows",
+        "from": "1677730339624x780979650016018800",
+        "to": "1677730325604x253778437918006820",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698116997144x877672299985371100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698116997144x877672299985371100",
+"title":"Anneloes Smitsman knows Stacey Druss"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730377104x502453931700996160",
+        "to": "1677730335224x949348833673640700",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698117713056x113524110400946180",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698117713056x113524110400946180",
+"title":"Global Unity is related to Elliott Bayev"
+    }
+,{
+        "label": "hosts",
+        "from": "1677730377104x502453931700996160",
+        "to": "1670275800404x198049049943212830",
+"strength":10,
+"connection subtype":"hosts",
+"description":"",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1698117977232x297392440054644740",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698117977232x297392440054644740",
+"title":"Global Unity hosts Transformative Impact Summit "
+    }
+,{
+        "label": "knows",
+        "from": "1677730335224x949348833673640700",
+        "to": "1677730343509x473426055356033400",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118045252x941870857815588900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118045252x941870857815588900",
+"title":"Elliott Bayev knows Peter Kaminski"
+    }
+,{
+        "label": "knows",
+        "from": "1677730335224x949348833673640700",
+        "to": "1677730324886x729438212306565800",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118061637x214740357378211840",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118061637x214740357378211840",
+"title":"Elliott Bayev knows Vincent Arena"
+    }
+,{
+        "label": "knows",
+        "from": "1677730335224x949348833673640700",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118084002x562966232952471550",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118084002x562966232952471550",
+"title":"Elliott Bayev knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1677730335224x949348833673640700",
+        "to": "1677730344278x313444679732509000",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118119538x975947121342545900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118119538x975947121342545900",
+"title":"Elliott Bayev knows Jerry Michalski"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730357763x439070508852158460",
+        "to": "1677730390095x114739850344094400",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118155585x852790578407800800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118155585x852790578407800800",
+"title":"2BElemental is related to 2BE Network"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730357763x439070508852158460",
+        "to": "1677730344961x271560900404378000",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118176857x489453681366794240",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118176857x489453681366794240",
+"title":"2BElemental is related to Doug Breitbart"
+    }
+,{
+        "label": "knows",
+        "from": "1677730344961x271560900404378000",
+        "to": "1677730329473x944050733018899200",
+"strength":6,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118224925x297082231328866300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118224925x297082231328866300",
+"title":"Doug Breitbart knows Kim Wright"
+    }
+,{
+        "label": "knows",
+        "from": "1677730344961x271560900404378000",
+        "to": "1677730334439x973233534321868900",
+"strength":8,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118244878x424545092446715900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118244878x424545092446715900",
+"title":"Doug Breitbart knows Kylie Stedman Gomes"
+    }
+,{
+        "label": "knows",
+        "from": "1677730344961x271560900404378000",
+        "to": "1677730316574x876763912923586300",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118270726x277224367797043200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118270726x277224367797043200",
+"title":"Doug Breitbart knows Forrist Lytehaause"
+    }
+,{
+        "label": "knows",
+        "from": "1677730344961x271560900404378000",
+        "to": "1677730325604x253778437918006820",
+"strength":6,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118301278x805261950321688600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118301278x805261950321688600",
+"title":"Doug Breitbart knows Stacey Druss"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860547680x911426791580268000",
+        "to": "1677730337371x533592930311054900",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118431581x861578880172687400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118431581x861578880172687400",
+"title":"Radical Purpose is related to Jose Leal"
+    }
+,{
+        "label": "knows",
+        "from": "1677730337371x533592930311054900",
+        "to": "1677730329473x944050733018899200",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118458632x851677027216654300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118458632x851677027216654300",
+"title":"Jose Leal knows Kim Wright"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730337371x533592930311054900",
+        "to": "1677730371080x479793193823274900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118477533x741369897249407000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118477533x741369897249407000",
+"title":"Jose Leal is related to Society 2045"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730371080x479793193823274900",
+        "to": "1677730329473x944050733018899200",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118520401x553427889509892100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118520401x553427889509892100",
+"title":"Society 2045 is related to Kim Wright"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730371080x479793193823274900",
+        "to": "1677730325604x253778437918006820",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118561809x547365758126522400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118561809x547365758126522400",
+"title":"Society 2045 is related to Stacey Druss"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730371080x479793193823274900",
+        "to": "1677730344961x271560900404378000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118599250x806522124628656100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118599250x806522124628656100",
+"title":"Society 2045 is related to Doug Breitbart"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730371080x479793193823274900",
+        "to": "1677730343509x473426055356033400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118621033x374549879324672000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118621033x374549879324672000",
+"title":"Society 2045 is related to Peter Kaminski"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730361315x974576285440624400",
+        "to": "1677730324886x729438212306565800",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118649449x860993427872677900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118649449x860993427872677900",
+"title":"University Innovation Fellows is related to Vincent Arena"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730361315x974576285440624400",
+        "to": "1677730379142x876542782722975900",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118668449x873843838357864400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118668449x873843838357864400",
+"title":"University Innovation Fellows is related to UIF Network"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730371775x567317475647282500",
+        "to": "1677730341924x388175484868514370",
+"strength":6,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118711417x125502601563734020",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118711417x125502601563734020",
+"title":"The Institute for Meaning Alignment is related to Joe Edelman"
+    }
+,{
+        "label": "knows",
+        "from": "1677730341924x388175484868514370",
+        "to": "1677730318010x955524825733089500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118739086x764124997418483700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118739086x764124997418483700",
+"title":"Joe Edelman knows Kevin Jones"
+    }
+,{
+        "label": "knows",
+        "from": "1677730341924x388175484868514370",
+        "to": "1677730356287x243796279803125700",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118764904x865923283354124300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118764904x865923283354124300",
+"title":"Joe Edelman knows Bentley Davis"
+    }
+,{
+        "label": "knows",
+        "from": "1677730341924x388175484868514370",
+        "to": "1677730344278x313444679732509000",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118779620x181621184212500480",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118779620x181621184212500480",
+"title":"Joe Edelman knows Jerry Michalski"
+    }
+,{
+        "label": "knows",
+        "from": "1677730341924x388175484868514370",
+        "to": "1677730319441x416592597581364200",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118799172x194585523924500480",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118799172x194585523924500480",
+"title":"Joe Edelman knows Lauren Nignon"
+    }
+,{
+        "label": "created",
+        "from": "1677730344278x313444679732509000",
+        "to": "1681860616401x305968893878202800",
+"strength":10,
+"connection subtype":"created",
+"description":"",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1698118834822x611495819095572500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118834822x611495819095572500",
+"title":"Jerry Michalski created Jerry\"s Brain"
+    }
+,{
+        "label": "knows",
+        "from": "1677730344278x313444679732509000",
+        "to": "1677730343509x473426055356033400",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118861255x865197184838533100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118861255x865197184838533100",
+"title":"Jerry Michalski knows Peter Kaminski"
+    }
+,{
+        "label": "knows",
+        "from": "1677730344278x313444679732509000",
+        "to": "1677730324886x729438212306565800",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118885822x257410886841139200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118885822x257410886841139200",
+"title":"Jerry Michalski knows Vincent Arena"
+    }
+,{
+        "label": "knows",
+        "from": "1677730344278x313444679732509000",
+        "to": "1677730356287x243796279803125700",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118925073x329219608864096260",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118925073x329219608864096260",
+"title":"Jerry Michalski knows Bentley Davis"
+    }
+,{
+        "label": "knows",
+        "from": "1677730344278x313444679732509000",
+        "to": "1677730318010x955524825733089500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118939425x938336381903044600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118939425x938336381903044600",
+"title":"Jerry Michalski knows Kevin Jones"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730367353x250253376449832260",
+        "to": "1677730326509x272408691557213470",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698118984809x702491722590715900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698118984809x702491722590715900",
+"title":"Humans United in Mutual Aid Network is related to Stephanie Rearick"
+    }
+,{
+        "label": "knows",
+        "from": "1677730326509x272408691557213470",
+        "to": "1677730324886x729438212306565800",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698119023752x197661241229443070",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698119023752x197661241229443070",
+"title":"Stephanie Rearick knows Vincent Arena"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730366718x263995768535130200",
+        "to": "1677730331602x428604540724432100",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698119044277x266863356382019600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698119044277x266863356382019600",
+"title":"Eden, CoOp is related to Scott Vineberg"
+    }
+,{
+        "label": "knows",
+        "from": "1677730331602x428604540724432100",
+        "to": "1677730324886x729438212306565800",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698119066678x845504529027563500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698119066678x845504529027563500",
+"title":"Scott Vineberg knows Vincent Arena"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730331602x428604540724432100",
+        "to": "1677730294739x944637402726462300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698119090928x874611989682847700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698119090928x874611989682847700",
+"title":"Scott Vineberg is related to Collaborative Tech Alliance (CTA)"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730331602x428604540724432100",
+        "to": "1677730390938x509972348601985600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698119112714x525545317062934500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698119112714x525545317062934500",
+"title":"Scott Vineberg is related to Collabathon"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730326509x272408691557213470",
+        "to": "1677730294739x944637402726462300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698119139164x249578104030756860",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698119139164x249578104030756860",
+"title":"Stephanie Rearick is related to Collaborative Tech Alliance (CTA)"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730326509x272408691557213470",
+        "to": "1677730390938x509972348601985600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698119150197x665913098395451400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698119150197x665913098395451400",
+"title":"Stephanie Rearick is related to Collabathon"
     }
 
  ]
