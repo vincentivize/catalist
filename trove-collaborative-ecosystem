@@ -5216,6 +5216,24 @@
 "size":"",
 "related objects":[],
 "label":"All Tech Is Human"
+    },{
+        "id": "1698104761565x450053562376912900",
+"url":"https://myteamabroad.com",
+"object url":"https://www.catalist.network/trove-space/collaborative-ecosystem?object=1698104761565x450053562376912900&view=Graph&filtered=yes",
+"image":"https://myteamabroad.com/wp-content/themes/myteamabroad/assets/logo.png",
+"type":"Organization",
+"topics":[],
+"tags":["Economics & Jobs","Economics","Organizations"],
+"attribute-tags":"Economics & Jobs|Economics|Organizations",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"HIRE THE BEST REMOTE TEAM\nBuild your ideal remote development team by hiring the best architects, programmers, engineers, consultants, designers and administrators.",
+"size":"",
+"related objects":[],
+"label":"MyTeamAbroad"
     }
 ],
 
@@ -5375,88 +5393,88 @@
 "title":"Seriously is made by Jonathan Sand"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1681860552202x469409337035063200",
 "strength":10,
-"connection subtype":"is related to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694924789133x783930153672376300",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694924789133x783930153672376300",
-"title":"Trae Ashlie-Garen is related to Parmjit Nahil"
+"title":"Trae Ashlie-Garen knows Parmjit Nahil"
     }
 ,{
-        "label": "",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1681860553070x355225364116516000",
 "strength":1,
-"connection subtype":"",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694925015436x518173706050601000",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694925015436x518173706050601000",
-"title":"Trae Ashlie-Garen  Stelio Verzera"
+"title":"Trae Ashlie-Garen knows Stelio Verzera"
     }
 ,{
-        "label": "",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1681860554823x661285655692615700",
 "strength":1,
-"connection subtype":"",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694925036899x349054811165687800",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694925036899x349054811165687800",
-"title":"Trae Ashlie-Garen  David Kish"
+"title":"Trae Ashlie-Garen knows David Kish"
     }
 ,{
-        "label": "is connected to",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1681860553873x153990759142597080",
 "strength":1,
-"connection subtype":"is connected to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694925052549x824510589619142700",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694925052549x824510589619142700",
-"title":"Trae Ashlie-Garen is connected to Danielle Stanko"
+"title":"Trae Ashlie-Garen knows Danielle Stanko"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1681860556773x588374506164703000",
 "strength":1,
-"connection subtype":"is related to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694925378152x722139755838177300",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694925378152x722139755838177300",
-"title":"Trae Ashlie-Garen is related to Naresh Singh"
+"title":"Trae Ashlie-Garen knows Naresh Singh"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1681860553873x153990759142597080",
         "to": "1681860554823x661285655692615700",
 "strength":10,
-"connection subtype":"is related to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694925413952x676246671502868500",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694925413952x676246671502868500",
-"title":"Danielle Stanko is related to David Kish"
+"title":"Danielle Stanko knows David Kish"
     }
 ,{
         "label": "is related to",
@@ -5487,18 +5505,18 @@
 "title":"David Kish Created The Next Evolution"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1677730344961x271560900404378000",
 "strength":10,
-"connection subtype":"is related to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694926115971x595294112071024600",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694926115971x595294112071024600",
-"title":"Trae Ashlie-Garen is related to Doug Breitbart"
+"title":"Trae Ashlie-Garen knows Doug Breitbart"
     }
 ,{
         "label": "knows",
@@ -5515,18 +5533,18 @@
 "title":"Doug Breitbart knows Jose Leal"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1681860560888x819119039227176300",
 "strength":1,
-"connection subtype":"is related to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694926597640x232594276342824960",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694926597640x232594276342824960",
-"title":"Trae Ashlie-Garen is related to Dr. Toby Lowe"
+"title":"Trae Ashlie-Garen knows Dr. Toby Lowe"
     }
 ,{
         "label": "created",
@@ -5613,74 +5631,74 @@
 "title":"Human Learning Systems is related to International Community of Practice"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1681860552202x469409337035063200",
         "to": "1677730344961x271560900404378000",
-"strength":1,
-"connection subtype":"is related to",
+"strength":10,
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694927643674x223231266323693570",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694927643674x223231266323693570",
-"title":"Parmjit Nahil is related to Doug Breitbart"
+"title":"Parmjit Nahil knows Doug Breitbart"
     }
 ,{
-        "label": "is connected to",
+        "label": "knows",
         "from": "1681860552202x469409337035063200",
         "to": "1677730317335x883077723753616800",
-"strength":1,
-"connection subtype":"is connected to",
+"strength":10,
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694927661739x687350204234465300",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694927661739x687350204234465300",
-"title":"Parmjit Nahil is connected to Wendy McLean"
+"title":"Parmjit Nahil knows Wendy McLean"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1681860552202x469409337035063200",
         "to": "1677730315692x301648927356855900",
 "strength":1,
-"connection subtype":"is related to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694927696575x848156838025232400",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694927696575x848156838025232400",
-"title":"Parmjit Nahil is related to Michael Lennon"
+"title":"Parmjit Nahil knows Michael Lennon"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1681860584357x579544347406039600",
 "strength":1,
-"connection subtype":"is related to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694927909658x378587136123207700",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694927909658x378587136123207700",
-"title":"Trae Ashlie-Garen is related to Bill Baue"
+"title":"Trae Ashlie-Garen knows Bill Baue"
     }
 ,{
-        "label": "is related to",
+        "label": "knows",
         "from": "1677730328702x115757926661274500",
         "to": "1681860626370x976935947928716900",
 "strength":1,
-"connection subtype":"is related to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1694927942439x896423516007039000",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1694927942439x896423516007039000",
-"title":"Trae Ashlie-Garen is related to Simone Cicero"
+"title":"Trae Ashlie-Garen knows Simone Cicero"
     }
 ,{
         "label": "is related to",
@@ -5753,18 +5771,18 @@
 "title":"Wendy McLean is connected to Stacey Druss"
     }
 ,{
-        "label": "is connected to",
+        "label": "knows",
         "from": "1677730317335x883077723753616800",
         "to": "1677730328702x115757926661274500",
 "strength":1,
-"connection subtype":"is connected to",
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1697084908564x374049142817685500",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1697084908564x374049142817685500",
-"title":"Wendy McLean is connected to Trae Ashlie-Garen"
+"title":"Wendy McLean knows Trae Ashlie-Garen"
     }
 ,{
         "label": "is connected to",
@@ -5809,18 +5827,18 @@
 "title":"Wendy McLean is connected to Melanie Carlone"
     }
 ,{
-        "label": "is connected to",
+        "label": "knows",
         "from": "1677730317335x883077723753616800",
         "to": "1677730344961x271560900404378000",
-"strength":1,
-"connection subtype":"is connected to",
+"strength":7,
+"connection subtype":"knows",
 "description":"",
 "connection type":"Relationship",
 "one-way":"no",
 "direction":"mutual",
 "id":"1697085021118x980347540871577600",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1697085021118x980347540871577600",
-"title":"Wendy McLean is connected to Doug Breitbart"
+"title":"Wendy McLean knows Doug Breitbart"
     }
 ,{
         "label": "is connected to",
@@ -6045,6 +6063,1070 @@
 "id":"1698069056233x539222336680493060",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698069056233x539222336680493060",
 "title":"Parmjit Nahil attended WEIRD Design Sprint 2"
+    }
+,{
+        "label": "knows",
+        "from": "1681860553070x355225364116516000",
+        "to": "1677730344961x271560900404378000",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698102616293x339669067660263400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698102616293x339669067660263400",
+"title":"Stelio Verzera knows Doug Breitbart"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860582570x574330288245359600",
+        "to": "1683659635062x225891273011475040",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698102864399x281552659892142100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698102864399x281552659892142100",
+"title":"Networking the Networks (NTN) is related to Network Science"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860582570x574330288245359600",
+        "to": "1681860583450x142397966450566130",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698102884747x873137345431339000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698102884747x873137345431339000",
+"title":"Networking the Networks (NTN) is related to Alexander Laszlo"
+    }
+,{
+        "label": "wrote",
+        "from": "1681860583450x142397966450566130",
+        "to": "1683659635062x225891273011475040",
+"strength":10,
+"connection subtype":"wrote",
+"description":"",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1698102939567x895372472856084500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698102939567x895372472856084500",
+"title":"Alexander Laszlo wrote Network Science"
+    }
+,{
+        "label": "knows",
+        "from": "1681860583450x142397966450566130",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103012605x431292405079081000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103012605x431292405079081000",
+"title":"Alexander Laszlo knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860583450x142397966450566130",
+        "to": "1677730341191x337860545345084500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103042794x860607508055851000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103042794x860607508055851000",
+"title":"Alexander Laszlo knows Donna Nelham"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860592523x385373034514221440",
+        "to": "1681860594201x238258259957215840",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103096837x193086201919963140",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103096837x193086201919963140",
+"title":"Creating the Future is related to Dimitri Petropolis"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860592523x385373034514221440",
+        "to": "1681860593408x582198082552243300",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103125466x728356273432821800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103125466x728356273432821800",
+"title":"Creating the Future is related to Hildy Gottlieb"
+    }
+,{
+        "label": "knows",
+        "from": "1681860593408x582198082552243300",
+        "to": "1681860594201x238258259957215840",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103151622x580687047947452400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103151622x580687047947452400",
+"title":"Hildy Gottlieb knows Dimitri Petropolis"
+    }
+,{
+        "label": "knows",
+        "from": "1681860557513x546237865099203000",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103262670x869076823795302400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103262670x869076823795302400",
+"title":"Sudarshan knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860577614x409587865478465000",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103280152x199228900890640400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103280152x199228900890640400",
+"title":"Francesca Pick knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860575836x575289149594012500",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103293239x352869360553426940",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103293239x352869360553426940",
+"title":"Barish Golland knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860564418x797568847772830700",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103336527x424763437839286300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103336527x424763437839286300",
+"title":"Eduardo Moreira knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860572578x366817970848724030",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103353785x953431328982564900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103353785x953431328982564900",
+"title":"John Esterle CoED knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860567964x748153650641090700",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103373430x371904713862152200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103373430x371904713862152200",
+"title":"Tim MacDonald knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860565147x840551638987441400",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103388256x369227897316311040",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103388256x369227897316311040",
+"title":"Gianni Canas knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860578483x865403907408570000",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103407441x687112903714668500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103407441x687112903714668500",
+"title":"Susan Basterfield knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860581803x902868839919319700",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103421781x917426615668441100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103421781x917426615668441100",
+"title":"Ross Hall knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860595700x607932439314526200",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103437633x695551026231509000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103437633x695551026231509000",
+"title":"Jill Bolte Taylor knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860586165x663141850504614000",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103455344x283662999082762240",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103455344x283662999082762240",
+"title":"Chief Phil Lane Jr. knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860608237x129520509198032930",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103468281x669639514453180400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103468281x669639514453180400",
+"title":"Lindsay McDonald knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860589542x748327107148987200",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103501877x601535561507274800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103501877x601535561507274800",
+"title":"Cameron Burgess knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860593408x582198082552243300",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103516127x758644255139037200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103516127x758644255139037200",
+"title":"Hildy Gottlieb knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860594201x238258259957215840",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103534752x892086727585824800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103534752x892086727585824800",
+"title":"Dimitri Petropolis knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "knows",
+        "from": "1681860627098x345281992596790700",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103564163x342491045018992640",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103564163x342491045018992640",
+"title":"Luca Ruggeri knows Trae Ashlie-Garen"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860585264x360179935918788030",
+        "to": "1681860586165x663141850504614000",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103796971x393555803539243000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103796971x393555803539243000",
+"title":"Four Worlds International Institute is related to Chief Phil Lane Jr."
+    }
+,{
+        "label": "is related to",
+        "from": "1681860555906x884917046538785900",
+        "to": "1681860560111x156888023866710750",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103841370x675394846302142500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103841370x675394846302142500",
+"title":"Centre for Complexity Economics, Applied Spirituality and Public Policy (CEASP) is related to Centre for Public Impact"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860555906x884917046538785900",
+        "to": "1681860557513x546237865099203000",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103873315x541086890266198000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103873315x541086890266198000",
+"title":"Centre for Complexity Economics, Applied Spirituality and Public Policy (CEASP) is related to Sudarshan"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860555906x884917046538785900",
+        "to": "1681860556773x588374506164703000",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103896116x200216404362788860",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103896116x200216404362788860",
+"title":"Centre for Complexity Economics, Applied Spirituality and Public Policy (CEASP) is related to Naresh Singh"
+    }
+,{
+        "label": "knows",
+        "from": "1681860556773x588374506164703000",
+        "to": "1681860557513x546237865099203000",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698103921244x568909651366903800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698103921244x568909651366903800",
+"title":"Naresh Singh knows Sudarshan"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860558430x190500389942944700",
+        "to": "1681860560111x156888023866710750",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104000201x436643343361376260",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104000201x436643343361376260",
+"title":"Human Learning Systems is related to Centre for Public Impact"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860571427x118092384692193970",
+        "to": "1681860572578x366817970848724030",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104063975x527982927206678500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104063975x527982927206678500",
+"title":"The Whitman Institute is related to John Esterle CoED"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860576705x310721354496581250",
+        "to": "1681860580139x599434332400043000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104107083x934710938360873000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104107083x934710938360873000",
+"title":"GreaterThan is related to Money Game"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860576705x310721354496581250",
+        "to": "1681860579333x979820999300427000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104132465x625210795472453600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104132465x625210795472453600",
+"title":"GreaterThan is related to Thriving Networks Training"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860576705x310721354496581250",
+        "to": "1681860577614x409587865478465000",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104161325x665563495061258200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104161325x665563495061258200",
+"title":"GreaterThan is related to Francesca Pick"
+    }
+,{
+        "label": "",
+        "from": "1681860576705x310721354496581250",
+        "to": "1681860578483x865403907408570000",
+"strength":10,
+"connection subtype":"",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104185004x462380824932909060",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104185004x462380824932909060",
+"title":"GreaterThan  Susan Basterfield"
+    }
+,{
+        "label": "knows",
+        "from": "1681860578483x865403907408570000",
+        "to": "1681860577614x409587865478465000",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104217639x371738901322661900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104217639x371738901322661900",
+"title":"Susan Basterfield knows Francesca Pick"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860590354x434863412120351000",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104270798x308805967523610600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104270798x308805967523610600",
+"title":"Catalytic Capital Consortium is related to Trae Ashlie-Garen"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860566060x505134539832286600",
+        "to": "1677730328702x115757926661274500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104352644x593911711582912500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104352644x593911711582912500",
+"title":"Holochain is related to Trae Ashlie-Garen"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860566060x505134539832286600",
+        "to": "1681860561730x459450419424052900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104371796x933544393064316900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104371796x933544393064316900",
+"title":"Holochain is related to EYSS.io"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860562602x846195013296319200",
+        "to": "1681860561730x459450419424052900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104405794x419458593876082700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104405794x419458593876082700",
+"title":"Open EXO is related to EYSS.io"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860562602x846195013296319200",
+        "to": "1681860563647x429981503259967900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104423217x571986881187938300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104423217x571986881187938300",
+"title":"Open EXO is related to Heart & Mind Meld"
+    }
+,{
+        "label": "knows",
+        "from": "1681860565147x840551638987441400",
+        "to": "1681860564418x797568847772830700",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104542130x513617173921398800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104542130x513617173921398800",
+"title":"Gianni Canas knows Eduardo Moreira"
+    }
+,{
+        "label": "is related to",
+        "from": "1698104761565x450053562376912900",
+        "to": "1681860564418x797568847772830700",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104784665x753381351446020100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104784665x753381351446020100",
+"title":"MyTeamAbroad is related to Eduardo Moreira"
+    }
+,{
+        "label": "is related to",
+        "from": "1698104761565x450053562376912900",
+        "to": "1681860565147x840551638987441400",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104799711x353876317112893440",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104799711x353876317112893440",
+"title":"MyTeamAbroad is related to Gianni Canas"
+    }
+,{
+        "label": "is a practitioner of",
+        "from": "1677730328702x115757926661274500",
+        "to": "1681860542451x326930589376762240",
+"strength":10,
+"connection subtype":"is a practitioner of",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104840336x563935046702465000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104840336x563935046702465000",
+"title":"Trae Ashlie-Garen is a practitioner of Human Design"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860542451x326930589376762240",
+        "to": "1681860543554x301582086256963400",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104884381x807784857600262100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104884381x807784857600262100",
+"title":"Human Design is related to Human Design Professionals"
+    }
+,{
+        "label": "is a part of",
+        "from": "1677730328702x115757926661274500",
+        "to": "1681860543554x301582086256963400",
+"strength":10,
+"connection subtype":"is a part of",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104934594x143338613867020290",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104934594x143338613867020290",
+"title":"Trae Ashlie-Garen is a part of Human Design Professionals"
+    }
+,{
+        "label": "is a practitioner of",
+        "from": "1681860540506x615106672446761100",
+        "to": "1677730328702x115757926661274500",
+"strength":10,
+"connection subtype":"is a practitioner of",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698104978191x978457836357943300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698104978191x978457836357943300",
+"title":"Gene Keys is a practitioner of Trae Ashlie-Garen"
+    }
+,{
+        "label": "is a part of",
+        "from": "1677730328702x115757926661274500",
+        "to": "1681860541512x803170922740450800",
+"strength":10,
+"connection subtype":"is a part of",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105016935x932855004727083000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105016935x932855004727083000",
+"title":"Trae Ashlie-Garen is a part of Gene Keys Ambassadors"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860541512x803170922740450800",
+        "to": "1681860540506x615106672446761100",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105030578x650616674695249900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105030578x650616674695249900",
+"title":"Gene Keys Ambassadors is related to Gene Keys"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860574232x710994032193018900",
+        "to": "1681860608237x129520509198032930",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105084833x183487545666437120",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105084833x183487545666437120",
+"title":"Liberating Structures is related to Lindsay McDonald"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860574232x710994032193018900",
+        "to": "1681860575836x575289149594012500",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105106592x563411251737657340",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105106592x563411251737657340",
+"title":"Liberating Structures is related to Barish Golland"
+    }
+,{
+        "label": "knows",
+        "from": "1681860575836x575289149594012500",
+        "to": "1681860608237x129520509198032930",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105142148x233242274892087300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105142148x233242274892087300",
+"title":"Barish Golland knows Lindsay McDonald"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860568996x947807588192624000",
+        "to": "1681860567964x748153650641090700",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105173053x920629443092807700",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105173053x920629443092807700",
+"title":"Evergreen Core is related to Tim MacDonald"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860568996x947807588192624000",
+        "to": "1681860567095x957215458663282800",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105209793x406928005399314400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105209793x406928005399314400",
+"title":"Evergreen Core is related to Fiduciaries for the Future"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860567095x957215458663282800",
+        "to": "1681860567964x748153650641090700",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105242576x577546630913851400",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105242576x577546630913851400",
+"title":"Fiduciaries for the Future is related to Tim MacDonald"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860544487x328221684090865600",
+        "to": "1681860567095x957215458663282800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105282713x455928997485215740",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105282713x455928997485215740",
+"title":"r3.0 is related to Fiduciaries for the Future"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860544487x328221684090865600",
+        "to": "1681860584357x579544347406039600",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105297192x693298187144003600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105297192x693298187144003600",
+"title":"r3.0 is related to Bill Baue"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860544487x328221684090865600",
+        "to": "1681860545263x428453228065766300",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105337537x887521674703929300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105337537x887521674703929300",
+"title":"r3.0 is related to Designing for Social Cohesion"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860544487x328221684090865600",
+        "to": "1681860569852x473573715583793340",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105359518x510739652356866050",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105359518x510739652356866050",
+"title":"r3.0 is related to The Next Evolution"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860569852x473573715583793340",
+        "to": "1681860570688x295711477137461400",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105433232x901619336461418500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105433232x901619336461418500",
+"title":"The Next Evolution is related to The Ecosystem Intent Toolkit"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860626370x976935947928716900",
+        "to": "1681860625409x329986658121316700",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105480343x711367323437760500",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105480343x711367323437760500",
+"title":"Simone Cicero is related to Boundaryless"
+    }
+,{
+        "label": "knows",
+        "from": "1681860626370x976935947928716900",
+        "to": "1681860554823x661285655692615700",
+"strength":1,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105511295x208073801405825020",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105511295x208073801405825020",
+"title":"Simone Cicero knows David Kish"
+    }
+,{
+        "label": "knows",
+        "from": "1681860626370x976935947928716900",
+        "to": "1681860627098x345281992596790700",
+"strength":10,
+"connection subtype":"knows",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105532379x495820255333187600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105532379x495820255333187600",
+"title":"Simone Cicero knows Luca Ruggeri"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860625409x329986658121316700",
+        "to": "1681860627098x345281992596790700",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105560914x187998551299063800",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105560914x187998551299063800",
+"title":"Boundaryless is related to Luca Ruggeri"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860625409x329986658121316700",
+        "to": "1681860570688x295711477137461400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105590094x556568267165794300",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105590094x556568267165794300",
+"title":"Boundaryless is related to The Ecosystem Intent Toolkit"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860580948x756724064347878300",
+        "to": "1681860581803x902868839919319700",
+"strength":9,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105617583x618604034632712200",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105617583x618604034632712200",
+"title":"Weaving Lab is related to Ross Hall"
+    }
+,{
+        "label": "wrote",
+        "from": "1681860595700x607932439314526200",
+        "to": "1681860594994x324931954834761540",
+"strength":10,
+"connection subtype":"wrote",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105647131x503203917721239550",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105647131x503203917721239550",
+"title":"Jill Bolte Taylor wrote Book: Whole Brain Living"
+    }
+,{
+        "label": "wrote",
+        "from": "1681860587871x614491475812323500",
+        "to": "1681860587184x434455520970438850",
+"strength":10,
+"connection subtype":"wrote",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105716019x574373218631548900",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105716019x574373218631548900",
+"title":"Adrienne Maree Brown wrote Book: Emergent Strategy"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860589542x748327107148987200",
+        "to": "1681860588708x951811397990419700",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105756864x279564679816151040",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105756864x279564679816151040",
+"title":"Cameron Burgess is related to From Billions to Trillions"
+    }
+,{
+        "label": "is related to",
+        "from": "1681860625409x329986658121316700",
+        "to": "1681860552202x469409337035063200",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698105785169x342308887404478460",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698105785169x342308887404478460",
+"title":"Boundaryless is related to Parmjit Nahil"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730364426x985375948866631400",
+        "to": "1677730353392x774501622597342000",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698106000573x822859660571181000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698106000573x822859660571181000",
+"title":"Abundance 360 is related to Peter Diamandis"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730364426x985375948866631400",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698106028728x407847880136065000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698106028728x407847880136065000",
+"title":"Abundance 360 is related to Killu Sanborn"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730365656x736347584135779200",
+        "to": "1677730345657x680583841510464800",
+"strength":10,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698106052691x756831837162307600",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698106052691x756831837162307600",
+"title":"Wealth Dynamics is related to Roger Hamilton"
+    }
+,{
+        "label": "is related to",
+        "from": "1677730365656x736347584135779200",
+        "to": "1677730320202x577328500462251600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698106077124x836023219250004000",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698106077124x836023219250004000",
+"title":"Wealth Dynamics is related to Killu Sanborn"
     }
 
  ]
