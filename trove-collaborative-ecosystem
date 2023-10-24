@@ -375,6 +375,12 @@
 "type":"Attribute",
 "color":""
 },{
+"label":"Relations & Economics",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235241440x829027598786144400/date_hires.png",
+"id":"1681937908770x362537939924779460",
+"type":"Attribute",
+"color":"#77C98D"
+},{
 "label":"Research",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"1683318757387x587919099767255700",
@@ -446,12 +452,6 @@
 "id":"1681795344131x776666628243210000",
 "type":"Attribute",
 "color":""
-},{
-"label":"Relations & Economics",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235241440x829027598786144400/date_hires.png",
-"id":"1681937908770x362537939924779460",
-"type":"Attribute",
-"color":"#77C98D"
 },{
 "label":"STEM - Science Tech Engineering & Math",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235385556x480989869584378400/stem_black.svg",
@@ -660,6 +660,12 @@
 "label":"New York",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696234604409x231224260102671040/Flag_of_the_United_States.svg",
 "id":"1681793009889x475051490017074560",
+"type":"Attribute",
+"color":""
+},{
+"label":"Pages",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696231227072x534378722579093440/webpage.svg",
+"id":"1696231227732x819733185131476600",
 "type":"Attribute",
 "color":""
 },{
@@ -2373,8 +2379,8 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "topics":[],
-"tags":["Organizations"],
-"attribute-tags":"Organizations",
+"tags":["Organizations","Governance"],
+"attribute-tags":"Organizations|Governance",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2382,7 +2388,7 @@
 "skills":[],
 "description":"Running for office. Data coop now becoming cooperative candidate.  Wants to bring simple, usable tools, as a use case for CTA",
 "size":"",
-"related objects":[],"Data Type Attributes":"Organizations","Description":"Running for office. Data coop now becoming cooperative candidate.  Wants to bring simple, usable tools, as a use case for CTA","Editable Title":"Eden, CoOp",
+"related objects":[],"Data Type Attributes":"Organizations","Main Sectors":"Governance","Description":"Running for office. Data coop now becoming cooperative candidate.  Wants to bring simple, usable tools, as a use case for CTA","Editable Title":"Eden, CoOp",
 "label":"Eden, CoOp"
     },{
         "id": "1677730367353x250253376449832260",
@@ -2463,8 +2469,8 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962369452x518543624459538500/multiple-users-silhouette.png",
 "type":"Group",
 "topics":[],
-"tags":["Organizations"],
-"attribute-tags":"Organizations",
+"tags":["Organizations","Relations","Collaboration & Sharing","Relations & Economics","Groups"],
+"attribute-tags":"Organizations|Relations|Collaboration & Sharing|Relations & Economics|Groups",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2472,7 +2478,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"related objects":[],"Data Type Attributes":"Organizations","Editable Title":"Future Design Initiative",
+"related objects":[],"Data Type Attributes":"Organizations","Main Sectors":"Relations","Sub Sectors":"Collaboration & Sharing | Relations & Economics","Editable Title":"Future Design Initiative",
 "label":"Future Design Initiative"
     },{
         "id": "1677730371080x479793193823274900",
@@ -2571,8 +2577,8 @@
 "image":"https://wholebeinginstitute.com/wp-content/uploads/wbi-icon-2.png",
 "type":"Organization",
 "topics":[],
-"tags":[],
-"attribute-tags":"",
+"tags":["Relations","Personal Development","Organizations"],
+"attribute-tags":"Relations|Personal Development|Organizations",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2580,7 +2586,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"related objects":[],
+"related objects":[],"Main Sectors":"Relations","Sub Sectors":"Personal Development",
 "label":"Whole Being Institute (WBI)"
     },{
         "id": "1677730376299x775435294763956900",
@@ -2724,8 +2730,8 @@
 "skills":[],
 "description":"Resilience through regeneration. Forming alliances and growing community. Envisioning a planet where thriving regional farm communities supply nutrient-dense food for humanity while living in harmony with Nature.",
 "size":"",
-"related objects":[],"Attributes Type":"Regen Ag Network","Data Type Attributes":"Groups","Main Sectors":"Environment","Sub Sectors":"Climate Environment & Resiliency | Food Habitat & Biodiversity","Description":"Resilience through regeneration. Forming alliances and growing community. Envisioning a planet where thriving regional farm communities supply nutrient-dense food for humanity while living in harmony with Nature.","Editable Title":"SoFIA (Soil First Industry Association",
-"label":"SoFIA (Soil First Industry Association\\n"
+"related objects":[],"Attributes Type":"Regen Ag Network","Data Type Attributes":"Groups","Main Sectors":"Environment","Sub Sectors":"Climate Environment & Resiliency | Food Habitat & Biodiversity","Description":"Resilience through regeneration. Forming alliances and growing community. Envisioning a planet where thriving regional farm communities supply nutrient-dense food for humanity while living in harmony with Nature.","Editable Title":"SoFIA (Soil First Industry Association)",
+"label":"SoFIA (Soil First Industry Association)"
     },{
         "id": "1677730385427x470160704016342300",
 "url":"",
@@ -2895,8 +2901,8 @@
 "image":"https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1628037462478x801117214202725600%2FCatalist%20Home%20Page%20Illustration-02-min.jpg?w=&h=&auto=compress&dpr=1&fit=max",
 "type":"Resource",
 "topics":[],
-"tags":["Science & Tech","Tool","Innovation Invention & Ideation","Resources","Technology Culture & Society","Community & Relationships","Networks & Connectivity","Infrastructure","Platform Website"],
-"attribute-tags":"Science & Tech|Tool|Innovation Invention & Ideation|Resources|Technology Culture & Society|Community & Relationships|Networks & Connectivity|Infrastructure|Platform Website",
+"tags":["Resources","Technology Culture & Society","Community & Relationships","Networks & Connectivity","Infrastructure","Science & Tech","Tool","Platform Website","Innovation Invention & Ideation"],
+"attribute-tags":"Resources|Technology Culture & Society|Community & Relationships|Networks & Connectivity|Infrastructure|Science & Tech|Tool|Platform Website|Innovation Invention & Ideation",
 "sectors":[],
 "locations":[],
 "address":"",
@@ -2904,7 +2910,7 @@
 "skills":[],
 "description":"Catalist is a connection platform designed to empower communities to build collective intelligence and inspire coordinated action...",
 "size":"",
-"related objects":[],"Data Type Attributes":"Resources","":"Technology Culture & Society | Community & Relationships | Networks & Connectivity","":"Infrastructure | Science & Tech","Main Sectors":"Infrastructure | Science & Tech","Sub Sectors":"Networks & Connectivity | Community & Relationships | Technology Culture & Society","Attributes Type":"Tool | Platform Website","Editable Title":"Catalist.Network","Website":"https://www.catalist.network/",
+"related objects":[],"Data Type Attributes":"Resources","Main Sectors":"Infrastructure | Science & Tech","Sub Sectors":"Networks & Connectivity | Community & Relationships | Technology Culture & Society","Attributes Type":"Tool | Platform Website","Editable Title":"Catalist.Network","Website":"https://www.catalist.network/",
 "label":"Catalist.Network"
     },{
         "id": "1677730394028x198142334423315520",
@@ -5037,8 +5043,8 @@
 "image":"https://img-c.udemycdn.com/course/480x270/1502604_5211.jpg",
 "type":"Resource",
 "topics":["Positivity","Parenting Classes","Wellbeing"],
-"tags":["Resources"],
-"attribute-tags":"Resources",
+"tags":["Education","Personal Development","Resources"],
+"attribute-tags":"Education|Personal Development|Resources",
 "sectors":["Relations"],
 "locations":[],
 "address":"",
@@ -5046,7 +5052,7 @@
 "skills":[],
 "description":"Create a better tomorrow now!  Help kids thrive in our stressed-out world with proven tools from Positive Psychology.\nFor parents and teachers!  Raising responsible, intelligent, well-adjusted children is the toughest job we will ever have. In this course, Wendy shares over 20 science-based tools, requiring only a few minutes each, to empower your kids toward a lifetime of flourishing!",
 "size":"",
-"related objects":[],
+"related objects":[],"Main Sectors":"Education","Sub Sectors":"Personal Development",
 "label":"Science of Success: An intro course in happiness"
     },{
         "id": "1667853414533x138591998942904320",
@@ -5055,8 +5061,8 @@
 "image":"https://lwfiles000.mycourse.app/school386415-public/06af6adc6bebe1e8c762b3382026d054.png",
 "type":"Resource",
 "topics":["Innovation","E-Learning","Ideation","Knowledge sharing","Transformation"],
-"tags":["Resources"],
-"attribute-tags":"Resources",
+"tags":["Personal Development","Relations","Resources"],
+"attribute-tags":"Personal Development|Relations|Resources",
 "sectors":["Education","Professional Services","Relations"],
 "locations":[],
 "address":"",
@@ -5064,7 +5070,7 @@
 "skills":[],
 "description":"Professional Development in Thinking for Change that Matters ",
 "size":"",
-"related objects":[],
+"related objects":[],"Sub Sectors":"Personal Development","Main Sectors":"Relations",
 "label":"Catalytic Thinking Labs"
     },{
         "id": "1657043927599x491519625593094140",
@@ -5073,8 +5079,8 @@
 "image":"https://static.wixstatic.com/media/8caaf8_4613b45a5c8c45689b782ce81a570b8a~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpg",
 "type":"Resource",
 "topics":[],
-"tags":["Resources"],
-"attribute-tags":"Resources",
+"tags":["Spirituality","Spirituality & Religion","Knowledge Wisdom & Intelligence","Resources"],
+"attribute-tags":"Spirituality|Spirituality & Religion|Knowledge Wisdom & Intelligence|Resources",
 "sectors":["Worldview"],
 "locations":[],
 "address":"",
@@ -5082,7 +5088,7 @@
 "skills":[],
 "description":"We are being called to practice making the unseen seen by noticing the slightest change in vibration. We are practicing discerning and feeling into the subtle shifts, so that we can notice emerging patterns sooner. We can learn to “see” them coming from farther down the road, when they’re just a whi…",
 "size":"",
-"related objects":[],
+"related objects":[],"Main Sectors":"Spirituality","Sub Sectors":"Spirituality & Religion | Knowledge Wisdom & Intelligence",
 "label":"Vibration - An Early Detection System"
     },{
         "id": "1698032630525x867412424363343900",
@@ -5317,7 +5323,7 @@
 "description":"A gathering featuring grand-scale changemakers from across the world who are affecting transformative change in various ways.",
 "size":"",
 "related objects":[],
-"label":"Transformative Impact Summit "
+"label":"Transformative Impact Summit"
     },{
         "id": "1698122354904x726682104474894300",
 "url":"http://www.topicquests.org",
@@ -5372,6 +5378,24 @@
 "size":"",
 "related objects":[],
 "label":"IndyLab and StopResetGo"
+    },{
+        "id": "1698127009968x884182452039319600",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/collaborative-ecosystem?object=1698127009968x884182452039319600&view=Graph&filtered=yes",
+"image":"",
+"type":"",
+"topics":[],
+"tags":["People","Science & Tech","Pages"],
+"attribute-tags":"People|Science & Tech|Pages",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"description":"",
+"size":"",
+"related objects":[],"Data Type Attributes":"People","Main Sectors":"Science & Tech",
+"label":"Gyuri Lajos"
     }
 ],
 
@@ -7824,8 +7848,7 @@
 "direction":"mutual",
 "id":"1698114333569x213752634643054600",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114333569x213752634643054600",
-"title":"Radical Transformational Leadership (RTL) is related to RTL Training
-"
+"title":"Radical Transformational Leadership (RTL) is related to RTL Training"
     }
 ,{
         "label": "knows",
@@ -7881,8 +7904,7 @@
 "direction":"mutual",
 "id":"1698114433457x206465450013622270",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114433457x206465450013622270",
-"title":"Kirsten Gallo is related to RTL Training
-"
+"title":"Kirsten Gallo is related to RTL Training"
     }
 ,{
         "label": "knows",
@@ -8036,8 +8058,7 @@
 "direction":"mutual",
 "id":"1698114980021x468252541951672300",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114980021x468252541951672300",
-"title":"SoFIA (Soil First Industry Association
- is related to Planetary CARE | Building Resilience through Regeneration"
+"title":"SoFIA (Soil First Industry Association) is related to Planetary CARE | Building Resilience through Regeneration"
     }
 ,{
         "label": "is related to",
@@ -8051,8 +8072,7 @@
 "direction":"mutual",
 "id":"1698114990369x130790185497264130",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698114990369x130790185497264130",
-"title":"SoFIA (Soil First Industry Association
- is related to Forrist Lytehaause"
+"title":"SoFIA (Soil First Industry Association) is related to Forrist Lytehaause"
     }
 ,{
         "label": "is related to",
@@ -9102,7 +9122,7 @@
 "direction":"directed",
 "id":"1698117977232x297392440054644740",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698117977232x297392440054644740",
-"title":"Global Unity hosts Transformative Impact Summit "
+"title":"Global Unity hosts Transformative Impact Summit"
     }
 ,{
         "label": "knows",
@@ -10460,7 +10480,7 @@
 "direction":"mutual",
 "id":"1698121649549x205729173880176640",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698121649549x205729173880176640",
-"title":"Catalist.Network is related to Transformative Impact Summit "
+"title":"Catalist.Network is related to Transformative Impact Summit"
     }
 ,{
         "label": "is related to",
@@ -11091,6 +11111,20 @@
 "id":"1698123529265x910552231863910400",
 "url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698123529265x910552231863910400",
 "title":"Peter Kaminski is related to Open Global Mind (OGM)"
+    }
+,{
+        "label": "",
+        "from": "1677730317335x883077723753616800",
+        "to": "1677730375433x377755649104108100",
+"strength":5,
+"connection subtype":"",
+"description":"",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1698125514832x772515950479278100",
+"url":"https://www.catalist.network/trove-space/collaborative-ecosystem?connection=1698125514832x772515950479278100",
+"title":"Wendy McLean  Whole Being Institute (WBI)"
     }
 
  ]
