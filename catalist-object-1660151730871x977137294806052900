@@ -3,24 +3,19 @@
     "catalist_object-v0.1.0","cta_project-v0.1.0"
   ],
   "primary_url": "https://www.catalist.network/object/1660151730871x977137294806052900",
-  
 "type":"Projects",
 "name":"Catalist",
 
 "description":"Catalist is a connection platform designed to empower communities to build collective intelligence and inspire coordinated action.",
 "tags":["17.16.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals","Catalist Object"],
  "image_cover": "https:////s3.amazonaws.com/appforest_uf/f1660238858908x978835676622686900/https%253A%252F%252Fs3.amazonaws.com%252Fappforest_uf%252Ff1628037462478x801117214202725600%252FCatalist%2520Home%2520Page%2520Illustration-02-min.jpg%3Fw%3D%26h%3D%26auto%3Dcompress%26dpr%3D1%26fit%3Dmax",
- 
-
-
-
-
 
 "url":"https://www.catalist.network",
 
 "attributes": [{"title": "17.16.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals","url":"https://www.catalist.network/attribute/1682014228760x928091503630749600"}],
+
 "object_id":"1660151730871x977137294806052900",
-  "relationships": [,{
+  "relationships": [{
       "description": "Catalist is both a participating organization in the collaborative technology alliance.",
       "qualifier": "is a member of",
 "predicate_url":"",
