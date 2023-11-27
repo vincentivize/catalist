@@ -18,12 +18,12 @@
   "relationships": [{
       "description": "Catalist is both a participating organization in the collaborative technology alliance.",
       "qualifier": "is a member of",
-"predicate_url":"",
+"predicate_url":"https://schema.org/memberOf",
       "object_url": "https://www.catalist.network/project/collaborative-tech-alliance"
     },{
       "description": "Catalist is a participating organization in the alliance.",
       "qualifier": "is a member of",
-"predicate_url":"",
-      "object_url": ""
+"predicate_url":"https://schema.org/memberOf",
+      "object_url": "https://www.collaborative.tech"
     }]
 }
