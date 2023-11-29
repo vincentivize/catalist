@@ -1,25 +1,20 @@
 {
   "elements": [
-{
-  "label": "Type",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
-"id":"Type",
-"url":"https://www.catalist.network/trove-space/sf-climate-tech-ecosystem?filtered=yes&view=List&data-type=Types",
-"type":"Object Type",
-"description":"Types of information"
-},
+
 {
 "label":"Organization",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "id":"Organization",
 "type":"Object Type",
-"description":"An established entity such as a university or company"
+"url":"https://www.catalist.network/trove-space/sf-climate-tech-ecosystem?filtered=yes&view=List&data-type=Organizations",
+"description":"An established entity such as a university or company\n[[list \" Organization\"]]"
 },{
 "label":"Person",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
 "id":"Person",
 "type":"Object Type",
-"description":""
+"url":"https://www.catalist.network/trove-space/sf-climate-tech-ecosystem?filtered=yes&view=List&data-type=People",
+"description":"\n[[list \" Person\"]]"
 },
 {
         "id": "1698435294775x760193980450363300",
@@ -33,7 +28,7 @@
 "address":"Miami, FL, USA",
 "types":[],
 "skills":[],
-"description":"Seaworthy Collective (501c3) is a Miami-based BlueTech (ocean innovation) entrepreneur support organization & community. Our mission is to enable access & inclusion in innovation for ocean & climate impact.\n\n",
+"description":"Seaworthy Collective (501c3) is a Miami-based BlueTech (ocean innovation) entrepreneur support organization & community. Our mission is to enable access & inclusion in innovation for ocean & climate impact.\\n\\n",
 "size":"",
 "label":"Seaworthy Collective"
     },{
@@ -81,21 +76,6 @@
 "description":"Climate Change",
 "size":"",
 "label":"JM Prophecies Corporation"
-    },{
-        "id": "1701114077680x850443050762359400",
-"url":"https://fertileearthwormfarm.com/",
-"object url":"https://www.catalist.network/trove-space/sf-climate-tech-ecosystem?object=1701114077680x850443050762359400&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
-"type":"Organization",
-"tags":[],
-"sectors":[],
-"locations":[],
-"address":"15200 SW 264th St, Princeton, FL 33032, USA",
-"types":[],
-"skills":[],
-"description":"Our mission is to divert food and other carbon sources from our landfills, replace conventional fertilizers with organic, living soil, and, as a result, aid in the restoration of our soils, our Biscayne Bay, and more within South Florida.",
-"size":"",
-"label":"Fertile Earth Worm Farm"
     },{
         "id": "1701114079125x414053393368035900",
 "url":"https://www.lovetheeverglades.org/about-us.html",
@@ -303,7 +283,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Kim Armor is a business builder, CFO, and strategic partner.  She is passionate about using her skills and experience to make a difference in the world, and is the Head of Business Development at oneshot.earth, which is accelerating capital to project developers.\nKim held executive leadership positions at Comcast, ESPN, Disney, and KPMG. She is a graduate of NYU Stern School of Business, completed Terra.do's Climate Farm School program and a member of The Nature Conservancy Miami Council.  She is moving from NYC to Coconut Grove in 2024 and is looking forward to engaging with the Miami climate community on project execution.\n",
+"description":"Kim Armor is a business builder, CFO, and strategic partner.  She is passionate about using her skills and experience to make a difference in the world, and is the Head of Business Development at oneshot.earth, which is accelerating capital to project developers.\\nKim held executive leadership positions at Comcast, ESPN, Disney, and KPMG. She is a graduate of NYU Stern School of Business, completed Terra.do's Climate Farm School program and a member of The Nature Conservancy Miami Council.  She is moving from NYC to Coconut Grove in 2024 and is looking forward to engaging with the Miami climate community on project execution.\\n",
 "size":"",
 "label":"Kim Armor"
     },{
@@ -905,7 +885,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Francesca \"Cesi\" de Quesada Covey"
+"label":"Francesca 'Cesi' de Quesada Covey"
     },{
         "id": "1701114048833x161417137245722940",
 "url":"",
@@ -1218,7 +1198,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"In August 2023 Michael Berkowitz was appointed founding executive director of the University of Miami’s Climate Resilience Academy. He also serves as the Eric T. Levin Chair in Climate Resilience. The Academy is a functional unit that supports the UM Schools and Colleges in interdisciplinary, problem-driven research and education to train the next generation of resilience practitioners and deliver solutions to climate change impacts and other environmental stressors, in partnership with industry, government, universities, and other stakeholders. \n\nAdditionally, he currently serves as a senior Advisor to Resilient Cities Catalyst,  as well as on the Deltares international advisory board, FEMA’s National Advisory Commission and the World Resource Institute's Ross Center Cities Prize Advisory Council. \n",
+"description":"In August 2023 Michael Berkowitz was appointed founding executive director of the University of Miami’s Climate Resilience Academy. He also serves as the Eric T. Levin Chair in Climate Resilience. The Academy is a functional unit that supports the UM Schools and Colleges in interdisciplinary, problem-driven research and education to train the next generation of resilience practitioners and deliver solutions to climate change impacts and other environmental stressors, in partnership with industry, government, universities, and other stakeholders. \\n\\nAdditionally, he currently serves as a senior Advisor to Resilient Cities Catalyst,  as well as on the Deltares international advisory board, FEMA’s National Advisory Commission and the World Resource Institute's Ross Center Cities Prize Advisory Council. \\n",
 "size":"",
 "label":"Michael Berkowitz"
     },{
@@ -1445,7 +1425,7 @@
 "skills":[],
 "description":"",
 "size":"",
-"label":"Katherine O\"Fallon"
+"label":"Katherine O'Fallon"
     },{
         "id": "1701114097123x540277683143212540",
 "url":"",
@@ -1818,7 +1798,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Francisco Benedito is a visionary entrepreneur and environmental advocate, known for his leadership in leveraging technology for climate change solutions. As CEO and Co-Founder of ClimateTrade, an innovative climate technology company, he connects people with global climate action projects.\n\nWith 15 years in banking, Benedito shifted his focus to sustainability in 2017, launching ClimateCoin, the world's first crypto asset dedicated to combating climate change. Recognized at COP23, this paved the way for the establishment of ClimateTrade in 2019.\n\nBenedito holds an MBA from Université Paris Nanterre and a law degree from Universidad CEO San Pablo, PDD IE Business School. His academic background, dedication to sustainability, and entrepreneurial talent position him as a global leader in the startup ecosystem and a catalyst for positive change.\n\n",
+"description":"Francisco Benedito is a visionary entrepreneur and environmental advocate, known for his leadership in leveraging technology for climate change solutions. As CEO and Co-Founder of ClimateTrade, an innovative climate technology company, he connects people with global climate action projects.\\n\\nWith 15 years in banking, Benedito shifted his focus to sustainability in 2017, launching ClimateCoin, the world's first crypto asset dedicated to combating climate change. Recognized at COP23, this paved the way for the establishment of ClimateTrade in 2019.\\n\\nBenedito holds an MBA from Université Paris Nanterre and a law degree from Universidad CEO San Pablo, PDD IE Business School. His academic background, dedication to sustainability, and entrepreneurial talent position him as a global leader in the startup ecosystem and a catalyst for positive change.\\n\\n",
 "size":"",
 "label":"Francisco Benedito"
     },{
@@ -1968,7 +1948,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Julia is a GREEN Realtor with One Sotheby's International Realty and works with local organizations such as Fertile Earth Worm Farm and VolunteerCleanup.org, and is also Chair of City of Hollywood Sustainability Advisory Committee. She continues to grow and maintain close relations with those bringing a positive influence to our overall environmental health. \n",
+"description":"Julia is a GREEN Realtor with One Sotheby's International Realty and works with local organizations such as Fertile Earth Worm Farm and VolunteerCleanup.org, and is also Chair of City of Hollywood Sustainability Advisory Committee. She continues to grow and maintain close relations with those bringing a positive influence to our overall environmental health. \\n",
 "size":"",
 "label":"Julia Poliadis"
     },{
@@ -2103,7 +2083,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Dr. Larkin is the Director of the Florida Sea Grant College Program and a professor in the Food and Resource Economics Department at the University of Florida (UF) in Gainesville, FL. She earned a Ph.D. and M.S. in Agricultural and Resource Economics from Oregon State University and University of Arizona, respectively, and a B.S. in Agricultural Economics from Washington State University.\n\n",
+"description":"Dr. Larkin is the Director of the Florida Sea Grant College Program and a professor in the Food and Resource Economics Department at the University of Florida (UF) in Gainesville, FL. She earned a Ph.D. and M.S. in Agricultural and Resource Economics from Oregon State University and University of Arizona, respectively, and a B.S. in Agricultural Economics from Washington State University.\\n\\n",
 "size":"",
 "label":"Sherry Larkin"
     },{
@@ -2148,7 +2128,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"As the Founding Principal of Facade+Envelope, a consulting firm that specializes in the entire building envelope, I lead a team of engineers and specialists with decades of experience. I am a Professional Engineer registered in Florida and New York, with over 19 years of building envelope experience.\n\nOur goal is to ensure that people Live, Work, Learn and Play better by improving the design and construction of the Built Environment.\n\nMy core competencies include consulting, inspections, testing, and structural design of façades, cladding, roofing, and waterproofing systems. I have extensive experience in structural analysis and design of curtainwalls, fixed and operable windows, sliding glass doors, and railings. I also have a strong background in building forensics, moisture resistance design, and building code compliance. \n\nOne of my specialties is hurricane resistance design, which is crucial for the safety and performance of buildings in coastal areas. ",
+"description":"As the Founding Principal of Facade+Envelope, a consulting firm that specializes in the entire building envelope, I lead a team of engineers and specialists with decades of experience. I am a Professional Engineer registered in Florida and New York, with over 19 years of building envelope experience.\\n\\nOur goal is to ensure that people Live, Work, Learn and Play better by improving the design and construction of the Built Environment.\\n\\nMy core competencies include consulting, inspections, testing, and structural design of façades, cladding, roofing, and waterproofing systems. I have extensive experience in structural analysis and design of curtainwalls, fixed and operable windows, sliding glass doors, and railings. I also have a strong background in building forensics, moisture resistance design, and building code compliance. \\n\\nOne of my specialties is hurricane resistance design, which is crucial for the safety and performance of buildings in coastal areas. ",
 "size":"",
 "label":"Manuel Morales"
     },{
@@ -2208,7 +2188,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Dean, College of Engineering\nProfessor, Chemical, Environmental and Materials Engineering",
+"description":"Dean, College of Engineering\\nProfessor, Chemical, Environmental and Materials Engineering",
 "size":"",
 "label":"Pratim Biswas"
     },{
@@ -2253,7 +2233,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"Lindsey is a passionate and dedicated environmental program manager with over a decade of experience in the public, private, and academic sectors. She currently serves as the Assistant Director of the Environment & Sustainability Department at the City of Miami Beach, where she oversees various programs, processes, and activities to provide direct and indirect services in environment and sustainability. \n\nShe has successfully coordinated and managed beach renourishment projects, facilitated dune enhancements, secured grant funding, and directed living shoreline initiatives and artificial reef programs. She has also administered water quality testing programs, superintended a permittee’s National Pollutant Discharge Elimination System (NPDES) yearly permit, and supervised soil remediation, groundwater well monitoring, and Brownfield assessments. She is skilled in managing multi-million dollar budgets, contracts, and projects, as well as collaborating with intergovernmental agencies, elected officials, and community stakeholders. She is a trained field biologist in south Florida's coastal environments, with expertise in marine resource identification, percent cover analysis, coral mapping techniques, and disease discovery. She is a mentor for young STEM professionals and has several years of supervisory background.",
+"description":"Lindsey is a passionate and dedicated environmental program manager with over a decade of experience in the public, private, and academic sectors. She currently serves as the Assistant Director of the Environment & Sustainability Department at the City of Miami Beach, where she oversees various programs, processes, and activities to provide direct and indirect services in environment and sustainability. \\n\\nShe has successfully coordinated and managed beach renourishment projects, facilitated dune enhancements, secured grant funding, and directed living shoreline initiatives and artificial reef programs. She has also administered water quality testing programs, superintended a permittee’s National Pollutant Discharge Elimination System (NPDES) yearly permit, and supervised soil remediation, groundwater well monitoring, and Brownfield assessments. She is skilled in managing multi-million dollar budgets, contracts, and projects, as well as collaborating with intergovernmental agencies, elected officials, and community stakeholders. She is a trained field biologist in south Florida's coastal environments, with expertise in marine resource identification, percent cover analysis, coral mapping techniques, and disease discovery. She is a mentor for young STEM professionals and has several years of supervisory background.",
 "size":"",
 "label":"Lindsey Precht"
     },{
@@ -2268,7 +2248,7 @@
 "address":"",
 "types":[],
 "skills":[],
-"description":"After graduating with a BS in Psychology from the University of Virginia, Jake McGee had a\ncareer in the National Football League playing with the San Diego Chargers and the\nPittsburgh Steelers. Jake transitioned to the NFL Players Association where he worked\nwithin the player affairs department. After a brief time at Fanatics Jake transitioned to Plug\nand Play. Jake now helps lead corporate partnerships and innovation. Jake is focused on\nHealth, Insurance and Federal initiatives. Helping connect startups, corporations, investors\nworldwide. Jake has been helping lead global expansion projects as well. Jake completed his MS at The University of Florida.",
+"description":"After graduating with a BS in Psychology from the University of Virginia, Jake McGee had a\\ncareer in the National Football League playing with the San Diego Chargers and the\\nPittsburgh Steelers. Jake transitioned to the NFL Players Association where he worked\\nwithin the player affairs department. After a brief time at Fanatics Jake transitioned to Plug\\nand Play. Jake now helps lead corporate partnerships and innovation. Jake is focused on\\nHealth, Insurance and Federal initiatives. Helping connect startups, corporations, investors\\nworldwide. Jake has been helping lead global expansion projects as well. Jake completed his MS at The University of Florida.",
 "size":"",
 "label":"Jake McGee"
     },{
@@ -3498,7 +3478,7 @@
 "address":"London, UK",
 "types":[],
 "skills":[],
-"description":"At Techstars we have invested in more than 3,700 early-stage startups.\n\nAs the world's most active pre-seed investor, our portfolio is as diversified as our 8,600 founders are unique — from HealthTech and FinTech, to Web3 and CleanTech; from Miami and Silicon Valley to Lagos and London.\n\nWe support many of the world's best entrepreneurs with access to capital, mentoring, finding customers, hiring talent, choosing the right infrastructure, and much more!",
+"description":"At Techstars we have invested in more than 3,700 early-stage startups.\\n\\nAs the world's most active pre-seed investor, our portfolio is as diversified as our 8,600 founders are unique — from HealthTech and FinTech, to Web3 and CleanTech; from Miami and Silicon Valley to Lagos and London.\\n\\nWe support many of the world's best entrepreneurs with access to capital, mentoring, finding customers, hiring talent, choosing the right infrastructure, and much more!",
 "size":"",
 "label":"Techstars"
     },{
@@ -3558,7 +3538,7 @@
 "address":"Miami, FL, USA",
 "types":[],
 "skills":[],
-"description":"ClimateTrade is a pioneering organization that is dedicated to providing innovative climate tech solutions, with the aim of empowering large-scale decarbonization efforts. We offer a comprehensive suite of 360 climate solutions, including the BioUrban, or, the Tree of the Future, is an innovative urban solution designed to efficiently address pollution problems in our cities. This pioneering system uses green bioremediation technology to combat the presence of polluting agents such as CO2, NOx, PM 2.5 and PM 10, as well as total suspended particles.\n\nOur plug-and-play API and White Label products that allow companies to seamlessly integrate climate action into their customer journey, enabling businesses to effectively tackle scope 3 emissions and offer carbon-neutral products and services to their final consumers.\n\nFurthermore, our climate marketplace, built on blockchain technology, features over 190 certified sustainable projects that individuals and businesses can finance directly. By offsetting their carbon footprint through these projects, they can make a tangible difference to the environment and support sustainability initiatives that benefit us all.\n",
+"description":"ClimateTrade is a pioneering organization that is dedicated to providing innovative climate tech solutions, with the aim of empowering large-scale decarbonization efforts. We offer a comprehensive suite of 360 climate solutions, including the BioUrban, or, the Tree of the Future, is an innovative urban solution designed to efficiently address pollution problems in our cities. This pioneering system uses green bioremediation technology to combat the presence of polluting agents such as CO2, NOx, PM 2.5 and PM 10, as well as total suspended particles.\\n\\nOur plug-and-play API and White Label products that allow companies to seamlessly integrate climate action into their customer journey, enabling businesses to effectively tackle scope 3 emissions and offer carbon-neutral products and services to their final consumers.\\n\\nFurthermore, our climate marketplace, built on blockchain technology, features over 190 certified sustainable projects that individuals and businesses can finance directly. By offsetting their carbon footprint through these projects, they can make a tangible difference to the environment and support sustainability initiatives that benefit us all.\\n",
 "size":"",
 "label":"ClimateTrade"
     },{
@@ -3766,7 +3746,6 @@
         "to": "1698435294775x760193980450363300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Daniel Kleinman is related to Seaworthy Collective"
     }
 ,{
@@ -3775,7 +3754,6 @@
         "to": "1701114074422x139659994289976770",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Samuel Darko is related to Florida Memorial University"
     }
 ,{
@@ -3784,7 +3762,6 @@
         "to": "1701114054422x117950467036640910",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Maria C. Alonso is related to Northeastern University"
     }
 ,{
@@ -3793,7 +3770,6 @@
         "to": "1701114003020x448391216742396500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Rickelle Williams is related to City of Miami Beach"
     }
 ,{
@@ -3802,7 +3778,6 @@
         "to": "1701114004257x884247093777568400",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Alfred Sanchez is related to Greater Miami Chamber of Commerce"
     }
 ,{
@@ -3811,7 +3786,6 @@
         "to": "1701114005256x502517813859289150",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"John Rouge is related to College of the Florida Keys"
     }
 ,{
@@ -3820,7 +3794,6 @@
         "to": "1701114006468x289665925772304900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Claudia Duran is related to Endeavor Miami"
     }
 ,{
@@ -3829,7 +3802,6 @@
         "to": "1701114003020x448391216742396500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Amy Knowles is related to City of Miami Beach"
     }
 ,{
@@ -3838,7 +3810,6 @@
         "to": "1701114007764x514505605033539500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Adam Friedman is related to 1print"
     }
 ,{
@@ -3847,7 +3818,6 @@
         "to": "1701114007764x514505605033539500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Fredrik Wannius is related to 1print"
     }
 ,{
@@ -3856,7 +3826,6 @@
         "to": "1701114009247x897324022895844700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jack Abraham is related to Atomic Ventures"
     }
 ,{
@@ -3865,7 +3834,6 @@
         "to": "1701114010613x979355873600692600",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Daniel Betts is related to Blue Frontier, Inc."
     }
 ,{
@@ -3874,7 +3842,6 @@
         "to": "1701114012146x239592190503025150",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Tim Sperry is related to Carbon Limit"
     }
 ,{
@@ -3883,7 +3850,6 @@
         "to": "1701113997154x171194075442941730",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Dylan Gresik is related to Citadel"
     }
 ,{
@@ -3892,7 +3858,6 @@
         "to": "1701113997154x171194075442941730",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Julia Quinn is related to Citadel"
     }
 ,{
@@ -3901,7 +3866,6 @@
         "to": "1701113999117x693187051828168700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Arthur Noriega is related to City of Miami"
     }
 ,{
@@ -3910,7 +3874,6 @@
         "to": "1701113999117x693187051828168700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Sonia Brubaker is related to City of Miami"
     }
 ,{
@@ -3919,7 +3882,6 @@
         "to": "1701114013546x858481179090543700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Erick Gavin is related to City of Miami / Venture Miami"
     }
 ,{
@@ -3928,7 +3890,6 @@
         "to": "1701114013546x858481179090543700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Keith Carswell is related to City of Miami / Venture Miami"
     }
 ,{
@@ -3937,7 +3898,6 @@
         "to": "1701114014954x852482307863492500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Colin Polsky is related to Florida Atlantic University"
     }
 ,{
@@ -3946,7 +3906,6 @@
         "to": "1701114014954x852482307863492500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Sandra Delina Marin Ruiz is related to Florida Atlantic University"
     }
 ,{
@@ -3955,7 +3914,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Bridgette Cram is related to Florida International University"
     }
 ,{
@@ -3964,7 +3922,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Elizabeth Bejar is related to Florida International University"
     }
 ,{
@@ -3973,7 +3930,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Todd A. Crowl is related to Florida International University"
     }
 ,{
@@ -3982,7 +3938,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Carolyn Robertson is related to Florida International University"
     }
 ,{
@@ -3991,7 +3946,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Pedro “Peter” Hernandez is related to Florida International University"
     }
 ,{
@@ -4000,7 +3954,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"William (Bill) Anderson is related to Florida International University"
     }
 ,{
@@ -4009,7 +3962,6 @@
         "to": "1701114017638x917817013623233500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Mark Schaunaman is related to IUOE 487"
     }
 ,{
@@ -4018,7 +3970,6 @@
         "to": "1701114019131x505047945956397250",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Raul Moas is related to Knight Foundation"
     }
 ,{
@@ -4027,7 +3978,6 @@
         "to": "1701114022560x865850221284500500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Daniel Leon is related to Mastec"
     }
 ,{
@@ -4036,7 +3986,6 @@
         "to": "1701114022560x865850221284500500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jose Mas is related to Mastec"
     }
 ,{
@@ -4045,7 +3994,6 @@
         "to": "1701114025237x822135499059457200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Terri-Ann Brown is related to Miami Tech Works"
     }
 ,{
@@ -4054,7 +4002,6 @@
         "to": "1701114026284x446362775793363700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Antonio Delgado Fornaguera is related to Miami-Dade College"
     }
 ,{
@@ -4063,7 +4010,6 @@
         "to": "1701114026284x446362775793363700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Michele Gongora is related to Miami-Dade College"
     }
 ,{
@@ -4072,7 +4018,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Dr. Galen Treuer is related to Miami-Dade County"
     }
 ,{
@@ -4081,7 +4026,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Daniella Levine Cava is related to Miami-Dade County"
     }
 ,{
@@ -4090,8 +4034,7 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
-"label":"Francesca \"Cesi\" de Quesada Covey is related to Miami-Dade County"
+"label":"Francesca 'Cesi' de Quesada Covey is related to Miami-Dade County"
     }
 ,{
         "id": "1701252872487x552607896794833600",
@@ -4099,7 +4042,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"James Murley is related to Miami-Dade County"
     }
 ,{
@@ -4108,7 +4050,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jason Grant is related to Miami-Dade County"
     }
 ,{
@@ -4117,7 +4058,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Patricia Gomez is related to Miami-Dade County"
     }
 ,{
@@ -4126,7 +4066,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"William Porro is related to Miami-Dade County"
     }
 ,{
@@ -4135,7 +4074,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Ana Chammas is related to Miami-Dade County"
     }
 ,{
@@ -4144,7 +4082,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Alan Tiano is related to Miami-Dade County"
     }
 ,{
@@ -4153,7 +4090,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jane Gilbert is related to Miami-Dade County"
     }
 ,{
@@ -4162,7 +4098,6 @@
         "to": "1701114027343x127205158127150940",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Roxana Ross is related to Nova Southeastern University"
     }
 ,{
@@ -4171,7 +4106,6 @@
         "to": "1701114028808x289519490772374850",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Eralda Agolli is related to South Florida Regional Planning Council"
     }
 ,{
@@ -4180,7 +4114,6 @@
         "to": "1701114028808x289519490772374850",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Isabel Cosio Carballo is related to South Florida Regional Planning Council"
     }
 ,{
@@ -4189,7 +4122,6 @@
         "to": "1701114028808x289519490772374850",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Randy Deshazo is related to South Florida Regional Planning Council"
     }
 ,{
@@ -4198,7 +4130,6 @@
         "to": "1701114028808x289519490772374850",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jeff Tart is related to South Florida Regional Planning Council"
     }
 ,{
@@ -4207,7 +4138,6 @@
         "to": "1701114063799x305931777317156600",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Lauren Ordway Evans is related to Southeast Florida Regional Climate Compact"
     }
 ,{
@@ -4216,7 +4146,6 @@
         "to": "1701114029848x207206914067705300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Guillermo Haberer is related to Titan"
     }
 ,{
@@ -4225,7 +4154,6 @@
         "to": "1701114029848x207206914067705300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Eric Koehler is related to Titan"
     }
 ,{
@@ -4234,7 +4162,6 @@
         "to": "1701114031649x348245607321973300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Erin Kobetz is related to University of Miami"
     }
 ,{
@@ -4243,7 +4170,6 @@
         "to": "1701114031649x348245607321973300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Landolf Rhode-Barbarigos is related to University of Miami"
     }
 ,{
@@ -4252,7 +4178,6 @@
         "to": "1701114031649x348245607321973300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Norma Sue Kenyon is related to University of Miami"
     }
 ,{
@@ -4261,7 +4186,6 @@
         "to": "1701114031649x348245607321973300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Prannoy Suraneni is related to University of Miami"
     }
 ,{
@@ -4270,7 +4194,6 @@
         "to": "1701114031649x348245607321973300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Joanna de Velasco is related to University of Miami"
     }
 ,{
@@ -4279,7 +4202,6 @@
         "to": "1701114031649x348245607321973300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Michael Berkowitz is related to University of Miami"
     }
 ,{
@@ -4288,7 +4210,6 @@
         "to": "1701114032753x492020965297386200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Mario Cruz is related to Watsco"
     }
 ,{
@@ -4297,7 +4218,6 @@
         "to": "1701114032753x492020965297386200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Ivan Rapin-Smith is related to Watsco"
     }
 ,{
@@ -4306,7 +4226,6 @@
         "to": "1701114034012x710075242328409900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Michael Ruiz is related to Broward County"
     }
 ,{
@@ -4315,7 +4234,6 @@
         "to": "1701114034012x710075242328409900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jennifer Jurado is related to Broward County"
     }
 ,{
@@ -4324,7 +4242,6 @@
         "to": "1701114035292x725357897183106300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Rick Beasley is related to CareerSource"
     }
 ,{
@@ -4333,7 +4250,6 @@
         "to": "1701114036640x255295019442857380",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Michael Ellison is related to CodePath"
     }
 ,{
@@ -4342,7 +4258,6 @@
         "to": "1701114038146x587450367435345500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Melissa Medina is related to eMerge Americas"
     }
 ,{
@@ -4351,7 +4266,6 @@
         "to": "1701114039367x337376646575540800",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Samuel Darko is related to Florida Memorial University"
     }
 ,{
@@ -4360,7 +4274,6 @@
         "to": "1701114041896x358797632926306050",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Armando Fernandez is related to Florida Power & Light"
     }
 ,{
@@ -4369,7 +4282,6 @@
         "to": "1701114041896x358797632926306050",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Cathy Chambers is related to Florida Power & Light"
     }
 ,{
@@ -4378,7 +4290,6 @@
         "to": "1701114041896x358797632926306050",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Crystal Stiles is related to Florida Power & Light"
     }
 ,{
@@ -4387,7 +4298,6 @@
         "to": "1701114041896x358797632926306050",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Pamela Rauch is related to Florida Power & Light"
     }
 ,{
@@ -4396,7 +4306,6 @@
         "to": "1701114043004x183471821109562500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"David Coddington is related to Greater Fort Lauderdale Alliance"
     }
 ,{
@@ -4405,7 +4314,6 @@
         "to": "1701114044548x785905627308503900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Krista Oldfield​ is related to I Squared Capital"
     }
 ,{
@@ -4414,8 +4322,7 @@
         "to": "1701114045980x176145163172309220",
 "strength":1,
 "type":"is related to",
-"description":"",
-"label":"Katherine O\"Fallon is related to Marine Research Hub"
+"label":"Katherine O'Fallon is related to Marine Research Hub"
     }
 ,{
         "id": "1701252980250x961219723909930900",
@@ -4423,7 +4330,6 @@
         "to": "1701114047092x941896491023071000",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Nitin Motwani is related to Merrimac Ventures"
     }
 ,{
@@ -4432,7 +4338,6 @@
         "to": "1701114048331x569815155914375200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Rachel Silverstein is related to Miami Waterkeeper"
     }
 ,{
@@ -4441,7 +4346,6 @@
         "to": "1701114049794x644641690950162400",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"James Kohnstamm is related to Miami-Dade Beacon Council"
     }
 ,{
@@ -4450,7 +4354,6 @@
         "to": "1701114049794x644641690950162400",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Matt Haggman is related to Miami-Dade Beacon Council"
     }
 ,{
@@ -4459,7 +4362,6 @@
         "to": "1701114049794x644641690950162400",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Rod Miller is related to Miami-Dade Beacon Council"
     }
 ,{
@@ -4468,7 +4370,6 @@
         "to": "1701114050854x650610397961592400",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Leigh-Ann Buchanan is related to Miami-Dade Innovation Authority"
     }
 ,{
@@ -4477,7 +4378,6 @@
         "to": "1701114052230x530223994796272600",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Kiel Berry is related to Mission One Capital"
     }
 ,{
@@ -4486,7 +4386,6 @@
         "to": "1701114053400x313758400132512200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Rhonda Haug is related to Monroe County"
     }
 ,{
@@ -4495,7 +4394,6 @@
         "to": "1701114054422x117950467036640910",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Eugene Buff is related to Northeastern University"
     }
 ,{
@@ -4504,7 +4402,6 @@
         "to": "1701114054422x117950467036640910",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Kevin Ruiz is related to Northeastern University"
     }
 ,{
@@ -4513,7 +4410,6 @@
         "to": "1701114054422x117950467036640910",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Kim Holloway is related to Northeastern University"
     }
 ,{
@@ -4522,7 +4418,6 @@
         "to": "1701114054422x117950467036640910",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Maria Alonso is related to Northeastern University"
     }
 ,{
@@ -4531,7 +4426,6 @@
         "to": "1701114055581x621625967782241800",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Carmen Barreto is related to OIC of South Florida"
     }
 ,{
@@ -4540,7 +4434,6 @@
         "to": "1701114055581x621625967782241800",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Newton Sanon is related to OIC of South Florida"
     }
 ,{
@@ -4549,7 +4442,6 @@
         "to": "1701114057083x569442273651279600",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Megan Houston is related to Palm Beach County"
     }
 ,{
@@ -4558,7 +4450,6 @@
         "to": "1701114058196x409477715760697200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Pamela Berkowsky is related to South Florida Defense Alliance"
     }
 ,{
@@ -4567,7 +4458,6 @@
         "to": "1701114059563x514129504827827100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Joe Sanchez is related to Techstars"
     }
 ,{
@@ -4576,7 +4466,6 @@
         "to": "1701114062414x702166047060560900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Saif Ishoof is related to Lab 22C"
     }
 ,{
@@ -4585,7 +4474,6 @@
         "to": "1701114048331x569815155914375200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Samantha Barquin is related to Miami Waterkeeper"
     }
 ,{
@@ -4594,7 +4482,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Robert Hacker is related to Florida International University"
     }
 ,{
@@ -4603,7 +4490,6 @@
         "to": "1701114013546x858481179090543700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Burhan Sebin is related to City of Miami / Venture Miami"
     }
 ,{
@@ -4612,7 +4498,6 @@
         "to": "1701113999117x693187051828168700",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Lilian Blondet is related to City of Miami"
     }
 ,{
@@ -4621,7 +4506,6 @@
         "to": "1701114032753x492020965297386200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Marisol Gomez is related to Watsco"
     }
 ,{
@@ -4630,7 +4514,6 @@
         "to": "1701114065319x101818164985545630",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Young Gu Her is related to University of Florida"
     }
 ,{
@@ -4639,7 +4522,6 @@
         "to": "1701114066665x811856732559432800",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Francisco Benedito is related to ClimateTrade"
     }
 ,{
@@ -4648,7 +4530,6 @@
         "to": "1701114050854x650610397961592400",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Dana Tumbaga is related to Miami-Dade Innovation Authority"
     }
 ,{
@@ -4657,7 +4538,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Emily Gresham  is related to Florida International University"
     }
 ,{
@@ -4666,7 +4546,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Dimitris Pavlidis is related to Florida International University"
     }
 ,{
@@ -4675,7 +4554,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Richard Olson is related to Florida International University"
     }
 ,{
@@ -4684,7 +4562,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Ines Triay is related to Florida International University"
     }
 ,{
@@ -4693,7 +4570,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Atorod Azizinamini is related to Florida International University"
     }
 ,{
@@ -4702,7 +4578,6 @@
         "to": "1701114016498x921308049070603100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jason Liu is related to Florida International University"
     }
 ,{
@@ -4711,7 +4586,6 @@
         "to": "1701114068688x917696966787099800",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Sam Payrovi is related to ARKHAUS"
     }
 ,{
@@ -4720,7 +4594,6 @@
         "to": "1701114038146x587450367435345500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Tyler Johnson is related to eMerge Americas"
     }
 ,{
@@ -4729,7 +4602,6 @@
         "to": "1701114070177x831859671815074600",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Tyler Johnson is related to Laowai Enterprises LLC"
     }
 ,{
@@ -4738,7 +4610,6 @@
         "to": "1701114072073x826319388658811100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Stefan Wolff, LEED AP BD+C is related to Mangrove Contracting"
     }
 ,{
@@ -4747,17 +4618,7 @@
         "to": "1701114076345x367142206355129100",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"James Matthew is related to JM Prophecies Corporation"
-    }
-,{
-        "id": "1701253088734x180844569634963420",
-        "from": "1701114146592x856051316116634100",
-        "to": "1701114077680x850443050762359400",
-"strength":1,
-"type":"is related to",
-"description":"",
-"label":"Julia Poliadis is related to Fertile Earth Worm Farm"
     }
 ,{
         "id": "1701253091348x127943111076035400",
@@ -4765,17 +4626,7 @@
         "to": "1701114080366x149705842752696300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Adriana Machado is related to Briyah Institute Corp."
-    }
-,{
-        "id": "1701253094145x833784470419331300",
-        "from": "1701114148308x427338323253083200",
-        "to": "1701114077680x850443050762359400",
-"strength":1,
-"type":"is related to",
-"description":"",
-"label":"Jared Jacobs is related to Fertile Earth Worm Farm"
     }
 ,{
         "id": "1701253097088x946063091070328000",
@@ -4783,7 +4634,6 @@
         "to": "1701114079125x414053393368035900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jared Jacobs is related to Love The Everglades Movement"
     }
 ,{
@@ -4792,7 +4642,6 @@
         "to": "1701114086596x468934928780521540",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Bernardo Scheinkman is related to Smart Cities Americas"
     }
 ,{
@@ -4801,7 +4650,6 @@
         "to": "1701114081894x216472240055324740",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jared Jacobs is related to Freebee"
     }
 ,{
@@ -4810,7 +4658,6 @@
         "to": "1701114043004x183471821109562500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Randall Deich is related to Greater Fort Lauderdale Alliance"
     }
 ,{
@@ -4819,7 +4666,6 @@
         "to": "1701114087820x343209002256274600",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Kim Armor is related to oneshot.earth"
     }
 ,{
@@ -4828,7 +4674,6 @@
         "to": "1701114084195x775153705003352800",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jared Jacobs is related to Spinnaker Group a Division of Socotech"
     }
 ,{
@@ -4837,7 +4682,6 @@
         "to": "1701114089973x700286112318017800",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Rosalba Zepeda is related to IQ Digital"
     }
 ,{
@@ -4846,7 +4690,6 @@
         "to": "1701114034012x710075242328409900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Sandy-Michael McDonald is related to Broward County"
     }
 ,{
@@ -4855,7 +4698,6 @@
         "to": "1701114034012x710075242328409900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Philip McChesney is related to Broward County"
     }
 ,{
@@ -4864,7 +4706,6 @@
         "to": "1701114034012x710075242328409900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Bilal Hashmi is related to Broward County"
     }
 ,{
@@ -4873,7 +4714,6 @@
         "to": "1701114065319x101818164985545630",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Sherry Larkin is related to University of Florida"
     }
 ,{
@@ -4882,7 +4722,6 @@
         "to": "1701114092802x549513410316828400",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Lanette Sobel is related to Fertile Earth Worm Farm"
     }
 ,{
@@ -4891,7 +4730,6 @@
         "to": "1701114095126x285362815388252800",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Jake Moskowitz is related to Friends of The Underline, Inc. "
     }
 ,{
@@ -4900,7 +4738,6 @@
         "to": "1701114096541x670963486626106200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Manuel Morales is related to Facade and Envelope Engineering Consultants, LLC"
     }
 ,{
@@ -4909,7 +4746,6 @@
         "to": "1701114041896x358797632926306050",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Christopher Ferreira is related to Florida Power & Light"
     }
 ,{
@@ -4918,7 +4754,6 @@
         "to": "1701114098083x528655188960152960",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Camilo E. Mejia is related to Catalyst Miami"
     }
 ,{
@@ -4927,7 +4762,6 @@
         "to": "1701114099551x847760125454885200",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Julia Kumari Drapkin is related to ISEECHANGE"
     }
 ,{
@@ -4936,7 +4770,6 @@
         "to": "1701114031649x348245607321973300",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Pratim Biswas is related to University of Miami"
     }
 ,{
@@ -4945,7 +4778,6 @@
         "to": "1701114014954x852482307863492500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Dimitrios Pados is related to Florida Atlantic University"
     }
 ,{
@@ -4954,7 +4786,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Ekaette Dickson is related to Miami-Dade County"
     }
 ,{
@@ -4963,7 +4794,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"David A. Leyte-Vidal is related to Miami-Dade County"
     }
 ,{
@@ -4972,7 +4802,6 @@
         "to": "1701114003020x448391216742396500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Veronica Henning is related to City of Miami Beach"
     }
 ,{
@@ -4981,7 +4810,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Tomas Alcala is related to Miami-Dade County"
     }
 ,{
@@ -4990,7 +4818,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Michelle Cejas is related to Miami-Dade County"
     }
 ,{
@@ -4999,7 +4826,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Theresa Masson is related to Miami-Dade County"
     }
 ,{
@@ -5008,7 +4834,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Michael Laas is related to Miami-Dade County"
     }
 ,{
@@ -5017,7 +4842,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Debbie Griner is related to Miami-Dade County"
     }
 ,{
@@ -5026,7 +4850,6 @@
         "to": "1701113992981x894908699689942900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Phillip Drujak is related to Miami-Dade County"
     }
 ,{
@@ -5035,7 +4858,6 @@
         "to": "1701114094014x942401941510239900",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Anastassia Savini is related to Braid Theory, Inc."
     }
 ,{
@@ -5044,7 +4866,6 @@
         "to": "1701114041896x358797632926306050",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Danielle Mousseau is related to Florida Power & Light"
     }
 ,{
@@ -5053,8 +4874,39 @@
         "to": "1701114014954x852482307863492500",
 "strength":1,
 "type":"is related to",
-"description":"",
 "label":"Stella Batalama is related to Florida Atlantic University"
+    }
+,{
+        "id": "1701255801005x530344472136821300",
+        "from": "1701195437124x674476697890745700",
+        "to": "1701209921459x282028124090463200",
+"strength":1,
+"type":"is related to",
+"label":"Santander Arguelles is related to The Allapattah Collaborative CDC"
+    }
+,{
+        "id": "1701255804177x455860072363083460",
+        "from": "1701195439420x949961256676129000",
+        "to": "1701209921459x282028124090463200",
+"strength":1,
+"type":"is related to",
+"label":"Mileyka Burgos is related to The Allapattah Collaborative CDC"
+    }
+,{
+        "id": "1701255815979x987201242453075200",
+        "from": "1701195449112x954660281399673300",
+        "to": "1701209922221x963476320424127200",
+"strength":1,
+"type":"is related to",
+"label":"Christian Falk is related to Backpack Networks"
+    }
+,{
+        "id": "1701255819089x479636988817092800",
+        "from": "1701195451638x549959993309252500",
+        "to": "1701209922221x963476320424127200",
+"strength":1,
+"type":"is related to",
+"label":"David McCain is related to Backpack Networks"
     }
 
  ]
