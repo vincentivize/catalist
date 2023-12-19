@@ -1,1 +1,22 @@
-žée
+{
+  "linked_schemas": [
+    "catalist_object-v0.1.0","organizations_schema-v1.0.0"
+  ],
+  "primary_url": "https://www.catalist.network/object/1703009011029x980691663505588200",
+"type":"Projects",
+"name":"Catamark",
+
+"description":"A social bookmarking tool",
+"tags":["Catalist Object"],
+
+"url":"https://www.catalist.network/catamark",
+
+
+"object_id":"1703009011029x980691663505588200",
+  "relationships": [{
+      "description": "Catamark is one of the tools in the Catalist ecosystem",
+      "qualifier": "is part of",
+"predicate_url":"",
+      "object_url": "https://www.catalist.network"
+    }]
+}
