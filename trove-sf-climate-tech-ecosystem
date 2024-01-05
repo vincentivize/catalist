@@ -107,7 +107,7 @@
 "summary":"Seaworthy Collective (501c3) is a Miami-based BlueTech (ocean innovation) entrepreneur support organization & community. Our mission is to enable access & inclusion in innovation for ocean & climate impact.\n\n",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource"],
 "label":"Seaworthy Collective"
     },{
         "id": "1701114068688x917696966787099800",
@@ -129,7 +129,7 @@
 "summary":"Our e-tender project is {Codename: E-lixr}",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up"],
 "label":"ARKHAUS"
     },{
         "id": "1701114076345x367142206355129100",
@@ -151,7 +151,7 @@
 "summary":"Climate Change",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Media & Marketing","Startup & Scale-Up","Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Media & Marketing","Startup & Scale-Up","Advisor/Resource"],
 "label":"JM Prophecies Corporation"
     },{
         "id": "1701114079125x414053393368035900",
@@ -173,7 +173,7 @@
 "summary":"We are a movement that brings people together to address the environmental, structural, and spiritual issues confronting our greater Everglades and Florida. ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"Love The Everglades Movement"
     },{
         "id": "1701114080366x149705842752696300",
@@ -195,7 +195,7 @@
 "summary":"Briyah Institute is a Florida-based Benefit Corporation with a global reach. We focus on leadership development, innovation journeys and strategic advisory for companies. We help individuals and organizations apply systems thinking to strategize, problem solve and innovate. We partner with other organizations to address 21st-century socioeconomic and environmental challenges and co-create an impact economy, that which pursues financial returns alongside positive impact for people and planet.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource"],
 "label":"Briyah Institute Corp."
     },{
         "id": "1701114081894x216472240055324740",
@@ -217,7 +217,7 @@
 "summary":"A nationwide climate forward on-demand mobility as a service company based in Miami-Dade Florida. Freebee is an innovative technology company partnering with municipalities to increase their residents' quality of life by repairing the fragmented segments of their communities directly while working with existing transit to enhance their level of service. ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Company"",
+"related objects":[], "Ecosystem Role":["Company"],
 "label":"Freebee"
     },{
         "id": "1701114084195x775153705003352800",
@@ -239,7 +239,7 @@
 "summary":"Spinnaker Group is transforming lives by fostering sustainable, resilient, and healthy spaces.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Company"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Company"],
 "label":"Spinnaker Group a Division of Socotech"
     },{
         "id": "1701114086596x468934928780521540",
@@ -261,7 +261,7 @@
 "summary":"We interact with local, national and international actors offering a wide scope of news, research and events production to ensure sustainable solutions to the complex urban environments.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Company","Advisor/Resource","Media & Marketing","Science & Academia"",
+"related objects":[], "Ecosystem Role":["Company","Advisor/Resource","Media & Marketing","Science & Academia"],
 "label":"Smart Cities Americas"
     },{
         "id": "1701114087820x343209002256274600",
@@ -283,7 +283,7 @@
 "summary":"Bend the emissions curve faster",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Startup & Scale-Up","Company","Finance & Funding"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Startup & Scale-Up","Company","Finance & Funding"],
 "label":"oneshot.earth"
     },{
         "id": "1701114089973x700286112318017800",
@@ -305,8 +305,8 @@
 "summary":"Digital Marketing Agency",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Media & Marketing","Company"",
-"Organization Types":""Other entities"",
+"related objects":[], "Ecosystem Role":["Media & Marketing","Company"],
+"Organization Types":["Other entities"],
 "label":"IQ Digital"
     },{
         "id": "1701114092802x549513410316828400",
@@ -328,7 +328,7 @@
 "summary":"Our mission is to divert food and other carbon sources from our landfills, replace conventional fertilizers with organic, living soil, and, as a result, aid in the restoration of our soils, our Biscayne Bay, and more within South Florida.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Company","Startup & Scale-Up","Social Impact, Equity, & Justice","Government & Policy"",
+"related objects":[], "Ecosystem Role":["Company","Startup & Scale-Up","Social Impact, Equity, & Justice","Government & Policy"],
 "label":"Fertile Earth Worm Farm"
     },{
         "id": "1701114134666x471832255882447500",
@@ -350,7 +350,7 @@
 "summary":"I am a mainstream gender advisor. I am interested in bringing gender equity to climate tech in Miami.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Social Impact, Equity, & Justice","Government & Policy"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Social Impact, Equity, & Justice","Government & Policy"],
 "label":"Catalina Valenzuela"
     },{
         "id": "1701114136031x842776802285281900",
@@ -372,7 +372,7 @@
 "summary":"I am Data Science Graduate Student at MIT. I’m looking for projects in Miami where I can be a part of positive change in our community. I am open to collaboration/volunteer positions.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Science & Academia"",
+"related objects":[], "Ecosystem Role":["Science & Academia"],
 "label":"Bridget Mullen"
     },{
         "id": "1701114137416x445059640307441860",
@@ -394,7 +394,7 @@
 "summary":"I am the Co-Founder and CEO of ARKHAUS and {Codename: E-lixr}. ",
 "description":"",
 "size":"",
-"related objects":["1701114068688x917696966787099800"], "Ecosystem Role":""Startup & Scale-Up"",
+"related objects":["1701114068688x917696966787099800"], "Ecosystem Role":["Startup & Scale-Up"],
 "label":"Sam Payrovi"
     },{
         "id": "1701114139121x227117015740244670",
@@ -416,7 +416,7 @@
 "summary":"20+ years at Dell as an executive.  10 years as local hired foreign national in China leading organizations across Asia.  Emerging and developed market experience.  10 years in the start-up world as a founder, operator and investor.  Venture Partner for Stony Lonesome Group focused on defense tech and dual use for national security.  Board advisor for the George H W Bush Foundation for US-China Relations.  Advisory to early-stage tech software automation companies int he Cyber, EdTech space.  Published author.  Published substack channel.      ",
 "description":"",
 "size":"",
-"related objects":["1701114038146x587450367435345500","1701114070177x831859671815074600"], "Ecosystem Role":""Advisor/Resource"",
+"related objects":["1701114038146x587450367435345500","1701114070177x831859671815074600"], "Ecosystem Role":["Advisor/Resource"],
 "label":"Tyler Johnson"
     },{
         "id": "1701114142883x705620339323230700",
@@ -438,7 +438,7 @@
 "summary":"Stefan Wolff is Principal of Mangrove Contracting, a Florida-based construction management firm focused on the built environment of tomorrow. Born and raised in South Florida, Stefan loves spending time with his family in nature -- and is driven to make sure that it is there to enjoy for generations to come.",
 "description":"",
 "size":"",
-"related objects":["1701114072073x826319388658811100"],"Relevant Climate Categories":"Water + Coasts | Building + Industry", "Ecosystem Role":""Company","Advisor/Resource"",
+"related objects":["1701114072073x826319388658811100"],"Relevant Climate Categories":"Water + Coasts | Building + Industry", "Ecosystem Role":["Company","Advisor/Resource"],
 "label":"Stefan Wolff, LEED AP BD+C"
     },{
         "id": "1701114152420x445943388300100740",
@@ -460,7 +460,7 @@
 "summary":"Kim Armor is a business builder, CFO, and strategic partner.  She is passionate about using her skills and experience to make a difference in the world, and is the Head of Business Development at oneshot.earth, which is accelerating capital to project developers.\nKim held executive leadership positions at Comcast, ESPN, Disney, and KPMG. She is a graduate of NYU Stern School of Business, completed Terra.do's Climate Farm School program and a member of The Nature Conservancy Miami Council.  She is moving from NYC to Coconut Grove in 2024 and is looking forward to engaging with the Miami climate community on project execution.\n",
 "description":"",
 "size":"",
-"related objects":["1701114087820x343209002256274600"], "Ecosystem Role":""Finance & Funding","Advisor/Resource","Startup & Scale-Up","Company"",
+"related objects":["1701114087820x343209002256274600"], "Ecosystem Role":["Finance & Funding","Advisor/Resource","Startup & Scale-Up","Company"],
 "label":"Kim Armor"
     },{
         "id": "1701114154392x907921767872104000",
@@ -482,7 +482,7 @@
 "summary":"Communications strategist - Enterpreneur - Internationalization ",
 "description":"",
 "size":"",
-"related objects":["1701114089973x700286112318017800"], "Ecosystem Role":""Media & Marketing"",
+"related objects":["1701114089973x700286112318017800"], "Ecosystem Role":["Media & Marketing"],
 "label":"Rosalba Zepeda"
     },{
         "id": "1701114160235x835781621467151000",
@@ -504,7 +504,7 @@
 "summary":"Forward thinking strategic partner influencing innovative long-term value transformation. Disruptive and curious collaborator that colors outside the lines to find creative solutions. I target ESG efforts.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource"],
 "label":"Christi Gidcumb"
     },{
         "id": "1701114161268x769431230931552100",
@@ -526,7 +526,7 @@
 "summary":"Experienced entrepreneur and plant doctor with a demonstrated history of working in agriculture, compost, sustainability and cannabis industries. Skilled in negotiation, environmental awareness, sustainability, research, plant disease management and entrepreneurship. Strong business development professional with a Doctor of Plant Medicine degree focused in agriculture, agricultural operations, plant health and related sciences from the University of Florida. ",
 "description":"",
 "size":"",
-"related objects":["1701114092802x549513410316828400"], "Ecosystem Role":""Social Impact, Equity, & Justice","Government & Policy","Startup & Scale-Up","Company","Other"",
+"related objects":["1701114092802x549513410316828400"], "Ecosystem Role":["Social Impact, Equity, & Justice","Government & Policy","Startup & Scale-Up","Company","Other"],
 "label":"Lanette Sobel"
     },{
         "id": "1700935943229x224107274454341100",
@@ -548,7 +548,7 @@
 "summary":"Daniel Kleinman is the Founder & CEO of Seaworthy Collective, as well as a regenerative systems thinker and marine roboticist who spent 5 years piloting, testing, and designing unmanned underwater vehicles for ocean science, exploration, and naval research. Daniel holds a Bachelor’s of Science in Mechanical Engineering from the University of Florida and a Master’s of Professional Science in Exploration Science from the University of Miami Rosenstiel School of Marine and Atmospheric Science, where he founded Seaworthy Collective in 2020. Daniel has been recognized as a 30 Under 30 by the University of Miami, a Future Climate Leader by the Aspen Institute, a TEDxBoston Planetary Stewardship speaker, and the youngest Laureate of Prince Albert II of Monaco Foundation’s Prize for Innovative Philanthropy.",
 "description":"",
 "size":"",
-"related objects":["1698435294775x760193980450363300"],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":""Advisor/Resource"",
+"related objects":["1698435294775x760193980450363300"],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":["Advisor/Resource"],
 "label":"Daniel Kleinman"
     },{
         "id": "1701114001064x919342713930624300",
@@ -658,7 +658,7 @@
 "summary":"Adam Friedman started in the construction industry at a young age and worked professionally in the Aerospace and Defense Industry, specializing in 3D Printing.  His co-owned company, 1Print, combines his two passions, construction, and 3D Printing for the government.   ",
 "description":"",
 "size":"",
-"related objects":["1701114007764x514505605033539500"],"Relevant Climate Categories":"Building + Industry | Energy | Water + Coasts | Mobility", "Ecosystem Role":""Startup & Scale-Up","Company"",
+"related objects":["1701114007764x514505605033539500"],"Relevant Climate Categories":"Building + Industry | Energy | Water + Coasts | Mobility", "Ecosystem Role":["Startup & Scale-Up","Company"],
 "label":"Adam Friedman"
     },{
         "id": "1701114010781x419421605363406500",
@@ -680,7 +680,7 @@
 "summary":"Fredrik, an accomplished Executive Leader with 20+ years of experience, is driven to innovate business operations. With over 11 years in global leadership, he aims to contribute his expertise in mission-driven organizations, focusing on 3D concrete printing.",
 "description":"",
 "size":"",
-"related objects":["1701114007764x514505605033539500"],"Relevant Climate Categories":"Water + Coasts | Building + Industry | Energy | Mobility", "Ecosystem Role":""Startup & Scale-Up","Company"",
+"related objects":["1701114007764x514505605033539500"],"Relevant Climate Categories":"Water + Coasts | Building + Industry | Energy | Mobility", "Ecosystem Role":["Startup & Scale-Up","Company"],
 "label":"Fredrik Wannius"
     },{
         "id": "1701114012158x971376563437795600",
@@ -1274,7 +1274,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701113992981x894908699689942900"], "Ecosystem Role":""Government & Policy"",
+"related objects":["1701113992981x894908699689942900"], "Ecosystem Role":["Government & Policy"],
 "label":"Francesca \"Cesi\" de Quesada Covey"
     },{
         "id": "1701114048833x161417137245722940",
@@ -1428,7 +1428,7 @@
 "summary":"Chief Heat Officer at Miami-Dade County- Jane Gilbert's goal is to help strengthen communities - economically, socially and environmentally. Ms. Gilbert assists diverse stakeholders develop and activate integrated solutions. Ms. Gilbert has over 30 years experience in strategic planning, corporate value integration, public private partnerships, social venture design/implementation in the areas of climate mitigation and adaptation, urban resilience, education, community development and the arts.",
 "description":"",
 "size":"",
-"related objects":["1701113992981x894908699689942900"], "Ecosystem Role":""Government & Policy"",
+"related objects":["1701113992981x894908699689942900"], "Ecosystem Role":["Government & Policy"],
 "label":"Jane Gilbert"
     },{
         "id": "1701114057794x271686584519699840",
@@ -1648,7 +1648,7 @@
 "summary":"I am a Professor at the Department of Civil & Architectural Engineering at the University of Miami. My research explores structural morphology and morphogenesis as umbrella concepts. I employ these concepts to identify solutions and design more sustainable and resilient structures through the study of structural and architectural systems, such as tensegrity and hexagonal lattice structures, with applications varying from infrastructure systems and space structures to marine and coastal protection.",
 "description":"",
 "size":"",
-"related objects":["1701114031649x348245607321973300"],"Relevant Climate Categories":"Water + Coasts | Building + Industry", "Ecosystem Role":""Science & Academia"",
+"related objects":["1701114031649x348245607321973300"],"Relevant Climate Categories":"Water + Coasts | Building + Industry", "Ecosystem Role":["Science & Academia"],
 "label":"Landolf Rhode-Barbarigos"
     },{
         "id": "1701114073105x988741311865284600",
@@ -1736,7 +1736,7 @@
 "summary":"In August 2023 Michael Berkowitz was appointed founding executive director of the University of Miami’s Climate Resilience Academy. He also serves as the Eric T. Levin Chair in Climate Resilience. The Academy is a functional unit that supports the UM Schools and Colleges in interdisciplinary, problem-driven research and education to train the next generation of resilience practitioners and deliver solutions to climate change impacts and other environmental stressors, in partnership with industry, government, universities, and other stakeholders. \n\nAdditionally, he currently serves as a senior Advisor to Resilient Cities Catalyst,  as well as on the Deltares international advisory board, FEMA’s National Advisory Commission and the World Resource Institute's Ross Center Cities Prize Advisory Council. \n",
 "description":"",
 "size":"",
-"related objects":["1701114031649x348245607321973300"],"Relevant Climate Categories":"Mobility | Risk + Finance + Services | Water + Coasts", "Ecosystem Role":""Advisor/Resource","Government & Policy","Social Impact, Equity, & Justice"",
+"related objects":["1701114031649x348245607321973300"],"Relevant Climate Categories":"Mobility | Risk + Finance + Services | Water + Coasts", "Ecosystem Role":["Advisor/Resource","Government & Policy","Social Impact, Equity, & Justice"],
 "label":"Michael Berkowitz"
     },{
         "id": "1701114077607x700618681433760300",
@@ -2110,7 +2110,7 @@
 "summary":"Ph.D. in coral reef ecology. Non-profit leader. Waterkeeper & Executive Director. Dedicated to protecting the water you love along with our amazing @miamiwaterkeeper team. Striving for #waterwins on behalf of our community and our water. Has more ideas than time. Finding local solutions to global challenges. Combining science, advocacy, and education to make change. 2023 Elevate Prize winner.",
 "description":"",
 "size":"",
-"related objects":["1701114048331x569815155914375200"],"Relevant Climate Categories":"Nature + Food + Waste | Water + Coasts | Building + Industry", "Ecosystem Role":""Science & Academia","Social Impact, Equity, & Justice"",
+"related objects":["1701114048331x569815155914375200"],"Relevant Climate Categories":"Nature + Food + Waste | Water + Coasts | Building + Industry", "Ecosystem Role":["Science & Academia","Social Impact, Equity, & Justice"],
 "label":"Rachel Silverstein"
     },{
         "id": "1701114099594x770495564943889400",
@@ -2396,7 +2396,7 @@
 "summary":"As the world’s most active pre-seed investor, Techstars has invested in thousands of startups, across industries and across the world. We provide entrepreneurs with access to capital, mentoring, and services, enabling them to find customers, talent, and much more.",
 "description":"",
 "size":"",
-"related objects":["1701114059563x514129504827827100"],"Relevant Climate Categories":"Building + Industry | Water + Coasts | Mobility", "Ecosystem Role":""Company","Finance & Funding","Social Impact, Equity, & Justice","Startup & Scale-Up","Advisor/Resource"",
+"related objects":["1701114059563x514129504827827100"],"Relevant Climate Categories":"Building + Industry | Water + Coasts | Mobility", "Ecosystem Role":["Company","Finance & Funding","Social Impact, Equity, & Justice","Startup & Scale-Up","Advisor/Resource"],
 "label":"Joe Sanchez"
     },{
         "id": "1701114117828x712715260802544000",
@@ -2484,7 +2484,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114013546x858481179090543700"],"Relevant Climate Categories":"Mobility | Building + Industry", "Ecosystem Role":""Government & Policy"",
+"related objects":["1701114013546x858481179090543700"],"Relevant Climate Categories":"Mobility | Building + Industry", "Ecosystem Role":["Government & Policy"],
 "label":"Burhan Sebin"
     },{
         "id": "1701114122566x898470570770904200",
@@ -2528,7 +2528,7 @@
 "summary":"Dr. Young Gu Her is a hydrologist and agricultural engineer working as an associate professor at the Tropical Research and Education Center in Homestead, FL. My research and Extension activities include 1) projecting the future climate and water resources (groundwater level and seawater intrusion into the aquifer), 2) developing mitigation and adaptation plans for improved sustainability and resilience, and 3) helping people understand the status of changing climate and its potential impacts. Recently, I was involved in a research project supported by Miami-Dade County, \"Evaluation of Agricultural Land Use Trends and Outlook in Miami-Dade County, Florida\"; I led the modeling effort to quantify the impacts of projected climate change and sea level rise on groundwater level and saltwater intrusion in the county.",
 "description":"",
 "size":"",
-"related objects":["1701114065319x101818164985545630"],"Relevant Climate Categories":"Water + Coasts | Nature + Food + Waste", "Ecosystem Role":""Science & Academia","Advisor/Resource"",
+"related objects":["1701114065319x101818164985545630"],"Relevant Climate Categories":"Water + Coasts | Nature + Food + Waste", "Ecosystem Role":["Science & Academia","Advisor/Resource"],
 "label":"Young Gu Her"
     },{
         "id": "1701114125666x883045290622914000",
@@ -2550,7 +2550,7 @@
 "summary":"Francisco Benedito is a visionary entrepreneur and environmental advocate, known for his leadership in leveraging technology for climate change solutions. As CEO and Co-Founder of ClimateTrade, an innovative climate technology company, he connects people with global climate action projects.\n\nWith 15 years in banking, Benedito shifted his focus to sustainability in 2017, launching ClimateCoin, the world's first crypto asset dedicated to combating climate change. Recognized at COP23, this paved the way for the establishment of ClimateTrade in 2019.\n\nBenedito holds an MBA from Université Paris Nanterre and a law degree from Universidad CEO San Pablo, PDD IE Business School. His academic background, dedication to sustainability, and entrepreneurial talent position him as a global leader in the startup ecosystem and a catalyst for positive change.\n\n",
 "description":"",
 "size":"",
-"related objects":["1701114066665x811856732559432800"],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":""Startup & Scale-Up"",
+"related objects":["1701114066665x811856732559432800"],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":["Startup & Scale-Up"],
 "label":"Francisco Benedito"
     },{
         "id": "1701114126786x666405939908364800",
@@ -2704,7 +2704,7 @@
 "summary":"James Michael Matthew is an award-winning author, financial executive, and industrialist with over 40 years of experience. He is the Founder and Chairman of JM Prophecies Corporation. His Company's Mission is Tackling the Major Challenges of Our Times and Building The Selfless Economy. He graduated from The Johns Hopkins University with a Masters in Biotechnology Enterprise and Entrepreneurship.",
 "description":"",
 "size":"",
-"related objects":["1701114076345x367142206355129100"], "Ecosystem Role":""Company"",
+"related objects":["1701114076345x367142206355129100"], "Ecosystem Role":["Company"],
 "label":"James Matthew"
     },{
         "id": "1701114145986x199170650567935580",
@@ -2726,7 +2726,7 @@
 "summary":"Business development associate for Kind Designs. Working to replace traditional toxic seawalls, with 3D printed Living Seawalls to protect coastlines and foster the growth of coastal marine habitats. ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up"],
 "label":"Charlotte Hoffman"
     },{
         "id": "1701114146592x856051316116634100",
@@ -2748,7 +2748,7 @@
 "summary":"Julia is a GREEN Realtor with One Sotheby's International Realty and works with local organizations such as Fertile Earth Worm Farm and VolunteerCleanup.org, and is also Chair of City of Hollywood Sustainability Advisory Committee. She continues to grow and maintain close relations with those bringing a positive influence to our overall environmental health. \n",
 "description":"",
 "size":"",
-"related objects":["1701114092802x549513410316828400"], "Ecosystem Role":""Startup & Scale-Up","Social Impact, Equity, & Justice"",
+"related objects":["1701114092802x549513410316828400"], "Ecosystem Role":["Startup & Scale-Up","Social Impact, Equity, & Justice"],
 "label":"Julia Poliadis"
     },{
         "id": "1701114147366x658812960268142300",
@@ -2770,7 +2770,7 @@
 "summary":"Miami based B-Corp Start up Female Founder and Board Director sharing past and present experience, including as former President & CEO of General Electric in Brazil, to ignite leaders to integrate understanding and innovation practices towards a nature-positive future. ",
 "description":"",
 "size":"",
-"related objects":["1701114080366x149705842752696300"], "Ecosystem Role":""Advisor/Resource"",
+"related objects":["1701114080366x149705842752696300"], "Ecosystem Role":["Advisor/Resource"],
 "label":"Adriana Machado"
     },{
         "id": "1701114148308x427338323253083200",
@@ -2792,7 +2792,7 @@
 "summary":"Jared is exploring ways to develop and measure the social capital of communities and quantify what effectively accedes systems into a more climaxed state of healthy equilibrium, beyond resiliency. In summary, integral planning. This includes everything from the health of our Everglades and the complexity of life she can support all the way to the accessibility of one’s community and the complexity of both mobility options and the people they can support.",
 "description":"",
 "size":"",
-"related objects":["1701114079125x414053393368035900","1701114081894x216472240055324740","1701114084195x775153705003352800","1701114092802x549513410316828400"], "Ecosystem Role":""Advisor/Resource"",
+"related objects":["1701114079125x414053393368035900","1701114081894x216472240055324740","1701114084195x775153705003352800","1701114092802x549513410316828400"], "Ecosystem Role":["Advisor/Resource"],
 "label":"Jared Jacobs"
     },{
         "id": "1701114148923x934359783710822000",
@@ -2814,7 +2814,7 @@
 "summary":"Architect and Urbanist",
 "description":"",
 "size":"",
-"related objects":["1701114086596x468934928780521540"], "Ecosystem Role":""Company","Advisor/Resource","Science & Academia"",
+"related objects":["1701114086596x468934928780521540"], "Ecosystem Role":["Company","Advisor/Resource","Science & Academia"],
 "label":"Bernardo Scheinkman"
     },{
         "id": "1701114150226x697926892918434600",
@@ -2836,7 +2836,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114043004x183471821109562500"], "Ecosystem Role":""Advisor/Resource"",
+"related objects":["1701114043004x183471821109562500"], "Ecosystem Role":["Advisor/Resource"],
 "label":"Randall Deich"
     },{
         "id": "1701114150865x535427886273229100",
@@ -2880,7 +2880,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114034012x710075242328409900"], "Ecosystem Role":""Startup & Scale-Up","Government & Policy","Social Impact, Equity, & Justice","Finance & Funding","Advisor/Resource"",
+"related objects":["1701114034012x710075242328409900"], "Ecosystem Role":["Startup & Scale-Up","Government & Policy","Social Impact, Equity, & Justice","Finance & Funding","Advisor/Resource"],
 "label":"Sandy-Michael McDonald"
     },{
         "id": "1701114156517x109646971608906130",
@@ -2902,7 +2902,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114034012x710075242328409900"],"Relevant Climate Categories":"Mobility | Building + Industry | Water + Coasts | Risk + Finance + Services", "Ecosystem Role":""Social Impact, Equity, & Justice","Government & Policy","Advisor/Resource"",
+"related objects":["1701114034012x710075242328409900"],"Relevant Climate Categories":"Mobility | Building + Industry | Water + Coasts | Risk + Finance + Services", "Ecosystem Role":["Social Impact, Equity, & Justice","Government & Policy","Advisor/Resource"],
 "label":"Philip McChesney"
     },{
         "id": "1701114158027x271047181702144240",
@@ -2924,7 +2924,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114034012x710075242328409900"],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":""Advisor/Resource","Government & Policy"",
+"related objects":["1701114034012x710075242328409900"],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":["Advisor/Resource","Government & Policy"],
 "label":"Bilal Hashmi"
     },{
         "id": "1701114159074x561130626930889100",
@@ -2990,7 +2990,7 @@
 "summary":"Jake Moskowitz is the Chief Innovation Officer of The Underline, a 10-mile linear park, multimodal trail, ecological corridor and outdoor art destination being built underneath Miami's elevated Metrorail. He leads The Underline's innovation portfolio and is responsible for designing and developing pioneering technology to enhance park's visitor experiences, civic engagement, and operational efficiency. Jake leads all partnerships and projects focused on innovation for The Underline, deploying technology that intuitively integrates into the urban environment, and connecting its community and its citizens to each other and to place. He has worked as a mobility entrepreneur, digital strategist, and startup mentor throughout the US and Latam. Prior to joining the Underline, he was the co-founder and CEO of Voyhoy, a multimodal travel platform that allowed travelers to compare and buy bus, plane, and train tickets throughout South America. Jake received his B.A. from the University of Georgia and views technology as a fundamental tool to bind people and places together.",
 "description":"",
 "size":"",
-"related objects":["1701114095126x285362815388252800"],"Relevant Climate Categories":"Nature + Food + Waste | Water + Coasts | Mobility", "Ecosystem Role":""Advisor/Resource","Social Impact, Equity, & Justice","Government & Policy","Other"",
+"related objects":["1701114095126x285362815388252800"],"Relevant Climate Categories":"Nature + Food + Waste | Water + Coasts | Mobility", "Ecosystem Role":["Advisor/Resource","Social Impact, Equity, & Justice","Government & Policy","Other"],
 "label":"Jake Moskowitz"
     },{
         "id": "1701114164465x477936446316725250",
@@ -3012,7 +3012,7 @@
 "summary":"As the Founding Principal of Facade+Envelope, a consulting firm that specializes in the entire building envelope, I lead a team of engineers and specialists with decades of experience. I am a Professional Engineer registered in Florida and New York, with over 19 years of building envelope experience.\n\nOur goal is to ensure that people Live, Work, Learn and Play better by improving the design and construction of the Built Environment.\n\nMy core competencies include consulting, inspections, testing, and structural design of façades, cladding, roofing, and waterproofing systems. I have extensive experience in structural analysis and design of curtainwalls, fixed and operable windows, sliding glass doors, and railings. I also have a strong background in building forensics, moisture resistance design, and building code compliance. \n\nOne of my specialties is hurricane resistance design, which is crucial for the safety and performance of buildings in coastal areas. ",
 "description":"",
 "size":"",
-"related objects":["1701114096541x670963486626106200"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":""Advisor/Resource"",
+"related objects":["1701114096541x670963486626106200"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":["Advisor/Resource"],
 "label":"Manuel Morales"
     },{
         "id": "1701114165695x704502848492729600",
@@ -3034,7 +3034,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114041896x358797632926306050"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":""Company"",
+"related objects":["1701114041896x358797632926306050"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":["Company"],
 "label":"Christopher Ferreira"
     },{
         "id": "1701114166940x456210801431804000",
@@ -3056,7 +3056,7 @@
 "summary":"Camilo Mejia serves as Director of Policy and Advocacy. His work revolves around community-led policy and engagement initiatives designed to build collective power and achieve collective gains, with a special focus on housing, climate, financial and health equity. Camilo has a bachelor's degree in Psychology and a master's in conflict resolution. He lives in Coconut Grove with his daughter.",
 "description":"",
 "size":"",
-"related objects":["1701114098083x528655188960152960"],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":["1701114098083x528655188960152960"],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"Camilo E. Mejia"
     },{
         "id": "1701114168771x555520904768026050",
@@ -3144,7 +3144,7 @@
 "summary":"Morgan Higman is the Climate Strategy Director of The Nature Conservancy in Florida. She has a background on climate and energy policy, with experience managing grants, projects, and teams in state and local government, non-profits, and think tanks in Florida and Washington DC. She has recently collaborated with Florida-based partners to write grant applications for $255+ million in federal climate funding to support equitable, innovative, emissions-reducing projects in Florida.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Science & Academia","Social Impact, Equity, & Justice","Government & Policy","Startup & Scale-Up","Advisor/Resource","Finance & Funding"",
+"related objects":[], "Ecosystem Role":["Science & Academia","Social Impact, Equity, & Justice","Government & Policy","Startup & Scale-Up","Advisor/Resource","Finance & Funding"],
 "label":"Morgan Higman"
     },{
         "id": "1701195433444x563578710704097500",
@@ -3166,7 +3166,7 @@
 "summary":"Lindsey is a passionate and dedicated environmental program manager with over a decade of experience in the public, private, and academic sectors. She currently serves as the Assistant Director of the Environment & Sustainability Department at the City of Miami Beach, where she oversees various programs, processes, and activities to provide direct and indirect services in environment and sustainability. \n\nShe has successfully coordinated and managed beach renourishment projects, facilitated dune enhancements, secured grant funding, and directed living shoreline initiatives and artificial reef programs. She has also administered water quality testing programs, superintended a permittee’s National Pollutant Discharge Elimination System (NPDES) yearly permit, and supervised soil remediation, groundwater well monitoring, and Brownfield assessments. She is skilled in managing multi-million dollar budgets, contracts, and projects, as well as collaborating with intergovernmental agencies, elected officials, and community stakeholders. She is a trained field biologist in south Florida's coastal environments, with expertise in marine resource identification, percent cover analysis, coral mapping techniques, and disease discovery. She is a mentor for young STEM professionals and has several years of supervisory background.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Government & Policy","Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Government & Policy","Advisor/Resource"],
 "label":"Lindsey Precht"
     },{
         "id": "1701195435258x147023296558478560",
@@ -3188,7 +3188,7 @@
 "summary":"After graduating with a BS in Psychology from the University of Virginia, Jake McGee had a\ncareer in the National Football League playing with the San Diego Chargers and the\nPittsburgh Steelers. Jake transitioned to the NFL Players Association where he worked\nwithin the player affairs department. After a brief time at Fanatics Jake transitioned to Plug\nand Play. Jake now helps lead corporate partnerships and innovation. Jake is focused on\nHealth, Insurance and Federal initiatives. Helping connect startups, corporations, investors\nworldwide. Jake has been helping lead global expansion projects as well. Jake completed his MS at The University of Florida.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up","Advisor/Resource","Company","Finance & Funding","Science & Academia","Other"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up","Advisor/Resource","Company","Finance & Funding","Science & Academia","Other"],
 "label":"Jake McGee"
     },{
         "id": "1701195437124x674476697890745700",
@@ -4002,7 +4002,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Government & Policy"",
+"related objects":[], "Ecosystem Role":["Government & Policy"],
 "label":"Miami-Dade County"
     },{
         "id": "1701113997154x171194075442941730",
@@ -4024,8 +4024,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Finance & Funding"",
-"Organization Types":""Other entities"",
+"related objects":[], "Ecosystem Role":["Finance & Funding"],
+"Organization Types":["Other entities"],
 "label":"Citadel"
     },{
         "id": "1701113999117x693187051828168700",
@@ -4047,8 +4047,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Government & Policy"",
-"Organization Types":""State local or tribal governments"",
+"related objects":[], "Ecosystem Role":["Government & Policy"],
+"Organization Types":["State local or tribal governments"],
 "label":"City of Miami"
     },{
         "id": "1701114001700x141144585698930180",
@@ -4070,7 +4070,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector"],
 "label":"AME Power"
     },{
         "id": "1701114003020x448391216742396500",
@@ -4092,7 +4092,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""State local or tribal governments"",
+"related objects":[], "Organization Types":["State local or tribal governments"],
 "label":"City of Miami Beach"
     },{
         "id": "1701114004257x884247093777568400",
@@ -4114,7 +4114,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Economic development organizations"",
+"related objects":[], "Organization Types":["Economic development organizations"],
 "label":"Greater Miami Chamber of Commerce"
     },{
         "id": "1701114005256x502517813859289150",
@@ -4136,7 +4136,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Educational institutions"",
+"related objects":[], "Organization Types":["Educational institutions"],
 "label":"College of the Florida Keys"
     },{
         "id": "1701114006468x289665925772304900",
@@ -4158,7 +4158,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector","Incubator/Accelerator/Venture studios"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector","Incubator/Accelerator/Venture studios"],
 "label":"Endeavor Miami"
     },{
         "id": "1701114007764x514505605033539500",
@@ -4180,7 +4180,7 @@
 "summary":"Sustainable and Resilient Infrastructure 3D Printing Company, specializing in Coastal, Storm Water, Transportation, DoD, DoE, and Real Estate",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up","Company"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up","Company"],
 "label":"1Print"
     },{
         "id": "1701114009247x897324022895844700",
@@ -4202,8 +4202,8 @@
 "summary":"Atomic is a venture studio and fund created in 2012 by serial entrepreneur Jack Abraham to speed and scale the process of building high-growth companies. Atomic pioneered the studio-fund model of bringing together ideas, capital, talent, and resources to start companies in parallel and has built successful companies across industries ranging from fintech, web3, and the workplace to proptech, education, and the enterprise. Bungalow, Found, Hims & Hers (NYSE: HIMS), Homebound, OpenStore, and Replicant are some of the companies we've built. When co-founders join Atomic, they team up with an experienced group of founders and a built-in team of specialists ranging from legal and finance to HR, design, and marketing. Described by Forbes as \"The Pixar of Silicon Valley,\" Atomic is headquartered in Miami and San Francisco and has a distributed team across the U.S. and Canada.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Finance & Funding"",
-"Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Ecosystem Role":["Finance & Funding"],
+"Organization Types":["Industry/Firms in tech sector"],
 "label":"Atomic Ventures"
     },{
         "id": "1701114010613x979355873600692600",
@@ -4225,7 +4225,7 @@
 "summary":"Manufacturer of sustainable, grid-interactive, building cooling solutions.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up"],
 "label":"Blue Frontier, Inc."
     },{
         "id": "1701114012146x239592190503025150",
@@ -4247,8 +4247,8 @@
 "summary":"Carbon Limit is a South Florida Climate-tech company \nwith a proprietary Carbon Capture cement technology that actively captures atmospheric CO2 and stores it permanently in concrete, promoting long term sustainability for greener cities around the world.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up"",
-"Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up"],
+"Organization Types":["Industry/Firms in tech sector"],
 "label":"Carbon Limit"
     },{
         "id": "1701114013546x858481179090543700",
@@ -4270,7 +4270,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""State local or tribal governments"",
+"related objects":[], "Organization Types":["State local or tribal governments"],
 "label":"Venture Miami"
     },{
         "id": "1701114014954x852482307863492500",
@@ -4292,7 +4292,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Educational institutions"",
+"related objects":[], "Organization Types":["Educational institutions"],
 "label":"Florida Atlantic University"
     },{
         "id": "1701114016498x921308049070603100",
@@ -4314,7 +4314,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Educational institutions"",
+"related objects":[], "Organization Types":["Educational institutions"],
 "label":"Florida International University"
     },{
         "id": "1701114017638x917817013623233500",
@@ -4336,7 +4336,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Labor & workforce training organizations"",
+"related objects":[], "Organization Types":["Labor & workforce training organizations"],
 "label":"IUOE 487"
     },{
         "id": "1701114019131x505047945956397250",
@@ -4358,7 +4358,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Other entities"",
+"related objects":[], "Organization Types":["Other entities"],
 "label":"Knight Foundation"
     },{
         "id": "1701114022560x865850221284500500",
@@ -4380,7 +4380,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector"],
 "label":"Mastec"
     },{
         "id": "1701114025237x822135499059457200",
@@ -4402,7 +4402,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Labor & workforce training organizations"",
+"related objects":[], "Organization Types":["Labor & workforce training organizations"],
 "label":"Miami Tech Works"
     },{
         "id": "1701114026284x446362775793363700",
@@ -4424,8 +4424,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Science & Academia"",
-"Organization Types":""Educational institutions"",
+"related objects":[], "Ecosystem Role":["Science & Academia"],
+"Organization Types":["Educational institutions"],
 "label":"Miami-Dade College"
     },{
         "id": "1701114027343x127205158127150940",
@@ -4447,7 +4447,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Educational institutions"",
+"related objects":[], "Organization Types":["Educational institutions"],
 "label":"Nova Southeastern University"
     },{
         "id": "1701114028808x289519490772374850",
@@ -4469,7 +4469,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Economic development organizations"",
+"related objects":[], "Organization Types":["Economic development organizations"],
 "label":"South Florida Regional Planning Council"
     },{
         "id": "1701114029848x207206914067705300",
@@ -4491,7 +4491,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector"],
 "label":"Titan"
     },{
         "id": "1701114031649x348245607321973300",
@@ -4513,7 +4513,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Educational institutions"",
+"related objects":[], "Organization Types":["Educational institutions"],
 "label":"University of Miami"
     },{
         "id": "1701114032753x492020965297386200",
@@ -4535,7 +4535,7 @@
 "summary":"Watsco Inc. is the largest distributor of air conditioning, heating and refrigeration equipment and related parts and supplies (HVAC/R) in the HVAC/R distribution industry.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Company","Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Company","Advisor/Resource"],
 "label":"Watsco"
     },{
         "id": "1701114034012x710075242328409900",
@@ -4557,7 +4557,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""State local or tribal governments"",
+"related objects":[], "Organization Types":["State local or tribal governments"],
 "label":"Broward County"
     },{
         "id": "1701114035292x725357897183106300",
@@ -4579,7 +4579,7 @@
 "summary":"CareerSource Florida is the statewide workforce policy and investment board of business and government leaders charged with guiding workforce development for the state of Florida. CareerSource Florida provides oversight and policy direction for talent development programs administered by the Department of Commerce, Florida’s local workforce development boards and their 100 career centers. Together, the CareerSource Florida network connects employers with qualified, skilled talent and Floridians with employment and career development opportunities to achieve economic prosperity.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Labor & workforce training organizations"",
+"related objects":[], "Organization Types":["Labor & workforce training organizations"],
 "label":"CareerSource"
     },{
         "id": "1701114036640x255295019442857380",
@@ -4601,7 +4601,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Labor & workforce training organizations"",
+"related objects":[], "Organization Types":["Labor & workforce training organizations"],
 "label":"CodePath"
     },{
         "id": "1701114038146x587450367435345500",
@@ -4623,7 +4623,7 @@
 "summary":"eMerge Americas is the premier technology conference shaping the future of innovation. Attracting venture capitalists, entrepreneurs and technology innovators from across the world to our vibrant shores, eMerge offers a unique tech event in one of the world’s most diverse destinations.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector","Conferences"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector","Conferences"],
 "label":"eMerge Americas"
     },{
         "id": "1701114039367x337376646575540800",
@@ -4645,7 +4645,7 @@
 "summary":"Florida Memorial University, a private, coeducational university with Baptist affiliations, stands out as one of the oldest educational institutions in Florida and the sole Historically Black University in South Florida. Our mission is to cultivate a minority workforce pipeline ready for national and global economic challenges. Furthermore, FMU is dedicated to serving as an innovative laboratory for knowledge generation and problem-solving for the broader community.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Science & Academia","Social Impact, Equity, & Justice"",
+"related objects":[], "Ecosystem Role":["Science & Academia","Social Impact, Equity, & Justice"],
 "label":"Florida Memorial University"
     },{
         "id": "1701114041896x358797632926306050",
@@ -4667,7 +4667,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector"],
 "label":"Florida Power & Light"
     },{
         "id": "1701114043004x183471821109562500",
@@ -4689,7 +4689,7 @@
 "summary":"As the primary economic development organization for Greater Fort Lauderdale/Broward County, the Greater Fort Lauderdale Alliance focuses on creating, attracting, expanding and retaining high-wage jobs and capital investment in high value targeted industries, developing more vibrant communities, and improving the quality of life for our area’s citizens.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Economic development organizations"",
+"related objects":[], "Organization Types":["Economic development organizations"],
 "label":"Greater Fort Lauderdale Alliance"
     },{
         "id": "1701114044548x785905627308503900",
@@ -4711,8 +4711,8 @@
 "summary":"I Squared Capital is an independent global infrastructure investment manager focusing on energy, utilities, telecom and transport in the Americas, Europe and Asia.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Finance & Funding"",
-"Organization Types":""Industry/Firms in tech sector","Incubator/Accelerator/Venture studios"",
+"related objects":[], "Ecosystem Role":["Finance & Funding"],
+"Organization Types":["Industry/Firms in tech sector","Incubator/Accelerator/Venture studios"],
 "label":"I Squared Capital"
     },{
         "id": "1701114045980x176145163172309220",
@@ -4756,7 +4756,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector"],
 "label":"Merrimac Ventures"
     },{
         "id": "1701114048331x569815155914375200",
@@ -4778,7 +4778,7 @@
 "summary":"Miami Waterkeeper works toward a vision of swimmable, drinkable, and fishable water for all. These are rights granted to us by the Clean Water Act, but environmental laws work only if people are willing to stand up for them. Empowering the community, we use science, advocacy, and outreach to protect our waterways from pollution and prepare South Florida for the future.\n\nAs our reputation has grown, we've become the trusted source of environmental information and powerful action. Employing our multidisciplinary strategy, we've secured significant protections for our waterways. We use this approach to find local solutions to the global problem of climate change. By standing up for clean water, we are making Miami a shining example of resiliency for the world -- water win by water win.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Science & Academia","Social Impact, Equity, & Justice","Other"",
+"related objects":[], "Ecosystem Role":["Science & Academia","Social Impact, Equity, & Justice","Other"],
 "label":"Miami Waterkeeper"
     },{
         "id": "1701114049794x644641690950162400",
@@ -4800,7 +4800,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Economic development organizations"",
+"related objects":[], "Organization Types":["Economic development organizations"],
 "label":"Beacon Council"
     },{
         "id": "1701114050854x650610397961592400",
@@ -4822,7 +4822,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Economic development organizations"",
+"related objects":[], "Organization Types":["Economic development organizations"],
 "label":"Miami-Dade Innovation Authority"
     },{
         "id": "1701114052230x530223994796272600",
@@ -4844,7 +4844,7 @@
 "summary":"Mission One Capital is an early stage venture capital fund, investing in startups focused on ClimateTech and Equitable Access.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector"],
 "label":"Mission One Capital"
     },{
         "id": "1701114053400x313758400132512200",
@@ -4866,7 +4866,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""State local or tribal governments"",
+"related objects":[], "Organization Types":["State local or tribal governments"],
 "label":"Monroe County"
     },{
         "id": "1701114054422x117950467036640910",
@@ -4888,7 +4888,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Educational institutions"",
+"related objects":[], "Organization Types":["Educational institutions"],
 "label":"Northeastern University"
     },{
         "id": "1701114055581x621625967782241800",
@@ -4910,8 +4910,8 @@
 "summary":"OIC of South Florida is a workforce development and community-based vocational training organization, with the mission to provide training and skill development to youth and adults who lack opportunity and resources, providing access to meaningful careers so they become self-sufficient, valued, and confident members of their communities. ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice"",
-"Organization Types":""Labor & workforce training organizations","Nonprofits"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice"],
+"Organization Types":["Labor & workforce training organizations","Nonprofits"],
 "label":"OIC of South Florida"
     },{
         "id": "1701114057083x569442273651279600",
@@ -4933,7 +4933,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""State local or tribal governments"",
+"related objects":[], "Organization Types":["State local or tribal governments"],
 "label":"Palm Beach County"
     },{
         "id": "1701114058196x409477715760697200",
@@ -4955,7 +4955,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Other entities"",
+"related objects":[], "Organization Types":["Other entities"],
 "label":"South Florida Defense Alliance"
     },{
         "id": "1701114059563x514129504827827100",
@@ -4977,7 +4977,7 @@
 "summary":"At Techstars we have invested in more than 3,700 early-stage startups.\n\nAs the world's most active pre-seed investor, our portfolio is as diversified as our 8,600 founders are unique — from HealthTech and FinTech, to Web3 and CleanTech; from Miami and Silicon Valley to Lagos and London.\n\nWe support many of the world's best entrepreneurs with access to capital, mentoring, finding customers, hiring talent, choosing the right infrastructure, and much more!",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up","Advisor/Resource","Social Impact, Equity, & Justice","Finance & Funding"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up","Advisor/Resource","Social Impact, Equity, & Justice","Finance & Funding"],
 "label":"Techstars"
     },{
         "id": "1701114062414x702166047060560900",
@@ -4999,7 +4999,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Organization Types":["Industry/Firms in tech sector"],
 "label":"Lab 22C"
     },{
         "id": "1701114063799x305931777317156600",
@@ -5021,7 +5021,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Other entities"",
+"related objects":[], "Organization Types":["Other entities"],
 "label":"Southeast Florida Regional Climate Compact"
     },{
         "id": "1701114065319x101818164985545630",
@@ -5043,7 +5043,7 @@
 "summary":"Tropical Research and Education Center (TREC), Institute of Food and Agricultural Sciences, University of Florida. TREC is located in Homestead, Florida.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Science & Academia"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Science & Academia"],
 "label":"University of Florida"
     },{
         "id": "1701114066665x811856732559432800",
@@ -5065,7 +5065,7 @@
 "summary":"ClimateTrade is a pioneering organization that is dedicated to providing innovative climate tech solutions, with the aim of empowering large-scale decarbonization efforts. We offer a comprehensive suite of 360 climate solutions, including the BioUrban, or, the Tree of the Future, is an innovative urban solution designed to efficiently address pollution problems in our cities. This pioneering system uses green bioremediation technology to combat the presence of polluting agents such as CO2, NOx, PM 2.5 and PM 10, as well as total suspended particles.\n\nOur plug-and-play API and White Label products that allow companies to seamlessly integrate climate action into their customer journey, enabling businesses to effectively tackle scope 3 emissions and offer carbon-neutral products and services to their final consumers.\n\nFurthermore, our climate marketplace, built on blockchain technology, features over 190 certified sustainable projects that individuals and businesses can finance directly. By offsetting their carbon footprint through these projects, they can make a tangible difference to the environment and support sustainability initiatives that benefit us all.\n",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up"],
 "label":"ClimateTrade"
     },{
         "id": "1701114070177x831859671815074600",
@@ -5087,7 +5087,7 @@
 "summary":"Provide strategic advisory to companies for GTM, product/market fit, strategic partnerships, relationship building, international expansion, business development.  Automation software technology, tools/platforms, tech hardware, thought leadership.  China/Asia experience.  Founder, operator and investor in startups.    ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource"],
 "label":"Laowai Enterprises LLC"
     },{
         "id": "1701114072073x826319388658811100",
@@ -5109,7 +5109,7 @@
 "summary":"Construction Management ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Company","Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Company","Advisor/Resource"],
 "label":"Mangrove Contracting"
     },{
         "id": "1701114094014x942401941510239900",
@@ -5131,7 +5131,7 @@
 "summary":"Braid Theory is a vertically integrated venture advisory firm that supports science and engineering-led companies operating in the sustainable blue economy. The firm runs incubator, accelerator and venture studio programs.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource"],
 "label":"Braid Theory, Inc."
     },{
         "id": "1701114095126x285362815388252800",
@@ -5153,7 +5153,7 @@
 "summary":"The Underline will transform the land below Miami's Metrorail into a 10-mile linear park, urban trail, ecological corridor, and living art destination.Our vision is to transform the underutilized land, in the urban core, below Miami’s Metrorail into a 10-mile neighborhood park, urban trail and living art destination to create a safer, healthier, more connected, mobile, and engaged community. The Underline will be open to all and serve all with amenities and art that will connect people to place and each other.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice","Other"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice","Other"],
 "label":"Friends of The Underline, Inc."
     },{
         "id": "1701114096541x670963486626106200",
@@ -5175,7 +5175,7 @@
 "summary":"Façade and Envelope specializes in consulting services for building envelope components including glass and glazing, waterproofing, roofing, and exterior wall cladding.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource"],
 "label":"Facade and Envelope Engineering Consultants, LLC"
     },{
         "id": "1701114098083x528655188960152960",
@@ -5197,7 +5197,7 @@
 "summary":"Catalyst Miami is a nonprofit that works with communities to address immediate needs and build a better future together. Our mission is to build power with frontline communities throughout Miami-Dade County to collectively advance justice and achieve shared prosperity.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"Catalyst Miami"
     },{
         "id": "1701114099551x847760125454885200",
@@ -5219,7 +5219,7 @@
 "summary":"ISeeChange is a climate engagement and data platform: we leverage resident generated stories, photos, data, and AI, to help cities, counties, and utilities monitor, maintain, and steward infrastructure. ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up","Company","Social Impact, Equity, & Justice"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up","Company","Social Impact, Equity, & Justice"],
 "label":"ISEECHANGE"
     },{
         "id": "1701114101555x622228769951825800",
@@ -5241,7 +5241,7 @@
 "summary":"The Nature Conservancy (TNC) is a global, science-based, non-profit organization. The TNC climate team in Florida is committed to supporting climate action and ensuring that the state benefits from federal funds made available under the Infrastructure Investment and Jobs Act (IIJA) and Inflation Reduction Act (IRA). TNC staff are working to support multiple federal climate-related grant applications and projects via IIJA/IRA funding to promote innovation, equity, economic development, and emissions reduction. TNC has long-established partnerships with government, industry, academia, and community-based organizations across the state.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Science & Academia","Social Impact, Equity, & Justice","Government & Policy","Finance & Funding"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Science & Academia","Social Impact, Equity, & Justice","Government & Policy","Finance & Funding"],
 "label":"The Nature Conservancy"
     },{
         "id": "1701209920712x645335349856137900",
@@ -5263,7 +5263,7 @@
 "summary":"Our network consists of 50,000 startups, 500+ world-leading corporations, and hundreds of venture capital firms, universities, and government agencies across multiple industries. Together with our partners, we are creating a unique ecosystem designed to develop and implement the technologies of tomorrow.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Company","Startup & Scale-Up","Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Company","Startup & Scale-Up","Advisor/Resource"],
 "label":"Plug and Play"
     },{
         "id": "1701209921459x282028124090463200",
@@ -5285,7 +5285,7 @@
 "summary":"The Allapattah Collaborative CDC empowers Allapattah small and micro-businesses to prosper by providing the neighborhood's entrepreneurs, who are primarily Afro-Latino, with intense, tailored, culturally competent support that unlocks resources and opportunities for growth and ownership. TAC is committed to building an Allapattah economy that works for everyone while preserving our community's unique cultural history and heritage. To learn more visit AllapattahCDC.org. ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Startup & Scale-Up","Social Impact, Equity, & Justice"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Startup & Scale-Up","Social Impact, Equity, & Justice"],
 "label":"The Allapattah Collaborative CDC"
     },{
         "id": "1701209922221x963476320424127200",
@@ -5329,7 +5329,7 @@
 "summary":"The CLEO Institute is a 501(c)(3) non-profit, non-partisan organization exclusively dedicated to climate crisis education and advocacy. Founded in 2010, we work with communities across Florida to build climate literacy and mobilize climate action for a just, resilient future.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"The CLEO Institute"
     },{
         "id": "1701275183931x914067902301470700",
@@ -5549,7 +5549,7 @@
 "summary":"Catalytic systems change and integrations for open source climate accounting to account for where we are on the with to NetZero; and investing in and scaling NetZero solutions with innovative financial instrument that enable implementation of community projects for Miami and the world as an example of smart sustainable cities.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Incubator/Accelerator/Venture studios","Consulting firms"",
+"related objects":[], "Organization Types":["Incubator/Accelerator/Venture studios","Consulting firms"],
 "label":"Logos Capital"
     },{
         "id": "1702648643593x925321810234033700",
@@ -5703,8 +5703,8 @@
 "summary":"The Xavier Cortada Foundation's mission is to utilize socially engaged art in building community, catalyzing collaboration and inspiring action in the face of climate change.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice"",
-"Organization Types":""Other entities","Nonprofits"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice"],
+"Organization Types":["Other entities","Nonprofits"],
 "label":"Xavier Cortada Foundation"
     },{
         "id": "1702648655685x751924702059529000",
@@ -5726,7 +5726,7 @@
 "summary":"Caplow Manzano designs for life. Based in Miami, Caplow Manzano are building the only houses in Florida that will be certified to meet international standards for both health-first design (WELL) and environmental performance (LEED). Deploying a unique set of innovations and modifications, the firm’s designs reinvent the modern home from the inside out, preventing health problems before they happen. Caplow Manzano houses are 100% drywall-free, eliminating the most common location for mold. All plumbing and AC ducts are easily accessible, and walls, floors, and ceilings are built without voids or cavities. Finishes are nontoxic and hypoallergenic. Homes are elevated an entire story above current ground levels, and are designed to last at least a full century.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up","Company","Science & Academia"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up","Company","Science & Academia"],
 "label":"Caplow Manzano"
     },{
         "id": "1702648661977x449835710282003650",
@@ -5968,7 +5968,7 @@
 "summary":"Bitcoin 2022 is a four-day pilgrimage for those seeking greater freedom and individual sovereignty. It is a conference for fintech entrepreneurs to network and advance the usage of Bitcoin.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Other entities","Conferences"",
+"related objects":[], "Organization Types":["Other entities","Conferences"],
 "label":"Bitcoin Conference"
     },{
         "id": "1702648677390x998372796833001300",
@@ -5990,7 +5990,7 @@
 "summary":"Unicorn Ambition Conference is a national tech conference providing exposure and resources to Black tech founders who are building innovative companies and focused on massive growth, or becoming the next \"unicorn.\" Since inception, the conference has highlighted Miami and South Florida as an emerging tech hub.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Other entities","Conferences"",
+"related objects":[], "Organization Types":["Other entities","Conferences"],
 "label":"Black Men Talk Tech"
     },{
         "id": "1702648678330x683891491914735600",
@@ -6012,7 +6012,7 @@
 "summary":"Black Tech Week serves tech professionals and enthusiasts, funders, allies, and all members of the global Black tech community, with the goal of fostering connections and advancing Black entrepreneurs. Black Tech Week serves tech professionals and enthusiasts, funders, allies, and all members of the global Black tech community, with the goal of fostering connections and advancing Black entrepreneurs. ",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Other entities","Conferences"",
+"related objects":[], "Organization Types":["Other entities","Conferences"],
 "label":"Black Tech Week"
     },{
         "id": "1702648679215x620488977573288400",
@@ -6056,7 +6056,7 @@
 "summary":"Located in the Coppertone along the Biscayne Corridor, this 12,000 sq ft space includes private suites for teams of 2-10, as well as open seating/private desks.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Co-working spaces"",
+"related objects":[], "Organization Types":["Co-working spaces"],
 "label":"Büro MiMo"
     },{
         "id": "1702648681394x573238247562593000",
@@ -6144,7 +6144,7 @@
 "summary":"Büro's newest space is located on the top floor of a recently-completed, LEED-Certified boutique building on Alton & 9th Street in South Beach. The custom-designed 11,000 square foot space features chic finishes, high ceilings and stunning views of the neighborhood. Private studios are available for individuals as well as larger suites for teams of 2 - 10 people. All the usual Büro's amenities are provided at this location as well as plenty of on-site parking.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Co-working spaces"",
+"related objects":[], "Organization Types":["Co-working spaces"],
 "label":"Büro Alton Road"
     },{
         "id": "1702648687012x255953810791735840",
@@ -6166,7 +6166,7 @@
 "summary":"Located on Purdy Ave, this 10,000 space features a mix of workspaces for individuals and teams offering bay views.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Co-working spaces"",
+"related objects":[], "Organization Types":["Co-working spaces"],
 "label":"Büro South Beach (Purdy)"
     },{
         "id": "1702648688120x842232574309809200",
@@ -6188,7 +6188,7 @@
 "summary":"A new, 12,000 sq ft. office space offering private suites for teams of 2-10 people, as well as dedicated desks and open spaces. Their mission is to offer entrepreneurs and freelancers an alternative to standard office space and form a diverse(industries) community.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Co-working spaces"",
+"related objects":[], "Organization Types":["Co-working spaces"],
 "label":"Büro South Miami"
     },{
         "id": "1702648689287x659252400085803500",
@@ -6210,8 +6210,8 @@
 "summary":"C.I.C. Miami’s mission is to bridge one of the nation’s largest health districts with the rest of Miami’s innovation ecosystem. Although no longer operating a shared office/lab space in Converge Miami as of June 30, 2022, they aim to aid entrepreneurs through their International Soft Landing program, Venture Café and CR Miami.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Other"",
-"Organization Types":""Co-working spaces","Other entities"",
+"related objects":[], "Ecosystem Role":["Other"],
+"Organization Types":["Co-working spaces","Other entities"],
 "label":"CIC"
     },{
         "id": "1702648690296x311153925183276400",
@@ -6409,7 +6409,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Co-working spaces"",
+"related objects":[], "Organization Types":["Co-working spaces"],
 "label":"Expansive"
     },{
         "id": "1702648704080x690152815802544300",
@@ -6475,7 +6475,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Other entities"",
+"related objects":[], "Organization Types":["Other entities"],
 "label":"Founder’s Boost"
     },{
         "id": "1702648711572x956263989135979300",
@@ -7003,7 +7003,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Other entities","Conferences"",
+"related objects":[], "Organization Types":["Other entities","Conferences"],
 "label":"North American Bitcoin Conference"
     },{
         "id": "1702648751905x587363762355774800",
@@ -7025,7 +7025,7 @@
 "summary":"Designer and builder of ocean infrastructure and floating housing. ",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Company"",
+"related objects":[], "Ecosystem Role":["Company"],
 "label":"Ocean Builders"
     },{
         "id": "1702648752946x168807915363797120",
@@ -7113,8 +7113,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Finance & Funding"",
-"Organization Types":""Economic development organizations","Incubator/Accelerator/Venture studios"",
+"related objects":[], "Ecosystem Role":["Finance & Funding"],
+"Organization Types":["Economic development organizations","Incubator/Accelerator/Venture studios"],
 "label":"Pareto Holdings"
     },{
         "id": "1702648759451x348142726354482500",
@@ -7224,8 +7224,8 @@
 "summary":"PVBLIC Foundation is an innovative non-profit organization that mobilizes media, data, and technology for sustainable development and social impact around the world.  PVBLIC connects public, private, and nonprofit sectors, plugging innovations into social agendas and helping governments, NGOs, and intergovernmental organizations amplify their impact through original programs, creative partnerships, and strategic donor funds. The foundation has managed programs and partnerships that have reached more than a billion people in 125 countries and inspired global action on the Sustainable Development Goals (SDGs)",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice","Finance & Funding","Other"",
-"Organization Types":""Other entities","Nonprofits"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice","Finance & Funding","Other"],
+"Organization Types":["Other entities","Nonprofits"],
 "label":"PVBLIC Foundation"
     },{
         "id": "1702648766809x541588352925548740",
@@ -7445,8 +7445,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Finance & Funding"",
-"Organization Types":""Economic development organizations","Incubator/Accelerator/Venture studios"",
+"related objects":[], "Ecosystem Role":["Finance & Funding"],
+"Organization Types":["Economic development organizations","Incubator/Accelerator/Venture studios"],
 "label":"Watsco Ventures"
     },{
         "id": "1702648778705x783448944387179900",
@@ -7468,7 +7468,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Co-working spaces","Other entities"",
+"related objects":[], "Organization Types":["Co-working spaces","Other entities"],
 "label":"WeWork  Brickell"
     },{
         "id": "1702648780118x607351613940316200",
@@ -7534,8 +7534,8 @@
 "summary":"Inventing and building new wireless networking, sensing, and team-AI technologies for applications in climate, oceans, robotics, human-robot teaming",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource"",
-"Organization Types":""Educational institutions"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource"],
+"Organization Types":["Educational institutions"],
 "label":"Center for Connected Autonomy and AI at FAU"
     },{
         "id": "1702649319828x442385500209474750",
@@ -8305,7 +8305,7 @@
 "summary":"Founding Chair of the non-profit Resilience Action Fund (www.buildingresilient.com).\nDistinguished Expert of Resilience at FIU. Founding Chair of UNDRR ARISE Network.\nLead Technical Advisor to World Bank/IFC Building Resilience Index. Author 'Resilience -The Ultimate Sustainability'. WTC 9-11 survivor. ",
 "description":"",
 "size":"",
-"related objects":["1702648766809x541588352925548740"],"Relevant Climate Categories":"Risk + Finance + Services | Building + Industry", "Ecosystem Role":""Science & Academia","Advisor/Resource","Social Impact, Equity, & Justice","Government & Policy"",
+"related objects":["1702648766809x541588352925548740"],"Relevant Climate Categories":"Risk + Finance + Services | Building + Industry", "Ecosystem Role":["Science & Academia","Advisor/Resource","Social Impact, Equity, & Justice","Government & Policy"],
 "label":"Aris Papadopoulos"
     },{
         "id": "1702649466527x299319046753253200",
@@ -8481,7 +8481,7 @@
 "summary":"Founder and CEO of Cmonster International, an executive project management firm for startups in the Blue Economy sector. Managing Partner of Firmender & Co Capital, a family investment office focusing on early-stage startups in the Blue Economy sector.",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Water + Coasts | Building + Industry", "Ecosystem Role":""Advisor/Resource","Startup & Scale-Up","Company","Finance & Funding"",
+"related objects":[],"Relevant Climate Categories":"Water + Coasts | Building + Industry", "Ecosystem Role":["Advisor/Resource","Startup & Scale-Up","Company","Finance & Funding"],
 "label":"Connor Firmender"
     },{
         "id": "1702649493306x774745128527531800",
@@ -9075,7 +9075,7 @@
 "summary":"Dave Doebler is a Clean Water Advocate and accidental researcher who stumbled on the marine debris issue in Biscayne Bay while kayaking and has been working collaboratively with elected officials and city staff around the county to reduce the input of debris into the bay. Dave sits on the Miami-Dade County Biscayne Bay Watershed Advisory Board, Miami Beach Marine and Waterfront Protection Authority, and was a founding steering committee member of the Biscayne Bay Marine Health Coalition. Dave also co-founded VolunteerCleanup.Org, which is a website that connects people leading cleanups with volunteers – helping to facilitate over 250 cleanups per year.",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Water + Coasts | Nature + Food + Waste", "Ecosystem Role":""Government & Policy"",
+"related objects":[],"Relevant Climate Categories":"Water + Coasts | Nature + Food + Waste", "Ecosystem Role":["Government & Policy"],
 "label":"Dave Doebler"
     },{
         "id": "1702649600462x765328374991738400",
@@ -9559,7 +9559,7 @@
 "summary":"Dr. George Sklivanitis is the Schmidt Research Associate Professor of Electrical Engineering and Computer Science at Florida Atlantic University, a faculty founding member of the FAU Center for Connected Autonomy and AI (ca-ai.fau.edu) and a faculty fellow with the FAU Institute for Sensing and Embedded Network Systems Engineering (I-SENSE). His research focuses on modeling, optimization and experimental evaluation of advanced wireless communication systems and autonomy in challenging, congested (and sometimes contested) communication environments. He has made leading contributions in software-defined radio testbeds for cognitive wireless mesh networking. In 2021, he was recognized by the Economist as one of the three winners of the 2021 World Ocean Initiative's Ocean Changemakers Challenge and in 2014 he ranked 1st among all U.S. Universities in the Nutaq Software-defined Radio Academic US National Contest. Dr. Sklivanitis is a member of the ACM, SPIE, IEEE Communications, IEEE Signal Processing and IEEE Oceanic Engineering Societies. Since 2017, he serves as the co-organizer and technical program committee co-chair of the IEEE Workshop on Wireless Communications and Networking in Extreme Environments (WCNEE). He has won several teaching and research awards, including: Best Paper Award Finalist in the 15th IEEE International Workshop on Antenna Technology (iWAT-2019); 2017 SUNY Chancellor’s Award; Best Demo Award in the 10th ACM International Conference on Underwater Networks and Systems (WUWNet-2015); and 2015 SUNY Buffalo Graduate Student Award for Excellence in Teaching. His research at FAU is funded by NSF, AFOSR, AFRL, ARO, PAR Government, NATO CMRE, and the Schmidt Family Foundation. ",
 "description":"",
 "size":"",
-"related objects":["1701114014954x852482307863492500"],"Relevant Climate Categories":"Mobility | Water + Coasts", "Ecosystem Role":""Advisor/Resource","Science & Academia"",
+"related objects":["1701114014954x852482307863492500"],"Relevant Climate Categories":"Mobility | Water + Coasts", "Ecosystem Role":["Advisor/Resource","Science & Academia"],
 "label":"George Sklivanitis"
     },{
         "id": "1702649688586x854145449957743000",
@@ -10285,7 +10285,7 @@
 "summary":"Assoc. AIA, WELL AP, LEED Green Associate.",
 "description":"",
 "size":"",
-"related objects":["1702648655685x751924702059529000"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":""Startup & Scale-Up","Company","Science & Academia"",
+"related objects":["1702648655685x751924702059529000"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":["Startup & Scale-Up","Company","Science & Academia"],
 "label":"Kristy Price"
     },{
         "id": "1702649818783x528581950114002750",
@@ -10879,7 +10879,7 @@
 "summary":"Meital Stavinsky is a Miami and Washington, D.C., attorney, member of Holland & Knight's Public Policy & Regulation Group and co-chair of the firm's Israel Practice.",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":""Government & Policy"",
+"related objects":[],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":["Government & Policy"],
 "label":"Meital Stavinsky"
     },{
         "id": "1702649915381x623413444533998100",
@@ -12177,7 +12177,7 @@
 "summary":"Jason Bregman is a partner with Singer Studio, focusing on innovative infrastructure and regenerative design. Jason has worked with the studio's founder Michael Singer for over 20 years. Jason co-authored Infrastructure and Community, a white paper published by the Environmental Defense Fund's Living Cities Program. Jason is a member of the US Water Alliances' Imagination Team, which is exploring innovative approaches to tackling greenhouse gas emissions in the water sector.\n\nJason led the design and construction of the Seminole Sculptural Biofiltration Wall (2012) in Coconut Creek, Florida, which filters 150,000 gallons of water a day and is powered by a rooftop solar array. Other recent Florida projects include the Caloosahatchee Water Wall (2019) in Ft Myers, a LEED Gold Dental Office in Delray Beach (2014), and the Lake Worth Municipal Beach (2013), the West Palm Beach Waterfront (2006-2012) including the Living Dock and South Cove, and the fabrication and installation of a regenerative Living Shoreline (2015) prototype with the support of the National Endowment for the Arts. Other recent projects include the Piney Branch Water Garden (2020) in Rockville, Maryland, The Scramble (2021) in Chattanooga, Tennessee, and the Marine Living Structures Initiative (2018-onging) collaboration utilizing innovative recycled materials to sculpt artificial coral reef structures. Jason led the planning, design, and oversaw implementation of the environmental, aesthetic and educational components of a $700M waste-to-energy facility in Palm Beach County. This new facility, the cleanest and most innovative facility of its kind in the US, utilizes no potable water, incorporates a 2-million-gallon rainwater harvesting tank, and includes a LEED Platinum visitor’s center with interactive educational exhibits and a skybridge tour of the new power plant. ",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Building + Industry | Water + Coasts | Nature + Food + Waste | Mobility", "Ecosystem Role":""Startup & Scale-Up","Company","Other"",
+"related objects":[],"Relevant Climate Categories":"Building + Industry | Water + Coasts | Nature + Food + Waste | Mobility", "Ecosystem Role":["Startup & Scale-Up","Company","Other"],
 "label":"Jason Bregman"
     },{
         "id": "1702650128244x450569125755456500",
@@ -12199,7 +12199,7 @@
 "summary":"Twenty years of experience working in critical South Florida institutions including the University of Miami, The Miami Foundation and now FIU. Worked in development, academic affairs and now oversee innovation and economic development, including StartUP FIU. Raised over $110M in funds from all sources including foundations, individuals, federal, state and local governments.",
 "description":"",
 "size":"",
-"related objects":["1701114016498x921308049070603100"],"Relevant Climate Categories":"Water + Coasts | Building + Industry | Energy", "Ecosystem Role":""Science & Academia","Startup & Scale-Up","Advisor/Resource","Finance & Funding","Social Impact, Equity, & Justice"",
+"related objects":["1701114016498x921308049070603100"],"Relevant Climate Categories":"Water + Coasts | Building + Industry | Energy", "Ecosystem Role":["Science & Academia","Startup & Scale-Up","Advisor/Resource","Finance & Funding","Social Impact, Equity, & Justice"],
 "label":"Emily Gresham"
     },{
         "id": "1702650128988x737162143662940500",
@@ -12221,7 +12221,7 @@
 "summary":"I am a Grants Administrator for the Miccosukee Tribe of Indians of Florida. ",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":""Other"",
+"related objects":[],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":["Other"],
 "label":"Vanusa Argollo"
     },{
         "id": "1701820147768x852828991685117700",
@@ -12243,7 +12243,7 @@
 "summary":"Kerry-Ann Royes is a mom, businesswoman and a 25-year veteran of the social sector, particularly passionate about social issues affecting women and girls. As CEO of YWCA South Florida, a non-profit organization that seeks to eliminate racism, empower women and stand up for justice, Kerry-Ann brings a wealth of expertise in social justice and innovation, strategic alliances, management and leadership to evolve the social dynamic of the region through the mission of YWCA South Florida.\n\n \n\nNow past YWCA South Florida’s 100th year, Kerry-Ann remains committed to carrying out the organization’s mission of rooting out social injustices and addressing all discrimination issues that happen at the intersection of race and gender. She has led the rebrand of YWCA to a regional presence serving both Dade and Broward Counties, the expansion of the board include men for the first time in 100 years, and, the successful mobilization of the largest community-wide movement, called the 21-Day Racial Equity and Social Justice Challenge, in South Florida. Looking forward, she plans to continue expanding the YWCA mission footprint until everyone sees all women, girls, and people of color the way she does: Equal, Powerful and Unstoppable.",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":[],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"Kerry-Ann Royes"
     },{
         "id": "1702650130899x767906525165769700",
@@ -12265,7 +12265,7 @@
 "summary":"Jacob is the Founder and CEO of SailPlan. He has over a decade of experience commercializing emerging technology across multiple domains including space, aviation, and maritime.Jacob served in key roles at the United States Air Force, Raytheon, and AirMap before founding SailPlan in 2020. As a passionate freediver, SCUBA diver, and a Fort Lauderdale native, Jacob is leading the charge to create a cleaner, more efficient marine industry by leveraging realtime high-resolution ship data and machine learning to reduce fuel consumption and associated emissions.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up","Company","Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up","Company","Advisor/Resource"],
 "label":"Jacob Ruytenbeek"
     },{
         "id": "1702650133780x697868180880833200",
@@ -12287,7 +12287,7 @@
 "summary":"Charlotte is an experienced policy professional with expertise in maritime and environmental policy. She is currently the Head of Government Affairs at SailPlan, previously advised Senator Blumenthal’s Commerce, Science, and Transportation Committee work, and was a Policy Analyst for the National Audubon Society’s coastal conservation program. Charlotte also has her Master of Public Policy at Georgetown University. ",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Nature + Food + Waste | Water + Coasts | Mobility | Risk + Finance + Services | Energy | Building + Industry", "Ecosystem Role":""Government & Policy"",
+"related objects":[],"Relevant Climate Categories":"Nature + Food + Waste | Water + Coasts | Mobility | Risk + Finance + Services | Energy | Building + Industry", "Ecosystem Role":["Government & Policy"],
 "label":"Charlotte Runzel"
     },{
         "id": "1702650136373x955132279039023400",
@@ -12309,7 +12309,7 @@
 "summary":"Rachel is the Chief of Staff at SailPlan. After attending Business School in Virginia, she started her career at a major financial corporation where she served key roles on many teams including supply chain, HR, Leadership & Development, and more. Rachel leads all internal business operations and key initiative at SailPlan and touches every part of the business while building an inclusive, creative, and enjoyable business culture along the way.",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Water + Coasts | Building + Industry | Mobility | Nature + Food + Waste | Risk + Finance + Services | Energy", "Ecosystem Role":""Startup & Scale-Up","Advisor/Resource"",
+"related objects":[],"Relevant Climate Categories":"Water + Coasts | Building + Industry | Mobility | Nature + Food + Waste | Risk + Finance + Services | Energy", "Ecosystem Role":["Startup & Scale-Up","Advisor/Resource"],
 "label":"Rachel Ellio"
     },{
         "id": "1703871998053x680283725008200100",
@@ -12331,7 +12331,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1702648765510x468121638836084900"],"Relevant Climate Categories":"Water + Coasts | Risk + Finance + Services | Building + Industry | Mobility", "Ecosystem Role":""Advisor/Resource","Media & Marketing","Government & Policy","Social Impact, Equity, & Justice"",
+"related objects":["1702648765510x468121638836084900"],"Relevant Climate Categories":"Water + Coasts | Risk + Finance + Services | Building + Industry | Mobility", "Ecosystem Role":["Advisor/Resource","Media & Marketing","Government & Policy","Social Impact, Equity, & Justice"],
 "label":"Stephen Keppel"
     },{
         "id": "1703871739687x865356292244606600",
@@ -12353,7 +12353,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":""Startup & Scale-Up"",
+"related objects":[],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":["Startup & Scale-Up"],
 "label":"Dr. Troy Scott"
     },{
         "id": "1703871751518x395503786975812500",
@@ -12375,7 +12375,7 @@
 "summary":"Associate Professor & Director - Eren Ozguven is an Associate Professor in the Department of Civil and Environmental Engineering at the FAMU-FSU College of Engineering and Director of the RIDER Center. Dr. Ozguven is focused on investigating the relationships among different infrastructure networks in Florida, utilizing his academic research in transportation engineering, and background in industrial engineering and optimization.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Science & Academia"",
+"related objects":[], "Ecosystem Role":["Science & Academia"],
 "label":"Eren Ozguven"
     },{
         "id": "1703871779534x745235413066125400",
@@ -12419,7 +12419,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114055581x621625967782241800"], "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":["1701114055581x621625967782241800"], "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"Holly Ellazar"
     },{
         "id": "1703871798990x838949551062469400",
@@ -12463,7 +12463,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114055581x621625967782241800"], "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":["1701114055581x621625967782241800"], "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"Jessica Kyriakakis"
     },{
         "id": "1703871869007x228118923190654400",
@@ -12485,7 +12485,7 @@
 "summary":"Over 20 years of Financial and Capital Markets professional experience in Investment Banking, Asset Management and Wealth Management. Since 2019 dedicated to invest, develop, manage and advise new ventures in PropTech (Real Estate and Construction).",
 "description":"",
 "size":"",
-"related objects":["1702648650723x788197388944189600"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":""Finance & Funding"",
+"related objects":["1702648650723x788197388944189600"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":["Finance & Funding"],
 "label":"Rafael Valdivia"
     },{
         "id": "1703871923797x223073469188465700",
@@ -12507,7 +12507,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114055581x621625967782241800"], "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":["1701114055581x621625967782241800"], "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"Virgilio Rodriguez"
     },{
         "id": "1703871930050x633723221299968000",
@@ -12529,7 +12529,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":""Startup & Scale-Up"",
+"related objects":[],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":["Startup & Scale-Up"],
 "label":"Blayne Ross"
     },{
         "id": "1703871964196x748338904394212100",
@@ -12551,7 +12551,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114096541x670963486626106200"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":""Advisor/Resource","Other"",
+"related objects":["1701114096541x670963486626106200"],"Relevant Climate Categories":"Building + Industry", "Ecosystem Role":["Advisor/Resource","Other"],
 "label":"Henry Huot"
     },{
         "id": "1703871969394x361928144088701900",
@@ -12573,7 +12573,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1702648765510x468121638836084900"],"Relevant Climate Categories":"Water + Coasts | Mobility | Building + Industry | Energy", "Ecosystem Role":""Advisor/Resource","Social Impact, Equity, & Justice","Media & Marketing"",
+"related objects":["1702648765510x468121638836084900"],"Relevant Climate Categories":"Water + Coasts | Mobility | Building + Industry | Energy", "Ecosystem Role":["Advisor/Resource","Social Impact, Equity, & Justice","Media & Marketing"],
 "label":"Sergio Fernandez de Cordova"
     },{
         "id": "1703871974526x351403741780060400",
@@ -12595,7 +12595,7 @@
 "summary":"Leneita grew up in the woods of New England, where there was far more exposure to pine trees than the sea.  However, most summers she would travel to Maine, often for months,  to spend time along the coast. This curiosity with the ocean began in childhood and followed her into adulthood.  For over two decades, this love of the sea was used to help students in under resourced neighborhoods discover new avenues of education and exploration. In 2018, Leneita started with The Reef Institute as the Director of Education. \n\nIn 2019, Leneita was asked to step into the Executive Director position, drawing from over 23 years in the non-profit world working in strategic planning, direction and growth.  It was with great joy that Leneita took the helm of this organization. Leneita loves knowing that not only do we educate others, but we are apart of the solution to save our ocean. ",
 "description":"",
 "size":"",
-"related objects":[],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":""Science & Academia","Advisor/Resource","Other"",
+"related objects":[],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":["Science & Academia","Advisor/Resource","Other"],
 "label":"Leneita Fix"
     },{
         "id": "1703871986785x591018809016884900",
@@ -12617,7 +12617,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1702648765510x468121638836084900"],"Relevant Climate Categories":"Mobility | Building + Industry | Risk + Finance + Services", "Ecosystem Role":""Advisor/Resource","Media & Marketing","Finance & Funding","Social Impact, Equity, & Justice"",
+"related objects":["1702648765510x468121638836084900"],"Relevant Climate Categories":"Mobility | Building + Industry | Risk + Finance + Services", "Ecosystem Role":["Advisor/Resource","Media & Marketing","Finance & Funding","Social Impact, Equity, & Justice"],
 "label":"Kerry Bannigan"
     },{
         "id": "1703871993118x313121631505081540",
@@ -12661,7 +12661,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1701114027343x127205158127150940"],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":""Other"",
+"related objects":["1701114027343x127205158127150940"],"Relevant Climate Categories":"Water + Coasts", "Ecosystem Role":["Other"],
 "label":"Jordan Merritt"
     },{
         "id": "1703872119379x974567364289702500",
@@ -12683,7 +12683,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice","Media & Marketing","Finance & Funding","Science & Academia","Advisor/Resource"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice","Media & Marketing","Finance & Funding","Science & Academia","Advisor/Resource"],
 "label":"Joe Cox"
     },{
         "id": "1703872147541x769143528319717400",
@@ -12705,7 +12705,7 @@
 "summary":"Adam Roberti serves as executive director of the Xavier Cortada Foundation. In this role, Roberti works alongside Miami-Dade County’s inaugural artist-in-residence Xavier Cortada to implement large-scale, interactive eco-art projects such as the Reclamation Project and The Underwater – two initiatives featured in Cortada’s 2022 TED Talk. Through these ongoing public art interventions, Roberti leads the foundation in partnering with local schools, universities, museums, businesses, and Miami-Dade County’s Office of Resilience, Parks Department and Public Library System to help thousands of residents discover their vulnerability to, and plan for a future with, rising seas, extreme heat, and intensifying hurricanes. Roberti received a Bachelors in Ecosystem Science & Policy and a Masters of Environment, Culture, and Media from the University of Miami, where he serves on an interdisciplinary research team focused on climate migration and retreat.",
 "description":"",
 "size":"",
-"related objects":["1702648654163x648453144299734300"],"Relevant Climate Categories":"Nature + Food + Waste | Water + Coasts | Mobility", "Ecosystem Role":""Social Impact, Equity, & Justice"",
+"related objects":["1702648654163x648453144299734300"],"Relevant Climate Categories":"Nature + Food + Waste | Water + Coasts | Mobility", "Ecosystem Role":["Social Impact, Equity, & Justice"],
 "label":"Adam Roberti"
     },{
         "id": "1703872153240x921236571451125200",
@@ -12727,7 +12727,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":["1702648689287x659252400085803500"],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":""Advisor/Resource"",
+"related objects":["1702648689287x659252400085803500"],"Relevant Climate Categories":"Risk + Finance + Services", "Ecosystem Role":["Advisor/Resource"],
 "label":"Cristina Urdaneta"
     },{
         "id": "1703883214444x415869486708648770",
@@ -12749,8 +12749,8 @@
 "summary":"The Levan Center of Innovation is a public-private partnership between Nova Southeastern University and Broward County designed to drive economic development for the South Florida region through innovation, technology, and entrepreneurship. The Levan Center assists companies of all stages and sizes in their innovation initiatives such as Corporate Innovation Challenges, finding solutions to pain points, or connecting them to innovative startups. The Levan Center is also home to emerging technologies such as a military-grade cybersecurity range that can be used for simulation and training exercises; a technology makerspace equipped with robots of different applications, 3D printers, 3D scanners, AR/VR headsets, drones, and more; a volumetric capture studio, and an AI Digital Cities Lab. The Levan Center supports the entire Founder's Journey from birth of an idea through successful exit via four core programs (Ideate, Incubate, Accelerate, Post-Accelerate), events, wraparound services, mentorship, and networking opportunities.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Other","Advisor/Resource"",
-"Organization Types":""Other entities","Incubator/Accelerator/Venture studios"",
+"related objects":[], "Ecosystem Role":["Other","Advisor/Resource"],
+"Organization Types":["Other entities","Incubator/Accelerator/Venture studios"],
 "label":"Alan B. Levan | NSU Broward Center of Innovation"
     },{
         "id": "1703883338373x169416915245000900",
@@ -12794,8 +12794,8 @@
 "summary":"At Büro, we believe that inspired minds deserve inspiring workspace. Our fresh and flexible work environments are designed to meet the everyday needs of your growing business. We take care of all the details – from the artisan coffee to the fiber connectivity – so you can focus on doing what you do best.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource"",
-"Organization Types":""Co-working spaces","Other entities"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource"],
+"Organization Types":["Co-working spaces","Other entities"],
 "label":"Büro"
     },{
         "id": "1703883456175x301193572785576360",
@@ -12817,8 +12817,8 @@
 "summary":"Executive project management and consulting for startups in the Blue Economy sector. Providing key leadership for international business development, fundraising, go-to-market strategies, product launches, revenue generation, sales ops, contract negotiation, global partnerships, public relations, content production, and event management. Partners and clients in North America, South America, Europe, and Asia.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Startup & Scale-Up","Company","Finance & Funding"",
-"Organization Types":""Industry/Firms in tech sector","Consulting firms"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Startup & Scale-Up","Company","Finance & Funding"],
+"Organization Types":["Industry/Firms in tech sector","Consulting firms"],
 "label":"Cmonster International LLC"
     },{
         "id": "1703883632991x567721522491269950",
@@ -12862,8 +12862,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Government & Policy"",
-"Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Ecosystem Role":["Government & Policy"],
+"Organization Types":["Industry/Firms in tech sector"],
 "label":"International Code Council"
     },{
         "id": "1703883873912x130279147005143420",
@@ -12907,7 +12907,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Co-working spaces","Other entities"",
+"related objects":[], "Organization Types":["Co-working spaces","Other entities"],
 "label":"Novel Coworking"
     },{
         "id": "1703883902266x915289252479262600",
@@ -12951,8 +12951,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Startup & Scale-Up"",
-"Organization Types":""Industry/Firms in tech sector"",
+"related objects":[], "Ecosystem Role":["Startup & Scale-Up"],
+"Organization Types":["Industry/Firms in tech sector"],
 "label":"SEAHIVE"
     },{
         "id": "1703884075730x971015560773844600",
@@ -12974,8 +12974,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Science & Academia"",
-"Organization Types":""Other entities"",
+"related objects":[], "Ecosystem Role":["Science & Academia"],
+"Organization Types":["Other entities"],
 "label":"Surfrider Foundation Miami"
     },{
         "id": "1703884106282x792530676686495900",
@@ -12997,8 +12997,8 @@
 "summary":"Our Mission\nCoral reef conservation through education, research, and restoration. \nOur Vision\nour audacious vision is simple: we save the ocean. To do this, we believe we must start with saving our coral.\nOur Impact\nFor us, education, research and restoration go hand in hand. \nWe strive to provide high quality marine science programs to schools, camps, and education groups worldwide. We are honored to be part of the Florida coral rescue and propagation project, a network of some of the most renowned coral research and holding facilities in the country.  We work restoration to reef in Florida and across the Caribbean.\n",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Science & Academia","Advisor/Resource"",
-"Organization Types":""Educational institutions","Nonprofits"",
+"related objects":[], "Ecosystem Role":["Science & Academia","Advisor/Resource"],
+"Organization Types":["Educational institutions","Nonprofits"],
 "label":"The Reef Institute"
     },{
         "id": "1703884130286x186132479194492930",
@@ -13042,8 +13042,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Social Impact, Equity, & Justice","Government & Policy"",
-"Organization Types":""Other entities"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Social Impact, Equity, & Justice","Government & Policy"],
+"Organization Types":["Other entities"],
 "label":"UNDRR ARISE"
     },{
         "id": "1703884149382x962520553352826900",
@@ -13065,7 +13065,7 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Educational institutions"",
+"related objects":[], "Organization Types":["Educational institutions"],
 "label":"University of South Florida"
     },{
         "id": "1703884160874x780866897875740900",
@@ -13087,8 +13087,8 @@
 "summary":"We are a technology platform that connects Volunteers with neighborhood, shoreline and waterway cleanups as a way to raise awareness about marine debris and encourage people to reduce their reliance on single-use disposable plastics.",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Social Impact, Equity, & Justice","Government & Policy"",
-"Organization Types":""Other entities","Nonprofits"",
+"related objects":[], "Ecosystem Role":["Social Impact, Equity, & Justice","Government & Policy"],
+"Organization Types":["Other entities","Nonprofits"],
 "label":"VolunteerCleanup.Org"
     },{
         "id": "1703884192858x189267718676326980",
@@ -13110,8 +13110,8 @@
 "summary":"",
 "description":"",
 "size":"",
-"related objects":[], "Ecosystem Role":""Advisor/Resource","Finance & Funding","Government & Policy"",
-"Organization Types":""Other entities"",
+"related objects":[], "Ecosystem Role":["Advisor/Resource","Finance & Funding","Government & Policy"],
+"Organization Types":["Other entities"],
 "label":"World Bank/IFC"
     },{
         "id": "1703902116799x703641814755572500",
@@ -13155,8 +13155,8 @@
 "summary":"Florida Atlantic University Institute for Sensing and Embedded Network Systems Engineering (I-SENSE) focuses on three key program areas: marine and environment (healthier air, land, and water), infrastructure systems (smarter cities and roads), and health and behavior (prolonged health, wellness, and independence.",
 "description":"",
 "size":"",
-"related objects":[], "Organization Types":""Educational institutions"",
-"Ecosystem Role":""Advisor/Resource","Science & Academia"",
+"related objects":[], "Organization Types":["Educational institutions"],
+"Ecosystem Role":["Advisor/Resource","Science & Academia"],
 "label":"FAU I-SENSE"
     },{
         "id": "1703902119069x710664296797809200",
