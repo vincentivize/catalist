@@ -1,1 +1,17 @@
-žée
+{
+  "linked_schemas": [
+    "catalist_object-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/object/1660881187218x399954068410970800",
+"type":"Links",
+"name":"Database of Maps and directories - Google Drive",
+
+"description":"A list of list sites that are doing mapping",
+"tags":["Catalist Object"],
+
+"url":"https://docs.google.com/spreadsheets/d/1-FDyQSz2oNnxKbwSb_hvaGG7izFe8J8x9wYqSTvvNCU/htmlview",
+
+
+"object_id":"1660881187218x399954068410970800",
+  "relationships": []
+}
