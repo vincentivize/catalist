@@ -448,6 +448,48 @@
 "url":"https://www.catalist.network/trove-space/matchmaking-workshop?connection=1711141933351x326585920843677700",
 "title":"Tamara Zissman needs grow Seaworthy's startup programs with Maritime Startup Ecosystem Integration and Support Program"
     }
+,{
+        "label": "wants to support growing",
+        "from": "1711141237527x619355424127713300",
+        "to": "1711089330640x398683913201691700",
+"strength":1,
+"connection subtype":"wants to support growing",
+"description":"Curious to learn more!",
+"connection type":"Your Perspective",
+"one-way":"yes",
+"direction":"directed",
+"id":"1711142180963x409917500023111700",
+"url":"https://www.catalist.network/trove-space/matchmaking-workshop?connection=1711142180963x409917500023111700",
+"title":"Daniel Kleinman wants to support growing Advice for scaling through digital optimization"
+    }
+,{
+        "label": "should paraticipate in",
+        "from": "1711141237527x619355424127713300",
+        "to": "1711089329624x248864652988877150",
+"strength":1,
+"connection subtype":"should paraticipate in",
+"description":"If you hadn't heard you should :D",
+"connection type":"Suggestion",
+"one-way":"yes",
+"direction":"directed",
+"id":"1711142347071x672177930963255300",
+"url":"https://www.catalist.network/trove-space/matchmaking-workshop?connection=1711142347071x672177930963255300",
+"title":"Daniel Kleinman should paraticipate in Startup Growth Essentials: Workshops, Investors, Networking & More"
+    }
+,{
+        "label": "Should connect for investment discussion",
+        "from": "1711141432641x979232652349669400",
+        "to": "1711117172445x155592432266510340",
+"strength":1,
+"connection subtype":"Should connect for investment discussion",
+"description":"Building ecosystems!",
+"connection type":"Suggestion",
+"one-way":"no",
+"direction":"undirected",
+"id":"1711142491385x273805244537765900",
+"url":"https://www.catalist.network/trove-space/matchmaking-workshop?connection=1711142491385x273805244537765900",
+"title":"Tamara Zissman Should connect for investment discussion Wendy McLean"
+    }
 
  ]
 }
