@@ -122,29 +122,6 @@
 "related objects":[], 
 "label":"First Activity"
     },{
-        "id": "1711089053665x125846850332000260",
-"url":"",
-"object url":"https://www.catalist.network/trove-space/matchmaking-workshop?object=1711089053665x125846850332000260&view=Graph&filtered=yes",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647216291x288368323038569600/page.svg",
-"type":"Section",
-"topics":[],
-"tags":[],
-"attribute-tags":"",
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"",
-"description":"",
-"size":"",
-"related objects":[], 
-"label":"New Tab"
-    },{
         "id": "1711089328393x901261008477817600",
 "url":"",
 "object url":"https://www.catalist.network/trove-space/matchmaking-workshop?object=1711089328393x901261008477817600&view=Graph&filtered=yes",
@@ -351,6 +328,52 @@
 "size":"",
 "related objects":[], 
 "label":"Onboarding Strategy"
+    },{
+        "id": "1711141237527x619355424127713300",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/matchmaking-workshop?object=1711141237527x619355424127713300&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1638249274086x195348543403774940/Square%20headshot.jpg",
+"type":"Member",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"Miami, FL, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Founder & CEO of Seaworthy Collective",
+"description":"",
+"size":"",
+"related objects":[],"What excites you most about matchmaking tools?":"Accelerating the pace of collaboration and innovation, and also SYNERGY", 
+"label":"Daniel Kleinman"
+    },{
+        "id": "1711141432641x979232652349669400",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/matchmaking-workshop?object=1711141432641x979232652349669400&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"Austin, TX, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Adventurer who wants to do her part in helping the nature she loves to play in.  How? By supporting impactive technology founders. ",
+"description":"",
+"size":"",
+"related objects":[],"What excites you most about matchmaking tools?":"Streamlining getting impactful. people together", 
+"label":"Tamara Zissman"
     }
 ],
 
@@ -382,6 +405,48 @@
 "id":"1711119836834x753593695115673600",
 "url":"https://www.catalist.network/trove-space/matchmaking-workshop?connection=1711119836834x753593695115673600",
 "title":"Wendy McLean might benefit from Knowledge about data structures"
+    }
+,{
+        "label": "collaborates with",
+        "from": "1711141432641x979232652349669400",
+        "to": "1711089332274x885927152177362800",
+"strength":1,
+"connection subtype":"collaborates with",
+"description":"Ann is an OG BlueTech leader",
+"connection type":"Relationship",
+"one-way":"yes",
+"direction":"directed",
+"id":"1711141685213x108888300955893760",
+"url":"https://www.catalist.network/trove-space/matchmaking-workshop?connection=1711141685213x108888300955893760",
+"title":"Tamara Zissman collaborates with Braid Theory provides end-to-end services to support science and engineering-led companies."
+    }
+,{
+        "label": "is something you could really use,",
+        "from": "1711089328393x901261008477817600",
+        "to": "1711141237527x619355424127713300",
+"strength":1,
+"connection subtype":"is something you could really use,",
+"description":"Both provide support for entrepreneurs, so there maybe collab opportunities.",
+"connection type":"Relationship",
+"one-way":"no",
+"direction":"mutual",
+"id":"1711141845083x443078221252526100",
+"url":"https://www.catalist.network/trove-space/matchmaking-workshop?connection=1711141845083x443078221252526100",
+"title":"Maritime Startup Ecosystem Integration and Support Program is something you could really use, Daniel Kleinman"
+    }
+,{
+        "label": "needs grow Seaworthy's startup programs with",
+        "from": "1711141432641x979232652349669400",
+        "to": "1711089328393x901261008477817600",
+"strength":8,
+"connection subtype":"needs grow Seaworthy's startup programs with",
+"description":"Seaworthy Collective growing its amazing offering for entrepreneurs!",
+"connection type":"Suggestion",
+"one-way":"no",
+"direction":"undirected",
+"id":"1711141933351x326585920843677700",
+"url":"https://www.catalist.network/trove-space/matchmaking-workshop?connection=1711141933351x326585920843677700",
+"title":"Tamara Zissman needs grow Seaworthy's startup programs with Maritime Startup Ecosystem Integration and Support Program"
     }
 
  ]
