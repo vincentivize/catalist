@@ -1903,8 +1903,7 @@
 "Photo URL":"https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io%2Ff1697558906539x160905241382759650%2FCatalist%2520Logo%2520Icon_White%2520BG%2520Medium%2520Padding.png?w=64&h=&auto=compress&dpr=1.75&fit=max",
 "Description":"Catalist is a social impact network and digital library where you can discover projects, events, and opportunities to change the world.",
 "Privacy":"Public",
-"Data Type":"Organizations",
-"Data Type":"Projects", 
+"Data Type":"Organizations", 
 "label":"Catalist"
     },{
         "id": "1660151732488x651507900690955300",
@@ -13186,7 +13185,7 @@
 "draft":"no",
 "page_text":"",
 "summary":"A short update on the ecosystem map",
-"description":"A profile for Catalist was generated at https://raw.githubusercontent.com/vincentivize/catalist/main/catalist-object-1660151730871x977137294806052900 which has the relationship to the CTA. \n- To generate this connection in the future for any other object in Catalist:\n1) Go to the gallery view and find the object you'd like.\n2) Create a new relationsip with the Collaborative Technology Alliance (CTA) object of type \"is member of\"\n\nSince we had a text field called \"organization\" I was able to bulk generate a unique list of 300 organizations that were in this text field. For future forms we can have people link to this organization records and/or create a new one if necessary.\n\nAll public members and all projects were deduplicated and then imported into Catalist\n- Some people were in the db from the crm without names\n- Some people filled out the form twice and had to be deduped. In the process I discovered that some people had multiple emails and there’s no field for this, so maybe we should add one.\n	- Also, Asks and offers were combined since they were usually different\n\nTo Do:\n- import connections or generate connections \"is member of\" for people and the orgs/projects they filled out inside of the form",
+"description":"A profile for Catalist was generated at https://raw.githubusercontent.com/vincentivize/catalist/main/catalist-object-1660151730871x977137294806052900 which has the relationship to the CTA. \n- To generate this connection in the future for any other object in Catalist:\n1) Go to the gallery view and find the object you'd like.\n2) Create a new relationsip with the Collaborative Technology Alliance (CTA) object of type \"is member of\"\n\nSince we had a text field called \"organization\" I was able to bulk generate a unique list of 300 organizations that were in this text field. For future forms we can have people link to this organization records and/or create a new one if necessary.\n\nAll public members and all projects were deduplicated and then imported into Catalist\n- Some people were in the db from the crm without names\n- Some people filled out the form twice and had to be deduped. In the process I discovered that some people had multiple emails and there’s no field for this, so maybe we should add one.\n- Also, Asks and offers were combined since they were usually different\n\nTo Do:\n- import connections or generate connections \"is member of\" for people and the orgs/projects they filled out inside of the form",
 "size":"",
 "related objects":[], 
 "label":"Update Nov 27 2023"
