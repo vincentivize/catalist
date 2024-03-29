@@ -274,7 +274,7 @@
   "connections": [
 {
         "label": "drives increase in",
-        "from": "1711748499894x518657029015139300",
+        "from": "1711748501228x532196452758804800",
         "to": "1711748499894x518657029015139300",
 "strength":1,
 "connection subtype":"drives increase in",
@@ -284,11 +284,11 @@
 "direction":"directed",
 "id":"1711750730174x308770518807652000",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750730174x308770518807652000",
-"title":"Climate Change drives increase in Climate Change"
+"title":"Greenhouse Gas Generation drives increase in Climate Change"
     }
 ,{
         "label": "drives Increase in",
-        "from": "1711748501228x532196452758804800",
+        "from": "1711748502555x459408613679206600",
         "to": "1711748501228x532196452758804800",
 "strength":1,
 "connection subtype":"drives Increase in",
@@ -298,11 +298,11 @@
 "direction":"directed",
 "id":"1711750750093x704127329433107800",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750750093x704127329433107800",
-"title":"Greenhouse Gas Generation drives Increase in Greenhouse Gas Generation"
+"title":"Population Size drives Increase in Greenhouse Gas Generation"
     }
 ,{
         "label": "drives Increase in",
-        "from": "1711748501228x532196452758804800",
+        "from": "1711748503616x674482025422973300",
         "to": "1711748501228x532196452758804800",
 "strength":1,
 "connection subtype":"drives Increase in",
@@ -312,11 +312,11 @@
 "direction":"directed",
 "id":"1711750750695x557095132415546600",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750750695x557095132415546600",
-"title":"Greenhouse Gas Generation drives Increase in Greenhouse Gas Generation"
+"title":"Average level of material consumption per person drives Increase in Greenhouse Gas Generation"
     }
 ,{
         "label": "drives Increase in",
-        "from": "1711748501228x532196452758804800",
+        "from": "1711748505019x527589100399756350",
         "to": "1711748501228x532196452758804800",
 "strength":1,
 "connection subtype":"drives Increase in",
@@ -326,11 +326,11 @@
 "direction":"directed",
 "id":"1711750751265x125430328739337680",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750751265x125430328739337680",
-"title":"Greenhouse Gas Generation drives Increase in Greenhouse Gas Generation"
+"title":"Energy required to support material consumption drives Increase in Greenhouse Gas Generation"
     }
 ,{
         "label": "drives Increase in",
-        "from": "1711748501228x532196452758804800",
+        "from": "1711748506306x637450605682006700",
         "to": "1711748501228x532196452758804800",
 "strength":1,
 "connection subtype":"drives Increase in",
@@ -340,11 +340,11 @@
 "direction":"directed",
 "id":"1711750751780x183795159132357000",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750751780x183795159132357000",
-"title":"Greenhouse Gas Generation drives Increase in Greenhouse Gas Generation"
+"title":"Fraction of energy from fossil fuels drives Increase in Greenhouse Gas Generation"
     }
 ,{
         "label": "leads to",
-        "from": "1711748507430x727612457706062700",
+        "from": "1711748502555x459408613679206600",
         "to": "1711748507430x727612457706062700",
 "strength":1,
 "connection subtype":"leads to",
@@ -354,11 +354,11 @@
 "direction":"directed",
 "id":"1711750752222x722858705701215000",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750752222x722858705701215000",
-"title":"More Births leads to More Births"
+"title":"Population Size leads to More Births"
     }
 ,{
         "label": "supports",
-        "from": "1711748508351x183658532965388130",
+        "from": "1711748502555x459408613679206600",
         "to": "1711748508351x183658532965388130",
 "strength":1,
 "connection subtype":"supports",
@@ -368,11 +368,11 @@
 "direction":"directed",
 "id":"1711750752773x236482514513580700",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750752773x236482514513580700",
-"title":"Economic Growth supports Economic Growth"
+"title":"Population Size supports Economic Growth"
     }
 ,{
         "label": "drives",
-        "from": "1711748509383x317459063878903230",
+        "from": "1711748502555x459408613679206600",
         "to": "1711748509383x317459063878903230",
 "strength":1,
 "connection subtype":"drives",
@@ -382,11 +382,11 @@
 "direction":"directed",
 "id":"1711750753327x578982062164167300",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750753327x578982062164167300",
-"title":"Technological Advancements drives Technological Advancements"
+"title":"Population Size drives Technological Advancements"
     }
 ,{
         "label": "influences",
-        "from": "1711748510357x915569046672599700",
+        "from": "1711748502555x459408613679206600",
         "to": "1711748510357x915569046672599700",
 "strength":1,
 "connection subtype":"influences",
@@ -396,11 +396,11 @@
 "direction":"directed",
 "id":"1711750753857x883340562721692800",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750753857x883340562721692800",
-"title":"Cultural Norms Around Large Families influences Cultural Norms Around Large Families"
+"title":"Population Size influences Cultural Norms Around Large Families"
     }
 ,{
         "label": "impacts",
-        "from": "1711748511327x989340964820351000",
+        "from": "1711748502555x459408613679206600",
         "to": "1711748511327x989340964820351000",
 "strength":1,
 "connection subtype":"impacts",
@@ -410,11 +410,11 @@
 "direction":"directed",
 "id":"1711750754395x217228672870312100",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750754395x217228672870312100",
-"title":"Resource Availability impacts Resource Availability"
+"title":"Population Size impacts Resource Availability"
     }
 ,{
         "label": "drives",
-        "from": "1711748508351x183658532965388130",
+        "from": "1711748503616x674482025422973300",
         "to": "1711748508351x183658532965388130",
 "strength":1,
 "connection subtype":"drives",
@@ -424,7 +424,7 @@
 "direction":"directed",
 "id":"1711750754994x246007007657331740",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750754994x246007007657331740",
-"title":"Economic Growth drives Economic Growth"
+"title":"Average level of material consumption per person drives Economic Growth"
     }
 
  ]
