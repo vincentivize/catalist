@@ -289,7 +289,7 @@
     }
 ,{
         "label": "drives Increase in",
-        "from": "1711748502555x459408613679206600",
+        "from": "1711762429471x156074522525766050",
         "to": "1711748501228x532196452758804800",
 "strength":1,
 "connection subtype":"drives Increase in",
@@ -300,22 +300,7 @@
 "direction":"directed",
 "id":"1711750750093x704127329433107800",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750750093x704127329433107800",
-"title":"Population Size drives Increase in Greenhouse Gas Generation"
-    }
-,{
-        "label": "drives Increase in",
-        "from": "1711748503616x674482025422973300",
-        "to": "1711748501228x532196452758804800",
-"strength":1,
-"connection subtype":"drives Increase in",
-"description":"The relationship between the average level of material consumption per person and the increase in greenhouse gas generation is a direct and impactful one. As individuals consume more goods and services, the demand for energy and resources rises, leading to higher emissions of greenhouse gases due to increased production, transportation, and waste. This cycle exacerbates climate change, underscoring the need for sustainable consumption practices to enhance climate resiliency.",
-"connection type":"++",
-"one-way":"yes",
-"type":"++",
-"direction":"directed",
-"id":"1711750750695x557095132415546600",
-"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750750695x557095132415546600",
-"title":"Average level of material consumption per person drives Increase in Greenhouse Gas Generation"
+"title":"Consumption Growth drives Increase in Greenhouse Gas Generation"
     }
 ,{
         "label": "drives Increase in",
@@ -363,19 +348,19 @@
 "title":"Population Size leads to More Births"
     }
 ,{
-        "label": "supports",
-        "from": "1711748502555x459408613679206600",
+        "label": "drives",
+        "from": "1711762429471x156074522525766050",
         "to": "1711748508351x183658532965388130",
 "strength":1,
-"connection subtype":"supports",
-"description":"Larger populations may benefit from economies of scale, leading to improved living standards and supporting further population growth.",
+"connection subtype":"drives",
+"description":"In the context of climate resiliency, the relationship between Consumption Growth and Economic Growth is pivotal. As Consumption Growth escalates, it typically fuels Economic Growth by increasing demand for goods and services, which in turn stimulates production and employment. However, this relationship also poses challenges for sustainability, as increased consumption often leads to greater resource depletion and environmental degradation, potentially undermining long-term climate resiliency efforts.",
 "connection type":"+",
 "one-way":"yes",
 "type":"+",
 "direction":"directed",
 "id":"1711750752773x236482514513580700",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750752773x236482514513580700",
-"title":"Population Size supports Economic Growth"
+"title":"Consumption Growth drives Economic Growth"
     }
 ,{
         "label": "drives",
@@ -384,9 +369,9 @@
 "strength":1,
 "connection subtype":"drives",
 "description":"A larger population pool can lead to faster technological and medical advancements, contributing to lower mortality rates and higher birth rates.",
-"connection type":"+",
+"connection type":"++",
 "one-way":"yes",
-"type":"+",
+"type":"++",
 "direction":"directed",
 "id":"1711750753327x578982062164167300",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750753327x578982062164167300",
@@ -414,9 +399,9 @@
 "strength":1,
 "connection subtype":"impacts",
 "description":"Population growth impacts the environment, which can limit further growth due to resource limitations or degradation, though societies may adapt.",
-"connection type":"-+",
+"connection type":"+-",
 "one-way":"yes",
-"type":"-+",
+"type":"+-",
 "direction":"directed",
 "id":"1711750754395x217228672870312100",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750754395x217228672870312100",
@@ -436,6 +421,21 @@
 "id":"1711750754994x246007007657331740",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711750754994x246007007657331740",
 "title":"Average level of material consumption per person drives Economic Growth"
+    }
+,{
+        "label": "drives",
+        "from": "1711762431391x708561757437706400",
+        "to": "1711748499894x518657029015139300",
+"strength":1,
+"connection subtype":"drives",
+"description":"Increased fossil fuel use significantly contributes to worsening climate change.",
+"connection type":"++",
+"one-way":"no",
+"type":"++",
+"direction":"mutual",
+"id":"1711762468915x527272581912191300",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711762468915x527272581912191300",
+"title":"Fossil Fuel Use drives Climate Change"
     }
 
  ]
