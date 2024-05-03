@@ -2390,6 +2390,7 @@
     }
 
  ],
+  "loops": [],
   "maps": [
     {
       "_id": "map-vwxnz3x0",
@@ -2400,15 +2401,16 @@
         "x": 0,
         "y": 0
       },
+      "src": "https://raw.githubusercontent.com/vincentivize/catalist/main/kumu-space-climate-systems-diagram.json",
       "defaultPerspective": "pers-7At2uUZk",
       "defaultElementBehavior": "fixed",
       "defaultConnectionDirection": "directed",
-      "elements": [
+"elements": [
         {
           "_id": "node1",
           "position": {
-            "x": -1.4984092192199,
-            "y": 1.99840921922012
+            "x": 0,
+            "y": 0
           },
           "pinned": true,
           "style": {},
@@ -2417,8 +2419,8 @@
         {
           "_id": "node2",
           "position": {
-            "x": 2,
-            "y": 2
+            "x": 0,
+            "y": 0
           },
           "pinned": true,
           "style": {},
@@ -2434,6 +2436,22 @@
       ],
       "loops": []
     }
+  ],
+  "perspectives": [
+    {
+      "_id": "pers-7At2uUZk",
+      "name": "Causal Loops",
+      "style": "@controls {\n  top {\n    cluster {\n      as: buttons;\n\n      option {\n        value: element by \"Element Type\";\n        label: \"Element Type\";\n      }\n    }\n  }\n}\n\n@settings {\n  template: systems;\n  element-size: 100;\n  element-text-align: below;\n  layout-preset: hairball;\n  font-size: 75;\n  connection-curvature: 0.31;\n  connection-size: 7;\n  opposite-label: \"\";\n  opposite-style: none;\n  theme: light;\n}\n\nelement {\n  popover: \"#### {{Label}}   ---  **Type:** {{element type}}  {{SUMMARY}}\";\n  popover-width: 300;\n  popover-height: 500;\n  popover-padding: 7;\n}\n\nconnection {\n  popover: \"{{TITLE}}   ---  {{description}}\";\n  popover-width: 300;\n  popover-height: 500;\n  popover-padding: 7;\n}\n\nconnection {\n  size: 6;\n}\n\n/* Relationships */\nconnection {\n  size: scale(\"strength\", 15, 20);\n  color: #000000;\n}\n\n/* Suggestions */\nconnection[\"connection type\"=\"Suggestion\"] {\n  style: dashed;\n}\n\n/* Concepts */\nelement[\"element type\"=\"CONCEPT\"] {\n  image-size: cover;\n}\n\n"
+    },
+    {
+      "_id": "pers-ltVHwTxT",
+      "name": "Fixed",
+      "style": "@controls {\n  top {\n    cluster {\n      as: buttons;\n\n      option {\n        value: element by \"Element Type\";\n        label: \"Element Type\";\n      }\n    }\n  }\n}\n\n@settings {\n  template: causal-loop;\n  element-size: 100;\n  element-text-align: below;\n  font-size: 75;\n  connection-curvature: 0.12;\n  connection-size: 7;\n  opposite-label: \"\";\n  opposite-style: none;\n  theme: light;\n  layout: static;\n}\n\nelement {\n  popover: \"#### {{Label}}   ---  **Type:** {{element type}}  {{SUMMARY}}\";\n  popover-width: 300;\n  popover-height: 500;\n  popover-padding: 7;\n}\n\nconnection {\n  popover: \"{{TITLE}}   ---  {{description}}\";\n  popover-width: 300;\n  popover-height: 500;\n  popover-padding: 7;\n}\n\nconnection {\n  size: 6;\n}\n\n/* Relationships */\nconnection {\n  size: scale(\"strength\", 15, 20);\n  color: #000000;\n}\n\n/* Suggestions */\nconnection[\"connection type\"=\"Suggestion\"] {\n  style: dashed;\n}\n\n/* Concepts */\nelement[\"element type\"=\"CONCEPT\"] {\n  image-size: cover;\n}\n\n"
+    },
+    {
+      "_id": "pers-Z22YxxWU",
+      "name": "Straight Lines",
+      "style": "@settings {\n  element-size: 100;\n  element-text-align: below;\n  layout-preset: dense;\n  font-size: 75;\n  connection-curvature: 0;\n  connection-size: 7;\n  theme: dark;\n  template: causal-loop;\n}\n\nelement {\n  image-size: contain;\n  shape: circle;\n}\n\n"
+    }
   ]
-
 }
