@@ -2389,5 +2389,51 @@
 "title":"Environmental Degradation leads to Social Unrest"
     }
 
- ]
+ ],
+  "maps": [
+    {
+      "_id": "map-vwxnz3x0",
+      "name": "System",
+      "description": "An ecosystem map of the factors that impact climate resiliency\n\nCreated By Catalist",
+      "scale": 1,
+      "center": {
+        "x": 0,
+        "y": 0
+      },
+      "defaultPerspective": "pers-7At2uUZk",
+      "defaultElementBehavior": "fixed",
+      "defaultConnectionDirection": "directed",
+      "elements": [
+        {
+          "_id": "node1",
+          "position": {
+            "x": -1.4984092192199,
+            "y": 1.99840921922012
+          },
+          "pinned": true,
+          "style": {},
+          "element": "1711762429471x156074522525766050"
+        },
+        {
+          "_id": "node2",
+          "position": {
+            "x": 2,
+            "y": 2
+          },
+          "pinned": true,
+          "style": {},
+          "element": "1711748501228x532196452758804800"
+        }
+      ],
+      "connections": [
+        {
+          "_id": "edge1",
+          "style": {},
+          "connection": "1711750750093x704127329433107800"
+        }
+      ],
+      "loops": []
+    }
+  ]
+
 }
