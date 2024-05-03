@@ -44,6 +44,12 @@
 "id":"Problem",
 "type":"Object Type",
 "description":""
+},{
+"label":"Section",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"id":"Section",
+"type":"Object Type",
+"description":""
 },
 {
         "id": "1711748499894x518657029015139300",
@@ -1402,6 +1408,52 @@
 "size":"",
 "related objects":[], 
 "label":"Natural Resource Overexploitation"
+    },{
+        "id": "1711836422756x485700030114824200",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/climate-systems-diagram?object=1711836422756x485700030114824200&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"Systems Diagram"
+    },{
+        "id": "1711843085440x957727853807403000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/climate-systems-diagram?object=1711843085440x957727853807403000&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"Explore Card Of Systems Data"
     }
 ],
 
@@ -2020,6 +2072,321 @@
 "id":"1711762480624x439465517700077060",
 "url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711762480624x439465517700077060",
 "title":"Learning From Failure is enhanced by Social Learning rooted in psychological safety with proper support"
+    }
+,{
+        "label": "reduces",
+        "from": "1711766029947x418875432172015800",
+        "to": "1711766045385x255165135402674050",
+"strength":1,
+"connection subtype":"reduces",
+"description":"Loss threatens critical ecosystem services, leading to societal risks.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766097099x672144033673005600",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766097099x672144033673005600",
+"title":"Biodiversity Loss reduces Ecosystem Services"
+    }
+,{
+        "label": "compromises",
+        "from": "1711766031155x550564167742372500",
+        "to": "1711766046457x711856747156227200",
+"strength":1,
+"connection subtype":"compromises",
+"description":"Affects food security by reducing soil fertility and increasing erosion.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766097569x674122937001104800",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766097569x674122937001104800",
+"title":"Soil Degradation compromises Agricultural Productivity"
+    }
+,{
+        "label": "exacerbates",
+        "from": "1711766032120x174262560281821100",
+        "to": "1711766047611x733845439082389400",
+"strength":1,
+"connection subtype":"exacerbates",
+"description":"Leads to shortages impacting drinking and agricultural water.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766098050x342423154308711940",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766098050x342423154308711940",
+"title":"Water Scarcity exacerbates Water Supplies"
+    }
+,{
+        "label": "increases",
+        "from": "1711748499894x518657029015139300",
+        "to": "1711766033687x384253364760493100",
+"strength":1,
+"connection subtype":"increases",
+"description":"Leads to more frequent and severe weather events.",
+"connection type":"++",
+"one-way":"yes",
+"type":"++",
+"direction":"directed",
+"id":"1711766098518x748708331944489200",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766098518x748708331944489200",
+"title":"Climate Change increases Extreme Weather Events"
+    }
+,{
+        "label": "disrupts",
+        "from": "1711766033687x384253364760493100",
+        "to": "1711766048617x436219902439663360",
+"strength":1,
+"connection subtype":"disrupts",
+"description":"Events like floods and droughts directly affect stability.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766098984x448627255957724000",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766098984x448627255957724000",
+"title":"Extreme Weather Events disrupts Communities & Agriculture"
+    }
+,{
+        "label": "threatens",
+        "from": "1711766034879x261290328392229900",
+        "to": "1711766049707x616117821310695000",
+"strength":1,
+"connection subtype":"threatens",
+"description":"Rising seas endanger coastal habitats and human settlements.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766099472x830604349404078500",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766099472x830604349404078500",
+"title":"Sea Level Rise threatens Coastal Communities"
+    }
+,{
+        "label": "affect",
+        "from": "1711766035801x468965202548962100",
+        "to": "1711766050731x148789524003901220",
+"strength":1,
+"connection subtype":"affect",
+"description":"Extreme heat and cold have dire health and agricultural impacts.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766099927x504035421394807940",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766099927x504035421394807940",
+"title":"Temperature Extremes affect Human Health & Agriculture"
+    }
+,{
+        "label": "impacts",
+        "from": "1711766037129x370402961707617200",
+        "to": "1711766052356x596006818694986800",
+"strength":1,
+"connection subtype":"impacts",
+"description":"Harms ocean life, affecting food sources and biodiversity.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766100439x321181765791821250",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766100439x321181765791821250",
+"title":"Ocean Acidification impacts Marine Biodiversity"
+    }
+,{
+        "label": "exacerbates",
+        "from": "1711766038310x493609327742444500",
+        "to": "1711766044102x466296502938541060",
+"strength":1,
+"connection subtype":"exacerbates",
+"description":"Resource scarcity driven by inequality can incite conflicts.",
+"connection type":"-+",
+"one-way":"yes",
+"type":"-+",
+"direction":"directed",
+"id":"1711766100921x920430494021835500",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766100921x920430494021835500",
+"title":"Inequality exacerbates Social Unrest"
+    }
+,{
+        "label": "increases pressure on",
+        "from": "1711762428510x444535695984282560",
+        "to": "1711766053482x832183447818229500",
+"strength":1,
+"connection subtype":"increases pressure on",
+"description":"Exerts unsustainable demands on ecosystems, leading to degradation.",
+"connection type":"-+",
+"one-way":"yes",
+"type":"-+",
+"direction":"directed",
+"id":"1711766101543x188190085924133000",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766101543x188190085924133000",
+"title":"Population Growth increases pressure on Natural Resource Overexploitation"
+    }
+,{
+        "label": "makes vulnerable",
+        "from": "1711766039392x641046314525631400",
+        "to": "1711762433433x889058283795876500",
+"strength":1,
+"connection subtype":"makes vulnerable",
+"description":"Economic models reliant on exploitation are at risk of collapse.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766102132x522587636192340030",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766102132x522587636192340030",
+"title":"Economic Dependence makes vulnerable Societal Collapse"
+    }
+,{
+        "label": "allows",
+        "from": "1711766040544x852013461447889800",
+        "to": "1711766043111x523901715471051460",
+"strength":1,
+"connection subtype":"allows",
+"description":"Lack of environmental protection contributes to systemic failure.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766102544x760311920831972600",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766102544x760311920831972600",
+"title":"Lack of Regulation allows Environmental Degradation"
+    }
+,{
+        "label": "accelerates",
+        "from": "1711766041812x142687178888759800",
+        "to": "1711762433433x889058283795876500",
+"strength":1,
+"connection subtype":"accelerates",
+"description":"Failure to address climate change endangers societal stability. Inadequate responses to climate change, such as insufficient mitigation and adaptation strategies, directly contribute to the acceleration of societal collapse. This is due to the increased frequency and severity of climate-related disasters, resource scarcity, and economic instability, which strain social systems. Conversely, enhancing climate response efforts can mitigate these impacts, leading to a decrease in the risk of societal collapse by fostering resilience, ensuring sustainable resource management, and promoting social and economic stability.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766103068x195243175573293060",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766103068x195243175573293060",
+"title":"Inadequate Climate Response accelerates Societal Collapse"
+    }
+,{
+        "label": "threatens",
+        "from": "1711766043111x523901715471051460",
+        "to": "1711762433433x889058283795876500",
+"strength":1,
+"connection subtype":"threatens",
+"description":"Environmental degradation, encompassing the deterioration of natural resources and ecosystems, poses a significant threat to societal stability and well-being. This degradation can lead to diminished food security, water scarcity, and loss of livelihoods, directly threatening societal collapse. However, efforts to mitigate environmental degradation, through sustainable practices and restoration projects, can reduce the risk of societal collapse by ensuring the continued availability of essential natural resources and ecosystem services.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766103499x572006648397022800",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766103499x572006648397022800",
+"title":"Environmental Degradation threatens Societal Collapse"
+    }
+,{
+        "label": "triggers",
+        "from": "1711748499894x518657029015139300",
+        "to": "1711762433433x889058283795876500",
+"strength":1,
+"connection subtype":"triggers",
+"description":"Acts as a catalyst for various factors leading to collapse.",
+"connection type":"++",
+"one-way":"yes",
+"type":"++",
+"direction":"directed",
+"id":"1711766104099x522624186454715400",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766104099x522624186454715400",
+"title":"Climate Change triggers Societal Collapse"
+    }
+,{
+        "label": "leads to",
+        "from": "1711766044102x466296502938541060",
+        "to": "1711762433433x889058283795876500",
+"strength":1,
+"connection subtype":"leads to",
+"description":"Social unrest, characterized by widespread dissatisfaction, protests, and potential conflict within a population, can significantly undermine the stability and functionality of societal structures, leading to societal collapse. This collapse is marked by the breakdown of economic, social, and governance systems, severely impacting a community's ability to sustain itself and recover from adversities. Therefore, efforts to reduce social unrest, through addressing its root causes and enhancing community engagement and resilience, can directly contribute to preventing societal collapse, ensuring a more stable and sustainable future for the community.",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766104537x375256443811440300",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766104537x375256443811440300",
+"title":"Social Unrest leads to Societal Collapse"
+    }
+,{
+        "label": "impacts",
+        "from": "1711766046457x711856747156227200",
+        "to": "1711766044102x466296502938541060",
+"strength":1,
+"connection subtype":"impacts",
+"description":"Decreased productivity can lead to food scarcity, contributing to social unrest.",
+"connection type":"-+",
+"one-way":"yes",
+"type":"-+",
+"direction":"directed",
+"id":"1711766105033x418982285909683700",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766105033x418982285909683700",
+"title":"Agricultural Productivity impacts Social Unrest"
+    }
+,{
+        "label": "impacts",
+        "from": "1711766047611x733845439082389400",
+        "to": "1711766044102x466296502938541060",
+"strength":1,
+"connection subtype":"impacts",
+"description":"Water scarcity affects daily life and agriculture, potentially leading to social unrest.",
+"connection type":"-+",
+"one-way":"yes",
+"type":"-+",
+"direction":"directed",
+"id":"1711766105529x160717493229504800",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766105529x160717493229504800",
+"title":"Water Supplies impacts Social Unrest"
+    }
+,{
+        "label": "supports",
+        "from": "1711766045385x255165135402674050",
+        "to": "1711766039392x641046314525631400",
+"strength":1,
+"connection subtype":"supports",
+"description":"Ecosystem services are vital for economic activities, especially in resource-dependent sectors.",
+"connection type":"++",
+"one-way":"yes",
+"type":"++",
+"direction":"directed",
+"id":"1711766106029x187917087736802370",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766106029x187917087736802370",
+"title":"Ecosystem Services supports Economic Dependence"
+    }
+,{
+        "label": "increases",
+        "from": "1711766033687x384253364760493100",
+        "to": "1711766044102x466296502938541060",
+"strength":1,
+"connection subtype":"increases",
+"description":"Severe weather can destabilize communities, potentially leading to social unrest.",
+"connection type":"-+",
+"one-way":"yes",
+"type":"-+",
+"direction":"directed",
+"id":"1711766106570x536606741586922500",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766106570x536606741586922500",
+"title":"Extreme Weather Events increases Social Unrest"
+    }
+,{
+        "label": "leads to",
+        "from": "1711766043111x523901715471051460",
+        "to": "1711766044102x466296502938541060",
+"strength":1,
+"connection subtype":"leads to",
+"description":"Degradation diminishes living conditions, directly contributing to social unrest",
+"connection type":"--",
+"one-way":"yes",
+"type":"--",
+"direction":"directed",
+"id":"1711766106962x363216940112956800",
+"url":"https://www.catalist.network/trove-space/climate-systems-diagram?connection=1711766106962x363216940112956800",
+"title":"Environmental Degradation leads to Social Unrest"
     }
 
  ]
