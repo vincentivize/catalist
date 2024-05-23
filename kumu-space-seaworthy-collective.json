@@ -481,7 +481,7 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
+"summary":"A scientific agency within the United States Department of Commerce that focuses on the conditions of the oceans, major waterways, and the atmosphere. Its mission is to understand and predict changes in climate, weather, oceans, and coasts; to share that knowledge and information with others; and to conserve and manage coastal and marine ecosystems and resources.\n\n",
 "description":"",
 "size":"",
 "related objects":[], 
@@ -853,7 +853,7 @@
 "description":"",
 "size":"",
 "related objects":[], 
-"label":"Events Calendar"
+"label":"Calendar"
     },{
         "id": "1713972772872x391677728188268540",
 "url":"",
@@ -990,7 +990,7 @@
 "summary":"We provide guided workshops, investor introductions, dynamic networking, co-working space, business Support Services and other specialized resources for startup growth\n",
 "description":"",
 "size":"",
-"related objects":[], 
+"related objects":["1716411644690x503927771740045000"], 
 "label":"Startup Growth Essentials: Workshops, Investors, Networking & More"
     },{
         "id": "1713974485950x749254835071325700",
@@ -1013,7 +1013,7 @@
 "summary":"Optimize (& digitize) your Organization to scale execution, infrastructure development and process development for startups\n",
 "description":"",
 "size":"",
-"related objects":[], 
+"related objects":["1716418004728x130619426726861890"], 
 "label":"Advice for scaling through digital optimization"
     },{
         "id": "1713974488116x930034878555665800",
@@ -1036,7 +1036,7 @@
 "summary":"Braid Theory incorporates a hybrid model of services to assist startups and scale-ups based on proven methodology and rigor in evidence-based entrepreneurship, focused on three key aspects of commercialization: capability, capacity, and intellectual capital. We weave together entrepreneurs, industry influencers, and corporate partners to accelerate adoption of transformative technology, drive market growth, and create profitable collaborations.\n",
 "description":"",
 "size":"",
-"related objects":[], 
+"related objects":["1716411644690x503927771740045000","1716411520877x323457371782334120"], 
 "label":"Braid Theory provides end-to-end services to support science and engineering-led companies."
     },{
         "id": "1713974490489x214636905161862400",
@@ -1401,7 +1401,7 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"Explore our network of incredible people and organizations",
+"summary":"Explore our network of incredible people and organizations pioneering the blueTech space",
 "description":"",
 "size":"",
 "related objects":[], 
@@ -1594,7 +1594,7 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"The Ocean Rescue Alliance International is a marine conservation and restoration nonprofit organization that implements innovative techniques to restore marine environments. We use artificial structure to enhance marine environments, build marine habitat, conduct restoration, protect coast lines, and connect communities through art. ",
+"summary":"The Ocean Rescue Alliance International is a marine conservation and restoration nonprofit organization that implements innovative techniques to restore marine environments. We use artificial structure to enhance marine environments, build marine habitat, conduct restoration, protect coast lines, and connect communities through art.",
 "description":"",
 "size":"",
 "related objects":[], 
@@ -2583,7 +2583,7 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
+"summary":"A program that connects existing blue technology companies, investors, and resource providers with emerging blue technology firms.\n\n",
 "description":"",
 "size":"",
 "related objects":[], 
@@ -2638,7 +2638,7 @@
         "id": "1716418719567x131377750013875090",
 "url":"https://www.climatefoundation.org/",
 "object url":"https://www.catalist.network/trove-space/seaworthy-collective?object=1716418719567x131377750013875090&view=Graph&filtered=yes",
-"image":"https://www.climatefoundation.org/uploads/3/0/2/0/30209783/donate-button-blue_orig.png",
+"image":"https://www.climatefoundation.org/uploads/3/0/2/0/30209783/cf-logo-horizontal-roundedcorners.png",
 "type":"Organization",
 "topics":[],
 "tags":[],
@@ -2652,7 +2652,7 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
+"summary":"An non-profit organization dedicated to moderate and reverse the effects of climate change in critical ecosystems through initiatives and research in food security, ecosystem survival and carbon balance.",
 "description":"",
 "size":"",
 "related objects":[], 
@@ -2882,7 +2882,7 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
+"summary":"A self-service paddle board and kayak rental company that lets you rent paddleboards from your phone.",
 "description":"",
 "size":"",
 "related objects":[], 
@@ -2910,6 +2910,29 @@
 "size":"",
 "related objects":[], 
 "label":"The Shrimp Society"
+    },{
+        "id": "1716432796960x787926597895979000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/seaworthy-collective?object=1716432796960x787926597895979000&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Explore jobs and opportunities within the network",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"Opportunity Board"
     }
 ],
 
