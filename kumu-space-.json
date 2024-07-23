@@ -1,1 +1,155 @@
-žée
+{
+  "elements": [
+{
+  "label": "Attribute",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1683760566455x232838937608571100/attribute-black.png",
+"id":"",
+"type":"Object Type",
+"description":"Semantic tags such as New York (State) or No Poverty (SDG) that categorize information on Catalist"
+},{
+  "label": "Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"Type",
+"url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?filtered=yes&view=List&data-type=Types",
+"type":"Object Type",
+"description":"Types of information"
+},
+{
+"label":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"id":"Organization",
+"type":"Object Type",
+"description":"An established entity such as a university or company"
+},{
+"label":"Event",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"id":"Event",
+"type":"Object Type",
+"description":"Something happening with a start and end date"
+},{
+"label":"Organizations",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100117251x280445081281156740/039-building-1.svg",
+"id":"1689950587072x126998406590484340",
+"type":"Attribute",
+"color":""
+},{
+"label":"Events",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100074155x278649596076188320/004-labour-day.svg",
+"id":"1689950585577x538440547666931200",
+"type":"Attribute",
+"color":""
+},
+{
+        "id": "1721759931618x222110401525710850",
+"url":"https://transformation.capital/",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721759931618x222110401525710850&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"attribute-tags":"Organizations",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"An organization pioneering the field of systemic finance which includes a community of change-makers, cutting edge research, and a platform for collaborative action that pushes the boundaries of impact finance",
+"description":"",
+"size":"",
+"related objects":[],"Why is this important to understanding the field of systems finance?":"TransCap has a foundational white paper and was one of the first organizations to suggest and develop the term of systemic finance, and they have been working to convene events, an international community, and be thought leaders in the space.", 
+"label":"TransCap Initiative"
+    },{
+        "id": "1721760667117x426752663557242900",
+"url":"https://www.wearetwist.org/",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721760667117x426752663557242900&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1721760982721x489397723797733400/Screenshot%202024-07-23%20at%202.55.37%20PM.png",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"attribute-tags":"Organizations",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"TWIST - Investing for systems change"
+    },{
+        "id": "1721761432799x248400989712023550",
+"url":"https://www.youtube.com/watch?v=6Ox0R67nKKQ",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721761432799x248400989712023550&view=Graph&filtered=yes",
+"image":"https://i.ytimg.com/vi/6Ox0R67nKKQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSSgxMA8=&rs=AOn4CLB1UyVflB0Q6nU0L1BI4c_150q53g",
+"type":"Event",
+"topics":[],
+"tags":["Events"],
+"attribute-tags":"Events",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"KFF23 - The Future Is Bold Highlights"
+    },{
+        "id": "1721761512774x535363909066686460",
+"url":"https://katapultfuturefest.com/",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721761512774x535363909066686460&view=Graph&filtered=yes",
+"image":"https://katapultfuturefest.com/media/site/2bb33fa679-1702131728/kff24-logo-centered-with-background-01-1200x630-crop-1-q80.png",
+"type":"Event",
+"topics":[],
+"tags":["Events"],
+"attribute-tags":"Events",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"a central gathering for impact investors, change-makers, and entrepreneurs dedicated to social, cultural, and systemic change. J",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"Katapult Future Fest 2024"
+    }
+],
+
+  "connections": [
+{
+        "label": "was partner of",
+        "from": "1721760667117x426752663557242900",
+        "to": "1721761512774x535363909066686460",
+"strength":1,
+"connection subtype":"was partner of",
+"description":"",
+"connection type":"was partner of",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1721761800020x284882154763845630",
+"url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?connection=1721761800020x284882154763845630",
+"title":"TWIST - Investing for systems change was partner of Katapult Future Fest 2024"
+    }
+
+ ]
+}
