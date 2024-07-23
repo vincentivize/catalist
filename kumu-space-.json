@@ -27,6 +27,12 @@
 "type":"Object Type",
 "description":"Something happening with a start and end date"
 },{
+"label":"Section",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"id":"Section",
+"type":"Object Type",
+"description":""
+},{
 "label":"Organizations",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100117251x280445081281156740/039-building-1.svg",
 "id":"1689950587072x126998406590484340",
@@ -131,6 +137,75 @@
 "size":"",
 "related objects":[], 
 "label":"Katapult Future Fest 2024"
+    },{
+        "id": "1721762561290x772857042139349000",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721762561290x772857042139349000&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"This space serves as a place to map out the ecosystem of players and knowledge within the systemic finance ecosystem",
+"description":"> The TransCap Initiative has defined systemic investing as: “the application of systems thinking and complex systems science to understanding societal problems and addressing them through the strategic deployment of diverse forms of financial capital nested within a broader systems change program for the purpose of transforming human and natural systems.” Put simply, it is an investment logic that serves the primary purpose of fostering systems change in both form and function.\n> -[Impact Investing: Systemic Investing for Societal Change](https://ssir.org/articles/entry/systemic_investing_for_social_change#:~:text=The%20TransCap%20Initiative%20has%20defined,program%20for%20the%20purpose%20of)",
+"size":"",
+"related objects":[], 
+"label":"About this space"
+    },{
+        "id": "1721763053549x239775719657570300",
+"url":"https://event.checkin.no/74215/katapult-future-fest-2025",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721763053549x239775719657570300&view=Graph&filtered=yes",
+"image":"https://app.checkin.no/static/14297/event_74215/image700.jpg?1719498556",
+"type":"Event",
+"topics":[],
+"tags":["Events"],
+"attribute-tags":"Events",
+"sectors":[],
+"locations":[],
+"address":"Oslo, Norway",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Katapult Future Fest is an annual event that aims to accelerate positive change by connecting, inspiring, and empowering a diverse global community of changemakers. It provides a platform for individuals and organizations to come together and to explore how impact investing, business leadership, and exponential technologies can be harnessed to create a fairer, healthier, and more sustainable future society for all.",
+"description":"There’s a need to address problems beyond symptoms and look at the root causes. Get ready to immerse yourself in a unique and inspiring event that brings together thinkers, innovators, and visionaries from around the world. Join us as we explore the intersection of technology, society, and sustainability to shape a better future for all.",
+"size":"",
+"related objects":["1721761512774x535363909066686460","1721761432799x248400989712023550"], 
+"label":"Katapult Future Fest 2025"
+    },{
+        "id": "1721763188479x461991939312713700",
+"url":"https://www.katapultfoundation.org/",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721763188479x461991939312713700&view=Graph&filtered=yes",
+"image":"http://static1.squarespace.com/static/6590538be0a4d55a9d25cbd4/t/6590553059e58d3884556e0f/1703957808103/Katapult_Foundation_White_RGB.png?format=1500w",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"attribute-tags":"Organizations",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"Katapult Foundation"
     }
 ],
 
@@ -149,6 +224,36 @@
 "id":"1721761800020x284882154763845630",
 "url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?connection=1721761800020x284882154763845630",
 "title":"TWIST - Investing for systems change was partner of Katapult Future Fest 2024"
+    }
+,{
+        "label": "is hosting",
+        "from": "1721763188479x461991939312713700",
+        "to": "1721763053549x239775719657570300",
+"strength":1,
+"connection subtype":"is hosting",
+"description":"",
+"connection type":"is hosting",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1721763265532x169999193141411840",
+"url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?connection=1721763265532x169999193141411840",
+"title":"Katapult Foundation is hosting Katapult Future Fest 2025"
+    }
+,{
+        "label": "hosted",
+        "from": "1721763188479x461991939312713700",
+        "to": "1721761512774x535363909066686460",
+"strength":1,
+"connection subtype":"hosted",
+"description":"",
+"connection type":"hosted",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1721763355917x142224258701983740",
+"url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?connection=1721763355917x142224258701983740",
+"title":"Katapult Foundation hosted Katapult Future Fest 2024"
     }
 
  ]
