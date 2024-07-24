@@ -7,9 +7,9 @@
 "type":"Object Type",
 "description":"Semantic tags such as New York (State) or No Poverty (SDG) that categorize information on Catalist"
 },{
-  "label": "Type",
+  "label": "Object Type",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
-"id":"Type",
+"id":"Object Type",
 "url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?filtered=yes&view=List&data-type=Types",
 "type":"Object Type",
 "description":"Types of information"
@@ -33,6 +33,12 @@
 "type":"Object Type",
 "description":""
 },{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Object Type",
+"description":"Something that can be used to solve a problem"
+},{
 "label":"Organizations",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100117251x280445081281156740/039-building-1.svg",
 "id":"1689950587072x126998406590484340",
@@ -44,12 +50,18 @@
 "id":"1689950585577x538440547666931200",
 "type":"Attribute",
 "color":""
+},{
+"label":"Resources",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100135772x896296205222999300/010-browser-1.svg",
+"id":"1690311308190x556156605122591940",
+"type":"Attribute",
+"color":""
 },
 {
         "id": "1721759931618x222110401525710850",
 "url":"https://transformation.capital/",
 "object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721759931618x222110401525710850&view=Graph&filtered=yes",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1721763684056x301154314520890600/Screenshot%202024-07-23%20at%203.40.12%20PM.png",
 "type":"Organization",
 "topics":[],
 "tags":["Organizations"],
@@ -155,11 +167,11 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"This space serves as a place to map out the ecosystem of players and knowledge within the systemic finance ecosystem",
+"summary":"This is a research space that serves as a place to map out the ecosystem of players and knowledge within the systemic finance ecosystem",
 "description":"> The TransCap Initiative has defined systemic investing as: “the application of systems thinking and complex systems science to understanding societal problems and addressing them through the strategic deployment of diverse forms of financial capital nested within a broader systems change program for the purpose of transforming human and natural systems.” Put simply, it is an investment logic that serves the primary purpose of fostering systems change in both form and function.\n> -[Impact Investing: Systemic Investing for Societal Change](https://ssir.org/articles/entry/systemic_investing_for_social_change#:~:text=The%20TransCap%20Initiative%20has%20defined,program%20for%20the%20purpose%20of)",
 "size":"",
 "related objects":[], 
-"label":"About this space"
+"label":"About Systemic Finance"
     },{
         "id": "1721763053549x239775719657570300",
 "url":"https://event.checkin.no/74215/katapult-future-fest-2025",
@@ -206,6 +218,52 @@
 "size":"",
 "related objects":[], 
 "label":"Katapult Foundation"
+    },{
+        "id": "1721763890194x654284632622366700",
+"url":"",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721763890194x654284632622366700&view=Graph&filtered=yes",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"A list of organizations related to systemic finance",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"Systemic Finance Organizations"
+    },{
+        "id": "1714699915411x272971608230723600",
+"url":"https://www.griffith.edu.au/__data/assets/pdf_file/0020/1605431/DesignFoundations_SystemsCapital.pdf",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1714699915411x272971608230723600&view=Graph&filtered=yes",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"attribute-tags":"Resources",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"A 67 page paper that outlines the field of systems capital and argues that if the persistent and pressing challenges we face today are complex and systemic in nature, It follows that\nsystems challenges require systemic responses, and this should include how they are resourced. This is the basic case for systems capital - if we’re serious about systems change, our investment approaches need to match the intention and reality of that pursuit.",
+"description":"",
+"size":"",
+"related objects":[], 
+"label":"Design Foundations for Systems Capital"
     }
 ],
 
