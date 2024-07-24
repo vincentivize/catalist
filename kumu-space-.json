@@ -56,6 +56,18 @@
 "id":"1690311308190x556156605122591940",
 "type":"Attribute",
 "color":""
+},{
+"label":"Blog Article",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"1683318754396x900817006147436300",
+"type":"Attribute",
+"color":""
+},{
+"label":"Economics",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235504703x760616060956233900/regen_black.svg",
+"id":"1681938048382x864564536659922000",
+"type":"Attribute",
+"color":""
 },
 {
         "id": "1721759931618x222110401525710850",
@@ -78,6 +90,7 @@
 "summary":"An organization pioneering the field of systemic finance which includes a community of change-makers, cutting edge research, and a platform for collaborative action that pushes the boundaries of impact finance",
 "description":"",
 "size":"",
+"objects above":[],
 "related objects":[],"Why is this important to understanding the field of systems finance?":"TransCap has a foundational white paper and was one of the first organizations to suggest and develop the term of systemic finance, and they have been working to convene events, an international community, and be thought leaders in the space.", 
 "label":"TransCap Initiative"
     },{
@@ -101,6 +114,7 @@
 "summary":"",
 "description":"",
 "size":"",
+"objects above":[],
 "related objects":[], 
 "label":"TWIST - Investing for systems change"
     },{
@@ -124,6 +138,7 @@
 "summary":"",
 "description":"",
 "size":"",
+"objects above":["1721761512774x535363909066686460"],
 "related objects":[], 
 "label":"KFF23 - The Future Is Bold Highlights"
     },{
@@ -147,6 +162,7 @@
 "summary":"a central gathering for impact investors, change-makers, and entrepreneurs dedicated to social, cultural, and systemic change. J",
 "description":"",
 "size":"",
+"objects above":[],
 "related objects":[], 
 "label":"Katapult Future Fest 2024"
     },{
@@ -170,6 +186,7 @@
 "summary":"This is a research space that serves as a place to map out the ecosystem of players and knowledge within the systemic finance ecosystem",
 "description":"> The TransCap Initiative has defined systemic investing as: “the application of systems thinking and complex systems science to understanding societal problems and addressing them through the strategic deployment of diverse forms of financial capital nested within a broader systems change program for the purpose of transforming human and natural systems.” Put simply, it is an investment logic that serves the primary purpose of fostering systems change in both form and function.\n> -[Impact Investing: Systemic Investing for Societal Change](https://ssir.org/articles/entry/systemic_investing_for_social_change#:~:text=The%20TransCap%20Initiative%20has%20defined,program%20for%20the%20purpose%20of)",
 "size":"",
+"objects above":[],
 "related objects":[], 
 "label":"About Systemic Finance"
     },{
@@ -193,6 +210,7 @@
 "summary":"Katapult Future Fest is an annual event that aims to accelerate positive change by connecting, inspiring, and empowering a diverse global community of changemakers. It provides a platform for individuals and organizations to come together and to explore how impact investing, business leadership, and exponential technologies can be harnessed to create a fairer, healthier, and more sustainable future society for all.",
 "description":"There’s a need to address problems beyond symptoms and look at the root causes. Get ready to immerse yourself in a unique and inspiring event that brings together thinkers, innovators, and visionaries from around the world. Join us as we explore the intersection of technology, society, and sustainability to shape a better future for all.",
 "size":"",
+"objects above":[],
 "related objects":["1721761512774x535363909066686460","1721761432799x248400989712023550"], 
 "label":"Katapult Future Fest 2025"
     },{
@@ -216,6 +234,7 @@
 "summary":"",
 "description":"",
 "size":"",
+"objects above":[],
 "related objects":[], 
 "label":"Katapult Foundation"
     },{
@@ -239,6 +258,7 @@
 "summary":"A list of organizations related to systemic finance",
 "description":"",
 "size":"",
+"objects above":["1721762561290x772857042139349000"],
 "related objects":[], 
 "label":"Systemic Finance Organizations"
     },{
@@ -262,8 +282,105 @@
 "summary":"A 67 page paper that outlines the field of systems capital and argues that if the persistent and pressing challenges we face today are complex and systemic in nature, It follows that\nsystems challenges require systemic responses, and this should include how they are resourced. This is the basic case for systems capital - if we’re serious about systems change, our investment approaches need to match the intention and reality of that pursuit.",
 "description":"",
 "size":"",
+"objects above":["1721762561290x772857042139349000"],
 "related objects":[], 
 "label":"Design Foundations for Systems Capital"
+    },{
+        "id": "1721830428119x684511353922650100",
+"url":"https://klfelicitasfoundation.org/",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721830428119x684511353922650100&view=Graph&filtered=yes",
+"image":"https://klfelicitasfoundation.org/wp-content/uploads/2018/04/KLF-report-cover.png",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"attribute-tags":"Organizations",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Use of NPC’s new Impact Risk Classification framework enables rigorous impact measurement across asset classes.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":["1721760667117x426752663557242900"], 
+"label":"KL Felicitas Foundation"
+    },{
+        "id": "1721831109398x433168098176008200",
+"url":"https://ssir.org/articles/entry/creating_a_better_future_through_transparency",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721831109398x433168098176008200&view=Graph&filtered=yes",
+"image":"https://ssir.org/images/blog/Lisa_Kleissner-headshot.jpg",
+"type":"Resource",
+"topics":[],
+"tags":["Blog Article","Resources"],
+"attribute-tags":"Blog Article|Resources",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":["1721830428119x684511353922650100"],
+"related objects":[], 
+"label":"Creating a Better Future Through Transparency (SSIR)"
+    },{
+        "id": "1721831323726x362351604675117060",
+"url":"https://sonencapital.com/",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721831323726x362351604675117060&view=Graph&filtered=yes",
+"image":"https://sonencapital.com/wp-content/uploads/2023/02/SharedLink_1200x675_SC.png",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"attribute-tags":"Organizations",
+"sectors":[],
+"locations":[],
+"address":"One Embarcadero Center, San Francisco, CA 94111, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":["1721830428119x684511353922650100"], 
+"label":"Sonen Capital"
+    },{
+        "id": "1721831456039x914777310631821300",
+"url":"https://www.thinknpc.org/",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721831456039x914777310631821300&view=Graph&filtered=yes",
+"image":"https://www.thinknpc.org/wp-content/uploads/2024/05/NPC-homepage.jpg",
+"type":"Organization",
+"topics":[],
+"tags":["Economics","Organizations"],
+"attribute-tags":"Economics|Organizations",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":["1721830428119x684511353922650100"], 
+"label":"New Philanthropy Capital (NPC)"
     }
 ],
 
