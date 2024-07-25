@@ -171,11 +171,11 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
+"summary":"A global collective of investors, practitioners and facilitators, who are actively seeking to contribute to positive systems change.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"Why is this important to understanding the field of systems finance?":"This is an organization at the nexus of investing for systems change.", 
 "label":"TWIST - Investing for systems change"
     },{
         "id": "1721761512774x535363909066686460",
@@ -267,11 +267,11 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
-"description":"",
+"summary":"Building a new narrative for technology and investment. Our vision is to build a better world where people and the planet thrive. Our mission is to catalyze people, capital and technology for good.",
+"description":"[[youtube/uBKN0qq4uzA]]",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":["1721830428119x684511353922650100"],"Why is this important to understanding the field of systems finance?":"They have a new project, IMP+ Project, to contribute to Positive Systems Change.  ", 
 "label":"Katapult Foundation"
     },{
         "id": "1721763890194x654284632622366700",
@@ -339,11 +339,11 @@
 "font_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"Use of NPC’s new Impact Risk Classification framework enables rigorous impact measurement across asset classes.",
+"summary":"Use of NPC’s new Impact Risk Classification framework enables rigorous impact measurement across asset classes.  In Pursuit of Deep Impact and Market-Rate Returns: KL Felicitas Foundations Journey is a deep-dive analysis of the KLF impact investment portfolio, which provides a model strategy for achieving targeted social and environmental as well as financial returns.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":["1721760667117x426752663557242900"], 
+"related objects":["1721760667117x426752663557242900"],"Why is this important to understanding the field of systems finance?":"One of their values is key: \"We will always consider the holistic impact of the Foundation’s work, including social, environmental, economic and community dimensions.\"", 
 "label":"KL Felicitas Foundation"
     },{
         "id": "1721831109398x433168098176008200",
@@ -556,7 +556,7 @@
 "draft":"no",
 "page_text":"",
 "summary":"For this collaborative testing session, we will be using a new space called “Systemic Finance” which is an ecosystem map we are creating of the organizations, people, and events pioneering this field.",
-"description":"## **Agenda**\n### Part 1 - Explore\n1. Introductions - Name, Organization, _____\n2. Introduction to systems finance and space walkthrough - please interrupt with questions!\n3. Explore the space on your own for 10 minutes and do research to learn more about systemic finance\n	2. **Take Notes** and think about what you want to share publicly, with members of the space (restricted), or private to you or your connections\n	3. **Add \"To-Dos\"** with things you want to do to take action on content, a person/org, or an event.\n	4. **Interact** with objects by using the heart, bookmark, and status as feels natural for you\n4. Round of feedback where we allow each person to speak to:\n	6. what do you like\n	7. what were you confused by?\n	8. what do you want to do that you currently can't?\n\n### Part 2 - Create\n3. **Create posts and questions**. In these posts, sharing what you learned and what questions came up during this session today <span onclick=\"bubble_fn_go_to('1721862071339x747855714225225700');\" style=\"font-weight:bold; color:#22D3CA;\">Learnings and Questions</span>\n4. Curate information into the space\n5. Add feedback, which could be ideas for improvement, bugs, suggestions, praise etc. <span onclick=\"bubble_fn_go_to('1721862956325x951315669688516600');\" style=\"font-weight:bold; color:#22D3CA;\">Add Feedback</span>\n7. Final round of feedback where we ask people to summarize\n- i liked\n- i wish\n- i wonder",
+"description":"## **Agenda**\n### Part 1 - Explore\n1. Introductions - Name, Organization, _____\n2. Introduction to systems finance and space walkthrough - please interrupt with questions!\n3. Explore the space on your own for 10 minutes and do research to learn more about systemic finance\n  1. **Take Notes** and think about what you want to share publicly, with members of the space (restricted), or private to you or your connections\n  2. **Add \"To-Dos\"** with things you want to do to take action on content, a person/org, or an event.\n  3. **Interact** with objects by using the heart, bookmark, and status as feels natural for you\n4. Round of feedback where we allow each person to speak to:\n  1. what do you like\n  2. what were you confused by?\n  3. what do you want to do that you currently can't?\n\n### Part 2 - Create\n3. **Create posts and questions**. In these posts, sharing what you learned and what questions came up during this session today <span onclick=\"bubble_fn_go_to('1721862071339x747855714225225700');\" style=\"font-weight:bold; color:#22D3CA;\">Learnings and Questions</span>\n4. Curate information into the space\n5. Add feedback, which could be ideas for improvement, bugs, suggestions, praise etc. <span onclick=\"bubble_fn_go_to('1721862956325x951315669688516600');\" style=\"font-weight:bold; color:#22D3CA;\">Add Feedback</span>\n7. Final round of feedback where we ask people to summarize\n- i liked\n- i wish\n- i wonder",
 "size":"",
 "objects above":["1721862956325x951315669688516600"],
 "related objects":[], 
@@ -947,6 +947,30 @@
 "objects above":[],
 "related objects":["1721846541902x682590412334170100"], 
 "label":"Systems Analysis"
+    },{
+        "id": "1721883028633x159622307482435600",
+"url":"https://www.climate-kic.org/",
+"object url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?object=1721883028633x159622307482435600&view=Graph&filtered=yes",
+"image":"https://www.climate-kic.org/wp-content/themes/ck-main/assets/img/svg/logo-white-wFlag2.svg",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"attribute-tags":"Organizations",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"EIT Climate-KIC is Europe’s leading climate innovation agency and community, supporting cities, regions, countries and industries to meet their climate ambitions through systems innovation and place-based transformations.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[], 
+"label":"Climate-KIC"
     }
 ],
 
@@ -1115,6 +1139,21 @@
 "id":"1721879259220x729854249725853700",
 "url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?connection=1721879259220x729854249725853700",
 "title":"Financing system change - Unstuck by UNDP is referenced in Design Foundations for Systems Capital"
+    }
+,{
+        "label": "is CEO of",
+        "from": "1721882977628x129344109247235600",
+        "to": "1721883028633x159622307482435600",
+"strength":1,
+"connection subtype":"is CEO of",
+"description":"As CEO, Kirsten leads the organisation with a deep conviction in our capacity to learn and evolve into a climate-resilient society. She brings over 30 years of experience catalyzing systemic transformations in a career spanning academia, consulting, banking, and insurance. Kirsten serves on various Advisory Boards and is a recognized leader at the European Commission Economic and Societal Impact of Research and Innovation (ESIR) expert group.",
+"connection type":"is CEO of",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1721883107895x585969766833848300",
+"url":"https://www.catalist.network/trove-space/1721759115723x423285251999793150?connection=1721883107895x585969766833848300",
+"title":"Kirsten Dunlop is CEO of Climate-KIC"
     }
 
  ]
