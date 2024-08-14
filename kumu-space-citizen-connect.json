@@ -1087,6 +1087,66 @@
 "url":"https://www.catalist.network/trove-space/citizen-connect?connection=1723449106964x358817041680433150",
 "title":"NexGen trained community health workers at Sakhe"
     }
+,{
+        "label": "is part of",
+        "from": "1722465648599x612582605756388400",
+        "to": "1723444174252x498956275029901300",
+"strength":1,
+"connection subtype":"is part of",
+"description":"",
+"connection type":"is part of",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1723623300555x597876304068739100",
+"url":"https://www.catalist.network/trove-space/citizen-connect?connection=1723623300555x597876304068739100",
+"title":"Russel Road Regeneration is part of Green Micro-enterprise"
+    }
+,{
+        "label": "is part of",
+        "from": "1722465641736x137406538585803200",
+        "to": "1723444174252x498956275029901300",
+"strength":1,
+"connection subtype":"is part of",
+"description":"",
+"connection type":"is part of",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1723623329930x950054267007008800",
+"url":"https://www.catalist.network/trove-space/citizen-connect?connection=1723623329930x950054267007008800",
+"title":"MES Gqeberha is part of Green Micro-enterprise"
+    }
+,{
+        "label": "is part of",
+        "from": "1722465692052x717671027389729200",
+        "to": "1723444149089x827054486218080300",
+"strength":1,
+"connection subtype":"is part of",
+"description":"",
+"connection type":"is part of",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1723623381219x329765518112194560",
+"url":"https://www.catalist.network/trove-space/citizen-connect?connection=1723623381219x329765518112194560",
+"title":"St Francis United FC is part of Education"
+    }
+,{
+        "label": "is part of",
+        "from": "1722465684132x218535319003990900",
+        "to": "1723444131200x281633586246582270",
+"strength":1,
+"connection subtype":"is part of",
+"description":"",
+"connection type":"is part of",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1723623406596x960149049653329900",
+"url":"https://www.catalist.network/trove-space/citizen-connect?connection=1723623406596x960149049653329900",
+"title":"SPHER3 is part of Health"
+    }
 
  ]
 }
