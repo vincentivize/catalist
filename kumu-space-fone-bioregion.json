@@ -1,6 +1,12 @@
 {
   "elements": [
 {
+  "label": "Attribute",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1683760566455x232838937608571100/attribute-black.png",
+"id":"",
+"type":"Object Type",
+"description":"Semantic tags such as New York (State) or No Poverty (SDG) that categorize information on Catalist"
+},{
   "label": "Object Type",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"Object Type",
@@ -44,6 +50,24 @@
 "id":"Solution",
 "type":"Object Type",
 "description":"Answers or fixes to problems"
+},{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Object Type",
+"description":"Something that can be used to solve a problem"
+},{
+"label":"Section",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"id":"Section",
+"type":"Object Type",
+"description":"Distinct parts of a document or website"
+},{
+"label":"Resources",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100135772x896296205222999300/010-browser-1.svg",
+"id":"1690311308190x556156605122591940",
+"type":"Attribute",
+"color":""
 },
 {
         "id": "1731432547801x801585777345462000",
@@ -813,6 +837,54 @@
 "objects above":[],
 "related objects":[], 
 "label":"Forests of the Northeast Bioregional Regeneration Forum"
+    },{
+        "id": "1731435846907x185835498663313400",
+"url":"https://kumu.io/vincentarena/fone-catalist",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731435846907x185835498663313400&view=Page&tab=Object",
+"image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"attribute-tags":"Resources",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[], 
+"label":"Fone Test Kumu"
+    },{
+        "id": "1731435851798x430310211933437950",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731435851798x430310211933437950&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"attribute-tags":"",
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[], 
+"label":"New Section"
     }
 ],
 
