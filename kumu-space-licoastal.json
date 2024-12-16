@@ -1,6 +1,12 @@
 {
   "elements": [
 {
+  "label": "Attribute",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1683760566455x232838937608571100/attribute-black.png",
+"id":"",
+"type":"Object Type",
+"description":"Semantic tags such as New York (State) or No Poverty (SDG) that categorize information on Catalist"
+},{
   "label": "Object Type",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"Object Type",
@@ -44,6 +50,42 @@
 "id":"Species",
 "type":"Object Type",
 "description":""
+},{
+"label":"Section",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"id":"Section",
+"type":"Object Type",
+"description":"Distinct parts of a document or website"
+},{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Object Type",
+"description":"An time-bound idea or initiative of any stage"
+},{
+"label":"Page",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647216291x288368323038569600/page.svg",
+"id":"Page",
+"type":"Object Type",
+"description":"Individual parts of a website or document with rich-text information"
+},{
+"label":"Projects",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100131051x613769878512967700/rocket.png",
+"id":"1689950584033x319560599379523840",
+"type":"Attribute",
+"description":"A project is an individual or collaborative initiative that is intended to achieve a particular aim.",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1689950584033x319560599379523840",
+"color":""
+},{
+"label":"Pages",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100118706x779768479376600400/webpage.svg",
+"id":"1696231227732x819733185131476600",
+"type":"Attribute",
+"description":"",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1696231227732x819733185131476600",
+"color":""
 },
 {
         "id": "1734314780123x878037215044230700",
@@ -1338,7 +1380,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":["1734315265310x910793291566799700"],
 
 "label":"Amber Waves Farm - Our Story"
     },{
@@ -1365,7 +1407,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":["1734315254591x937561709103462800"],
 
 "label":"Garden of Eve Organic Farm - Our Story"
     },{
@@ -1392,7 +1434,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":["1734315267891x164763908370897380"],
 
 "label":"Sang Lee Farms - Our Story"
     },{
@@ -1419,7 +1461,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":["1734315261643x669987179895439400"],
 
 "label":"Deep Roots Farm - Our Story"
     },{
@@ -1446,7 +1488,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":["1734315253280x740366668719828200"],
 
 "label":"Acabonac Farms - Our Story"
     },{
@@ -1473,7 +1515,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":["1734315263321x103185531478911180"],
 
 "label":"Sylvester Manor Educational Farm - The Farm"
     },{
@@ -1551,7 +1593,7 @@
 "draft":"no",
 "page_text":"",
 "summary":"Want a beautiful yard without all the chemicals? Yes, it's possible. And it's good for the Great South Bay too. Join our free Speaker Series webinar featuring Long Island native planting experts Matt Gettinger of Long Island Natives, Frank Piccininni & Anthony Marinello, for a discussion on how you can create a bay-friendly yard.",
-"description":"",
+"description":"[[youtube/5e0LxHcttRw]]",
 "size":"",
 "objects above":[],
 "related objects":[],
@@ -2367,6 +2409,150 @@
 "related objects":[],
 
 "label":"Kemp\"s Ridley Sea Turtle"
+    },{
+        "id": "1734322299975x793232910535098400",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1734026198081x234674025482158100&current_object=1734322299975x793232910535098400&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"About This Ecosystem Map"
+    },{
+        "id": "1734322536860x780538702109343700",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1734026198081x234674025482158100&current_object=1734322536860x780538702109343700&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Projects"
+    },{
+        "id": "1734322897775x233560108758728700",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1734026198081x234674025482158100&current_object=1734322897775x233560108758728700&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
+"topics":[],
+"tags":["Projects"],
+"space-tags":[],
+"attribute-ids":["1689950584033x319560599379523840"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"An event to bring together organizations from around Long Island to discuss a 5 year plan for regenerating the region, building on top of the momentum of Cooperation Long Island",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],"Project Plan":"Jan - Build Team\nFeb - Outline Event\nMarch - Reach out to stakeholders\nApril - Initial meetings to define structure and partners\nMay - Invitations for attendees\nJune - Event planning\nJuly - Event Hosted\nAugust - Reflection and Synthesis of learnings\nSept - Release learnings report",
+"What are your main concerns?":"The timeline is a bit ambitious and i wonder if the event should be smaller or pushed back to be most successful",
+"What are your main questions?":"What are the main outcomes of this event and who is deciding that?",
+"Vote On Proposed Funding Amount":"Concern",
+"What are your main concerns?":"Ensuring the chosen project and its implementation is aligned with the needs of the most vulnerable in our community via the invitations to stakeholders and attendees",
+"What are your main questions?":"How can we best measure success for the event and the project in terms of 'resilience', 'regeneration' and 'cooperation'?\n\nWho is the main audience for our learnings report?",
+"Vote On Proposed Funding Amount":"Consent",
+"What are your main concerns?":"Have we considered how to make this event as close to zero-waste as possible?",
+"Vote On Proposed Funding Amount":"Concern",
+"What are your main questions?":"Can we \"site\" this event in a way the reinforces connection to its local landscape?",
+
+"label":"Long Island Regeneration and Resilience Event"
+    },{
+        "id": "1734360092717x494987234016493600",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1734026198081x234674025482158100&current_object=1734360092717x494987234016493600&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Design School 12/16/24 Meeting"
+    },{
+        "id": "1734360238990x603384980163788800",
+"url":"https://miro.com/welcomeonboard/a202TUQvYTNEcWRZVmhGVUFlK1V2b2FKdzYxajEwSUhDeG9HdlhVTUhQajlSdkI4KzZXVXNWcmdMWGloNVYrODBxek8xbjBjODlXWGNQNGhXSEYxK1JQTEUwVmJ3SEhGb2QveWU1V2pPMEx5RTFpbnZZWmlNR1BkMUlwcmlWWXEhZQ==?share_link_id=849170457174",
+"object url":"https://www.catalist.network/community?space=1734026198081x234674025482158100&current_object=1734360238990x603384980163788800&view=Page&tab=Object",
+"image":"https://static-website.miro.com/miro-site-auth-assets/og-image.png",
+"type":"Page",
+"topics":[],
+"tags":["Pages"],
+"space-tags":[],
+"attribute-ids":["1696231227732x819733185131476600"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":["1734360092717x494987234016493600"],
+"related objects":[],
+
+"label":"OMNI Mapping Assessment For LICB"
     }
 ],
 
