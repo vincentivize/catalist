@@ -27,17 +27,23 @@
 "type":"Object Type",
 "description":"People who are verified members of a group or event"
 },{
-"label":"Idea",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1716405842562x791736950618687700/idea%20%283%29.png",
-"id":"Idea",
+"label":"Initiative",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1731610039381x742065491541500400/lightning.png",
+"id":"Initiative",
 "type":"Object Type",
-"description":"An idea or suggestion"
+"description":""
 },{
 "label":"Place",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
 "id":"Place",
 "type":"Object Type",
 "description":"Places are locations of interest, geographical spots."
+},{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Object Type",
+"description":"Something that can be used to solve a problem"
 },{
 "label":"Group",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962369452x518543624459538500/multiple-users-silhouette.png",
@@ -51,28 +57,43 @@
 "type":"Object Type",
 "description":"Answers or fixes to problems"
 },{
-"label":"Resource",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
-"id":"Resource",
-"type":"Object Type",
-"description":"Something that can be used to solve a problem"
-},{
 "label":"Section",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
 "id":"Section",
 "type":"Object Type",
 "description":"Distinct parts of a document or website"
 },{
-"label":"Sector",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
-"id":"Sector",
+"label":"Framework",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961862254x222849054047916000/framework.svg",
+"id":"Framework",
 "type":"Object Type",
-"description":"Main sectors of society"
+"description":"A framework is a structured collection of related sectors or categories used to organize and analyze data or pursue a process. By providing a process of narrowing focus, it can help spark inspiration and generate, evaluate and prioritize ideas. Frameworks can also be used to guide decision-making, communicate complex ideas, and assist attainment of a specific goal or objective."
 },{
 "label":"Resources",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100135772x896296205222999300/010-browser-1.svg",
 "id":"1690311308190x556156605122591940",
 "type":"Attribute",
+"description":"A resource refers to all that is available virtually or in our environment which are technologically accessible, economically feasible and culturally sustainable and help us to satisfy our needs and wants.",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1690311308190x556156605122591940",
+"color":""
+},{
+"label":"Organizations",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100117251x280445081281156740/039-building-1.svg",
+"id":"1689950587072x126998406590484340",
+"type":"Attribute",
+"description":"An established entity or formal body of people with a particular purpose, especially a business, society, association, etc.",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1689950587072x126998406590484340",
+"color":""
+},{
+"label":"Members",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100103354x888949089143539000/member-card.svg",
+"id":"1695444797436x373186649656771100",
+"type":"Attribute",
+"description":"A list of members (non-user) of a group. This could be a list of people in your groups CRM",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1695444797436x373186649656771100",
 "color":""
 },
 {
@@ -83,7 +104,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -91,13 +113,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Catalist"
     },{
         "id": "1731433754858x143593465114587150",
@@ -107,7 +131,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -115,13 +140,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"The Wellspring Commons Stewards Inc."
     },{
         "id": "1731433757421x859448969748322300",
@@ -131,7 +158,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -139,23 +167,29 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"What is your current relationship with this person?":"Met before",
+"What do you appreciate most about this person/organization?":"From my short time knowing Bill, I can tell that he's supportive of new ideas and exploring possibilities",
+"What is your current relationship with this person?":"Currently collaborating",
+"If you know them, how did you meet this person?":"At my first meeting with the Connecticut River Valley Bioregional Collaborative",
+
 "label":"Bill Baue (Sage)"
     },{
         "id": "1731433759663x768850925105829200",
 "url":"",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731433759663x768850925105829200&view=Page&tab=Object",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1716405842562x791736950618687700/idea%20%283%29.png",
-"type":"Idea",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1731610039381x742065491541500400/lightning.png",
+"type":"Initiative",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -163,13 +197,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Northeast BioEconomy Initiative"
     },{
         "id": "1731433988489x852874880692081400",
@@ -179,7 +215,8 @@
 "type":"Place",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of place"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -187,13 +224,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Alliance for the Mystic River Watershed"
     },{
         "id": "1731433995350x755408411960438900",
@@ -203,7 +242,8 @@
 "type":"Place",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of place"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -211,13 +251,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"The Wellspring Commons Stewards, Inc."
     },{
         "id": "1731433999909x146776346332150530",
@@ -227,7 +269,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -235,13 +278,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Capital Institute"
     },{
         "id": "1731434002452x202392993158281540",
@@ -251,7 +296,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -259,13 +305,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Regenesis"
     },{
         "id": "1731434015883x489107980110209860",
@@ -275,7 +323,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -283,13 +332,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Bloom Network"
     },{
         "id": "1731434020767x786279439225983100",
@@ -299,7 +350,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -307,13 +359,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"AT Global"
     },{
         "id": "1731434028967x607781185991933300",
@@ -323,7 +377,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -331,13 +386,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Aton Forest"
     },{
         "id": "1731434036168x248643973446133220",
@@ -347,7 +404,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Shutesbury, MA, USA",
@@ -355,13 +413,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Sirius Ecovillage and Education Center"
     },{
         "id": "1731434049205x843686499991707800",
@@ -371,7 +431,8 @@
 "type":"Group",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of Practice"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -379,13 +440,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Design School for Regenerating Earth"
     },{
         "id": "1731434053290x410727573721668900",
@@ -395,7 +458,8 @@
 "type":"Place",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Locality"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -403,23 +467,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Connecticut River Watershed"
     },{
         "id": "1731434255833x898479935151011100",
 "url":"https://www.mptn-nsn.gov",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731434255833x898479935151011100&view=Page&tab=Object",
 "image":"https://www.mptn-nsn.gov/wp-content/uploads/MPCD_wht_text-Modified-01.svg",
-"type":"Place",
+"type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of place"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -427,23 +494,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"The Mashantucket Pequot Tribal Nation, one of America’s oldest tribes, shares its culture and history through a museum in Connecticut.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Mashantucket Pequot Tribal Nation"
     },{
         "id": "1731434258495x874254188075188900",
 "url":"https://www.easternpequottribalnation.org",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731434258495x874254188075188900&view=Page&tab=Object",
 "image":"https://static.wixstatic.com/media/1791aa_28a2a96e898742129618ea57841df84d~mv2.png/v1/fill/w_73,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png",
-"type":"Place",
+"type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of place"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -451,13 +521,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"The Eastern Pequot Tribal Nation is a Connecticut-based Native American tribe descended from the Pequot people.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Eastern Pequot Tribal Nation"
     },{
         "id": "1731434261235x978474963596423400",
@@ -467,7 +539,8 @@
 "type":"Place",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of place"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -475,13 +548,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"An initiative fostering collaboration among the middle and lower Connecticut River watershed communities.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Connecticut River Valley Bioregioning Collaborative"
     },{
         "id": "1731434263375x583455335612845200",
@@ -491,7 +566,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -499,13 +575,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"BioFi is a collective supporting bioregions in building Bioregional Financing Facilities to link financial resources with regenerative efforts.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"BioFi"
     },{
         "id": "1731434265144x377190879893166000",
@@ -515,7 +593,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -523,13 +602,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Regen Foundation supports diverse communities with technologies and ideas for ecological, economic, and human well-being.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Regen Foundation"
     },{
         "id": "1731434267576x757044809239404900",
@@ -539,7 +620,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"110 Pequot Trail, MASHANTUCKET, CT 06338, USA",
@@ -547,13 +629,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Mashantucket Pequot Museum"
     },{
         "id": "1731434269237x933921508147028600",
@@ -563,7 +647,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"124 Old Mill Rd, Greenwich, CT 06831, USA",
@@ -571,13 +656,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Foundation House is a local resource for events and discussions on critical social issues.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Foundation House"
     },{
         "id": "1731434273307x725479302977178200",
@@ -587,7 +674,8 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -595,13 +683,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"r3.0 promotes global redesign for resilience and regeneration through open-source recommendations across various sectors.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"r3.0"
     },{
         "id": "1731434275727x665424005851397400",
@@ -611,7 +701,8 @@
 "type":"Group",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of Practice"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -619,13 +710,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Soil & Climate Initiative offers a farm-to-shelf regenerative agriculture program with third-party verification options.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Soil & Climate Initiative"
     },{
         "id": "1731434279106x989066138112638200",
@@ -635,7 +728,8 @@
 "type":"Group",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of Practice"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -643,13 +737,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"A map visualizing people collaborating to co-create funding ecosystems for regenerative projects.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"CoFundEco"
     },{
         "id": "1731434283579x871257528139148800",
@@ -659,7 +755,8 @@
 "type":"Group",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of Practice"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -667,13 +764,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Exploring a Knowledge Commons to support regenerative efforts in the northeastern bioregion.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"NE Bioregional Knowledge Commons"
     },{
         "id": "1731434285727x196556229173723940",
@@ -683,7 +782,8 @@
 "type":"Group",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of Practice"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Norway, ME 04268, USA",
@@ -691,13 +791,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Our mission is to engage the community in addressing the climate emergency. We organize, educate, take direct action, and implement practical, ecological solutions for a just transition to a thriving, regenerative economy. ",
-"description":"\n",
+"description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Center for an Ecology-Based Economy"
     },{
         "id": "1731434288696x663061970578022000",
@@ -707,7 +809,8 @@
 "type":"Group",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Community of Practice"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -715,23 +818,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"The Regenerative Knowledge Commons is an open-source, wiki-based platform for collectively generating knowledge about regenerative commoning.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Regenerative Knowledge Commons"
     },{
         "id": "1731434290927x646017881401121900",
 "url":"https://docs.google.com/spreadsheets/d/1k_sECwW4fge6kf00DhK34Vur5RWeZjT32ocm1k57UDI/edit?gid=1968125984#gid=1968125984",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731434290927x646017881401121900&view=Page&tab=Object",
 "image":"https://lh7-us.googleusercontent.com/docs/AHkbwyIDmm9OvCA1Omk0GNJFBTtJJJRylCVGHtz183o6VJoITj7xX7xF5FvfeYxRFezbPoo0mW8rqBYEVx-VzRFx7YJdgXNY10ba5w-d2iKRd6gsFrruEDHS=w1200-h630-p",
-"type":"Idea",
+"type":"Initiative",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -739,23 +845,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"A project focused on bioregional food and biomaterials economies, emphasizing equity and ecological health.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Northeast BioEconomy Initiative"
     },{
         "id": "1731434293630x720339670149092700",
 "url":"",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731434293630x720339670149092700&view=Page&tab=Object",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1716405842562x791736950618687700/idea%20%283%29.png",
-"type":"Idea",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1731610039381x742065491541500400/lightning.png",
+"type":"Initiative",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Shutesbury, MA, USA",
@@ -763,23 +872,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"A project exploring the establishment of a Bioregional Learning Center at the Sirius Ecovillage and Education Center.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Sirius BLC"
     },{
         "id": "1731434295865x727712036779655200",
 "url":"https://kumu.io/bp8/cofundeco#co-creating-funding-ecosystems-for-regeneration/all-data/95017?focus=1",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731434295865x727712036779655200&view=Page&tab=Object",
 "image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
-"type":"Idea",
+"type":"Initiative",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -787,23 +899,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Forests of the Northeast explores regenerative bioregioning across the northeastern USA and parts of Canada.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Forests of the Northeast"
     },{
         "id": "1731434298325x504726574349312300",
 "url":"https://explorer.gitcoin.co/#/round/42220/18/13",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731434298325x504726574349312300&view=Page&tab=Object",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1716405842562x791736950618687700/idea%20%283%29.png",
-"type":"Idea",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1731610039381x742065491541500400/lightning.png",
+"type":"Initiative",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -811,13 +926,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"The Dawnlands Bioregioning Collective is exploring bioregional financing for the Northeastern US and parts of Canada.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Northeast Bioregional Finance (Ne BioFi)"
     },{
         "id": "1731434303400x678174351901437100",
@@ -827,7 +944,8 @@
 "type":"Solution",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -835,13 +953,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"BioFi has held gatherings with regional initiatives to explore developing a Bioregional Financing Facility.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Forests of the Northeast Bioregional Regeneration Forum"
     },{
         "id": "1731435846907x185835498663313400",
@@ -851,7 +971,8 @@
 "type":"Resource",
 "topics":[],
 "tags":["Resources"],
-"attribute-tags":"Resources",
+"space-tags":[],
+"attribute-ids":["1690311308190x556156605122591940"],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -859,13 +980,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Fone Test Kumu"
     },{
         "id": "1731441403820x321943102305861600",
@@ -875,7 +998,8 @@
 "type":"Section",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -883,13 +1007,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Organizations Groups & Initiatives"
     },{
         "id": "1731449855723x277837145940372800",
@@ -899,7 +1025,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -907,13 +1034,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"What is your current relationship with this person?":"Never met",
+
 "label":"Amelia Tracy"
     },{
         "id": "1731449857015x891750579719825600",
@@ -923,7 +1052,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -931,13 +1061,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Tom Murtha"
     },{
         "id": "1731449858821x222577321886531900",
@@ -947,7 +1079,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -955,13 +1088,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Billy Gridley"
     },{
         "id": "1731449860142x447400086752512300",
@@ -971,7 +1106,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -979,13 +1115,16 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"What is your current relationship with this person?":"Met before",
+"What do you appreciate most about this person/organization?":"I appreciate how Ben likes to get his hands dirty in the tools he uses but he's way more focused on connecting with people, building relationships, and making great connections for others!",
+
 "label":"Ben Roberts"
     },{
         "id": "1731449861515x888421933230017800",
@@ -995,7 +1134,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1003,13 +1143,17 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"What is your current relationship with this person?":"Currently collaborating",
+"If you know them, how did you meet this person?":"At a bioregioning event at Sirius ",
+"What do you appreciate most about this person/organization?":"Nicoles, knowledge, experience, vision and enthusiasm",
+
 "label":"Nicole Negowetti"
     },{
         "id": "1731449863036x518371146608178640",
@@ -1019,7 +1163,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Litchfield, CT, USA",
@@ -1027,13 +1172,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Keetu Winter"
     },{
         "id": "1731449864794x183817951804985400",
@@ -1043,7 +1190,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1051,23 +1199,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Syd Harvey Griffith"
     },{
         "id": "1731449866391x859508241368550100",
 "url":"https://www.vincentarena.com",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731449866391x859508241368550100&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"image":"//s3.amazonaws.com/appforest_uf/f1662071266921x839042517086788400/IMG_0798.JPG",
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"East Rockaway, NY, USA",
@@ -1075,13 +1226,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
+"summary":"Systems designer, social entrepreneur, and knowledge architect. Founder of Catalist",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Vincent Arena"
     },{
         "id": "1731449868808x791937728947972400",
@@ -1091,7 +1244,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1099,13 +1253,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Samantha Power"
     },{
         "id": "1731449871164x984165616797473500",
@@ -1115,7 +1271,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1123,13 +1280,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Rahiem Eleazer"
     },{
         "id": "1731449872926x747891278548702800",
@@ -1139,7 +1298,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Barichara, Santander, Colombia",
@@ -1147,13 +1307,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Penny Heiple"
     },{
         "id": "1731449874878x401603146831419400",
@@ -1163,7 +1325,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1171,13 +1334,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Julie Davenson"
     },{
         "id": "1731449876272x760393374329673000",
@@ -1187,7 +1352,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1195,13 +1361,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Magenta Ceiba"
     },{
         "id": "1731449877557x583565993080329500",
@@ -1211,7 +1379,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1219,13 +1388,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Michael Thomas"
     },{
         "id": "1731449879001x914970673787674000",
@@ -1235,7 +1406,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1243,13 +1415,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Maggie Favretti"
     },{
         "id": "1731449880498x719111996758713300",
@@ -1259,7 +1433,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Willington, CT, USA",
@@ -1267,13 +1442,17 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"If you know them, how did you meet this person?":"We met at the FONE meeting",
+"What is your current relationship with this person?":"Met before",
+"What do you want to learn or know about this?":"Curious about his favorite ice cream flavor",
+
 "label":"Bill Baue (Sage)"
     },{
         "id": "1731449882267x782177198018972400",
@@ -1283,7 +1462,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1291,13 +1471,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Christina Calfo"
     },{
         "id": "1731449883600x176212764280910140",
@@ -1307,7 +1489,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1315,13 +1498,16 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"What is your current relationship with this person?":"Met before",
+"What do you appreciate most about this person/organization?":"John brings an open heart and mind and a learner's mindset even to spaces where he carries deep expertise",
+
 "label":"John Fullerton"
     },{
         "id": "1731449885626x599647765486038700",
@@ -1331,7 +1517,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1339,13 +1526,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Bill Reed"
     },{
         "id": "1731449887464x137354456103557570",
@@ -1355,7 +1544,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1363,13 +1553,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Zbigniew Grabowski"
     },{
         "id": "1731449889066x988753092546927500",
@@ -1379,7 +1571,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1387,13 +1580,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Josie Watson"
     },{
         "id": "1731449890475x327011662577851650",
@@ -1403,7 +1598,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1411,13 +1607,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Jelani Fletcher"
     },{
         "id": "1731449891679x303158159319014300",
@@ -1427,7 +1625,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Shutesbury, MA, USA",
@@ -1435,13 +1634,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Marianne Connor"
     },{
         "id": "1731449893011x184160569748561540",
@@ -1451,7 +1652,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1459,13 +1661,16 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"What is your current relationship with this person?":"Met before",
+"What do you appreciate most about this person/organization?":"His article about collaborative technology was a big inspiration for me https://medium.com/enspiral-tales/doing-more-together-together-seeding-a-collaborative-technology-alliance-82243ea30d41",
+
 "label":"Edward West"
     },{
         "id": "1731449895356x751693196097610500",
@@ -1475,7 +1680,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Norway, ME 04268, USA",
@@ -1483,13 +1689,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Roberta Hill"
     },{
         "id": "1731449896561x730107582553491100",
@@ -1499,21 +1707,24 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
-"address":"",
+"address":"Amherst, MA, USA",
 "types":[],
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Rodger Mattlage"
     },{
         "id": "1731449898049x967770603526299100",
@@ -1523,7 +1734,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1531,13 +1743,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"River Strong"
     },{
         "id": "1731449899467x404687569141690700",
@@ -1547,7 +1761,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Barichara, Santander, Colombia",
@@ -1555,13 +1770,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Joe Brewer"
     },{
         "id": "1731449901317x676523388219228500",
@@ -1571,7 +1788,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1579,13 +1797,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Mixashawn Rozie"
     },{
         "id": "1731449903135x378700103994251000",
@@ -1595,7 +1815,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1603,13 +1824,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Will Szal"
     },{
         "id": "1731449904329x942274135978912900",
@@ -1619,7 +1842,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1627,13 +1851,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Mimi Sternlicht"
     },{
         "id": "1731449906178x710805368724552600",
@@ -1643,7 +1869,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"Litchfield, CT, USA",
@@ -1651,13 +1878,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Cherry Liley"
     },{
         "id": "1731449908225x696963498974551300",
@@ -1667,7 +1896,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1675,13 +1905,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Connor Stedman"
     },{
         "id": "1731449909794x248758036123831970",
@@ -1691,7 +1923,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1699,13 +1932,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Jose Vibar"
     },{
         "id": "1731449911111x232457055439685000",
@@ -1715,7 +1950,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1723,13 +1959,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Richard Zimmerman"
     },{
         "id": "1731449913179x706993905962343300",
@@ -1739,7 +1977,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1747,13 +1986,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Casco Sustainability Consulting focuses on sustainable practices for a better future.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"What is your current relationship with this person?":"Never met",
+
 "label":"Ben Titcomb"
     },{
         "id": "1731449914130x461131949962494660",
@@ -1763,7 +2004,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1771,13 +2013,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Havens for Thriving Futures engages the community on climate action for a just transition to a regenerative economy.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Nathan Bixby"
     },{
         "id": "1731449916210x636167040466119300",
@@ -1787,7 +2031,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1795,13 +2040,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Peter Jeffs Holistic focuses on holistic approaches to health and well-being.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Pete Jeffs"
     },{
         "id": "1731449917519x107892184799092120",
@@ -1811,7 +2058,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1819,23 +2067,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Rich Soil Home Investment promotes gardening and sustainable food systems within Connecticut communities.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Mike Croweak"
     },{
         "id": "1731449920636x364845905765575500",
 "url":"https://freefairandalive.org/read-it/#part2",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731449920636x364845905765575500&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
-"type":"Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961862254x222849054047916000/framework.svg",
+"type":"Framework",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Domain"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1843,23 +2094,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"The Triad of Commoning explores social relationships, governance, and provisioning within commons-based communities.",
 "description":"",
 "size":"",
-"objects above":[],
-"related objects":[], 
+"objects above":["1733410133758x702200130695331800"],
+"related objects":[],
+
 "label":"Triad of Commoning Patterns"
     },{
         "id": "1731449922137x855878709335492200",
 "url":"https://miro.com/app/board/uXjVOXYa-ao=/?moveToWidget=3458764604758497738&cot=14",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731449922137x855878709335492200&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
-"type":"Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961862254x222849054047916000/framework.svg",
+"type":"Framework",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Domain"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1867,23 +2121,26 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"This Information Architecture represents the main entities and relationships in the Regenerative Knowledge Commons.",
 "description":"",
 "size":"",
-"objects above":[],
-"related objects":[], 
+"objects above":["1733410133758x702200130695331800"],
+"related objects":[],
+
 "label":"Regenerative Knowledge Commons Information Architecture"
     },{
         "id": "1731449923587x252571082801449800",
 "url":"https://rkc.communitiesforfuture.org/index.php/Main_Page#tab=RKC_Subsystems",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731449923587x252571082801449800&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
-"type":"Sector",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961862254x222849054047916000/framework.svg",
+"type":"Framework",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":["Domain"],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1891,13 +2148,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"The Regenerative Knowledge Commons wiki serves as an entry point to the broader RKC knowledge system.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Regenerative Knowledge Commons Wiki"
     },{
         "id": "1731449925048x781626254682812800",
@@ -1907,7 +2166,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1915,13 +2175,15 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Waterfall Unity Alliance is a community-focused organization advocating for ecological and social justice.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],
+
 "label":"Sarah Bachinger"
     },{
         "id": "1731449926586x263916945748696300",
@@ -1931,7 +2193,8 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"attribute-tags":"",
+"space-tags":[],
+"attribute-ids":[],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -1939,14 +2202,448 @@
 "skills":[],
 "color":"",
 "font_color":"",
+"background_color":"",
 "draft":"no",
 "page_text":"",
 "summary":"Waterfall Center serves as a hub for Waterfall Unity Alliance's community-driven initiatives.",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[], 
+"related objects":[],"What is your current relationship with this person?":"Never met",
+
 "label":"Bethany Yarrow"
+    },{
+        "id": "1731553093974x533633860788551700",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731553093974x533633860788551700&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"The people who are participating in this bioregion.  ",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"People"
+    },{
+        "id": "1731554596714x753911688696430600",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731554596714x753911688696430600&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"A kumu network map showing the interconnections of people, organizations and initiatives in FONE.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Network Map"
+    },{
+        "id": "1731607504793x536626014681563140",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731607504793x536626014681563140&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"A geographical map of all the people and organizations in the FONE.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Geographical Map"
+    },{
+        "id": "1731965913445x262776706896232450",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731965913445x262776706896232450&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Express Interest On Connecting"
+    },{
+        "id": "1732208849602x697840444843229200",
+"url":"https://miro.com/app/board/uXjVLGfslaU=/",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1732208849602x697840444843229200&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],"What do you want to learn or know about this?":"How can we use this to define the tech stack once this initiative expands?",
+
+"label":"Miro Assessment"
+    },{
+        "id": "1732209073184x542909955702259700",
+"url":"https://www.omnimapping.org",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1732209073184x542909955702259700&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"space-tags":["Community Resources"],
+"attribute-ids":["1689950587072x126998406590484340"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"This is a sponored inititiative of BFi focused on mapping",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":["1731432547801x801585777345462000"],
+
+"label":"OMNI Mapping"
+    },{
+        "id": "1732302497799x813070165997621400",
+"url":"https://www.linkedin.com/posts/billbaue_its-a-pleasure-honor-to-help-energize-activity-7249133825933422592-4Ff2?utm_source=share&utm_medium=member_desktop",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1732302497799x813070165997621400&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961921256x624315643314057300/013-puzzle.svg",
+"type":"Solution",
+"topics":[],
+"tags":[],
+"space-tags":["Intervention"],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"BioFi has held gatherings with regional initiatives to explore developing a Bioregional Financing Facility.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Forests of the Northeast Bioregional Regeneration Forum"
+    },{
+        "id": "1733410133758x702200130695331800",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1733410133758x702200130695331800&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Domains and Content"
+    },{
+        "id": "1733410704253x450297334604759040",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1733410704253x450297334604759040&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Posts and Questions"
+    },{
+        "id": "1733775051789x878250520003215400",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1733775051789x878250520003215400&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1733774793969x137165114626037310/Bill%20Hat%20Tree%20.jpg",
+"type":"Member",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"Willington, CT, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Systems Transformation Catalyst working on bioregional resilience & regeneration as Senior Director at r3.0 (Redesign for Resilience & Regeneration) ",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],"What is your current relationship with this person?":"Currently collaborating",
+
+"label":"Bill Baue"
+    },{
+        "id": "1734455371830x976113790682136600",
+"url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/sl?focus=1",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734455371830x976113790682136600&view=Page&tab=Object",
+"image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"One of the Triads",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Social Life"
+    },{
+        "id": "1734455484007x976325288942633000",
+"url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/pg?focus=1",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734455484007x976325288942633000&view=Page&tab=Object",
+"image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"one of the Triads",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Peer Governance"
+    },{
+        "id": "1734455657801x242238054687571970",
+"url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/pr?focus=%23Provisioning%20out%201",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734455657801x242238054687571970&view=Page&tab=Object",
+"image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"One of the Triads",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Provisioning"
+    },{
+        "id": "1734521594171x975010594197602300",
+"url":"https://www.bollier.org",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734521594171x975010594197602300&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1734521583643x628758325847091800/Screen_Shot_2021-08-06_at_11.18.39_AM.png",
+"type":"Member",
+"topics":[],
+"tags":["Members"],
+"space-tags":[],
+"attribute-ids":["1695444797436x373186649656771100"],
+"sectors":[],
+"locations":[],
+"address":"Amherst, MA, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"author, activist, blogger and consultant who spends a lot of time exploring the commons as a new paradigm of economics, politics and culture.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"David Bollier"
+    },{
+        "id": "1734538366163x236520899709501440",
+"url":"https://kumu.io/rmattlage/the-triad-of-commoning",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734538366163x236520899709501440&view=Page&tab=Object",
+"image":"https://s3.amazonaws.com/cloud.kumu.io/accounts/231735/926062/3cfcba73-84a6-4fe0-903c-9bca459150f5.jpg",
+"type":"",
+"topics":[],
+"tags":["Resources"],
+"space-tags":["Domain","pattern","commons","commoning","governance","provisioning","values","purpose","content"],
+"attribute-ids":["1690311308190x556156605122591940"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"An interactive visual index to Bollier's and Helfrich's Triad of Commoning Patterns",
+"description":"",
+"size":"",
+"objects above":["1733410133758x702200130695331800"],
+"related objects":["1733410133758x702200130695331800"],
+
+"label":"The Visual Triad of Commoning Patterns"
+    },{
+        "id": "1734539402112x127017166798585860",
+"url":"https://kumu.io/rmattlage/the-triad-of-commoning",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734539402112x127017166798585860&view=Page&tab=Object",
+"image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"space-tags":[],
+"attribute-ids":["1690311308190x556156605122591940"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"test short descr",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"test \"Resource\" in(?) \"Domains and Content\""
     }
 ],
 
@@ -1963,7 +2660,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447923561x291677925070335600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447923561x291677925070335600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447923561x291677925070335600",
 "title":"Sirius Ecovillage and Education Center  Sirius BLC"
     }
 ,{
@@ -1978,7 +2675,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447975756x667669879580167400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447975756x667669879580167400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447975756x667669879580167400",
 "title":"CoFundEco  Bill Baue (Sage)"
     }
 ,{
@@ -1993,7 +2690,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447976678x562482489803326500",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447976678x562482489803326500",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447976678x562482489803326500",
 "title":"Connecticut River Valley Bioregioning Collaborative  Connecticut River Watershed"
     }
 ,{
@@ -2008,7 +2705,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447977260x528772606036991300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447977260x528772606036991300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447977260x528772606036991300",
 "title":"Connecticut River Valley Bioregioning Collaborative  Bill Baue (Sage)"
     }
 ,{
@@ -2023,7 +2720,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447977913x847625946347027200",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447977913x847625946347027200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447977913x847625946347027200",
 "title":"Connecticut River Valley Bioregioning Collaborative  CoFundEco"
     }
 ,{
@@ -2038,7 +2735,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447978485x189993767447360640",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447978485x189993767447360640",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447978485x189993767447360640",
 "title":"Connecticut River Valley Bioregioning Collaborative  NE Bioregional Knowledge Commons"
     }
 ,{
@@ -2053,7 +2750,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447979213x363828287384239360",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447979213x363828287384239360",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447979213x363828287384239360",
 "title":"Connecticut River Valley Bioregioning Collaborative  Sirius BLC"
     }
 ,{
@@ -2068,7 +2765,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447979771x177402840015339780",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447979771x177402840015339780",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447979771x177402840015339780",
 "title":"Forests of the Northeast  Bill Baue (Sage)"
     }
 ,{
@@ -2083,7 +2780,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447980333x293776634185328300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447980333x293776634185328300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447980333x293776634185328300",
 "title":"Mashantucket Pequot Tribal Nation  Mashantucket Pequot Museum"
     }
 ,{
@@ -2098,7 +2795,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447980849x740212523216783400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447980849x740212523216783400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447980849x740212523216783400",
 "title":"NE Bioregional Knowledge Commons  Bill Baue (Sage)"
     }
 ,{
@@ -2113,7 +2810,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447981566x285650962692386880",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447981566x285650962692386880",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447981566x285650962692386880",
 "title":"NE Bioregional Knowledge Commons  CoFundEco"
     }
 ,{
@@ -2128,7 +2825,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447982099x112681108433964510",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447982099x112681108433964510",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447982099x112681108433964510",
 "title":"NE Bioregional Knowledge Commons  Sirius BLC"
     }
 ,{
@@ -2143,7 +2840,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447982971x409800882982462900",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447982971x409800882982462900",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447982971x409800882982462900",
 "title":"NE Bioregional Knowledge Commons  Regenerative Knowledge Commons"
     }
 ,{
@@ -2158,7 +2855,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447983539x226821047343000350",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447983539x226821047343000350",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447983539x226821047343000350",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Bill Baue (Sage)"
     }
 ,{
@@ -2173,7 +2870,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447984018x472737024981048500",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447984018x472737024981048500",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447984018x472737024981048500",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Forests of the Northeast Bioregional Regeneration Forum"
     }
 ,{
@@ -2188,7 +2885,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447985662x292241338077279940",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447985662x292241338077279940",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447985662x292241338077279940",
 "title":"r3.0  Bill Baue (Sage)"
     }
 ,{
@@ -2203,7 +2900,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447986403x753915476584223700",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447986403x753915476584223700",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447986403x753915476584223700",
 "title":"r3.0  NE Bioregional Knowledge Commons"
     }
 ,{
@@ -2218,7 +2915,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731447987954x819359498043673300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731447987954x819359498043673300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731447987954x819359498043673300",
 "title":"Sirius BLC  Bill Baue (Sage)"
     }
 ,{
@@ -2233,7 +2930,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449957908x630938301044648600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449957908x630938301044648600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449957908x630938301044648600",
 "title":"Amelia Tracy  AT Global"
     }
 ,{
@@ -2248,7 +2945,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449958503x673703196988402200",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449958503x673703196988402200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449958503x673703196988402200",
 "title":"Bill Reed  Regenesis"
     }
 ,{
@@ -2263,7 +2960,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449959061x451053285746467100",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449959061x451053285746467100",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449959061x451053285746467100",
 "title":"Billy Gridley  Aton Forest"
     }
 ,{
@@ -2278,7 +2975,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449959629x180384144683849660",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449959629x180384144683849660",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449959629x180384144683849660",
 "title":"Christina Calfo  Foundation House"
     }
 ,{
@@ -2293,7 +2990,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449960287x579654148701786100",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449960287x579654148701786100",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449960287x579654148701786100",
 "title":"CoFundEco  Ben Roberts"
     }
 ,{
@@ -2308,7 +3005,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449961004x434772339070502300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449961004x434772339070502300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449961004x434772339070502300",
 "title":"Connecticut River Valley Bioregioning Collaborative  Ben Roberts"
     }
 ,{
@@ -2323,7 +3020,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449961540x195504197238849820",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449961540x195504197238849820",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449961540x195504197238849820",
 "title":"Connecticut River Valley Bioregioning Collaborative  Marianne Connor"
     }
 ,{
@@ -2338,7 +3035,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449962145x292303728470637560",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449962145x292303728470637560",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449962145x292303728470637560",
 "title":"Connecticut River Valley Bioregioning Collaborative  Nicole Negowetti"
     }
 ,{
@@ -2353,7 +3050,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449962903x517557682482430400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449962903x517557682482430400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449962903x517557682482430400",
 "title":"Connecticut River Valley Bioregioning Collaborative  River Strong"
     }
 ,{
@@ -2368,7 +3065,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449963523x561019430882746560",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449963523x561019430882746560",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449963523x561019430882746560",
 "title":"Connecticut River Valley Bioregioning Collaborative  Rodger Mattlage"
     }
 ,{
@@ -2383,7 +3080,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449964126x464071093097948800",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449964126x464071093097948800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449964126x464071093097948800",
 "title":"Edward West  BioFi"
     }
 ,{
@@ -2398,7 +3095,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449964780x556965455595436860",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449964780x556965455595436860",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449964780x556965455595436860",
 "title":"Forests of the Northeast  Ben Roberts"
     }
 ,{
@@ -2413,7 +3110,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449965766x768076162883213000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449965766x768076162883213000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449965766x768076162883213000",
 "title":"Forests of the Northeast  Ben Titcomb"
     }
 ,{
@@ -2428,7 +3125,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449966794x619443125705750400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449966794x619443125705750400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449966794x619443125705750400",
 "title":"Forests of the Northeast  Bethany Yarrow"
     }
 ,{
@@ -2443,7 +3140,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449967241x910542569777545600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449967241x910542569777545600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449967241x910542569777545600",
 "title":"Forests of the Northeast  Cherry Liley"
     }
 ,{
@@ -2458,7 +3155,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449967796x635362771563352000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449967796x635362771563352000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449967796x635362771563352000",
 "title":"Forests of the Northeast  Joe Brewer"
     }
 ,{
@@ -2473,7 +3170,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449968400x528630241161829300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449968400x528630241161829300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449968400x528630241161829300",
 "title":"Forests of the Northeast  Jose Vibar"
     }
 ,{
@@ -2488,7 +3185,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449968916x687845634578488400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449968916x687845634578488400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449968916x687845634578488400",
 "title":"Forests of the Northeast  Keetu Winter"
     }
 ,{
@@ -2503,7 +3200,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449969523x648845953710381000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449969523x648845953710381000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449969523x648845953710381000",
 "title":"Forests of the Northeast  Marianne Connor"
     }
 ,{
@@ -2518,7 +3215,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449970082x704140110478368900",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449970082x704140110478368900",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449970082x704140110478368900",
 "title":"Forests of the Northeast  Mike Croweak"
     }
 ,{
@@ -2533,7 +3230,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449970594x353692561902200200",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449970594x353692561902200200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449970594x353692561902200200",
 "title":"Forests of the Northeast  Nathan Bixby"
     }
 ,{
@@ -2548,7 +3245,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449971108x683644581542922400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449971108x683644581542922400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449971108x683644581542922400",
 "title":"Forests of the Northeast  Penny Heiple"
     }
 ,{
@@ -2563,7 +3260,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449971679x993799395581243000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449971679x993799395581243000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449971679x993799395581243000",
 "title":"Forests of the Northeast  Pete Jeffs"
     }
 ,{
@@ -2578,7 +3275,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449972186x385050871581005300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449972186x385050871581005300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449972186x385050871581005300",
 "title":"Forests of the Northeast  Roberta Hill"
     }
 ,{
@@ -2593,7 +3290,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449972612x138011028494347220",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449972612x138011028494347220",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449972612x138011028494347220",
 "title":"Forests of the Northeast  Rodger Mattlage"
     }
 ,{
@@ -2608,7 +3305,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449973179x657901312510007300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449973179x657901312510007300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449973179x657901312510007300",
 "title":"Forests of the Northeast  Sarah Bachinger"
     }
 ,{
@@ -2623,7 +3320,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449973747x671582347320791800",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449973747x671582347320791800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449973747x671582347320791800",
 "title":"Jelani Fletcher  Eastern Pequot Tribal Nation"
     }
 ,{
@@ -2638,7 +3335,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449975708x170698880855008960",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449975708x170698880855008960",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449975708x170698880855008960",
 "title":"Joe Brewer  Design School for Regenerating Earth"
     }
 ,{
@@ -2653,7 +3350,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449976386x570625384734999600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449976386x570625384734999600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449976386x570625384734999600",
 "title":"John Fullerton  Capital Institute"
     }
 ,{
@@ -2668,7 +3365,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449977097x744555927601890300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449977097x744555927601890300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449977097x744555927601890300",
 "title":"Magenta Ceiba  Bloom Network"
     }
 ,{
@@ -2683,7 +3380,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449977661x966087801976183200",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449977661x966087801976183200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449977661x966087801976183200",
 "title":"Maggie Favretti  Alliance for the Mystic River Watershed"
     }
 ,{
@@ -2698,7 +3395,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449978320x118230469804014860",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449978320x118230469804014860",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449978320x118230469804014860",
 "title":"Marianne Connor  Sirius Ecovillage and Education Center"
     }
 ,{
@@ -2713,7 +3410,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449979531x834626593039179600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449979531x834626593039179600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449979531x834626593039179600",
 "title":"Michael Thomas  Mashantucket Pequot Museum"
     }
 ,{
@@ -2728,7 +3425,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449980031x687194134513388500",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449980031x687194134513388500",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449980031x687194134513388500",
 "title":"Mimi Sternlicht  Foundation House"
     }
 ,{
@@ -2743,7 +3440,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449980738x375743680298201300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449980738x375743680298201300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449980738x375743680298201300",
 "title":"NE Bioregional Knowledge Commons  Nicole Negowetti"
     }
 ,{
@@ -2758,7 +3455,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449981265x452379952943204900",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449981265x452379952943204900",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449981265x452379952943204900",
 "title":"NE Bioregional Knowledge Commons  Rodger Mattlage"
     }
 ,{
@@ -2773,7 +3470,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449981775x974045563696108000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449981775x974045563696108000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449981775x974045563696108000",
 "title":"NE Bioregional Knowledge Commons  Triad of Commoning Patterns"
     }
 ,{
@@ -2788,7 +3485,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449982384x644724604120084700",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449982384x644724604120084700",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449982384x644724604120084700",
 "title":"Northeast BioEconomy Initiative  Josie Watson"
     }
 ,{
@@ -2803,7 +3500,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449982931x322276027909880800",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449982931x322276027909880800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449982931x322276027909880800",
 "title":"Northeast BioEconomy Initiative  Julie Davenson"
     }
 ,{
@@ -2818,7 +3515,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449983450x219664450418413760",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449983450x219664450418413760",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449983450x219664450418413760",
 "title":"Northeast BioEconomy Initiative  Magenta Ceiba"
     }
 ,{
@@ -2833,7 +3530,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449983971x203236153334623420",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449983971x203236153334623420",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449983971x203236153334623420",
 "title":"Northeast BioEconomy Initiative  Zbigniew Grabowski"
     }
 ,{
@@ -2848,7 +3545,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449984721x640296060774222300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449984721x640296060774222300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449984721x640296060774222300",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Amelia Tracy"
     }
 ,{
@@ -2863,7 +3560,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449985585x947636944632710700",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449985585x947636944632710700",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449985585x947636944632710700",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Ben Roberts"
     }
 ,{
@@ -2878,7 +3575,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449986192x147350376242725730",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449986192x147350376242725730",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449986192x147350376242725730",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Bill Reed"
     }
 ,{
@@ -2893,7 +3590,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449986748x334811486278695940",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449986748x334811486278695940",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449986748x334811486278695940",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Billy Gridley"
     }
 ,{
@@ -2908,7 +3605,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449988083x813100474680983800",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449988083x813100474680983800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449988083x813100474680983800",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Cherry Liley"
     }
 ,{
@@ -2923,7 +3620,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449989167x393100287927549600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449989167x393100287927549600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449989167x393100287927549600",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Christina Calfo"
     }
 ,{
@@ -2938,7 +3635,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449989738x301244109240066400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449989738x301244109240066400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449989738x301244109240066400",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Connor Stedman"
     }
 ,{
@@ -2953,7 +3650,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449990288x145912405595531870",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449990288x145912405595531870",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449990288x145912405595531870",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Edward West"
     }
 ,{
@@ -2968,7 +3665,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449990850x751965600252133500",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449990850x751965600252133500",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449990850x751965600252133500",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Jelani Fletcher"
     }
 ,{
@@ -2983,7 +3680,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449991420x812570225568749400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449991420x812570225568749400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449991420x812570225568749400",
 "title":"Northeast Bioregional Finance (Ne BioFi)  John Fullerton"
     }
 ,{
@@ -2998,7 +3695,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449992051x359929541406283300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449992051x359929541406283300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449992051x359929541406283300",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Josie Watson"
     }
 ,{
@@ -3013,7 +3710,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449992623x526438961814415600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449992623x526438961814415600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449992623x526438961814415600",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Julie Davenson"
     }
 ,{
@@ -3028,7 +3725,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449993166x571353242470815000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449993166x571353242470815000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449993166x571353242470815000",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Keetu Winter"
     }
 ,{
@@ -3043,7 +3740,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449993615x937437527505233800",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449993615x937437527505233800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449993615x937437527505233800",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Magenta Ceiba"
     }
 ,{
@@ -3058,7 +3755,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449994111x722286805440488700",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449994111x722286805440488700",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449994111x722286805440488700",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Maggie Favretti"
     }
 ,{
@@ -3073,7 +3770,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449994508x525201816639725000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449994508x525201816639725000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449994508x525201816639725000",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Marianne Connor"
     }
 ,{
@@ -3088,7 +3785,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449995655x851328585665429600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449995655x851328585665429600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449995655x851328585665429600",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Michael Thomas"
     }
 ,{
@@ -3103,7 +3800,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449996284x594429976848250400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449996284x594429976848250400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449996284x594429976848250400",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Mimi Sternlicht"
     }
 ,{
@@ -3118,7 +3815,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449996742x567525078863497540",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449996742x567525078863497540",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449996742x567525078863497540",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Mixashawn Rozie"
     }
 ,{
@@ -3133,7 +3830,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449997632x703614516626428300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449997632x703614516626428300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449997632x703614516626428300",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Rahiem Eleazer"
     }
 ,{
@@ -3148,7 +3845,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449998091x106797199922016530",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449998091x106797199922016530",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449998091x106797199922016530",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Richard Zimmerman"
     }
 ,{
@@ -3163,7 +3860,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449998687x226045630762096160",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449998687x226045630762096160",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449998687x226045630762096160",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Roberta Hill"
     }
 ,{
@@ -3178,7 +3875,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449999274x453796648558553200",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449999274x453796648558553200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449999274x453796648558553200",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Samantha Power"
     }
 ,{
@@ -3193,7 +3890,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731449999730x646445395303806300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731449999730x646445395303806300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449999730x646445395303806300",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Tom Murtha"
     }
 ,{
@@ -3208,7 +3905,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450000251x589195618400073100",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450000251x589195618400073100",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450000251x589195618400073100",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Vincent Arena"
     }
 ,{
@@ -3223,7 +3920,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450000841x518710141692260800",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450000841x518710141692260800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450000841x518710141692260800",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Will Szal"
     }
 ,{
@@ -3238,7 +3935,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450001253x632701376636060100",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450001253x632701376636060100",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450001253x632701376636060100",
 "title":"Northeast Bioregional Finance (Ne BioFi)  Zbigniew Grabowski"
     }
 ,{
@@ -3253,7 +3950,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450001782x839807908051534800",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450001782x839807908051534800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450001782x839807908051534800",
 "title":"Penny Heiple  Design School for Regenerating Earth"
     }
 ,{
@@ -3268,7 +3965,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450002564x430155118758159600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450002564x430155118758159600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450002564x430155118758159600",
 "title":"r3.0  Tom Murtha"
     }
 ,{
@@ -3283,7 +3980,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450003168x433184027279304600",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450003168x433184027279304600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450003168x433184027279304600",
 "title":"Rahiem Eleazer  Alliance for the Mystic River Watershed"
     }
 ,{
@@ -3298,7 +3995,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450003961x145788567165863200",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450003961x145788567165863200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450003961x145788567165863200",
 "title":"Rahiem Eleazer  Eastern Pequot Tribal Nation"
     }
 ,{
@@ -3313,7 +4010,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450004680x913256240746703400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450004680x913256240746703400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450004680x913256240746703400",
 "title":"Regenerative Knowledge Commons  Regenerative Knowledge Commons Wiki"
     }
 ,{
@@ -3328,7 +4025,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450005448x837159884862611000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450005448x837159884862611000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450005448x837159884862611000",
 "title":"Regenerative Knowledge Commons Wiki  Regenerative Knowledge Commons Information Architecture"
     }
 ,{
@@ -3343,7 +4040,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450006038x966045137266721400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450006038x966045137266721400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450006038x966045137266721400",
 "title":"Richard Zimmerman  Foundation House"
     }
 ,{
@@ -3358,7 +4055,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450006482x175303895269576670",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450006482x175303895269576670",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450006482x175303895269576670",
 "title":"Roberta Hill  Center for an Ecology-Based Economy"
     }
 ,{
@@ -3373,7 +4070,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450007149x858564658508474000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450007149x858564658508474000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450007149x858564658508474000",
 "title":"Samantha Power  BioFi"
     }
 ,{
@@ -3388,7 +4085,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450007587x685748780466611300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450007587x685748780466611300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450007587x685748780466611300",
 "title":"Sirius BLC  Marianne Connor"
     }
 ,{
@@ -3403,7 +4100,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450008201x659907680411057500",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450008201x659907680411057500",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450008201x659907680411057500",
 "title":"Soil & Climate Initiative  Julie Davenson"
     }
 ,{
@@ -3418,7 +4115,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450008683x905247219326645900",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450008683x905247219326645900",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450008683x905247219326645900",
 "title":"The Wellspring Commons Stewards Inc.  Cherry Liley"
     }
 ,{
@@ -3433,7 +4130,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450010397x943663208893789000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450010397x943663208893789000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450010397x943663208893789000",
 "title":"The Wellspring Commons Stewards Inc.  Keetu Winter"
     }
 ,{
@@ -3448,7 +4145,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450011353x583263685597580300",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450011353x583263685597580300",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450011353x583263685597580300",
 "title":"The Wellspring Commons Stewards Inc.  Tom Murtha"
     }
 ,{
@@ -3463,7 +4160,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450011952x629542792888038100",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450011952x629542792888038100",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450011952x629542792888038100",
 "title":"Vincent Arena  Catalist"
     }
 ,{
@@ -3478,7 +4175,7 @@
 "type":"",
 "direction":"directed",
 "id":"1731450012489x973241507526946000",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450012489x973241507526946000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450012489x973241507526946000",
 "title":"Will Szal  Regen Foundation"
     }
 ,{
@@ -3493,8 +4190,143 @@
 "type":"",
 "direction":"directed",
 "id":"1731450012966x946411277811716400",
-"url":"https://www.catalist.network/trove-space/fone-bioregion?connection=1731450012966x946411277811716400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731450012966x946411277811716400",
 "title":"Zbigniew Grabowski  Alliance for the Mystic River Watershed"
+    }
+,{
+        "label": "is interested in connecting with",
+        "from": "",
+        "to": "1731449926586x263916945748696300",
+"strength":1,
+"connection subtype":"is interested in connecting with",
+"description":"I'd like to talk to Bethany about how she's managing the community initiatives and calendar",
+"connection type":"is interested in connecting with",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1731965969104x304006039926210560",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731965969104x304006039926210560",
+"title":" is interested in connecting with Bethany Yarrow"
+    }
+,{
+        "label": "is interested in connecting with",
+        "from": "1731449866391x859508241368550100",
+        "to": "1731449880498x719111996758713300",
+"strength":1,
+"connection subtype":"is interested in connecting with",
+"description":"Excited to learn more about r3.0",
+"connection type":"is interested in connecting with",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1731966156428x631129181837852700",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731966156428x631129181837852700",
+"title":"Vincent Arena is interested in connecting with Bill Baue (Sage)"
+    }
+,{
+        "label": "should connect with",
+        "from": "1731449893011x184160569748561540",
+        "to": "1731449855723x277837145940372800",
+"strength":1,
+"connection subtype":"should connect with",
+"description":"i think they'd get along",
+"connection type":"should connect with",
+"one-way":"no",
+"type":"",
+"direction":"undirected",
+"id":"1732208634715x562309483741577200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1732208634715x562309483741577200",
+"title":"Edward West should connect with Amelia Tracy"
+    }
+,{
+        "label": "is collaborating with",
+        "from": "1731449861515x888421933230017800",
+        "to": "1731449896561x730107582553491100",
+"strength":1,
+"connection subtype":"is collaborating with",
+"description":"We are exploring ideas around knowledge commons in service to regenerative initiatives in bioregions",
+"connection type":"is collaborating with",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1732403816724x621960075240276000",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1732403816724x621960075240276000",
+"title":"Nicole Negowetti is collaborating with Rodger Mattlage"
+    }
+,{
+        "label": "is interested in connecting with",
+        "from": "",
+        "to": "1733775051789x878250520003215400",
+"strength":1,
+"connection subtype":"is interested in connecting with",
+"description":"Hey Bill, just testing the \"Request\" functionality ;-)\n",
+"connection type":"is interested in connecting with",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1734454166927x315992216219156500",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734454166927x315992216219156500",
+"title":" is interested in connecting with Bill Baue"
+    }
+,{
+        "label": "is interested to learn about",
+        "from": "1731449896561x730107582553491100",
+        "to": "1731434267576x757044809239404900",
+"strength":1,
+"connection subtype":"is interested to learn about",
+"description":"",
+"connection type":"is interested to learn about",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1734455111562x333322368997916700",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734455111562x333322368997916700",
+"title":"Rodger Mattlage is interested to learn about Mashantucket Pequot Museum"
+    }
+,{
+        "label": "created and stewards the",
+        "from": "1734521594171x975010594197602300",
+        "to": "1731449920636x364845905765575500",
+"strength":10,
+"connection subtype":"created and stewards the",
+"description":"David worked with Silke Helfrich to create the Triad ",
+"connection type":"created and stewards the",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1734522139996x911277535967838200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734522139996x911277535967838200",
+"title":"David Bollier created and stewards the Triad of Commoning Patterns"
+    }
+,{
+        "label": "stewards the Visual index",
+        "from": "1731449896561x730107582553491100",
+        "to": "1731449920636x364845905765575500",
+"strength":1,
+"connection subtype":"stewards the Visual index",
+"description":"Rodger worked with David Bollier to create the Visual index ~ they continue to steward its evolution",
+"connection type":"stewards the Visual index",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1734522310112x612758648055398400",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734522310112x612758648055398400",
+"title":"Rodger Mattlage stewards the Visual index Triad of Commoning Patterns"
+    }
+,{
+        "label": "is part of",
+        "from": "1734538366163x236520899709501440",
+        "to": "1733410133758x702200130695331800",
+"strength":1,
+"connection subtype":"is part of",
+"description":"",
+"connection type":"is part of",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1734539233052x561777673706405900",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734539233052x561777673706405900",
+"title":"The Visual Triad of Commoning Patterns is part of Domains and Content"
     }
 
  ]
