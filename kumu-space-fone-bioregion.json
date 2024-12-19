@@ -4328,6 +4328,21 @@
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734539233052x561777673706405900",
 "title":"The Visual Triad of Commoning Patterns is part of Domains and Content"
     }
+,{
+        "label": "is a view into",
+        "from": "1734538366163x236520899709501440",
+        "to": "1731449920636x364845905765575500",
+"strength":1,
+"connection subtype":"is a view into",
+"description":"",
+"connection type":"is a view into",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1734617808155x272124781958529020",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734617808155x272124781958529020",
+"title":"The Visual Triad of Commoning Patterns is a view into Triad of Commoning Patterns"
+    }
 
  ]
 }
