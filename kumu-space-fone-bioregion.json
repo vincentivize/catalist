@@ -69,6 +69,12 @@
 "type":"Object Type",
 "description":"A framework is a structured collection of related sectors or categories used to organize and analyze data or pursue a process. By providing a process of narrowing focus, it can help spark inspiration and generate, evaluate and prioritize ideas. Frameworks can also be used to guide decision-making, communicate complex ideas, and assist attainment of a specific goal or objective."
 },{
+"label":"Idea",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1716405842562x791736950618687700/idea%20%283%29.png",
+"id":"Idea",
+"type":"Object Type",
+"description":"An idea or suggestion"
+},{
 "label":"Community of Practice",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"1683318589717x407915670140197600",
@@ -2505,7 +2511,7 @@
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/sl?focus=1",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734455371830x976113790682136600&view=Page&tab=Object",
 "image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
-"type":"Section",
+"type":"Idea",
 "topics":[],
 "tags":[],
 "space-tags":[],
@@ -2532,7 +2538,7 @@
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/pg?focus=1",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734455484007x976325288942633000&view=Page&tab=Object",
 "image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
-"type":"Section",
+"type":"Idea",
 "topics":[],
 "tags":[],
 "space-tags":[],
@@ -2559,7 +2565,7 @@
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/pr?focus=%23Provisioning%20out%201",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734455657801x242238054687571970&view=Page&tab=Object",
 "image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
-"type":"Section",
+"type":"Idea",
 "topics":[],
 "tags":[],
 "space-tags":[],
@@ -2689,6 +2695,60 @@
 "related objects":[],
 
 "label":"Connecticut River Conservancy"
+    },{
+        "id": "1735072169858x674192635385610200",
+"url":"https://deerfieldriver.org",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1735072169858x674192635385610200&view=Page&tab=Object",
+"image":"https://images.squarespace-cdn.com/content/v1/5f73e4a86e2d0366f17fb5cf/1612885757016-ETORYS6JBSGR9XCD9FPR/DRWA-CRC+logo-2-color.2-8-21.jpg?format=1500w",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"space-tags":["Community of place"],
+"attribute-ids":["1689950587072x126998406590484340"],
+"sectors":[],
+"locations":[],
+"address":"15 Bank Row a, Greenfield, MA 01301, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"a non-profit environmental organization dedicated to the stewardship, protection, and restoration of one of Massachusetts' and Vermont’s most beautiful rivers. We engage in volunteer-assisted monitoring of water quality, river clean-up days, school programs and watershed education, mini-grants for school river projects, maintenance of the Mohican-Mohawk Trail, river restoration, advocating for responsible public use, and protection of the river from threats to its health and scenic quality. DRWA's newest projects include working with communities throughout the watershed to seek National Wild and Scenic River designation.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Deerfield River Watershed Association (DRWA)"
+    },{
+        "id": "1735077494169x449899490932424700",
+"url":"",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1735077494169x449899490932424700&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Ideas"
     }
 ],
 
@@ -4402,6 +4462,21 @@
 "id":"1735058405609x659538467117596700",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735058405609x659538467117596700",
 "title":"Connecticut River Conservancy has responsibilities to Connecticut River Watershed"
+    }
+,{
+        "label": "has affiliate",
+        "from": "1735058198827x744357507400728600",
+        "to": "1735072169858x674192635385610200",
+"strength":6,
+"connection subtype":"has affiliate",
+"description":"The CRC provides membership, administrative, and financial services to the DRWA. ",
+"connection type":"has affiliate",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735072478083x881881406573903900",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735072478083x881881406573903900",
+"title":"Connecticut River Conservancy has affiliate Deerfield River Watershed Association (DRWA)"
     }
 
  ]
