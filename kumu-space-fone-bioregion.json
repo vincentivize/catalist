@@ -69,6 +69,24 @@
 "type":"Object Type",
 "description":"A framework is a structured collection of related sectors or categories used to organize and analyze data or pursue a process. By providing a process of narrowing focus, it can help spark inspiration and generate, evaluate and prioritize ideas. Frameworks can also be used to guide decision-making, communicate complex ideas, and assist attainment of a specific goal or objective."
 },{
+"label":"Community of Practice",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"1683318589717x407915670140197600",
+"type":"Attribute",
+"description":"",
+"set":"Types",
+"url":"https://www.catalist.network/attribute/1683318589717x407915670140197600",
+"color":""
+},{
+"label":"Groups",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100083270x258480147422555100/multiple-users-silhouette.png",
+"id":"1689950589125x685511804061059100",
+"type":"Attribute",
+"description":"A set of people, organizations, or things which are considered together because they have something in common. Also, a type of Space created in Catalist to bring together two or more people for a shared experience based on common values, intentions, or topics of interest.",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1689950589125x685511804061059100",
+"color":""
+},{
 "label":"Resources",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100135772x896296205222999300/010-browser-1.svg",
 "id":"1690311308190x556156605122591940",
@@ -727,9 +745,9 @@
 "image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
 "type":"Group",
 "topics":[],
-"tags":[],
+"tags":["Community of Practice","Groups"],
 "space-tags":["Community of Practice"],
-"attribute-ids":[],
+"attribute-ids":["1683318589717x407915670140197600","1689950589125x685511804061059100"],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -744,7 +762,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":[],"OrgSubType":["Community of Practice"],
 
 "label":"CoFundEco"
     },{
@@ -4299,21 +4317,6 @@
 "title":"David Bollier created and stewards the Triad of Commoning Patterns"
     }
 ,{
-        "label": "stewards the Visual index",
-        "from": "1731449896561x730107582553491100",
-        "to": "1731449920636x364845905765575500",
-"strength":1,
-"connection subtype":"stewards the Visual index",
-"description":"Rodger worked with David Bollier to create the Visual index ~ they continue to steward its evolution",
-"connection type":"stewards the Visual index",
-"one-way":"no",
-"type":"",
-"direction":"mutual",
-"id":"1734522310112x612758648055398400",
-"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734522310112x612758648055398400",
-"title":"Rodger Mattlage stewards the Visual index Triad of Commoning Patterns"
-    }
-,{
         "label": "is part of",
         "from": "1734538366163x236520899709501440",
         "to": "1733410133758x702200130695331800",
@@ -4342,6 +4345,21 @@
 "id":"1734617808155x272124781958529020",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1734617808155x272124781958529020",
 "title":"The Visual Triad of Commoning Patterns is a view into Triad of Commoning Patterns"
+    }
+,{
+        "label": "stewards",
+        "from": "1731449896561x730107582553491100",
+        "to": "1734538366163x236520899709501440",
+"strength":6,
+"connection subtype":"stewards",
+"description":"Rodger first prototyped the visual ToC then worked with David Bollier to refine it",
+"connection type":"stewards",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735053739692x520760043231510500",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735053739692x520760043231510500",
+"title":"Rodger Mattlage stewards The Visual Triad of Commoning Patterns"
     }
 
  ]
