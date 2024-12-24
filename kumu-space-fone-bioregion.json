@@ -230,10 +230,10 @@
 "url":"https://www.alliancemrw.org",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731433988489x852874880692081400&view=Page&tab=Object",
 "image":"https://static.wixstatic.com/media/5b2783_5f5b0d45eaa54e9a82936d73fd86abce~mv2.png/v1/fit/w_2500,h_1330,al_c/5b2783_5f5b0d45eaa54e9a82936d73fd86abce~mv2.png",
-"type":"Place",
+"type":"Organization",
 "topics":[],
 "tags":[],
-"space-tags":["Community of place"],
+"space-tags":[],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -553,8 +553,8 @@
         "id": "1731434261235x978474963596423400",
 "url":"",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731434261235x978474963596423400&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
-"type":"Place",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
 "topics":[],
 "tags":[],
 "space-tags":["Community of place"],
@@ -2662,6 +2662,33 @@
 "related objects":[],
 
 "label":"test \"Resource\" in(?) \"Domains and Content\""
+    },{
+        "id": "1735058198827x744357507400728600",
+"url":"https://www.ctriver.org",
+"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1735058198827x744357507400728600&view=Page&tab=Object",
+"image":"https://static.wixstatic.com/media/dee7f4_b66d7b429a7a45899dc02d4c7e34fa9d~mv2.jpg/v1/fit/w_2500,h_1330,al_c/dee7f4_b66d7b429a7a45899dc02d4c7e34fa9d~mv2.jpg",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"space-tags":["Community of place"],
+"attribute-ids":["1689950587072x126998406590484340"],
+"sectors":[],
+"locations":[],
+"address":"15 Bank Row, Greenfield, MA 01301, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"The Connecticut River Conservancy (CRC) restores and advocates for clean water, healthy habitats, and resilient communities to support a diverse and thriving watershed.\n​\nThrough collaborative partnerships in New Hampshire, Vermont, Massachusetts, and Connecticut, CRC leads and supports science-based efforts for natural and life-filled rivers from source to sea.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Connecticut River Conservancy"
     }
 ],
 
@@ -4360,6 +4387,21 @@
 "id":"1735053739692x520760043231510500",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735053739692x520760043231510500",
 "title":"Rodger Mattlage stewards The Visual Triad of Commoning Patterns"
+    }
+,{
+        "label": "has responsibilities to",
+        "from": "1735058198827x744357507400728600",
+        "to": "1731434053290x410727573721668900",
+"strength":1,
+"connection subtype":"has responsibilities to",
+"description":"\"The CRC restores and advocates for clean water, healthy habitats, and resilient communities to support a diverse and thriving Connecticut River watershed.\"",
+"connection type":"has responsibilities to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735058405609x659538467117596700",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735058405609x659538467117596700",
+"title":"Connecticut River Conservancy has responsibilities to Connecticut River Watershed"
     }
 
  ]
