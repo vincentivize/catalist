@@ -506,7 +506,7 @@
 "url":"https://www.mptn-nsn.gov",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731434255833x898479935151011100&view=Page&tab=Object",
 "image":"https://www.mptn-nsn.gov/wp-content/uploads/MPCD_wht_text-Modified-01.svg",
-"type":"Organization",
+"type":"Group",
 "topics":[],
 "tags":[],
 "space-tags":["Community of place"],
@@ -2560,7 +2560,7 @@
 "label":"David Bollier"
     },{
         "id": "1734538366163x236520899709501440",
-"url":"https://kumu.io/rmattlage/the-triad-of-commoning",
+"url":"",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734538366163x236520899709501440&view=Page&tab=Object",
 "image":"https://s3.amazonaws.com/cloud.kumu.io/accounts/231735/926062/3cfcba73-84a6-4fe0-903c-9bca459150f5.jpg",
 "type":"Resource",
@@ -2587,9 +2587,9 @@
 "label":"The Visual Triad of Commoning Patterns"
     },{
         "id": "1734539402112x127017166798585860",
-"url":"https://kumu.io/rmattlage/the-triad-of-commoning",
+"url":"",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1734539402112x127017166798585860&view=Page&tab=Object",
-"image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
+"image":"https://img.pikbest.com/wp/202408/depicting-multi-coloured-3d-rendering-of-a-pie-chart-viral-spread_9773358.jpg!sw800",
 "type":"Resource",
 "topics":[],
 "tags":["Resources"],
@@ -2620,7 +2620,7 @@
 "type":"Organization",
 "topics":[],
 "tags":["Organizations"],
-"space-tags":["Community of place"],
+"space-tags":["Community of Place"],
 "attribute-ids":["1689950587072x126998406590484340"],
 "sectors":[],
 "locations":[],
