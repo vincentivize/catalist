@@ -243,7 +243,7 @@
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
-"address":"",
+"address":"Mystic, Stonington, CT, USA",
 "types":[],
 "skills":[],
 "color":"",
@@ -1126,7 +1126,7 @@
         "id": "1731449860142x447400086752512300",
 "url":"https://bit.ly/aboutbenr",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731449860142x447400086752512300&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735403363780x398961955098846800/Ben%20Roberts%20~%20LinkedIn.jpeg",
 "type":"Member",
 "topics":[],
 "tags":[],
@@ -1154,7 +1154,7 @@
         "id": "1731449861515x888421933230017800",
 "url":"https://www.nicolenegowetti.com",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731449861515x888421933230017800&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"image":"https://media.licdn.com/dms/image/v2/C4D03AQE0_YjaOF89vw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1622055266860?e=1740614400&v=beta&t=VMwFWLJzm_59LZfr0VwaGZPXQ_9A5aM5ILWanVEvfHk",
 "type":"Member",
 "topics":[],
 "tags":[],
@@ -1162,7 +1162,7 @@
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
-"address":"",
+"address":"Melrose, MA, USA",
 "types":[],
 "skills":[],
 "color":"",
@@ -1424,9 +1424,9 @@
 "label":"Michael Thomas"
     },{
         "id": "1731449879001x914970673787674000",
-"url":"",
+"url":"https://www.linkedin.com/in/maggie-favretti-16608417b/",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731449879001x914970673787674000&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"image":"https://media.licdn.com/dms/image/v2/C4E03AQH0P6GxWutFnA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1549197268575?e=1740614400&v=beta&t=K8jjbrFTCRcGre9QwX5gxvwlBMKWOdG7scxB-BkKfHA",
 "type":"Member",
 "topics":[],
 "tags":[],
@@ -1434,7 +1434,7 @@
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
-"address":"",
+"address":"Mystic, Stonington, CT, USA",
 "types":[],
 "skills":[],
 "color":"",
@@ -1449,35 +1449,6 @@
 "related objects":[],
 
 "label":"Maggie Favretti"
-    },{
-        "id": "1731449880498x719111996758713300",
-"url":"https://www.linkedin.com/in/billbaue/",
-"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731449880498x719111996758713300&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
-"type":"Member",
-"topics":[],
-"tags":[],
-"space-tags":[],
-"attribute-ids":[],
-"sectors":[],
-"locations":[],
-"address":"Willington, CT, USA",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"",
-"description":"",
-"size":"",
-"objects above":[],
-"related objects":[],"If you know them, how did you meet this person?":"We met at the FONE meeting",
-"What is your current relationship with this person?":"Met before",
-"What do you want to learn or know about this?":"Curious about his favorite ice cream flavor",
-
-"label":"Bill Baue (Sage)"
     },{
         "id": "1731449882267x782177198018972400",
 "url":"",
@@ -2283,7 +2254,7 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"A geographical map of all the people and organizations in the FONE.",
+"summary":"A geographical map of all the people and organizations interested in the NE Bioregioning Knowledge Comments",
 "description":"",
 "size":"",
 "objects above":[],
@@ -4296,21 +4267,6 @@
 "title":" is interested in connecting with Bethany Yarrow"
     }
 ,{
-        "label": "is interested in connecting with",
-        "from": "1731449866391x859508241368550100",
-        "to": "1731449880498x719111996758713300",
-"strength":1,
-"connection subtype":"is interested in connecting with",
-"description":"Excited to learn more about r3.0",
-"connection type":"is interested in connecting with",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731966156428x631129181837852700",
-"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731966156428x631129181837852700",
-"title":"Vincent Arena is interested in connecting with Bill Baue (Sage)"
-    }
-,{
         "label": "should connect with",
         "from": "1731449893011x184160569748561540",
         "to": "1731449855723x277837145940372800",
@@ -4459,6 +4415,36 @@
 "id":"1735080760519x873362958446755800",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735080760519x873362958446755800",
 "title":"Tom Murtha is a board member of the Aton Forest"
+    }
+,{
+        "label": "is interested in connecting with",
+        "from": "1731434261235x978474963596423400",
+        "to": "1735254065620x184822691486498800",
+"strength":1,
+"connection subtype":"is interested in connecting with",
+"description":"",
+"connection type":"is interested in connecting with",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1735254445513x335499869608476700",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735254445513x335499869608476700",
+"title":"Connecticut River Valley Bioregioning Collaborative is interested in connecting with Rodger Mattlage"
+    }
+,{
+        "label": "is the same as",
+        "from": "1733775051789x878250520003215400",
+        "to": "1731433757421x859448969748322300",
+"strength":1,
+"connection subtype":"is the same as",
+"description":"Bill Baue has the Catalist Account\nBill Baue (Sage) was created by the NEBKC import",
+"connection type":"is the same as",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735403882645x461407879455834100",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735403882645x461407879455834100",
+"title":"Bill Baue is the same as Bill Baue (Sage)"
     }
 
  ]
