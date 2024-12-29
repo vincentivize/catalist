@@ -4446,6 +4446,51 @@
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735403882645x461407879455834100",
 "title":"Bill Baue is the same as Bill Baue (Sage)"
     }
+,{
+        "label": "includes",
+        "from": "1731449920636x364845905765575500",
+        "to": "1734455371830x976113790682136600",
+"strength":1,
+"connection subtype":"includes",
+"description":"",
+"connection type":"includes",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735509885621x482023814411059200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735509885621x482023814411059200",
+"title":"Triad of Commoning Patterns includes Social Life"
+    }
+,{
+        "label": "includes",
+        "from": "1731449920636x364845905765575500",
+        "to": "1734455484007x976325288942633000",
+"strength":1,
+"connection subtype":"includes",
+"description":"",
+"connection type":"includes",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735509920964x462202094071840800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735509920964x462202094071840800",
+"title":"Triad of Commoning Patterns includes Peer Governance"
+    }
+,{
+        "label": "includes",
+        "from": "1731449920636x364845905765575500",
+        "to": "1734455657801x242238054687571970",
+"strength":1,
+"connection subtype":"includes",
+"description":"",
+"connection type":"includes",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735509944698x386083918572421100",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735509944698x386083918572421100",
+"title":"Triad of Commoning Patterns includes Provisioning"
+    }
 
  ]
 }
