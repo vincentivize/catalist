@@ -75,12 +75,6 @@
 "type":"Object Type",
 "description":"An idea or suggestion"
 },{
-"label":"Event",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
-"id":"Event",
-"type":"Object Type",
-"description":"Something happening with a start and end date"
-},{
 "label":"Community of Practice",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"1683318589717x407915670140197600",
@@ -2326,7 +2320,7 @@
 "url":"https://www.linkedin.com/posts/billbaue_its-a-pleasure-honor-to-help-energize-activity-7249133825933422592-4Ff2?utm_source=share&utm_medium=member_desktop",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1732302497799x813070165997621400&view=Page&tab=Object",
 "image":"https://media.licdn.com/dms/image/v2/D4E22AQGyIj8nhVrSnQ/feedshare-shrink_800/feedshare-shrink_800/0/1728328184660?e=2147483647&v=beta&t=mIlsw_srNDbGY9h2hUarfarcUNPBhzjgEvemHW2AxwI",
-"type":"Event",
+"type":"Group",
 "topics":[],
 "tags":[],
 "space-tags":["Intervention"],
@@ -2341,7 +2335,7 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"A forum convened by the Northeast Bioregional Finance (Ne BioFi), a loose collection of regional initiatives to explore developing a Bioregional Financing Facility.",
+"summary":"A gathering convened by members the Northeast Bioregional Finance (Ne BioFi), a loose collection of regional initiatives to explore developing a Bioregional Financing Facility.",
 "description":"",
 "size":"",
 "objects above":[],
