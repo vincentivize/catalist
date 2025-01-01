@@ -27,12 +27,6 @@
 "type":"Object Type",
 "description":"People who are verified members of a group or event"
 },{
-"label":"Initiative",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1731610039381x742065491541500400/lightning.png",
-"id":"Initiative",
-"type":"Object Type",
-"description":""
-},{
 "label":"Place",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962061452x441924323897890940/024-world-map.svg",
 "id":"Place",
@@ -44,6 +38,12 @@
 "id":"Group",
 "type":"Object Type",
 "description":"A online or in-person community that you can join"
+},{
+"label":"Initiative",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1731610039381x742065491541500400/lightning.png",
+"id":"Initiative",
+"type":"Object Type",
+"description":""
 },{
 "label":"Solution",
 "image":"//s3.amazonaws.com/appforest_uf/f1651961921256x624315643314057300/013-puzzle.svg",
@@ -74,6 +74,12 @@
 "id":"Idea",
 "type":"Object Type",
 "description":"An idea or suggestion"
+},{
+"label":"Event",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962182456x866414302904818800/004-labour-day.svg",
+"id":"Event",
+"type":"Object Type",
+"description":"Something happening with a start and end date"
 },{
 "label":"Community of Practice",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
@@ -204,33 +210,6 @@
 "If you know them, how did you meet this person?":"At my first meeting with the Connecticut River Valley Bioregional Collaborative",
 
 "label":"Bill Baue (Sage)"
-    },{
-        "id": "1731433759663x768850925105829200",
-"url":"",
-"object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1731433759663x768850925105829200&view=Page&tab=Object",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1731610039381x742065491541500400/lightning.png",
-"type":"Initiative",
-"topics":[],
-"tags":[],
-"space-tags":[],
-"attribute-ids":[],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"",
-"description":"",
-"size":"",
-"objects above":[],
-"related objects":[],
-
-"label":"Northeast BioEconomy Initiative"
     },{
         "id": "1731433988489x852874880692081400",
 "url":"https://www.alliancemrw.org",
@@ -2346,8 +2325,8 @@
         "id": "1732302497799x813070165997621400",
 "url":"https://www.linkedin.com/posts/billbaue_its-a-pleasure-honor-to-help-energize-activity-7249133825933422592-4Ff2?utm_source=share&utm_medium=member_desktop",
 "object url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&current_object=1732302497799x813070165997621400&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651961921256x624315643314057300/013-puzzle.svg",
-"type":"Solution",
+"image":"https://media.licdn.com/dms/image/v2/D4E22AQGyIj8nhVrSnQ/feedshare-shrink_800/feedshare-shrink_800/0/1728328184660?e=2147483647&v=beta&t=mIlsw_srNDbGY9h2hUarfarcUNPBhzjgEvemHW2AxwI",
+"type":"Event",
 "topics":[],
 "tags":[],
 "space-tags":["Intervention"],
@@ -2362,7 +2341,7 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"BioFi has held gatherings with regional initiatives to explore developing a Bioregional Financing Facility.",
+"summary":"A forum convened by the Northeast Bioregional Finance (Ne BioFi), a loose collection of regional initiatives to explore developing a Bioregional Financing Facility.",
 "description":"",
 "size":"",
 "objects above":[],
@@ -3533,7 +3512,7 @@
     }
 ,{
         "label": "",
-        "from": "1731433759663x768850925105829200",
+        "from": "",
         "to": "1731449889066x988753092546927500",
 "strength":1,
 "connection subtype":"",
@@ -3544,11 +3523,11 @@
 "direction":"directed",
 "id":"1731449982384x644724604120084700",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449982384x644724604120084700",
-"title":"Northeast BioEconomy Initiative  Josie Watson"
+"title":"  Josie Watson"
     }
 ,{
         "label": "",
-        "from": "1731433759663x768850925105829200",
+        "from": "",
         "to": "1731449874878x401603146831419400",
 "strength":1,
 "connection subtype":"",
@@ -3559,11 +3538,11 @@
 "direction":"directed",
 "id":"1731449982931x322276027909880800",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449982931x322276027909880800",
-"title":"Northeast BioEconomy Initiative  Julie Davenson"
+"title":"  Julie Davenson"
     }
 ,{
         "label": "",
-        "from": "1731433759663x768850925105829200",
+        "from": "",
         "to": "1731449876272x760393374329673000",
 "strength":1,
 "connection subtype":"",
@@ -3574,11 +3553,11 @@
 "direction":"directed",
 "id":"1731449983450x219664450418413760",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449983450x219664450418413760",
-"title":"Northeast BioEconomy Initiative  Magenta Ceiba"
+"title":"  Magenta Ceiba"
     }
 ,{
         "label": "",
-        "from": "1731433759663x768850925105829200",
+        "from": "",
         "to": "1731449887464x137354456103557570",
 "strength":1,
 "connection subtype":"",
@@ -3589,7 +3568,7 @@
 "direction":"directed",
 "id":"1731449983971x203236153334623420",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1731449983971x203236153334623420",
-"title":"Northeast BioEconomy Initiative  Zbigniew Grabowski"
+"title":"  Zbigniew Grabowski"
     }
 ,{
         "label": "",
@@ -4490,6 +4469,66 @@
 "id":"1735509944698x386083918572421100",
 "url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735509944698x386083918572421100",
 "title":"Triad of Commoning Patterns includes Provisioning"
+    }
+,{
+        "label": "stewards",
+        "from": "1731449889066x988753092546927500",
+        "to": "1731434290927x646017881401121900",
+"strength":1,
+"connection subtype":"stewards",
+"description":"",
+"connection type":"stewards",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735760621637x206651257141854200",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735760621637x206651257141854200",
+"title":"Josie Watson stewards Northeast BioEconomy Initiative"
+    }
+,{
+        "label": "stewards",
+        "from": "1731449874878x401603146831419400",
+        "to": "1731434290927x646017881401121900",
+"strength":1,
+"connection subtype":"stewards",
+"description":"",
+"connection type":"stewards",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735760669745x998461063755202600",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735760669745x998461063755202600",
+"title":"Julie Davenson stewards Northeast BioEconomy Initiative"
+    }
+,{
+        "label": "stewards",
+        "from": "1731449876272x760393374329673000",
+        "to": "1731434290927x646017881401121900",
+"strength":1,
+"connection subtype":"stewards",
+"description":"",
+"connection type":"stewards",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735760699173x950479962098892800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735760699173x950479962098892800",
+"title":"Magenta Ceiba stewards Northeast BioEconomy Initiative"
+    }
+,{
+        "label": "stewards",
+        "from": "1731449887464x137354456103557570",
+        "to": "1731434290927x646017881401121900",
+"strength":1,
+"connection subtype":"stewards",
+"description":"",
+"connection type":"stewards",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1735760722214x489529360500129800",
+"url":"https://www.catalist.network/community?space=1731360167823x759324263997505500&connection=1735760722214x489529360500129800",
+"title":"Zbigniew Grabowski stewards Northeast BioEconomy Initiative"
     }
 
  ]
