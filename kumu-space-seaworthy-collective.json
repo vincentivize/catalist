@@ -153,6 +153,24 @@
 "url":"https://www.catalist.network/attribute/1700258797827x308179890178621440",
 "color":""
 },{
+"label":"Financial Capital",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696234922153x555608396624478900/005-money.svg",
+"id":"1681938220218x624736706901449300",
+"type":"Attribute",
+"description":"We are most familiar with financial capital: Money, currencies, securities and other instruments of the global financial system. The current global society focuses enormous amounts of attention on financial capital. ",
+"set":"8 Forms of Capital",
+"url":"https://www.catalist.network/attribute/1681938220218x624736706901449300",
+"color":""
+},{
+"label":"Resources",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100135772x896296205222999300/010-browser-1.svg",
+"id":"1690311308190x556156605122591940",
+"type":"Attribute",
+"description":"A resource refers to all that is available virtually or in our environment which are technologically accessible, economically feasible and culturally sustainable and help us to satisfy our needs and wants.",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1690311308190x556156605122591940",
+"color":""
+},{
 "label":"Ecosystem Map",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"1683318927073x564871102257596100",
@@ -178,15 +196,6 @@
 "description":"",
 "set":"Types",
 "url":"https://www.catalist.network/attribute/1683318844719x613992063231080700",
-"color":""
-},{
-"label":"Resources",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100135772x896296205222999300/010-browser-1.svg",
-"id":"1690311308190x556156605122591940",
-"type":"Attribute",
-"description":"A resource refers to all that is available virtually or in our environment which are technologically accessible, economically feasible and culturally sustainable and help us to satisfy our needs and wants.",
-"set":"Main Data Types",
-"url":"https://www.catalist.network/attribute/1690311308190x556156605122591940",
 "color":""
 },{
 "label":"Organizations",
@@ -340,15 +349,6 @@
 "description":"All the other forms of capital may be held and owed by individuals, but cultural capital can only be gathered by a community of people. Cultural capital describes the shared internal and external processes of a community – the works of art and theater, the songs that every child learns, the ability to come together in celebration of the harvest or for a religious holiday. ",
 "set":"8 Forms of Capital",
 "url":"https://www.catalist.network/attribute/1681938217356x441217424851458900",
-"color":""
-},{
-"label":"Financial Capital",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696234922153x555608396624478900/005-money.svg",
-"id":"1681938220218x624736706901449300",
-"type":"Attribute",
-"description":"We are most familiar with financial capital: Money, currencies, securities and other instruments of the global financial system. The current global society focuses enormous amounts of attention on financial capital. ",
-"set":"8 Forms of Capital",
-"url":"https://www.catalist.network/attribute/1681938220218x624736706901449300",
 "color":""
 },{
 "label":"Spiritual Capital",
@@ -703,9 +703,9 @@
 "image":"https://www.sba.gov/themes/custom/sba/src/img/social/SBASEOImage.jpg",
 "type":"Resource",
 "topics":[],
-"tags":["Grant","Press Release"],
+"tags":["Grant","Press Release","Financial Capital","Resources"],
 "space-tags":[],
-"attribute-ids":["1683318636546x824348355034183500","1700258797827x308179890178621440"],
+"attribute-ids":["1683318636546x824348355034183500","1700258797827x308179890178621440","1681938220218x624736706901449300","1690311308190x556156605122591940"],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -720,7 +720,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":[],"8 Forms Of Capital":["Financial Capital"],
 
 "label":"SBA Announces 2023 Growth Accelerator Fund Competition Stage One Winners"
     },{
@@ -9556,9 +9556,9 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "type":"Resource",
 "topics":[],
-"tags":[],
+"tags":["Resilient coastal communities","Resources"],
 "space-tags":[],
-"attribute-ids":[],
+"attribute-ids":["1722877719819x653960390051032200","1690311308190x556156605122591940"],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -9573,8 +9573,8 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
-
+"related objects":[],"Ocean Impact Categories":["Resilient coastal communities"],
+"Ecosystem Roles":["Advocate - Goverment/Policy","Researcher/Educator - Science/Academic"],
 "label":"Climate-Resilience-Game-Changers-Assessment.pdf"
     },{
         "id": "1722444332804x162769360886786620",
@@ -11408,7 +11408,7 @@
 "draft":"no",
 "page_text":"",
 "summary":"",
-"description":"Climate Adaptation &amp; Resilience Session <br>Wednesday, August 14, 2024 <br><br>Are you working in local adaptation or climate resilience, designing low water biotech crops or focused on marine system, bluetech and preserving our natural world? If so, you've come to the right place. <br><br>Attendees are invited to join this monthly discussion and collaboration session hosted by Lilli Graf, Rhisi Pethe, Asim Koldzo &amp; Ellen Chang as they present and host discussions on the latest in watertech, blue economy businesses and innovative climate adaptation &amp; resilience solutions for the inevitable climate changes our planet is undergoing. <br><br>Register <a href=\"<https://www.eventbrite.com/e/climate-adaptation-resilience-water-systems-blue-economy-networking-tickets-753210872997?aff=ebdssbdestsearch>\" target=\"\_blank\">here</a>.\n",
+"description":"Climate Adaptation & Resilience Session\nWednesday, August 14, 2024\n\nAre you working in local adaptation or climate resilience, designing low water biotech crops or focused on marine system, bluetech and preserving our natural world? If so, you've come to the right place.\n\nAttendees are invited to join this monthly discussion and collaboration session hosted by Lilli Graf, Rhisi Pethe, Asim Koldzo &amp; Ellen Chang as they present and host discussions on the latest in watertech, blue economy businesses and innovative climate adaptation &amp; resilience solutions for the inevitable climate changes our planet is undergoing.\n\nRegister <a href=\"<https://www.eventbrite.com/e/climate-adaptation-resilience-water-systems-blue-economy-networking-tickets-753210872997?aff=ebdssbdestsearch>\" target=\"\_blank\">here</a>.",
 "size":"",
 "objects above":[],
 "related objects":["1722539140891x335738922062053400"],
@@ -11518,7 +11518,7 @@
 "summary":"Get in touch with the Seaworthy team",
 "description":"",
 "size":"",
-"objects above":["1734034675361x600953310313185300"],
+"objects above":["1734034675361x600953310313185300","1718900913440x413133818857259000"],
 "related objects":[],
 
 "label":"Seaworthy Team"
@@ -24007,7 +24007,7 @@
 "url":"https://www.oceanrescuealliance.org/",
 "object url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&current_object=1730415745172x519805940184383500&view=Page&tab=Object",
 "image":"http://static1.squarespace.com/static/5eff43abead12b7cccc36042/t/66a0d7004c9868229dce47ff/1721816832717/ORAI-White+Logo.png?format=1500w",
-"type":"Resource",
+"type":"Organization",
 "topics":[],
 "tags":["Resources"],
 "space-tags":[],
@@ -24060,8 +24060,8 @@
         "id": "1731094247799x443526509703725060",
 "url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTyn0D464kBF4gO-jl7OXjEsnis9zO_cZwza3UeNJcapWzbVFwY5g5EpmFBaLOBGTC2pMGwTWNxtg5X/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false",
 "object url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&current_object=1731094247799x443526509703725060&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
-"type":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
 "topics":[],
 "tags":[],
 "space-tags":[],
@@ -24250,8 +24250,8 @@
         "id": "1732644657739x981639887482257400",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&current_object=1732644657739x981639887482257400&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
-"type":"Organization",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"type":"Project",
 "topics":[],
 "tags":["Organizations"],
 "space-tags":[],
@@ -25434,7 +25434,7 @@
 "objects above":[],
 "related objects":[],
 
-"label":"The Seaworthy Crew"
+"label":"Seaworthy Startups"
     },{
         "id": "1734040910738x658782858988748800",
 "url":"",
@@ -27870,6 +27870,60 @@
 
 "label":"breakpHlow"
     },{
+        "id": "1737140919528x449674684439986200",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&current_object=1737140919528x449674684439986200&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Swipe through people and organizations to express interest in connecting",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Matchmaking View"
+    },{
+        "id": "1737144281092x629166912936345600",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&current_object=1737144281092x629166912936345600&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"topics":[],
+"tags":["A clean ocean","Thriving and restored marine habitats","Positive socio-economic outcomes","Resilient coastal communities","Members"],
+"space-tags":[],
+"attribute-ids":["1722877717145x430131418174119600","1722877718380x965887515098758300","1722877720581x798572399051742200","1722877719819x653960390051032200","1695444797436x373186649656771100"],
+"sectors":[],
+"locations":[],
+"address":"Miami, FL, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Jazmin is an Environmental Scientist dedicated to sustainable agriculture and bioeconomic solutions that enhance ecological restoration and system resilience. ",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],"Ocean Impact Categories":["A clean ocean","Thriving and restored marine habitats","Positive socio-economic outcomes","Resilient coastal communities"],"Primary Organization Role":"Founder",
+"Ecosystem Roles":["Startup Founder","Researcher/Educator - Science/Academic","Solutionist/Technologist"],
+"label":"Jazmin Locke-Rodriguez Ph.D."
+    },{
         "id": "1726533373831x232665267086257020",
 "url":"https://www.inversaleathers.com/",
 "object url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&current_object=1726533373831x232665267086257020&view=Page&tab=Object",
@@ -28901,6 +28955,36 @@
 "id":"1736194209420x471332806034194400",
 "url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&connection=1736194209420x471332806034194400",
 "title":"Tenny-Ann Dandy is interested in connecting with Sonam Velani"
+    }
+,{
+        "label": "is interested in connecting with",
+        "from": "1737144281092x629166912936345600",
+        "to": "1724779408950x825196405849587700",
+"strength":1,
+"connection subtype":"is interested in connecting with",
+"description":"Hi Amelia! Former cohort member here. Still navigating this whole platform/building profile. But I have been really interested in your work! I would be interested in prototyping a hydroponic like growing platform with your tech. May be able to get funds for it. Would love to talk more!",
+"connection type":"is interested in connecting with",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1737145090099x218531522477555700",
+"url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&connection=1737145090099x218531522477555700",
+"title":"Jazmin Locke-Rodriguez Ph.D. is interested in connecting with Mud Rat"
+    }
+,{
+        "label": "is interested in connecting with",
+        "from": "1737144281092x629166912936345600",
+        "to": "1722522313788x827661167035144200",
+"strength":1,
+"connection subtype":"is interested in connecting with",
+"description":"Hello Louis! I was a part of the 3rd Seaworthy Cohort and also a post-doc at FIU Institute of environment. Saw your panel this week at the FIU Reseearch conference and hoped to connect after and miss you! Would love to connect. I have an exciting installation of floating flowers occuring in Pinecrest between Feb-March that I think could be an exciting story to share. Would love to share more. My website is greenthumbsfl.com; e-mail info@greenthumbsfl.com. NBC covered the initial story last year during earth day, maybe we can shoot for an update on this years earth day :) https://www.nbcmiami.com/news/national-international/earth-week/fiu-researchers-using-unexpected-tool-to-clean-dirty-canals-south-florida/3289895/",
+"connection type":"is interested in connecting with",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1737145430938x565083488457064450",
+"url":"https://www.catalist.network/spaces?space=1686333351467x858843996802777100&connection=1737145430938x565083488457064450",
+"title":"Jazmin Locke-Rodriguez Ph.D. is interested in connecting with Louis Aguirre"
     }
 
  ]
