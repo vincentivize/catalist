@@ -4593,6 +4593,21 @@
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737153965991x336567803964293100",
 "title":"Cultivate Shared Purpose and Values includes Social Life"
     }
+,{
+        "label": "stewards",
+        "from": "1731553093974x533633860788551700",
+        "to": "1737190636045x482867831083106300",
+"strength":1,
+"connection subtype":"stewards",
+"description":"Steve invented the MAP and continues its development and implementation",
+"connection type":"stewards",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737192443074x374764062111957000",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737192443074x374764062111957000",
+"title":"People stewards Memetic Activation Platform"
+    }
 
  ]
 }
