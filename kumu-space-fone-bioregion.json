@@ -2452,7 +2452,7 @@
 "label":"Social Life"
     },{
         "id": "1734455484007x976325288942633000",
-"url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/pg?focus=1",
+"url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/sl07?focus=%23peer-governance%20out%201",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1734455484007x976325288942633000&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735251367696x684184848857393700/Triad%20-%20Peer%20Governance.jpg",
 "type":"Idea",
@@ -2470,8 +2470,8 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"one of the Triads",
-"description":"",
+"summary":"one of the Spheres of the Triad of Commoning Patterns",
+"description":"Commoning may be rooted in a variety of social outlooks and behaviors, as we saw in Chapter Four. But can it govern? Can it do so better than existing governments? Can it coordinate more effectively and better than the market? . . .\n\nThe dynamics of peer governance at the cellular level of everyday practices matter because they provide regularity and stability to a commons. They also help us learn how to devise larger structures such as federated commons, commons-friendly law and policy, infrastructures, and commons-public partnerships, as we will see in later chapters. Here, we explore ten dynamics of Peer Governance that tend to be present in effective commons. The first seven revolve around interpersonal and social relationships. The final three involve commons-based methods for dealing with property, money, and markets.\n. . .\n\n",
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
@@ -2497,7 +2497,7 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"One of the Triads",
+"summary":"one of the Spheres of the Triad of Commoning Patterns",
 "description":"",
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
@@ -2558,33 +2558,6 @@
 "related objects":["1733410133758x702200130695331800"],
 
 "label":"The Visual Triad of Commoning Patterns"
-    },{
-        "id": "1734539402112x127017166798585860",
-"url":"",
-"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1734539402112x127017166798585860&view=Page&tab=Object",
-"image":"https://img.pikbest.com/wp/202408/depicting-multi-coloured-3d-rendering-of-a-pie-chart-viral-spread_9773358.jpg!sw800",
-"type":"Resource",
-"topics":[],
-"tags":["Resources"],
-"space-tags":[],
-"attribute-ids":["1690311308190x556156605122591940"],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"test short descr",
-"description":"",
-"size":"",
-"objects above":[],
-"related objects":[],
-
-"label":"test \"Resource\" in(?) \"Domains and Content\""
     },{
         "id": "1735058198827x744357507400728600",
 "url":"https://www.ctriver.org",
@@ -2665,7 +2638,7 @@
 "objects above":[],
 "related objects":[],
 
-"label":"Ideas"
+"label":"Meme"
     },{
         "id": "1735080051504x982726271798345700",
 "url":"",
@@ -2747,6 +2720,60 @@
 "related objects":[],
 
 "label":"Cultivate Shared Purpose and Values"
+    },{
+        "id": "1737190636045x482867831083106300",
+"url":"https://evomimic.gitbook.io/map-book",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737190636045x482867831083106300&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737190933735x508867037888247600/MAP%20Layer%201.png",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"space-tags":[],
+"attribute-ids":["1690311308190x556156605122591940"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"The Memetic Activation Platform (MAP) is an open-ended, de-centralized, computing and application services platform whose audacious goal is to foster the emergence of self-organizing, evolutionary transformation at personal, interpersonal, organizational, inter-organizational and, ultimately, global levels. ",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Memetic Activation Platform"
+    },{
+        "id": "1737191243194x154713621367619600",
+"url":"https://planetcommunity.mn.co/members/10969192",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737191243194x154713621367619600&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737191607488x346871733285711400/Steve%20Melville.png",
+"type":"Member",
+"topics":[],
+"tags":["Members"],
+"space-tags":[],
+"attribute-ids":["1695444797436x373186649656771100"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":["1737190636045x482867831083106300"],"One Page Bio":"Committed to leveraging my 30+ year tech career to support those on the forefront of the evolutionary shift towards a world that works for all life.",
+
+"label":"Steve Melville"
     }
 ],
 
@@ -4465,7 +4492,7 @@
         "label": "includes",
         "from": "1731449920636x364845905765575500",
         "to": "1734455484007x976325288942633000",
-"strength":1,
+"strength":10,
 "connection subtype":"includes",
 "description":"",
 "connection type":"includes",
