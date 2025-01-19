@@ -2882,6 +2882,33 @@
 "related objects":["1737295621590x688695054493548500","1737296949727x880008898978775000"],
 
 "label":"Service"
+    },{
+        "id": "1737298188921x378098954643701760",
+"url":"https://evomimic.gitbook.io/map-book",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737298188921x378098954643701760&view=Page&tab=Object",
+"image":"https://evomimic.gitbook.io/map-book/~gitbook/ogimage/-Mgr-EkEHVjsaxcHzlc1",
+"type":"Idea",
+"topics":[],
+"tags":[],
+"space-tags":["Holon Type"],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"From the MAP ~ Memetic Activation Platform",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Holon Type"
     }
 ],
 
@@ -4820,6 +4847,66 @@
 "id":"1737297942203x233339295668109300",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737297942203x233339295668109300",
 "title":"Agent is related to Resource"
+    }
+,{
+        "label": "sub-type",
+        "from": "1737298188921x378098954643701760",
+        "to": "1737295621590x688695054493548500",
+"strength":1,
+"connection subtype":"sub-type",
+"description":"",
+"connection type":"sub-type",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737298224470x820634931534495700",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737298224470x820634931534495700",
+"title":"Holon Type sub-type Agent"
+    }
+,{
+        "label": "sub-type",
+        "from": "1737298188921x378098954643701760",
+        "to": "1737293513974x129057011012206600",
+"strength":1,
+"connection subtype":"sub-type",
+"description":"",
+"connection type":"sub-type",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737298266639x628864287438274600",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737298266639x628864287438274600",
+"title":"Holon Type sub-type Meme"
+    }
+,{
+        "label": "sub-type",
+        "from": "1737298188921x378098954643701760",
+        "to": "1737296949727x880008898978775000",
+"strength":1,
+"connection subtype":"sub-type",
+"description":"",
+"connection type":"sub-type",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737298287106x890698044731555800",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737298287106x890698044731555800",
+"title":"Holon Type sub-type Resource"
+    }
+,{
+        "label": "sub-type",
+        "from": "1737298188921x378098954643701760",
+        "to": "1737297019293x876716717365788700",
+"strength":1,
+"connection subtype":"sub-type",
+"description":"",
+"connection type":"sub-type",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737298307193x492001896303165440",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737298307193x492001896303165440",
+"title":"Holon Type sub-type Service"
     }
 
  ]
