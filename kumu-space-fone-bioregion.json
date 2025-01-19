@@ -4776,6 +4776,51 @@
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737297120885x162261242947043330",
 "title":"Meme is related to Agent"
     }
+,{
+        "label": "",
+        "from": "1737297019293x876716717365788700",
+        "to": "1737295621590x688695054493548500",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737297885129x905138398195351600",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737297885129x905138398195351600",
+"title":"Service  Agent"
+    }
+,{
+        "label": "",
+        "from": "1737297019293x876716717365788700",
+        "to": "1737296949727x880008898978775000",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737297912250x301357732102406140",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737297912250x301357732102406140",
+"title":"Service  Resource"
+    }
+,{
+        "label": "is related to",
+        "from": "1737295621590x688695054493548500",
+        "to": "1737296949727x880008898978775000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737297942203x233339295668109300",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737297942203x233339295668109300",
+"title":"Agent is related to Resource"
+    }
 
  ]
 }
