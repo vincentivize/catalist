@@ -2632,13 +2632,13 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
+"summary":"Here we are using \"Meme\" as a meta-space to encompass all the ideas, concepts, entities, frameworks, classification and categorization schemes, etc.  that might be of interest to this knowledge commoning initiative.\n\nAll the entries in this Catalist \"section\" are at a definitional level, i.e. the meta level ~ i.e. the entries will not represent instances of \"tangibles\", (e.g., humans, more-than-humans, groups / communities / initiatives / organizations, places / spaces / regions), for which see the other sections of this space.",
 "description":"",
 "size":"",
 "objects above":[],
 "related objects":[],
 
-"label":"Meme"
+"label":"Memes"
     },{
         "id": "1735080051504x982726271798345700",
 "url":"",
@@ -2803,7 +2803,7 @@
 "label":"Meme"
     },{
         "id": "1737295621590x688695054493548500",
-"url":"https://evomimic.gitbook.io/map-book/map-foundations/layer-1-memes-resources-agents-and-services#agents",
+"url":"[Agent Holon Type](https://evomimic.gitbook.io/map-book/map-foundations/layer-1-memes-resources-agents-and-services#agents)",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737295621590x688695054493548500&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737300158934x542940704851423700/MAP%20Holon%20Type%20-%20w%3Ao%20name.png",
 "type":"Idea",
