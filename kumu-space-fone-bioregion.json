@@ -2701,7 +2701,7 @@
 "type":"Resource",
 "topics":[],
 "tags":["Resources"],
-"space-tags":["pattern"],
+"space-tags":["pattern","Triad"],
 "attribute-ids":["1690311308190x556156605122591940"],
 "sectors":[],
 "locations":[],
@@ -2714,9 +2714,9 @@
 "draft":"no",
 "page_text":"",
 "summary":"One of the Social Life Sphere's Patterns",
-"description":"**How does a group become coherent and mutually aligned?\n**\nCommons rarely start with shared values and intentions. Instead, they are forged as people of diverse talents and temperaments share experiences. Only if commoners accept the diversity of the group and are willing to align themselves with one another, developmental processes that include routines, reflections, and rituals, participants can cultivate shared purpose and values.\n\n* In community supported agriculture (CSA), the common intention is to grow and share healthy, fresh food. A sense of shared purpose arises as people participate in (for example) farm festivals, vegetable processing workshops, or shared field work.\n* \n* When members of the Commons-Institute (Germany) meet, there are evenings of storytelling. People are asked: to explain, \"How did you come to Commons and ultimately to the Institute?\" Stories are vivid and memorable, and help connect people with each other.\n* \n* ",
+"description":"*How does a group become coherent and mutually aligned?\n\nCommons rarely start with shared values and intentions. Instead, they are forged as people of diverse talents and temperaments share experiences. Only if commoners accept the diversity of the group and are willing to align themselves with one another, developmental processes that include routines, reflections, and rituals, participants can cultivate shared purpose and values.\n\n* In community supported agriculture (CSA), the common intention is to grow and share healthy, fresh food. A sense of shared purpose arises as people participate in (for example) farm festivals, vegetable processing workshops, or shared field work.\n\n* When members of the Commons-Institute (Germany) meet, there are evenings of storytelling. People are asked: to explain, \"How did you come to Commons and ultimately to the Institute?\" Stories are vivid and memorable, and help connect people with each other.",
 "size":"",
-"objects above":[],
+"objects above":["1733410133758x702200130695331800"],
 "related objects":[],
 
 "label":"Cultivate Shared Purpose and Values"
@@ -2797,7 +2797,7 @@
 "summary":"a meme is a self-replicating, mutating and re-combining unit of culture carrying ideas, symbols, or practices that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena.\n\n[a primary sub-type of the MAP's Holon Type]",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1735077494169x449899490932424700"],
 "related objects":[],
 
 "label":"Meme"
@@ -2824,7 +2824,7 @@
 "summary":"An agent is any entity with the capacity to sense and respond to its environment.\n\n[a primary sub-type of the MAP's Holon Type]",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1735077494169x449899490932424700"],
 "related objects":[],
 
 "label":"Agent"
@@ -2851,7 +2851,7 @@
 "summary":" a resource is: 1) something that is available for use or that can be used for support or help.  2) an available supply that can be drawn on when needed.\n\n[a primary sub-type of the MAP's Holon Type]",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1735077494169x449899490932424700"],
 "related objects":["1737295621590x688695054493548500"],
 
 "label":"Resource"
@@ -2878,7 +2878,7 @@
 "summary":"Each service provides the means for realizing value flows between agents (horizontal value flow) as well as the means for helping to realize some desired ends (vertical flow). \n\nMAP Services consist of an offer, an implementation, zero or more agreements (accepted offers) and zero or more events. \n\n[a primary sub-type of the MAP's Holon Type]",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1735077494169x449899490932424700"],
 "related objects":["1737295621590x688695054493548500","1737296949727x880008898978775000"],
 
 "label":"Service"
@@ -2905,10 +2905,91 @@
 "summary":"From the MAP ~ Memetic Activation Platform",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1735077494169x449899490932424700"],
 "related objects":[],
 
 "label":"Holon Type"
+    },{
+        "id": "1737407404129x755759732102266900",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737407404129x755759732102266900&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"space-tags":["Triad"],
+"attribute-ids":["1690311308190x556156605122591940"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"*How can we communicate effectively?*\n\nSelf-responsible communication means honestly and respectfully expressing one's own needs and limits. This requires appropriate times and circumstances as well as a sense of one's own demeanor and tone in communication. In direct exchanges, active listening and compassionate speaking are important. With individual and collective self-awareness, norms of communication can be regularly reviewed and improved.\n\n - Communication rules are agreed upon in both digital and analog spaces. Suitable moderation methods – such as 'talking stick' rounds – allow all participants to speak without time pressure or tyranny of the loudest ones.\n\n - [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) supports the implementation of this pattern.\n\n - A good motto is: Speak spontaneously and from the heart. and listen from the heart.\n\n**new pattern from Patterning cards ~ Novemver 2024**",
+"size":"",
+"objects above":["1733410133758x702200130695331800"],
+"related objects":[],
+
+"label":"Show empathy & self-responsibility in communication"
+    },{
+        "id": "1737407687932x332622024759836700",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737407687932x332622024759836700&view=Page&tab=Object",
+"image":"https://www.freefairandalive.org/wp-content/uploads/2019/05/PI_4.7_C-e1576500598979.jpg",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"space-tags":["Triad"],
+"attribute-ids":["1690311308190x556156605122591940"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"*How are conflicts addressed?*\n\nIt is important to have protected spaces in which conflicts can be made visible and their causes understood. An attitude of respect and mutual concern is critical. Complaints focus on concrete behaviors or statements, not individuals. Criticism is balanced with expressions of respect and personal appreciation. An attitude of respect and mutual concern is critical so that relationships can be changed and not destroyed. Anyhow, in some instances separations may be the best option.\n\n - At the Cecosesola cooperative (Venezuela), concrete behaviors are openly and substantially criticized in group settings, but the choice of words and tone remain respectful. After conflict situations, for example, a hug conveys the message: Whatever our disagreement, I see you as a human being.\n\n - Systemic coaching, mediations and 'Constellations' workshops can address conflicts while preserving relationships.",
+"size":"",
+"objects above":["1733410133758x702200130695331800"],
+"related objects":[],
+
+"label":"Preserve Relationships in Addressing Conflicts"
+    },{
+        "id": "1737408028261x956343403365793800",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737408028261x956343403365793800&view=Page&tab=Object",
+"image":"https://freefairandalive.org/wp-content/uploads/2019/05/PI_5.9_C-e1577646417872-806x403.jpg",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"space-tags":["Triad"],
+"attribute-ids":["1690311308190x556156605122591940"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":["1733410133758x702200130695331800"],
+"related objects":[],
+
+"label":"Apply Graduated & Context-sensitive Sanctions"
     }
 ],
 
@@ -4907,6 +4988,66 @@
 "id":"1737298307193x492001896303165440",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737298307193x492001896303165440",
 "title":"Holon Type sub-type Service"
+    }
+,{
+        "label": "is related to",
+        "from": "1737408028261x956343403365793800",
+        "to": "1737407687932x332622024759836700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737408187176x317318814138630140",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737408187176x317318814138630140",
+"title":"Apply Graduated & Context-sensitive Sanctions is related to Preserve Relationships in Addressing Conflicts"
+    }
+,{
+        "label": "",
+        "from": "1737408028261x956343403365793800",
+        "to": "1737407404129x755759732102266900",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737408211167x550217749186478100",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737408211167x550217749186478100",
+"title":"Apply Graduated & Context-sensitive Sanctions  Show empathy & self-responsibility in communication"
+    }
+,{
+        "label": "",
+        "from": "1737407687932x332622024759836700",
+        "to": "1737407404129x755759732102266900",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737408266106x231014359502946300",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737408266106x231014359502946300",
+"title":"Preserve Relationships in Addressing Conflicts  Show empathy & self-responsibility in communication"
+    }
+,{
+        "label": "is related to",
+        "from": "1737407404129x755759732102266900",
+        "to": "1737153744733x242772308190560260",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737408317902x549455256081137660",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737408317902x549455256081137660",
+"title":"Show empathy & self-responsibility in communication is related to Cultivate Shared Purpose and Values"
     }
 
  ]
