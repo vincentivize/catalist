@@ -4792,19 +4792,19 @@
 "title":"Zbigniew Grabowski stewards Northeast BioEconomy Initiative"
     }
 ,{
-        "label": "includes",
+        "label": "",
         "from": "1737153744733x242772308190560260",
         "to": "1734455371830x976113790682136600",
 "strength":1,
-"connection subtype":"includes",
+"connection subtype":"",
 "description":"",
-"connection type":"includes",
+"connection type":"",
 "one-way":"no",
 "type":"",
 "direction":"mutual",
 "id":"1737153965991x336567803964293100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737153965991x336567803964293100",
-"title":"Cultivate Shared Purpose and Values includes Social Life"
+"title":"Cultivate Shared Purpose and Values  Social Life"
     }
 ,{
         "label": "stewards",
@@ -4987,19 +4987,19 @@
 "title":"Holon Type sub-type Service"
     }
 ,{
-        "label": "is related to",
+        "label": "",
         "from": "1737408028261x956343403365793800",
         "to": "1737407687932x332622024759836700",
 "strength":1,
-"connection subtype":"is related to",
+"connection subtype":"",
 "description":"",
-"connection type":"is related to",
+"connection type":"",
 "one-way":"no",
 "type":"",
 "direction":"mutual",
 "id":"1737408187176x317318814138630140",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737408187176x317318814138630140",
-"title":"Apply Graduated & Context-sensitive Sanctions is related to Preserve Relationships in Addressing Conflicts"
+"title":"Apply Graduated & Context-sensitive Sanctions  Preserve Relationships in Addressing Conflicts"
     }
 ,{
         "label": "",
@@ -5120,6 +5120,36 @@
 "id":"1737409866125x802648622741586000",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737409866125x802648622741586000",
 "title":"The Triad of Commoning  Triad of Commoning Patterns"
+    }
+,{
+        "label": "",
+        "from": "1737408028261x956343403365793800",
+        "to": "1734455484007x976325288942633000",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737410055641x234053720069636100",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737410055641x234053720069636100",
+"title":"Apply Graduated & Context-sensitive Sanctions  Peer Governance"
+    }
+,{
+        "label": "",
+        "from": "1734455371830x976113790682136600",
+        "to": "1737407404129x755759732102266900",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737410166400x790464661337669600",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737410166400x790464661337669600",
+"title":"Social Life  Show empathy & self-responsibility in communication"
     }
 
  ]
