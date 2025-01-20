@@ -4719,36 +4719,6 @@
 ,{
         "label": "includes",
         "from": "1731449920636x364845905765575500",
-        "to": "1734455371830x976113790682136600",
-"strength":1,
-"connection subtype":"includes",
-"description":"",
-"connection type":"includes",
-"one-way":"no",
-"type":"",
-"direction":"mutual",
-"id":"1735509885621x482023814411059200",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1735509885621x482023814411059200",
-"title":"Triad of Commoning Patterns includes Social Life"
-    }
-,{
-        "label": "includes",
-        "from": "1731449920636x364845905765575500",
-        "to": "1734455484007x976325288942633000",
-"strength":10,
-"connection subtype":"includes",
-"description":"",
-"connection type":"includes",
-"one-way":"no",
-"type":"",
-"direction":"mutual",
-"id":"1735509920964x462202094071840800",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1735509920964x462202094071840800",
-"title":"Triad of Commoning Patterns includes Peer Governance"
-    }
-,{
-        "label": "includes",
-        "from": "1731449920636x364845905765575500",
         "to": "1734455657801x242238054687571970",
 "strength":1,
 "connection subtype":"includes",
@@ -5093,38 +5063,23 @@
     }
 ,{
         "label": "",
-        "from": "1737408028261x956343403365793800",
-        "to": "1734455484007x976325288942633000",
+        "from": "1737409166965x843248755172966400",
+        "to": "1734455371830x976113790682136600",
 "strength":1,
 "connection subtype":"",
 "description":"",
 "connection type":"",
-"one-way":"no",
-"type":"",
-"direction":"mutual",
-"id":"1737408758599x362047714477735940",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737408758599x362047714477735940",
-"title":"Apply Graduated & Context-sensitive Sanctions  Peer Governance"
-    }
-,{
-        "label": "is related to",
-        "from": "1737409166965x843248755172966400",
-        "to": "1734455371830x976113790682136600",
-"strength":1,
-"connection subtype":"is related to",
-"description":"",
-"connection type":"is related to",
 "one-way":"no",
 "type":"",
 "direction":"mutual",
 "id":"1737409483452x105272207444541440",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737409483452x105272207444541440",
-"title":"The Triad of Commoning is related to Social Life"
+"title":"The Triad of Commoning  Social Life"
     }
 ,{
         "label": "",
         "from": "1737409166965x843248755172966400",
-        "to": "1734455484007x976325288942633000",
+        "to": "1734455657801x242238054687571970",
 "strength":1,
 "connection subtype":"",
 "description":"",
@@ -5132,24 +5087,39 @@
 "one-way":"no",
 "type":"",
 "direction":"mutual",
-"id":"1737409497985x501022918431211500",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737409497985x501022918431211500",
-"title":"The Triad of Commoning  Peer Governance"
+"id":"1737409513692x367618595728916500",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737409513692x367618595728916500",
+"title":"The Triad of Commoning  Provisioning"
     }
 ,{
-        "label": "is related to",
-        "from": "1737409166965x843248755172966400",
-        "to": "1734455657801x242238054687571970",
+        "label": "",
+        "from": "1734455484007x976325288942633000",
+        "to": "1737409166965x843248755172966400",
 "strength":1,
-"connection subtype":"is related to",
+"connection subtype":"",
 "description":"",
-"connection type":"is related to",
+"connection type":"",
 "one-way":"no",
 "type":"",
 "direction":"mutual",
-"id":"1737409513692x367618595728916500",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737409513692x367618595728916500",
-"title":"The Triad of Commoning is related to Provisioning"
+"id":"1737409733212x396751244240617500",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737409733212x396751244240617500",
+"title":"Peer Governance  The Triad of Commoning"
+    }
+,{
+        "label": "",
+        "from": "1737409166965x843248755172966400",
+        "to": "1731449920636x364845905765575500",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1737409866125x802648622741586000",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1737409866125x802648622741586000",
+"title":"The Triad of Commoning  Triad of Commoning Patterns"
     }
 
  ]
