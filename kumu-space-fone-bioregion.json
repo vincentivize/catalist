@@ -2431,7 +2431,7 @@
 "type":"Resource",
 "topics":[],
 "tags":[],
-"space-tags":["framework"],
+"space-tags":["framework","Triad"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -2458,7 +2458,7 @@
 "type":"Idea",
 "topics":[],
 "tags":[],
-"space-tags":["framework"],
+"space-tags":["framework","Triad"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -2485,7 +2485,7 @@
 "type":"Idea",
 "topics":[],
 "tags":[],
-"space-tags":["framework","meme","memeplex"],
+"space-tags":["framework","meme","memeplex","Triad"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -4715,21 +4715,6 @@
 "id":"1735403882645x461407879455834100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1735403882645x461407879455834100",
 "title":"Bill Baue is the same as Bill Baue (Sage)"
-    }
-,{
-        "label": "includes",
-        "from": "1731449920636x364845905765575500",
-        "to": "1734455657801x242238054687571970",
-"strength":1,
-"connection subtype":"includes",
-"description":"",
-"connection type":"includes",
-"one-way":"no",
-"type":"",
-"direction":"mutual",
-"id":"1735509944698x386083918572421100",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1735509944698x386083918572421100",
-"title":"Triad of Commoning Patterns includes Provisioning"
     }
 ,{
         "label": "stewards",
