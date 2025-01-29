@@ -3071,6 +3071,60 @@
 "related objects":[],
 
 "label":"Relocalized Food"
+    },{
+        "id": "1738186837782x178201039089958900",
+"url":"https://www.commonerscatalog.org/books/the-commoners-catalog-for-changemaking?page=47",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738186837782x178201039089958900&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1738187031278x319045927245524400/Subsistence%20Commons.png",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"space-tags":["CCFC"],
+"attribute-ids":["1690311308190x556156605122591940"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"An estimated two billion people in poor, rural regions depend on the commoning of forests, fisheries, irrigation water, and other natural systems for their daily life. Often denigrated as premodern, these commons nonetheless tend to be more eco-friendly and fair-minded than markets.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Subsistence Commons"
+    },{
+        "id": "1738187537462x772707755675877400",
+"url":"https://www.commonerscatalog.org/books/the-commoners-catalog-for-changemaking?page=22",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738187537462x772707755675877400&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1738187569496x802090991984620400/Gift%20Economies.png",
+"type":"Resource",
+"topics":[],
+"tags":["Resources"],
+"space-tags":["CCFC"],
+"attribute-ids":["1690311308190x556156605122591940"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Contrary to standard economic theory, giving away one’s time or property can be a powerful source of value, as seen in gift economies of artists, scholars, Indigenous peoples, and open-source software programmers. Gifts elicit and sustain collaboration, sociability, ethical behavior, and trust.  ",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Gift Economies"
     }
 ],
 
@@ -5204,6 +5258,36 @@
 "id":"1738170310707x270788623566635000",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1738170310707x270788623566635000",
 "title":"The Commoner\"s Catalog for Changemaking  Relocalized Food"
+    }
+,{
+        "label": "",
+        "from": "1738169295304x101158222616592380",
+        "to": "1738187537462x772707755675877400",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1738187625710x941882657552990200",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1738187625710x941882657552990200",
+"title":"The Commoner\"s Catalog for Changemaking  Gift Economies"
+    }
+,{
+        "label": "",
+        "from": "1738169295304x101158222616592380",
+        "to": "1738186837782x178201039089958900",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1738187706545x173629121259896830",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1738187706545x173629121259896830",
+"title":"The Commoner\"s Catalog for Changemaking  Subsistence Commons"
     }
 
  ]
