@@ -3126,60 +3126,6 @@
 
 "label":"Gift Economies"
     },{
-        "id": "1738607108776x616475587373170700",
-"url":"",
-"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738607108776x616475587373170700&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
-"type":"Resource",
-"topics":[],
-"tags":["Resources"],
-"space-tags":["Pattern","Triad"],
-"attribute-ids":["1690311308190x556156605122591940"],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"",
-"description":"",
-"size":"",
-"objects above":[],
-"related objects":[],
-
-"label":"Assure Consent in Decision Making"
-    },{
-        "id": "1738607207753x869615672045600800",
-"url":"",
-"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738607207753x869615672045600800&view=Page&tab=Object",
-"image":"https://freefairandalive.org/wp-content/uploads/2019/05/PI_5.5_C-e1577645784861-806x409.jpg",
-"type":"Resource",
-"topics":[],
-"tags":["Resources"],
-"space-tags":["Pattern","Triad"],
-"attribute-ids":["1690311308190x556156605122591940"],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"",
-"description":"",
-"size":"",
-"objects above":[],
-"related objects":[],
-
-"label":"Assure Consent in Decision Making"
-    },{
         "id": "1738607845387x515203724734103550",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738607845387x515203724734103550&view=Page&tab=Object",
@@ -3200,34 +3146,7 @@
 "draft":"no",
 "page_text":"",
 "summary":"One of the Peer Governance sphere's patterns",
-"description":"How do commoners make decisions and on what basis?\nTo ensure that decisions are based on the best information available, and that outcomes are seen as fair and wise, all participants must have opportunities to make their wishes and concerns known and respectfully heard. In contrast to majority-rule voting, decision-making in commons strives to avoid the creation of systematic winners and losers, or factional blocs.\nIn Sociocracy, a process of \"talking in rounds\" with the goal of obtaining wide consent for decisions, but not necessarily consensus. The point is to reach decisions that are \"good enough for now, safe enough to try\".\nIn Systemic Consensing ,people are asked to express their level of resistance, and not just a yes or no answer. Experience shows: The less resistance, the greater the long-term acceptance.\nA specific time for revisiting a decision can be set.\nIt is often useful to expand the decision options beyond pro & con. On the Quaker Continuum, people can take six different positions on an issue: from full support to total rejection.",
-"size":"",
-"objects above":[],
-"related objects":[],
-
-"label":"Assure Consent in Decision Making"
-    },{
-        "id": "1738608063948x350503990538010600",
-"url":"",
-"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738608063948x350503990538010600&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
-"type":"Resource",
-"topics":[],
-"tags":["Resources"],
-"space-tags":["Pattern","Triad"],
-"attribute-ids":["1690311308190x556156605122591940"],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"One of the Peer Governance sphere's patterns",
-"description":"",
+"description":"***How do commoners make decisions and on what basis?***\n\nTo ensure that decisions are based on the best information available, and that outcomes are seen as fair and wise, all participants must have opportunities to make their wishes and concerns known and respectfully heard. In contrast to majority-rule voting, decision-making in commons strives to avoid the creation of systematic winners and losers, or factional blocs.\n\n - In Sociocracy, a process of \"talking in rounds\" with the goal of obtaining wide consent for decisions, but not necessarily consensus. The point is to reach decisions that are \"good enough for now, safe enough to try\".\n\n - In Systemic Consensing ,people are asked to express their level of resistance, and not just a yes or no answer. Experience shows: The less resistance, the greater the long-term acceptance.\n\n - A specific time for revisiting a decision can be set.\nIt is often useful to expand the decision options beyond pro & con. On the Quaker Continuum, people can take six different positions on an issue: from full support to total rejection.",
 "size":"",
 "objects above":[],
 "related objects":[],
@@ -5399,7 +5318,7 @@
     }
 ,{
         "label": "",
-        "from": "1738607207753x869615672045600800",
+        "from": "",
         "to": "1734455484007x976325288942633000",
 "strength":9,
 "connection subtype":"",
@@ -5410,7 +5329,7 @@
 "direction":"mutual",
 "id":"1738607481394x435748029391962100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1738607481394x435748029391962100",
-"title":"Assure Consent in Decision Making  Peer Governance"
+"title":"  Peer Governance"
     }
 ,{
         "label": "",
@@ -5429,7 +5348,7 @@
     }
 ,{
         "label": "",
-        "from": "1738608063948x350503990538010600",
+        "from": "",
         "to": "1734455484007x976325288942633000",
 "strength":9,
 "connection subtype":"",
@@ -5440,7 +5359,7 @@
 "direction":"mutual",
 "id":"1738608086042x541058599023804400",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1738608086042x541058599023804400",
-"title":"Assure Consent in Decision Making  Peer Governance"
+"title":"  Peer Governance"
     }
 
  ]
