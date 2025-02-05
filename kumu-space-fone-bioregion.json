@@ -178,7 +178,7 @@
         "id": "1731433757421x859448969748322300",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731433757421x859448969748322300&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"image":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1733774793969x137165114626037310/Bill%20Hat%20Tree%20.jpg",
 "type":"Member",
 "topics":[],
 "tags":[],
@@ -186,7 +186,7 @@
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
-"address":"",
+"address":"Willington, CT, USA",
 "types":[],
 "skills":[],
 "color":"",
@@ -194,7 +194,7 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"",
+"summary":"Systems Transformation Catalyst working on bioregional resilience & regeneration as Senior Director at r3.0 (Redesign for Resilience & Regeneration) ",
 "description":"",
 "size":"",
 "objects above":[],
@@ -2422,7 +2422,7 @@
 "objects above":[],
 "related objects":[],"What is your current relationship with this person?":"Currently collaborating",
 
-"label":"Bill Baue"
+"label":"Bill Baue [delete duplicate]"
     },{
         "id": "1734455371830x976113790682136600",
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/sl?focus=1",
@@ -3148,7 +3148,7 @@
 "summary":"One of the Peer Governance sphere's patterns",
 "description":"***How do commoners make decisions and on what basis?***\n\nTo ensure that decisions are based on the best information available, and that outcomes are seen as fair and wise, all participants must have opportunities to make their wishes and concerns known and respectfully heard. In contrast to majority-rule voting, decision-making in commons strives to avoid the creation of systematic winners and losers, or factional blocs.\n\n - In **[Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)**, a process of \"talking in rounds\" with the goal of obtaining wide consent for decisions, but not necessarily consensus. The point is to reach decisions that are _\"good enough for now, safe enough to try\"_.  See also:  _[SoFA's Visual Thesaurus](https://kumu.io/rmattlage/sofa-visual-thesaurus#sofa-visual-thesaurus?focus=%23sofa-thesaurus-domain%20out%202,%20%23principles-and-values%20out%201)_\n\n - In **[Systemic Consensing](https://en.wikipedia.org/wiki/Systemic_Consensing)**, people are asked to express their level of resistance, and not just a yes or no answer. Experience shows: The less resistance, the greater the long-term acceptance.\n\n - A specific time for revisiting a decision can be set.\n\n - It is often useful to expand the decision options beyond pro & con. On the Quaker Continuum, people can take six different positions on an issue: from full support to total rejection.",
 "size":"",
-"objects above":[],
+"objects above":["1733410133758x702200130695331800"],
 "related objects":[],
 
 "label":"Assure Consent in Decision Making"
@@ -4689,7 +4689,7 @@
 ,{
         "label": "is interested in connecting with",
         "from": "",
-        "to": "1733775051789x878250520003215400",
+        "to": "1731433757421x859448969748322300",
 "strength":1,
 "connection subtype":"is interested in connecting with",
 "description":"Hey Bill, just testing the \"Request\" functionality ;-)\n",
@@ -4699,7 +4699,7 @@
 "direction":"directed",
 "id":"1734454166927x315992216219156500",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1734454166927x315992216219156500",
-"title":" is interested in connecting with Bill Baue"
+"title":" is interested in connecting with Bill Baue (Sage)"
     }
 ,{
         "label": "is interested to learn about",
@@ -4849,7 +4849,7 @@
 "direction":"mutual",
 "id":"1735403882645x461407879455834100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1735403882645x461407879455834100",
-"title":"Bill Baue is the same as Bill Baue (Sage)"
+"title":"Bill Baue [delete duplicate] is the same as Bill Baue (Sage)"
     }
 ,{
         "label": "stewards",
