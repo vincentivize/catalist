@@ -2397,33 +2397,6 @@
 
 "label":"Posts and Questions"
     },{
-        "id": "1733775051789x878250520003215400",
-"url":"",
-"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1733775051789x878250520003215400&view=Page&tab=Object",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1733774793969x137165114626037310/Bill%20Hat%20Tree%20.jpg",
-"type":"Member",
-"topics":[],
-"tags":[],
-"space-tags":[],
-"attribute-ids":[],
-"sectors":[],
-"locations":[],
-"address":"Willington, CT, USA",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"Systems Transformation Catalyst working on bioregional resilience & regeneration as Senior Director at r3.0 (Redesign for Resilience & Regeneration) ",
-"description":"",
-"size":"",
-"objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Currently collaborating",
-
-"label":"Bill Baue [delete duplicate]"
-    },{
         "id": "1734455371830x976113790682136600",
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/sl?focus=1",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1734455371830x976113790682136600&view=Page&tab=Object",
@@ -4838,7 +4811,7 @@
     }
 ,{
         "label": "is the same as",
-        "from": "1733775051789x878250520003215400",
+        "from": "",
         "to": "1731433757421x859448969748322300",
 "strength":1,
 "connection subtype":"is the same as",
@@ -4849,7 +4822,7 @@
 "direction":"mutual",
 "id":"1735403882645x461407879455834100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1735403882645x461407879455834100",
-"title":"Bill Baue [delete duplicate] is the same as Bill Baue (Sage)"
+"title":" is the same as Bill Baue (Sage)"
     }
 ,{
         "label": "stewards",
