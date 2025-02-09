@@ -2512,7 +2512,7 @@
 "type":"Resource",
 "topics":[],
 "tags":["Resources"],
-"space-tags":["Domain","framework","governance","pattern","provisioning","purpose","values","Commoning"],
+"space-tags":["framework","Domain","governance","provisioning","purpose","values","Commoning","Pattern"],
 "attribute-ids":["1690311308190x556156605122591940"],
 "sectors":[],
 "locations":[],
@@ -3125,6 +3125,33 @@
 "related objects":[],
 
 "label":"Assure Consent in Decision Making"
+    },{
+        "id": "1738952546830x780684419287482400",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738952546830x780684419287482400&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"New Section"
     }
 ],
 
