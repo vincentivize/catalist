@@ -75,6 +75,33 @@
 "type":"Object Type",
 "description":"An idea or suggestion"
 },{
+"label":"Air Pollution",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235030271x102621408255861630/Doughtnut%20SEctors%20Square%20Large.png",
+"id":"1682014296985x876010079214186700",
+"type":"Attribute",
+"description":"The emission of aerosols (small particles) has a negative impact on the health of species. It can also affect precipitation and cloud formation.\n\nThe nine ecological ceilings of Doughnut Economics are from the planetary boundaries put forward by a group of Earth-system scientists led by Johan Rockström and Will Steffen.",
+"set":"Planetary Boundaries",
+"url":"https://www.catalist.network/attribute/1682014296985x876010079214186700",
+"color":""
+},{
+"label":"Organizations",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100117251x280445081281156740/039-building-1.svg",
+"id":"1689950587072x126998406590484340",
+"type":"Attribute",
+"description":"An established entity or formal body of people with a particular purpose, especially a business, society, association, etc.",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1689950587072x126998406590484340",
+"color":""
+},{
+"label":"Biodiversity Loss",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235032304x867555521818236900/Doughtnut%20SEctors%20Square%20Large.png",
+"id":"1682014297713x463451171256629600",
+"type":"Attribute",
+"description":"Economic activity may cause a reduction in the number and variety of species. This makes ecosystems more vulnerable and may lower their capacity of sustaining life and providing ecosystem services.\n\nThe nine ecological ceilings of Doughnut Economics are from the planetary boundaries put forward by a group of Earth-system scientists led by Johan Rockström and Will Steffen.",
+"set":"Planetary Boundaries",
+"url":"https://www.catalist.network/attribute/1682014297713x463451171256629600",
+"color":""
+},{
 "label":"Community of Practice",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"1683318589717x407915670140197600",
@@ -102,15 +129,6 @@
 "url":"https://www.catalist.network/attribute/1690311308190x556156605122591940",
 "color":""
 },{
-"label":"Organizations",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100117251x280445081281156740/039-building-1.svg",
-"id":"1689950587072x126998406590484340",
-"type":"Attribute",
-"description":"An established entity or formal body of people with a particular purpose, especially a business, society, association, etc.",
-"set":"Main Data Types",
-"url":"https://www.catalist.network/attribute/1689950587072x126998406590484340",
-"color":""
-},{
 "label":"Members",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100103354x888949089143539000/member-card.svg",
 "id":"1695444797436x373186649656771100",
@@ -127,9 +145,9 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "topics":[],
-"tags":[],
+"tags":["Air Pollution","Organizations"],
 "space-tags":[],
-"attribute-ids":[],
+"attribute-ids":["1682014296985x876010079214186700","1689950587072x126998406590484340"],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -154,9 +172,9 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
 "type":"Organization",
 "topics":[],
-"tags":[],
+"tags":["Biodiversity Loss","Organizations"],
 "space-tags":[],
-"attribute-ids":[],
+"attribute-ids":["1682014297713x463451171256629600","1689950587072x126998406590484340"],
 "sectors":[],
 "locations":[],
 "address":"",
@@ -494,7 +512,7 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"The Mashantucket Pequot Tribal Nation, one of America’s oldest tribes, shares its culture and history through a museum in Connecticut.",
+"summary":"The Mashantucket Pequot Tribal Nation, living on one of America's oldest Indian reservations (1666), shares its culture and history through a museum in Connecticut.",
 "description":"",
 "size":"",
 "objects above":[],
@@ -3788,21 +3806,6 @@
     }
 ,{
         "label": "",
-        "from": "1731449890475x327011662577851650",
-        "to": "1731434258495x874254188075188900",
-"strength":1,
-"connection subtype":"",
-"description":"",
-"connection type":"",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731449973747x671582347320791800",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449973747x671582347320791800",
-"title":"Jelani Fletcher  Eastern Pequot Tribal Nation"
-    }
-,{
-        "label": "",
         "from": "1731449899467x404687569141690700",
         "to": "1731434049205x843686499991707800",
 "strength":1,
@@ -4445,21 +4448,6 @@
 "id":"1731450003168x433184027279304600",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731450003168x433184027279304600",
 "title":"Rahiem Eleazer  Alliance for the Mystic River Watershed"
-    }
-,{
-        "label": "",
-        "from": "1731449871164x984165616797473500",
-        "to": "1731434258495x874254188075188900",
-"strength":1,
-"connection subtype":"",
-"description":"",
-"connection type":"",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731450003961x145788567165863200",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731450003961x145788567165863200",
-"title":"Rahiem Eleazer  Eastern Pequot Tribal Nation"
     }
 ,{
         "label": "",
@@ -5360,6 +5348,51 @@
 "id":"1738608086042x541058599023804400",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1738608086042x541058599023804400",
 "title":"  Peer Governance"
+    }
+,{
+        "label": "alliance",
+        "from": "1731434258495x874254188075188900",
+        "to": "1731434255833x898479935151011100",
+"strength":8,
+"connection subtype":"alliance",
+"description":"",
+"connection type":"alliance",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1744140544562x169558597936087040",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1744140544562x169558597936087040",
+"title":"Eastern Pequot Tribal Nation alliance Mashantucket Pequot Tribal Nation"
+    }
+,{
+        "label": "membership",
+        "from": "1731449890475x327011662577851650",
+        "to": "1731434255833x898479935151011100",
+"strength":10,
+"connection subtype":"membership",
+"description":"",
+"connection type":"membership",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1744140695488x913066167174955000",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1744140695488x913066167174955000",
+"title":"Jelani Fletcher membership Mashantucket Pequot Tribal Nation"
+    }
+,{
+        "label": "is related to",
+        "from": "1731449877557x583565993080329500",
+        "to": "1731434255833x898479935151011100",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1745265068157x533605467391262700",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1745265068157x533605467391262700",
+"title":"Michael Thomas is related to Mashantucket Pequot Tribal Nation"
     }
 
  ]
