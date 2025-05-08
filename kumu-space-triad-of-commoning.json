@@ -1177,6 +1177,21 @@
 ],
 
   "connections": [
+{
+        "label": "",
+        "from": "1746109725515x778289466370878800",
+        "to": "1746109767492x670895692150196700",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746726387628x855471989949464600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746726387628x855471989949464600",
+"title":"The Triad of Commoning  Social Life"
+    }
 
  ]
 }
