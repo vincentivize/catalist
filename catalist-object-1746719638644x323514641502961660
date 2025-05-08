@@ -1,6 +1,6 @@
 {
   "linked_schemas": [
-    "catalist_object-v0.1.0"
+    "catalist_object-v0.1.0","organizations_schema-v1.0.0"
   ],
   "primary_url": "https://www.catalist.network/version-test/object/omni-mapping-1746719638644x323514641502961660",
 "type":"Organizations",
