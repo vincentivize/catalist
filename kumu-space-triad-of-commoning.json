@@ -1192,6 +1192,36 @@
 "url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746726387628x855471989949464600",
 "title":"The Triad of Commoning  Social Life"
     }
+,{
+        "label": "",
+        "from": "1746109725515x778289466370878800",
+        "to": "1746109747603x747810290140454400",
+"strength":1,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746726704097x150888128677937150",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746726704097x150888128677937150",
+"title":"The Triad of Commoning  Provisioning"
+    }
+,{
+        "label": "",
+        "from": "1746109725515x778289466370878800",
+        "to": "1746109726684x579736016221404300",
+"strength":10,
+"connection subtype":"",
+"description":"",
+"connection type":"",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746726752948x510266881977876500",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746726752948x510266881977876500",
+"title":"The Triad of Commoning  Peer Governance"
+    }
 
  ]
 }
