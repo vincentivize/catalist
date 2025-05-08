@@ -1,1 +1,22 @@
-žée
+{
+  "linked_schemas": [
+    "catalist_object-v0.1.0"
+  ],
+  "primary_url": "https://www.catalist.network/version-test/object/omni-mapping-1746719638644x323514641502961660",
+"type":"Organizations",
+"name":"OMNI Mapping",
+
+"description":"OMNI-Mapping is a new project advancing the field of mapping by enabling organizations to build on the work of others, and create clearer, more actionable maps.",
+"tags":["Catalist Object"],
+ "image_logo": "https://https://logo.clearbit.com/www.omnimapping.org",
+ "image_cover": "https://https://82f7699abaf74aa1df285f220fc10c5b.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1727889379830x593084086424037600/Omni-Mapping%20Diagram.png",
+
+"url":"https://www.omnimapping.org",
+
+
+"object_id":"1746719638644x323514641502961660",
+  "relationships": [{
+      "predicate_url": "https://schema.org/memberOf",
+      "object_url": "https://www.collaborative.tech/"
+    }]
+}
