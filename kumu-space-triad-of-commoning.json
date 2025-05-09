@@ -197,7 +197,7 @@
 "summary":"",
 "description":"_**How do the necessary elements of a material and immaterial nature come together?**_\n\nPeople freely make contributions based on their desires – in conjunction with collective decisions and situational needs. Contributions are not driven by external pressures or sanctions, or expectations of tit-for-tat exchange, nor do not all commoners contribute equally at all times. A public accounting of contributions may help establish perceived fairness in larger, impersonal circumstances, but especially in more personal contexts, explicit reckonings can undermine the commons as a space free from calculative rationality. An individual's precise contribution is often not apparent.\n\n- People bring delicious dishes to a group buffet, contribute money to a crowdfunding, or volunteer at a women's shelter or food kitchen.\n\n- People freely contribute when they share knowledge and skills, such as fixing bikes at repair cafes or writing in \n",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Contribute Freely"
@@ -272,7 +272,7 @@
 "skills":[],
 "color":"",
 "font_color":"",
-"background_color":"",
+"background_color":"#ADD8E6",
 "draft":"no",
 "page_text":"",
 "summary":"",
@@ -650,7 +650,7 @@
 "skills":[],
 "color":"",
 "font_color":"",
-"background_color":"",
+"background_color":"#FFC0CB",
 "draft":"no",
 "page_text":"",
 "summary":"",
@@ -931,33 +931,6 @@
 
 "label":"Strive for Money-independent Security"
     },{
-        "id": "1746109767492x670895692150196700",
-"url":"https://freefairandalive.org/read-it/#4",
-"object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109767492x670895692150196700&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651961862254x222849054047916000/framework.svg",
-"type":"Framework",
-"topics":[],
-"tags":[],
-"space-tags":[],
-"attribute-ids":[],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"",
-"description":"",
-"size":"",
-"objects above":["1746109725515x778289466370878800","1745507784878x176197041733238800"],
-"related objects":[],
-
-"label":"Social Life"
-    },{
         "id": "1746109768653x848244319251826300",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109768653x848244319251826300&view=Page&tab=Object",
@@ -980,7 +953,7 @@
 "summary":"",
 "description":"_**How does a group become coherent and mutually aligned?**_\n\nCommons rarely start with shared values and intentions. Instead, they are forged as people of diverse talents and temperaments share experiences. Only if commoners accept the diversity of the group and are willing to align themselves with one another, developmental processes that include routines, reflections, and rituals, participants can cultivate shared purpose and values.\n\n- In *community supported agriculture* (CSA), the common intention is to grow and share healthy, fresh food. A sense of shared purpose arises as people participate in (for example) farm festivals, vegetable processing workshops, or shared field work.\n\n- When members of the *Commons-Institute* (Germany) meet, there are evenings of storytelling. People are asked: to explain, \"*How did you come to Commons and ultimately to the Institute?*\" Stories are vivid and memorable, and help connect people with each other. \n",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Cultivate Shared Purpose and Values"
@@ -1007,7 +980,7 @@
 "summary":"",
 "description":"_**What customs and practices strengthen cohesion?**_\n\nGroup practices and rituals to strengthen everyone's sense of group belonging. Regular moments to emotionally connect, reflect, or celebrate can help build a shared resonance.\n\n- At the beginning of (work) meetings, the short check-in question '*How am I feeling here today?*’ creates a space where everyone feels seen. A check-out completes the ritual.\n\n- \"Dragon Dreaming\" – a method for eliciting and encouraging new projects – reminds us: Don't forget to celebrate after the work is done!\n- \nThe open workshop project *Konglomerat* (Germany) regularly organizes *cleaning events* that are fun while doing necessary work.\n",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Ritualize Togetherness"
@@ -1034,7 +1007,7 @@
 "summary":"",
 "description":"_**How are the relationships between giving and taking shaped in commons?**_\n\nWhat matters is the perception of fairness, which is not necessarily the same a providing absolutely equal shares or equivalent money-value exchange to everyone. An approximate reciprocity is sufficient, while recognizing the different needs of all participants. If, on average, enough skills and capacities are contributed, there is no need to calculate exactly who owes whom. The point is to assure that everyone's needs can be reliably met without a fear of falling short or not contributing enough.\n\n- In some types of _community supported agriculture (CSA)_, there are rounds of contributions in which the participants individually determine how much they can afford to contribute to the group financing. For this, disclosure of expected production costs and the average per-household contributions are important.\n\n- In many projects, precise amounts of giving and taking are deliberately decoupled. The point is to avoid the even-steven logic of market exchange and dampen individual feelings of entitlement.\n",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Practice Gentle Reciprocity"
@@ -1061,7 +1034,7 @@
 "summary":"",
 "description":"_**What types of knowledge are at work in commons?**_\n\nWhile the Western mind puts a premium on cognitive knowledge, much of what we actually know is less explicit and “rational,” especially in our relationships with each other and in figuring out solutions to problems.\n\nWe have emotional and intuitive knowledge for example, spiritual and ethical knowledge that may not be readily expressed in words. We also have somatic knowledge, originating in bodily sensations, and situational knowledge associated with specific places and social contexts. Wisdom is a form of deep, synthetic knowledge.\n\nIt is important to draw on all these forms of knowing and prevent any single kind of knowing – such as rational cognition – from dominating decisions and judgments.\n\n- *Permaculture* designers emphasize the need to observe well in order to interact with plant life and landscapes.\n\n- In the *Transition Town Movement* for a post-fossil world, three sources of knowing are seen as equally important: reason, emotion & action (or \"head, heart & hand\").\n\n- Using their bodies and intuition, mountaineers have learned to estimate the stability of snow bridges. Soccer players have a keen sense of where and how fast a ball will fly.\n",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Trust Situated Knowing"
@@ -1088,7 +1061,7 @@
 "summary":"",
 "description":"_**How is being connected to nature lived out?**_\n\nBy engaging with natural biowealth - water, farmland, forests, fisheries - commoners realize that \"nature\" isn't separate, but a living part of their everyday existence. This helps them experience themselves as a connected, caring part of nature. Stewardship of land and its seasonal cycles helps people develop respect for the more-than-human world and recognize \"the economy\" as a human construct.\n\n- Wilderness education clarifies: people need an emotional connection to nature in order to see themselves as part of it and understand our somatic connection to the more-than-human world.\n\n- Engaging with community supported agriculture can deepen one's appreciation of natural systems and seasonal cycles. We participate in how the food that nourishes our bodies is grown.\n\n- Conservation reserves are often created without regard for the people already living there, in part because some conservationists think \"nature\" would be better off without people. This replicates the nature/human divide rather than healing it. An emerging new approach is “convivial conservation” that seeks to establish (noncapitalist) human stewardship of land for farming and other purposes.",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Deepen Communion with Nature"
@@ -1115,7 +1088,7 @@
 "summary":"",
 "description":"_**How are conflicts addressed?**_\n\nIt is important to have protected spaces in which conflicts can be made visible and their causes understood. An attitude of respect and mutual concern is critical. Complaints focus on concrete behaviors or statements, not individuals. Criticism is balanced with expressions of respect and personal appreciation. An attitude of respect and mutual concern is critical so that relationships can be changed and not destroyed. Anyhow, in some instances separations may be the best option.  \n\n- At the *Cecosesola* cooperative (Venezuela), concrete behaviors are openly and substantially criticized in group settings, but the choice of words and tone remain respectful. After conflict situations, for example, a hug conveys the message: *Whatever our disagreement, I see you as a human being.*\n\n- Systemic coaching, mediations and 'Constellations' workshops can address conflicts while preserving relationships.\n",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Preserve Relationships in Addressing Conflicts"
@@ -1142,7 +1115,7 @@
 "summary":"",
 "description":"_**How do commoners assure that their structures and rules are appropriate and yet capable of change as needed?**_\n\nIt is important to regularly and collectively reflect on one's own organizational governance. Changing circumstances may require new approaches. Power issues may need to be addressed. Financial risks and institutional dependencies deserve frank debate. Reflecting on a group's patterns of self-organization can help (re)think structures, rules, and processes.\n\n- The network *Fuchsmühle* (Germany) uses this collection of patterns to reflect upon and improve their own self-organization with a variety of somatic and deliberative methods.\n\n- Supervision and coaching can help visualize and adapt governance structures.\n\n- Governance issues should be regularly revisited in calm, quiet moments so that people have opportunities to raise difficult, big questions.\n",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Reflect on Your Peer Governance"
@@ -1169,58 +1142,1750 @@
 "summary":"",
 "description":"_**How can we communicate effectively?**_\n\nSelf-responsible communication means honestly and respectfully expressing one's own needs and limits. This requires appropriate times and circumstances as well as a sense of one's own demeanor and tone in communication. In direct exchanges, active listening and compassionate speaking are important. With individual and collective self-awareness, norms of communication can be regularly reviewed and improved.\n\n- Communication rules are agreed upon in both digital and analog spaces. Suitable moderation methods – such as 'talking stick' rounds – allow all participants to speak without time pressure or tyranny of the loudest ones.\n\n- [**Nonviolent communication**](https://en.wikipedia.org/wiki/Nonviolent_Communication) supports the implementation of this pattern.\n\n- A good motto is: _Speak spontaneously and from the heart. and listen from the heart._\n\n**new pattern from Patterning cards ~ Novemver 2024**\n",
 "size":"",
-"objects above":["1746109767492x670895692150196700"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Show empathy & self-responsibility in communication"
+    },{
+        "id": "1746801541565x952036572252138200",
+"url":"https://freefairandalive.org/read-it/#4",
+"object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746801541565x952036572252138200&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961862254x222849054047916000/framework.svg",
+"type":"Framework",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"#98FB98",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":["1746109725515x778289466370878800","1745507784878x176197041733238800"],
+"related objects":[],
+
+"label":"Social Life"
     }
 ],
 
   "connections": [
 {
-        "label": "",
-        "from": "1746109725515x778289466370878800",
-        "to": "1746109767492x670895692150196700",
+        "label": "is related to",
+        "from": "1746109741816x844105400363580700",
+        "to": "1746109733562x152100760730998980",
 "strength":1,
-"connection subtype":"",
+"connection subtype":"is related to",
 "description":"",
-"connection type":"",
+"connection type":"is related to",
 "one-way":"no",
 "type":"",
 "direction":"mutual",
-"id":"1746726387628x855471989949464600",
-"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746726387628x855471989949464600",
-"title":"The Triad of Commoning  Social Life"
+"id":"1746811177366x202549140196283780",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811177366x202549140196283780",
+"title":"Fund Provisioning in Commons-friendly Ways is related to Share Knowledge Generously"
     }
 ,{
-        "label": "",
-        "from": "1746109725515x778289466370878800",
-        "to": "1746109747603x747810290140454400",
+        "label": "is related to",
+        "from": "1746109741816x844105400363580700",
+        "to": "1746109740377x800221548687199500",
 "strength":1,
-"connection subtype":"",
+"connection subtype":"is related to",
 "description":"",
-"connection type":"",
+"connection type":"is related to",
 "one-way":"no",
 "type":"",
 "direction":"mutual",
-"id":"1746726704097x150888128677937150",
-"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746726704097x150888128677937150",
-"title":"The Triad of Commoning  Provisioning"
+"id":"1746811178155x772429976787979600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811178155x772429976787979600",
+"title":"Fund Provisioning in Commons-friendly Ways is related to Keep Commons & Commerce Distinct"
     }
 ,{
-        "label": "",
-        "from": "1746109725515x778289466370878800",
-        "to": "1746109726684x579736016221404300",
-"strength":10,
-"connection subtype":"",
+        "label": "is related to",
+        "from": "1746109741816x844105400363580700",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
 "description":"",
-"connection type":"",
+"connection type":"is related to",
 "one-way":"no",
 "type":"",
 "direction":"mutual",
-"id":"1746726752948x510266881977876500",
-"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746726752948x510266881977876500",
-"title":"The Triad of Commoning  Peer Governance"
+"id":"1746811178738x245182378352392770",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811178738x245182378352392770",
+"title":"Fund Provisioning in Commons-friendly Ways is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109741816x844105400363580700",
+        "to": "1746109749178x175031545822892600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811179264x309572975286049660",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811179264x309572975286049660",
+"title":"Fund Provisioning in Commons-friendly Ways is related to Make & Use Together"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109741816x844105400363580700",
+        "to": "1746109750825x450184318546972300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811179840x391839489378159600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811179840x391839489378159600",
+"title":"Fund Provisioning in Commons-friendly Ways is related to Respect Care Work as much as “Productive Work”"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109741816x844105400363580700",
+        "to": "1746109772014x385032029265667900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811180488x371996023059948600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811180488x371996023059948600",
+"title":"Fund Provisioning in Commons-friendly Ways is related to Practice Gentle Reciprocity"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109768653x848244319251826300",
+        "to": "1746109728028x262036339829732960",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811186132x690223146625022600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811186132x690223146625022600",
+"title":"Cultivate Shared Purpose and Values is related to Bring Diversity into Shared Purpose"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109768653x848244319251826300",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811186889x990151868031482500",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811186889x990151868031482500",
+"title":"Cultivate Shared Purpose and Values is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109768653x848244319251826300",
+        "to": "1746109769428x803412021765221200",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811187469x630066299211094400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811187469x630066299211094400",
+"title":"Cultivate Shared Purpose and Values is related to Ritualize Togetherness"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109768653x848244319251826300",
+        "to": "1746109778651x530783114163491300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811188197x477931931610604540",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811188197x477931931610604540",
+"title":"Cultivate Shared Purpose and Values is related to Reflect on Your Peer Governance"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109769428x803412021765221200",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811188973x556311529630253000",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811188973x556311529630253000",
+"title":"Ritualize Togetherness is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109769428x803412021765221200",
+        "to": "1746109775721x202138861665752900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811189591x964063893325064300",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811189591x964063893325064300",
+"title":"Ritualize Togetherness is related to Deepen Communion with Nature"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109395401x234018599967538800",
+        "to": "1746109741816x844105400363580700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811190354x893530622866175900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811190354x893530622866175900",
+"title":"Contribute Freely is related to Fund Provisioning in Commons-friendly Ways"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109395401x234018599967538800",
+        "to": "1746109394044x385527481714976500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811191103x437850290549507400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811191103x437850290549507400",
+"title":"Contribute Freely is related to Contribute & Share"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109395401x234018599967538800",
+        "to": "1746109755591x477350155891545400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811191807x746175718571030300",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811191807x746175718571030300",
+"title":"Contribute Freely is related to Pool, Cap & Divide Up"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109395401x234018599967538800",
+        "to": "1746109757612x789682977897324400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811192321x496467544867285060",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811192321x496467544867285060",
+"title":"Contribute Freely is related to Pool, Cap & Mutualize"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109395401x234018599967538800",
+        "to": "1746109764901x838798530919741000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811192927x360183001568082050",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811192927x360183001568082050",
+"title":"Contribute Freely is related to Strive for Money-independent Security"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109395401x234018599967538800",
+        "to": "1746109772014x385032029265667900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811193451x402674743348406140",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811193451x402674743348406140",
+"title":"Contribute Freely is related to Practice Gentle Reciprocity"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109772014x385032029265667900",
+        "to": "1746109730516x554564403661208300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811194140x962963306928457100",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811194140x962963306928457100",
+"title":"Practice Gentle Reciprocity is related to Honor Transparency in a Sphere of Trust"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109772014x385032029265667900",
+        "to": "1746109750825x450184318546972300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811194945x543702840042463500",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811194945x543702840042463500",
+"title":"Practice Gentle Reciprocity is related to Respect Care Work as much as “Productive Work”"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109772014x385032029265667900",
+        "to": "1746109764901x838798530919741000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811195600x636521746758953400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811195600x636521746758953400",
+"title":"Practice Gentle Reciprocity is related to Strive for Money-independent Security"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109772014x385032029265667900",
+        "to": "1746109777115x497848843482870100",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811196318x837576851978949900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811196318x837576851978949900",
+"title":"Practice Gentle Reciprocity is related to Preserve Relationships in Addressing Conflicts"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109773661x502431083265768400",
+        "to": "1746109733562x152100760730998980",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811197036x682252372918267300",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811197036x682252372918267300",
+"title":"Trust Situated Knowing is related to Share Knowledge Generously"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109773661x502431083265768400",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811197678x219609152728111200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811197678x219609152728111200",
+"title":"Trust Situated Knowing is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109773661x502431083265768400",
+        "to": "1746109763481x937573383496795000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811198256x755780834975605700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811198256x755780834975605700",
+"title":"Trust Situated Knowing is related to Adapt & Renew Creatively"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109773661x502431083265768400",
+        "to": "1746109775721x202138861665752900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811198998x486399335899113400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811198998x486399335899113400",
+"title":"Trust Situated Knowing is related to Deepen Communion with Nature"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109775721x202138861665752900",
+        "to": "1746109755591x477350155891545400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811199524x202659574765980960",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811199524x202659574765980960",
+"title":"Deepen Communion with Nature is related to Pool, Cap & Divide Up"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109777115x497848843482870100",
+        "to": "1746109730516x554564403661208300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811200246x483921972005039600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811200246x483921972005039600",
+"title":"Preserve Relationships in Addressing Conflicts is related to Honor Transparency in a Sphere of Trust"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109728028x262036339829732960",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811200852x605550601189584600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811200852x605550601189584600",
+"title":"Reflect on Your Peer Governance is related to Bring Diversity into Shared Purpose"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109729114x718041872405381900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811201605x271313536359179200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811201605x271313536359179200",
+"title":"Reflect on Your Peer Governance is related to Create Semi-Permeable Membranes around Commons"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109730516x554564403661208300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811202106x975130834737691600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811202106x975130834737691600",
+"title":"Reflect on Your Peer Governance is related to Honor Transparency in a Sphere of Trust"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109733562x152100760730998980",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811202673x831785246812083800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811202673x831785246812083800",
+"title":"Reflect on Your Peer Governance is related to Share Knowledge Generously"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109735084x675267417021090800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811203360x612101474270017040",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811203360x612101474270017040",
+"title":"Reflect on Your Peer Governance is related to Assure Consent in Decision Making"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109736247x325008240650592760",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811203917x604539084939858400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811203917x604539084939858400",
+"title":"Reflect on Your Peer Governance is related to Rely on Heterarchy"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109737643x653321758032239000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811204931x154079317964462400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811204931x154079317964462400",
+"title":"Reflect on Your Peer Governance is related to Apply Graduated & Context-sensitive Sanctions"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109738919x532357148068287170",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811205496x207098681852231360",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811205496x207098681852231360",
+"title":"Reflect on Your Peer Governance is related to Relationalize Property"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109740377x800221548687199500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811206029x154214721070217380",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811206029x154214721070217380",
+"title":"Reflect on Your Peer Governance is related to Keep Commons & Commerce Distinct"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109741816x844105400363580700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811206828x501726548097472000",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811206828x501726548097472000",
+"title":"Reflect on Your Peer Governance is related to Fund Provisioning in Commons-friendly Ways"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811207538x979548262628538400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811207538x979548262628538400",
+"title":"Reflect on Your Peer Governance is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109744681x679183292724683000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811208514x219353964480949470",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811208514x219353964480949470",
+"title":"Reflect on Your Peer Governance is related to Self-monitor Compliance with Rules"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811209283x753820901013770900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811209283x753820901013770900",
+"title":"Reflect on Your Peer Governance is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109780068x608414828892304800",
+        "to": "1746109730516x554564403661208300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811209840x768294454312433700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811209840x768294454312433700",
+"title":"Show empathy & self-responsibility in communication is related to Honor Transparency in a Sphere of Trust"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109780068x608414828892304800",
+        "to": "1746109768653x848244319251826300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811210504x820157976504599900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811210504x820157976504599900",
+"title":"Show empathy & self-responsibility in communication is related to Cultivate Shared Purpose and Values"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109780068x608414828892304800",
+        "to": "1746109777115x497848843482870100",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811211219x270730818862117100",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811211219x270730818862117100",
+"title":"Show empathy & self-responsibility in communication is related to Preserve Relationships in Addressing Conflicts"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109728028x262036339829732960",
+        "to": "1746109780068x608414828892304800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811211798x762731748936736300",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811211798x762731748936736300",
+"title":"Bring Diversity into Shared Purpose is related to Show empathy & self-responsibility in communication"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109728028x262036339829732960",
+        "to": "1746109769428x803412021765221200",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811212499x868393412275402600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811212499x868393412275402600",
+"title":"Bring Diversity into Shared Purpose is related to Ritualize Togetherness"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109728028x262036339829732960",
+        "to": "1746109735084x675267417021090800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811213195x954688795966177800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811213195x954688795966177800",
+"title":"Bring Diversity into Shared Purpose is related to Assure Consent in Decision Making"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109729114x718041872405381900",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811213810x499337987558593900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811213810x499337987558593900",
+"title":"Create Semi-Permeable Membranes around Commons is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109729114x718041872405381900",
+        "to": "1746109736247x325008240650592760",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811214370x441412274217272800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811214370x441412274217272800",
+"title":"Create Semi-Permeable Membranes around Commons is related to Rely on Heterarchy"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109730516x554564403661208300",
+        "to": "1746109735084x675267417021090800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811214886x932868719171208200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811214886x932868719171208200",
+"title":"Honor Transparency in a Sphere of Trust is related to Assure Consent in Decision Making"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109730516x554564403661208300",
+        "to": "1746109733562x152100760730998980",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811215537x376645059066351940",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811215537x376645059066351940",
+"title":"Honor Transparency in a Sphere of Trust is related to Share Knowledge Generously"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109730516x554564403661208300",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811216144x230733323719319650",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811216144x230733323719319650",
+"title":"Honor Transparency in a Sphere of Trust is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109733562x152100760730998980",
+        "to": "1746109735084x675267417021090800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811216740x584972487066167200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811216740x584972487066167200",
+"title":"Share Knowledge Generously is related to Assure Consent in Decision Making"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109733562x152100760730998980",
+        "to": "1746109749178x175031545822892600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811217396x747497157980900900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811217396x747497157980900900",
+"title":"Share Knowledge Generously is related to Make & Use Together"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109733562x152100760730998980",
+        "to": "1746109394044x385527481714976500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811219523x619153123282256600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811219523x619153123282256600",
+"title":"Share Knowledge Generously is related to Contribute & Share"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109733562x152100760730998980",
+        "to": "1746109760146x406111265030437700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811220428x887163265349752300",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811220428x887163265349752300",
+"title":"Share Knowledge Generously is related to Use Convivial Tools"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109733562x152100760730998980",
+        "to": "1746109763481x937573383496795000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811221049x284668299756432700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811221049x284668299756432700",
+"title":"Share Knowledge Generously is related to Adapt & Renew Creatively"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109735084x675267417021090800",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811221937x171052912376149500",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811221937x171052912376149500",
+"title":"Assure Consent in Decision Making is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109735084x675267417021090800",
+        "to": "1746109780068x608414828892304800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811222673x283818941083359140",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811222673x283818941083359140",
+"title":"Assure Consent in Decision Making is related to Show empathy & self-responsibility in communication"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109736247x325008240650592760",
+        "to": "1746109735084x675267417021090800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811223245x485996075758305900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811223245x485996075758305900",
+"title":"Rely on Heterarchy is related to Assure Consent in Decision Making"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109736247x325008240650592760",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811224074x991981981766024700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811224074x991981981766024700",
+"title":"Rely on Heterarchy is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109737643x653321758032239000",
+        "to": "1746109735084x675267417021090800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811224955x267968740384672000",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811224955x267968740384672000",
+"title":"Apply Graduated & Context-sensitive Sanctions is related to Assure Consent in Decision Making"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109737643x653321758032239000",
+        "to": "1746109777115x497848843482870100",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811225657x102065748460989490",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811225657x102065748460989490",
+"title":"Apply Graduated & Context-sensitive Sanctions is related to Preserve Relationships in Addressing Conflicts"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109737643x653321758032239000",
+        "to": "1746109780068x608414828892304800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811226613x518654591780036700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811226613x518654591780036700",
+"title":"Apply Graduated & Context-sensitive Sanctions is related to Show empathy & self-responsibility in communication"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109738919x532357148068287170",
+        "to": "1746109729114x718041872405381900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811227159x998489598335764900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811227159x998489598335764900",
+"title":"Relationalize Property is related to Create Semi-Permeable Membranes around Commons"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109738919x532357148068287170",
+        "to": "1746109740377x800221548687199500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811227772x586881745244860000",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811227772x586881745244860000",
+"title":"Relationalize Property is related to Keep Commons & Commerce Distinct"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109738919x532357148068287170",
+        "to": "1746109741816x844105400363580700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811228495x341969862386983100",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811228495x341969862386983100",
+"title":"Relationalize Property is related to Fund Provisioning in Commons-friendly Ways"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109738919x532357148068287170",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811229050x770619711891051600",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811229050x770619711891051600",
+"title":"Relationalize Property is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109738919x532357148068287170",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811229601x974472228784778900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811229601x974472228784778900",
+"title":"Relationalize Property is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109740377x800221548687199500",
+        "to": "1746109729114x718041872405381900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811230536x396287244881545800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811230536x396287244881545800",
+"title":"Keep Commons & Commerce Distinct is related to Create Semi-Permeable Membranes around Commons"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109740377x800221548687199500",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811231324x369256628355952640",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811231324x369256628355952640",
+"title":"Keep Commons & Commerce Distinct is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109740377x800221548687199500",
+        "to": "1746109750825x450184318546972300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811231997x897937662138576400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811231997x897937662138576400",
+"title":"Keep Commons & Commerce Distinct is related to Respect Care Work as much as “Productive Work”"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109740377x800221548687199500",
+        "to": "1746109752459x856370504829868400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811232597x498533489582706700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811232597x498533489582706700",
+"title":"Keep Commons & Commerce Distinct is related to Share the Risks of Provisioning"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109740377x800221548687199500",
+        "to": "1746109764901x838798530919741000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811233120x800836501608253000",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811233120x800836501608253000",
+"title":"Keep Commons & Commerce Distinct is related to Strive for Money-independent Security"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109743124x326339362853532500",
+        "to": "1746109728028x262036339829732960",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811239704x849945430817454300",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811239704x849945430817454300",
+"title":"Create Organizational Structures that foster Coequality is related to Bring Diversity into Shared Purpose"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109743124x326339362853532500",
+        "to": "1746109736247x325008240650592760",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811240393x780311328731146200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811240393x780311328731146200",
+"title":"Create Organizational Structures that foster Coequality is related to Rely on Heterarchy"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109744681x679183292724683000",
+        "to": "1746109737643x653321758032239000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811240818x751619220764439000",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811240818x751619220764439000",
+"title":"Self-monitor Compliance with Rules is related to Apply Graduated & Context-sensitive Sanctions"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109744681x679183292724683000",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811241284x113525080296922320",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811241284x113525080296922320",
+"title":"Self-monitor Compliance with Rules is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109744681x679183292724683000",
+        "to": "1746109777115x497848843482870100",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811241964x874900257468333900",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811241964x874900257468333900",
+"title":"Self-monitor Compliance with Rules is related to Preserve Relationships in Addressing Conflicts"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109749178x175031545822892600",
+        "to": "1746109752459x856370504829868400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811242743x269663883009192640",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811242743x269663883009192640",
+"title":"Make & Use Together is related to Share the Risks of Provisioning"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109749178x175031545822892600",
+        "to": "1746109761462x377439090313306940",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811243199x673152187491210500",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811243199x673152187491210500",
+"title":"Make & Use Together is related to Rely on Distributed Structures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109749178x175031545822892600",
+        "to": "1746109763481x937573383496795000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811243757x134187879964375420",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811243757x134187879964375420",
+"title":"Make & Use Together is related to Adapt & Renew Creatively"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109749178x175031545822892600",
+        "to": "1746109764901x838798530919741000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811244285x160225350798556700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811244285x160225350798556700",
+"title":"Make & Use Together is related to Strive for Money-independent Security"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109749178x175031545822892600",
+        "to": "1746109395401x234018599967538800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811244869x573059098242989760",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811244869x573059098242989760",
+"title":"Make & Use Together is related to Contribute Freely"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109750825x450184318546972300",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811245499x361945013001146100",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811245499x361945013001146100",
+"title":"Respect Care Work as much as “Productive Work” is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109750825x450184318546972300",
+        "to": "1746109761462x377439090313306940",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811246313x584194656286265200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811246313x584194656286265200",
+"title":"Respect Care Work as much as “Productive Work” is related to Rely on Distributed Structures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109750825x450184318546972300",
+        "to": "1746109764901x838798530919741000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811246895x490166326807962800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811246895x490166326807962800",
+"title":"Respect Care Work as much as “Productive Work” is related to Strive for Money-independent Security"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109750825x450184318546972300",
+        "to": "1746109768653x848244319251826300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811247927x454832140806344700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811247927x454832140806344700",
+"title":"Respect Care Work as much as “Productive Work” is related to Cultivate Shared Purpose and Values"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109752459x856370504829868400",
+        "to": "1746109741816x844105400363580700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811248523x178688156824820400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811248523x178688156824820400",
+"title":"Share the Risks of Provisioning is related to Fund Provisioning in Commons-friendly Ways"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109752459x856370504829868400",
+        "to": "1746109772014x385032029265667900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811249049x539632194008545100",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811249049x539632194008545100",
+"title":"Share the Risks of Provisioning is related to Practice Gentle Reciprocity"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109394044x385527481714976500",
+        "to": "1746109755591x477350155891545400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811249786x379128824135261700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811249786x379128824135261700",
+"title":"Contribute & Share is related to Pool, Cap & Divide Up"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109394044x385527481714976500",
+        "to": "1746109757612x789682977897324400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811250174x115472438219544450",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811250174x115472438219544450",
+"title":"Contribute & Share is related to Pool, Cap & Mutualize"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109394044x385527481714976500",
+        "to": "1746109761462x377439090313306940",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811250766x168523025368618750",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811250766x168523025368618750",
+"title":"Contribute & Share is related to Rely on Distributed Structures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109755591x477350155891545400",
+        "to": "1746109750825x450184318546972300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811251204x943700412015065200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811251204x943700412015065200",
+"title":"Pool, Cap & Divide Up is related to Respect Care Work as much as “Productive Work”"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109755591x477350155891545400",
+        "to": "1746109757612x789682977897324400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811251710x278729108978442720",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811251710x278729108978442720",
+"title":"Pool, Cap & Divide Up is related to Pool, Cap & Mutualize"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109755591x477350155891545400",
+        "to": "1746109764901x838798530919741000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811252151x121108899640563150",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811252151x121108899640563150",
+"title":"Pool, Cap & Divide Up is related to Strive for Money-independent Security"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109757612x789682977897324400",
+        "to": "1746109750825x450184318546972300",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811253568x493756532205900100",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811253568x493756532205900100",
+"title":"Pool, Cap & Mutualize is related to Respect Care Work as much as “Productive Work”"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109757612x789682977897324400",
+        "to": "1746109758895x259348351761106370",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811254237x753364816246273700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811254237x753364816246273700",
+"title":"Pool, Cap & Mutualize is related to Trade with Price Sovereignty"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109757612x789682977897324400",
+        "to": "1746109764901x838798530919741000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811254892x529983828988734660",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811254892x529983828988734660",
+"title":"Pool, Cap & Mutualize is related to Strive for Money-independent Security"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109757612x789682977897324400",
+        "to": "1746109772014x385032029265667900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811255445x186056959018822370",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811255445x186056959018822370",
+"title":"Pool, Cap & Mutualize is related to Practice Gentle Reciprocity"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109758895x259348351761106370",
+        "to": "1746109740377x800221548687199500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811255889x907234563580058800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811255889x907234563580058800",
+"title":"Trade with Price Sovereignty is related to Keep Commons & Commerce Distinct"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109758895x259348351761106370",
+        "to": "1746109741816x844105400363580700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811256524x613009752277720700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811256524x613009752277720700",
+"title":"Trade with Price Sovereignty is related to Fund Provisioning in Commons-friendly Ways"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109758895x259348351761106370",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811257415x401419170846486000",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811257415x401419170846486000",
+"title":"Trade with Price Sovereignty is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109758895x259348351761106370",
+        "to": "1746109772014x385032029265667900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811258077x159412828683821660",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811258077x159412828683821660",
+"title":"Trade with Price Sovereignty is related to Practice Gentle Reciprocity"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109760146x406111265030437700",
+        "to": "1746109740377x800221548687199500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811258538x225893910924820350",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811258538x225893910924820350",
+"title":"Use Convivial Tools is related to Keep Commons & Commerce Distinct"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109760146x406111265030437700",
+        "to": "1746109749178x175031545822892600",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811259060x112079942942825420",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811259060x112079942942825420",
+"title":"Use Convivial Tools is related to Make & Use Together"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109760146x406111265030437700",
+        "to": "1746109394044x385527481714976500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811259816x153246243156606180",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811259816x153246243156606180",
+"title":"Use Convivial Tools is related to Contribute & Share"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109761462x377439090313306940",
+        "to": "1746109736247x325008240650592760",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811260614x426810682208405700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811260614x426810682208405700",
+"title":"Rely on Distributed Structures is related to Rely on Heterarchy"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109761462x377439090313306940",
+        "to": "1746109741816x844105400363580700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811261211x677345874905533700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811261211x677345874905533700",
+"title":"Rely on Distributed Structures is related to Fund Provisioning in Commons-friendly Ways"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109761462x377439090313306940",
+        "to": "1746109746175x307592690832521700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811261742x484937380819483260",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811261742x484937380819483260",
+"title":"Rely on Distributed Structures is related to Intervene to Stop Co-optation & Enclosures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109763481x937573383496795000",
+        "to": "1746109743124x326339362853532500",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811262246x216023242526011800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811262246x216023242526011800",
+"title":"Adapt & Renew Creatively is related to Create Organizational Structures that foster Coequality"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109764901x838798530919741000",
+        "to": "1746109741816x844105400363580700",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811262706x322859453414478400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811262706x322859453414478400",
+"title":"Strive for Money-independent Security is related to Fund Provisioning in Commons-friendly Ways"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109764901x838798530919741000",
+        "to": "1746109752459x856370504829868400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811263282x765765957242517200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811263282x765765957242517200",
+"title":"Strive for Money-independent Security is related to Share the Risks of Provisioning"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109764901x838798530919741000",
+        "to": "1746109761462x377439090313306940",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1746811263832x599881776666357800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811263832x599881776666357800",
+"title":"Strive for Money-independent Security is related to Rely on Distributed Structures"
     }
 
  ]
