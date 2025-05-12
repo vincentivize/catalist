@@ -16,6 +16,9 @@
 
 "object_id":"1746716094652x269007722719589730",
   "relationships": [{
+      "predicate_url": "https://schema.org/memberOf",
+      "object_url": "https://www.collaborative.tech/"
+    },{
       "description": "These two profiles are related.",
       "qualifier": "is related to",
       "predicate_url": "https://schema.org/relatedLink",
