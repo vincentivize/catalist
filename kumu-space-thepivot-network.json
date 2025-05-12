@@ -3,9 +3,9 @@
 {
   "label": "Attribute",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1683760566455x232838937608571100/attribute-black.png",
-"id":"",
+"id":"Attributes",
 "type":"Object Type",
-"description":"Semantic tags such as New York (State) or No Poverty (SDG) that categorize information on Catalist"
+"description":"Attributes are semanti tags"
 },{
   "label": "Object Type",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
@@ -160,7 +160,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235883505x252668678726194700/Kairotic%20Flow%20-%20Pioneer.png",
 "id":"1688070743290x218325058287472740",
 "type":"Attribute",
-"description":"Role: Experimenting and prototyping of promising (mapped) possibilities to test how viable they are in reality. Planting seeds, initiating and iterating the new.\n\nExample activities: Designing, rapid prototyping, drafting, visioning, creating (painting, songwriting, authoring, fashion, content creation), tailoring, A/B testing, architecture\n\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/",
+"description":"Role: Experimenting and prototyping of promising (mapped) possibilities to test how viable they are in reality. Planting seeds, initiating and iterating the new.\\n\\nExample activities: Designing, rapid prototyping, drafting, visioning, creating (painting, songwriting, authoring, fashion, content creation), tailoring, A/B testing, architecture\\n\\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/",
 "set":"Kairotic Flow",
 "url":"https://www.catalist.network/attribute/1688070743290x218325058287472740",
 "color":""
@@ -196,7 +196,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702099865851x574858707293980160/collaboration.svg",
 "id":"1681937757322x317950538979264060",
 "type":"Attribute",
-"description":"Collective action and collaboration are necessary for us to achieve humanity's common goals. To effectively respond to crises, we need to be able to coordinate our efforts and push the boulder in the same direction at the same time. This starts with finding each other and seeing what exists. It is urgent that we avoid wasting time and resources duplicating our efforts. \n\n"We need collective actions towards solving these problems together.  If these are not reversed, it is a recipe for disaster" - UN Secretary-General Antonio Guterres",
+"description":"Collective action and collaboration are necessary for us to achieve humanity's common goals. To effectively respond to crises, we need to be able to coordinate our efforts and push the boulder in the same direction at the same time. This starts with finding each other and seeing what exists. It is urgent that we avoid wasting time and resources duplicating our efforts. \\n\\n\\"We need collective actions towards solving these problems together.  If these are not reversed, it is a recipe for disaster\\" - UN Secretary-General Antonio Guterres",
 "set":"Societal Sectors",
 "url":"https://www.catalist.network/attribute/1681937757322x317950538979264060",
 "color":"#FFC04A"
@@ -367,7 +367,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696234790232x455992969109316540/leadership-300x300.png",
 "id":"1696234790854x103251629615495060",
 "type":"Attribute",
-"description":""I take charge and guide groups to meaningful goals, and ensure good relations among group members."\n\nLeadership can take on many forms. As a character strength, leadership refers to the tendency to organize and encourage a group to get things done, while maintaining good relations within the group. Like teamwork, leadership involves being committed to the goals of the group, but how that commitment manifests itself is very different. Leadership involves setting goals and accomplishing them, enlisting effective help, building coalitions, and smoothing ruffled feathers. Effective leaders are able to provide a positive vision or message that inspires dedicated followers who feel empowered and perhaps even inspired. Leadership is a social phenomenon that can be distinguished into two areas:\n\n- Practice- defining, establishing, identifying or translating direction\n\n-Personal quality- the motivation and capacity to seek out, attain and carry out leader roles There are two types of leaders:\n\n-Transactional leaders- this type of leader clarifies responsibilities, expectations, and the tasks to be accomplished\n\n-Transformational leaders- this leader motivates their followers to perform at an extremely high level, fostering a climate of trust and commitment to the organization and its goals",
+"description":"\\"I take charge and guide groups to meaningful goals, and ensure good relations among group members.\\"\\n\\nLeadership can take on many forms. As a character strength, leadership refers to the tendency to organize and encourage a group to get things done, while maintaining good relations within the group. Like teamwork, leadership involves being committed to the goals of the group, but how that commitment manifests itself is very different. Leadership involves setting goals and accomplishing them, enlisting effective help, building coalitions, and smoothing ruffled feathers. Effective leaders are able to provide a positive vision or message that inspires dedicated followers who feel empowered and perhaps even inspired. Leadership is a social phenomenon that can be distinguished into two areas:\\n\\n- Practice- defining, establishing, identifying or translating direction\\n\\n-Personal quality- the motivation and capacity to seek out, attain and carry out leader roles There are two types of leaders:\\n\\n-Transactional leaders- this type of leader clarifies responsibilities, expectations, and the tasks to be accomplished\\n\\n-Transformational leaders- this leader motivates their followers to perform at an extremely high level, fostering a climate of trust and commitment to the organization and its goals",
 "set":"VIA Character Strengths and Virtues",
 "url":"https://www.catalist.network/attribute/1696234790854x103251629615495060",
 "color":""
@@ -385,7 +385,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235874547x259259738014214980/Kairotic%20Flow%20-%20Curator.png",
 "id":"1688070739894x825913415224139400",
 "type":"Attribute",
-"description":"Role: Reviewing what exists and deciding if and how it meets needs – what to keep, what to dispose of, what to change or bring back to ‘life’. Caring critic.\n\nExample activities: Auditing, quality assurance, editing and publishing, court cases, curating for museum / art gallery, journalism / media, criticism, reviews, researching, spring cleaning\n\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/",
+"description":"Role: Reviewing what exists and deciding if and how it meets needs – what to keep, what to dispose of, what to change or bring back to ‘life’. Caring critic.\\n\\nExample activities: Auditing, quality assurance, editing and publishing, court cases, curating for museum / art gallery, journalism / media, criticism, reviews, researching, spring cleaning\\n\\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/",
 "set":"Kairotic Flow",
 "url":"https://www.catalist.network/attribute/1688070739894x825913415224139400",
 "color":""
@@ -448,7 +448,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696230169509x841290631172795400/Screenshot%202023-05-18%20at%2012.14.39%20PM.png",
 "id":"1684405198944x291089206402139100",
 "type":"Attribute",
-"description":"In an interdependent system, fitness comes from contributing in some way to the health of the whole. The quality of empowered participation means that all parts must be “in relationship” with the larger whole in ways that not only empower them to negotiate for their own needs but also enable them to add their unique contribution towards the health and well-being of the larger wholes in which they are embedded. Thus while “inclusiveness” may be morally desirable, empowered participation is a non-negotiable quality of systemic health for the entire system. \n\n",
+"description":"In an interdependent system, fitness comes from contributing in some way to the health of the whole. The quality of empowered participation means that all parts must be “in relationship” with the larger whole in ways that not only empower them to negotiate for their own needs but also enable them to add their unique contribution towards the health and well-being of the larger wholes in which they are embedded. Thus while “inclusiveness” may be morally desirable, empowered participation is a non-negotiable quality of systemic health for the entire system. \\n\\n",
 "set":"8 Principles of the Regenerative Economy",
 "url":"https://www.catalist.network/attribute/1684405198944x291089206402139100",
 "color":""
@@ -466,7 +466,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696234781840x756639955743789700/perspective-300x300.png",
 "id":"1696234782637x122426532748871620",
 "type":"Attribute",
-"description":""I give advice to others by considering different (and relevant) perspectives and using my own experiences and knowledge to clarify the big picture."\n\nPerspective means the ability to see the bigger picture in life. Perspective is about being able to see the forest as well as the trees, to avoid getting wrapped up in the small details when there are bigger issues to consider. While listening to others, perspective helps you to simultaneously think about life lessons, proper conduct, and what’s best for the situation being discussed. This ability to look at systems as a whole, or to think in big terms, helps you to offer good advice. Perspective is distinct from intelligence but represents a high level of knowledge, the capacity to give advice and to recognize and weight multiple sides before making decisions. It allows the individual to address important questions about the conduct and meaning of life.",
+"description":"\\"I give advice to others by considering different (and relevant) perspectives and using my own experiences and knowledge to clarify the big picture.\\"\\n\\nPerspective means the ability to see the bigger picture in life. Perspective is about being able to see the forest as well as the trees, to avoid getting wrapped up in the small details when there are bigger issues to consider. While listening to others, perspective helps you to simultaneously think about life lessons, proper conduct, and what’s best for the situation being discussed. This ability to look at systems as a whole, or to think in big terms, helps you to offer good advice. Perspective is distinct from intelligence but represents a high level of knowledge, the capacity to give advice and to recognize and weight multiple sides before making decisions. It allows the individual to address important questions about the conduct and meaning of life.",
 "set":"VIA Character Strengths and Virtues",
 "url":"https://www.catalist.network/attribute/1696234782637x122426532748871620",
 "color":""
@@ -556,7 +556,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235129034x657454093560865000/regenerative-ecosystems.png",
 "id":"1681938160535x131993743999848640",
 "type":"Attribute",
-"description":"Systems and processes that restore, renew or revitalize their own sources of energy and materials\nRegenerative systems have the capacity to bring themselves into existence again. Ecosystems that restore, renew or revitalize their own sources of energy, materials, and information help us, and our planet, thrive. Regenerative products are not only recycled and recyclable, but improve the environmental conditions of where it was made, used, and throughout its life cycle.",
+"description":"Systems and processes that restore, renew or revitalize their own sources of energy and materials\\nRegenerative systems have the capacity to bring themselves into existence again. Ecosystems that restore, renew or revitalize their own sources of energy, materials, and information help us, and our planet, thrive. Regenerative products are not only recycled and recyclable, but improve the environmental conditions of where it was made, used, and throughout its life cycle.",
 "set":"Planet Home Solution Areas",
 "url":"https://www.catalist.network/attribute/1681938160535x131993743999848640",
 "color":""
@@ -880,7 +880,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235881415x901624613287295400/Kairotic%20Flow%20-%20Scout.png",
 "id":"1688070742094x571902278994119940",
 "type":"Attribute",
-"description":"Role: Exploring, navigating and mapping the realms of possibility and risk in multiple dimensions. Decomposes the dead and discovers or creates portals to the new. \n\nExample activities: Searching, conversing, questioning, unpacking assumptions, diving down rabbit holes, philosophising, hypothesising, creating, dreaming, noting/sketching\n\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/",
+"description":"Role: Exploring, navigating and mapping the realms of possibility and risk in multiple dimensions. Decomposes the dead and discovers or creates portals to the new. \\n\\nExample activities: Searching, conversing, questioning, unpacking assumptions, diving down rabbit holes, philosophising, hypothesising, creating, dreaming, noting/sketching\\n\\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/",
 "set":"Kairotic Flow",
 "url":"https://www.catalist.network/attribute/1688070742094x571902278994119940",
 "color":""
@@ -979,7 +979,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235146746x725873745996972400/biodiversity.png",
 "id":"1681938139026x155851142663690600",
 "type":"Attribute",
-"description":"Restoring the variety and variability of life on earth – at the genetic, species, and ecosystem levels\nOur planet is home to an amazing diversity of life, but for us to survive in the long term, we must strive to maintain and restore a greater variety and variability of living organisms and ecosystems.\n\n",
+"description":"Restoring the variety and variability of life on earth – at the genetic, species, and ecosystem levels\\nOur planet is home to an amazing diversity of life, but for us to survive in the long term, we must strive to maintain and restore a greater variety and variability of living organisms and ecosystems.\\n\\n",
 "set":"Planet Home Solution Areas",
 "url":"https://www.catalist.network/attribute/1681938139026x155851142663690600",
 "color":""
@@ -1141,7 +1141,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235032304x867555521818236900/Doughtnut%20SEctors%20Square%20Large.png",
 "id":"1682014297713x463451171256629600",
 "type":"Attribute",
-"description":"Economic activity may cause a reduction in the number and variety of species. This makes ecosystems more vulnerable and may lower their capacity of sustaining life and providing ecosystem services.\n\nThe nine ecological ceilings of Doughnut Economics are from the planetary boundaries put forward by a group of Earth-system scientists led by Johan Rockström and Will Steffen.",
+"description":"Economic activity may cause a reduction in the number and variety of species. This makes ecosystems more vulnerable and may lower their capacity of sustaining life and providing ecosystem services.\\n\\nThe nine ecological ceilings of Doughnut Economics are from the planetary boundaries put forward by a group of Earth-system scientists led by Johan Rockström and Will Steffen.",
 "set":"Planetary Boundaries",
 "url":"https://www.catalist.network/attribute/1682014297713x463451171256629600",
 "color":""
@@ -1222,7 +1222,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235878903x855054026320183200/Kairotic%20Flow%20-%20Town%20Planner.png",
 "id":"1688070741350x144543745338960860",
 "type":"Attribute",
-"description":"Role: Standardising, commodifying, streamlining, automating and rolling out known patterns on a mass scale, distributing broadly and creating security and stability.\n\nExample activities: Building infrastructure, defining standards and laws, planning for and providing utilities for all, distributing resources, documenting best practices, automation\n\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/",
+"description":"Role: Standardising, commodifying, streamlining, automating and rolling out known patterns on a mass scale, distributing broadly and creating security and stability.\\n\\nExample activities: Building infrastructure, defining standards and laws, planning for and providing utilities for all, distributing resources, documenting best practices, automation\\n\\nCC BY-NC-SA Kylie Stedman Gomes.  For more information go to: https://presenceofmine.com/",
 "set":"Kairotic Flow",
 "url":"https://www.catalist.network/attribute/1688070741350x144543745338960860",
 "color":""
@@ -1348,7 +1348,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702099887258x273001828957761800/act_black.svg",
 "id":"1681937746136x178439170476710530",
 "type":"Attribute",
-"description":"A place for action and campaigning to bring about positive political and social change.\nA place to share volunteer current opportunities, organizations, and programs by socially and environmentally beneficial companies, non-profits, and organizations. Sharing of volunteer opportunities, job opportunities, educational programs in intersecting fields, and lists of organizations to help acclimate new members into the space.",
+"description":"A place for action and campaigning to bring about positive political and social change.\\nA place to share volunteer current opportunities, organizations, and programs by socially and environmentally beneficial companies, non-profits, and organizations. Sharing of volunteer opportunities, job opportunities, educational programs in intersecting fields, and lists of organizations to help acclimate new members into the space.",
 "set":"Societal Sectors",
 "url":"https://www.catalist.network/attribute/1681937746136x178439170476710530",
 "color":"#56B8CE"
@@ -1627,7 +1627,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702099856771x648189613607330600/sustain_black.svg",
 "id":"1681937939611x309865503121493440",
 "type":"Attribute",
-"description":"Sustainability is both an individual and a collective endeavor. Individuals that develop products, businesses, and organizations have a responsibility to develop sustainably within systemic constraints. However, in order to be truly sustainable, we must transition to new systems that incentivize sustainable consumption. Sustainability is a spectrum from "less" bad, to "zero-waste", to "regenerative. ",
+"description":"Sustainability is both an individual and a collective endeavor. Individuals that develop products, businesses, and organizations have a responsibility to develop sustainably within systemic constraints. However, in order to be truly sustainable, we must transition to new systems that incentivize sustainable consumption. Sustainability is a spectrum from \\"less\\" bad, to \\"zero-waste\\", to \\"regenerative. ",
 "set":"Societal Sectors",
 "url":"https://www.catalist.network/attribute/1681937939611x309865503121493440",
 "color":"#A3CE56"
@@ -1699,7 +1699,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235091383x541595895375102100/Maslows-Hierarchy-8-Levels.webp",
 "id":"1681938253717x129334237641145710",
 "type":"Attribute",
-"description":"This refers to a human psychological need for love and belonging, i.e. friendships, family, intimacy, sense of connection, interpersonal relationships, trust, acceptance, receiving and giving affection.\n\nThis need is especially strong in childhood and can override the need for safety as witnessed in children who cling to abusive parents.",
+"description":"This refers to a human psychological need for love and belonging, i.e. friendships, family, intimacy, sense of connection, interpersonal relationships, trust, acceptance, receiving and giving affection.\\n\\nThis need is especially strong in childhood and can override the need for safety as witnessed in children who cling to abusive parents.",
 "set":"Maslow's Hierarchy of Needs",
 "url":"https://www.catalist.network/attribute/1681938253717x129334237641145710",
 "color":""
@@ -3508,7 +3508,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
 "id":"1681937998580x404989069898369800",
 "type":"Attribute",
-"description":"The consensus among agronomists is that the post war 'green revolution' has allowed food production to keep pace with worldwide population growth. Green revolution technologies include pesticides, herbicides, synthetic nitrogen fertilizer (mostly developed from fossil fuels), irrigation projects and higher yield crop varieties. The research establishment that underpins modern industrial agriculture has until recently paid little heed to the unintended and long-term consequences of these technologies.\n\nAlthough yields have been much higher than under traditional agricultural forms this has not taken into account the amount of land that was cleared or irrigated for the green revolution, and the latest statistics show a major drop in the productivity of land that has been intensively farmed for the past 30 years due to desertification and other forms of land degradation. This process has also seen the industrialization of food production and a shift from subsistence-oriented cropland towards production of grain for export and/or animal feed.\n\nAggregate food production currently is sufficient to meet the needs of all, yet of the present world population of over 7 billion, over 1 billion consume insufficient protein or calories to meet daily minimum requirements. Similar numbers are overfed, often with diets that are high in energy but lacking in diversity so that between 1.3 and 1.7 billion people are overweight. Several billion people experience micronutrient deficiency.\n\nThe provision of food is increasingly compromised by the introduction of biofuels, for example, 25% of the US corn crop is now for fuel. What is actually needed is ‘sustainable intensification’.",
+"description":"The consensus among agronomists is that the post war 'green revolution' has allowed food production to keep pace with worldwide population growth. Green revolution technologies include pesticides, herbicides, synthetic nitrogen fertilizer (mostly developed from fossil fuels), irrigation projects and higher yield crop varieties. The research establishment that underpins modern industrial agriculture has until recently paid little heed to the unintended and long-term consequences of these technologies.\\n\\nAlthough yields have been much higher than under traditional agricultural forms this has not taken into account the amount of land that was cleared or irrigated for the green revolution, and the latest statistics show a major drop in the productivity of land that has been intensively farmed for the past 30 years due to desertification and other forms of land degradation. This process has also seen the industrialization of food production and a shift from subsistence-oriented cropland towards production of grain for export and/or animal feed.\\n\\nAggregate food production currently is sufficient to meet the needs of all, yet of the present world population of over 7 billion, over 1 billion consume insufficient protein or calories to meet daily minimum requirements. Similar numbers are overfed, often with diets that are high in energy but lacking in diversity so that between 1.3 and 1.7 billion people are overweight. Several billion people experience micronutrient deficiency.\\n\\nThe provision of food is increasingly compromised by the introduction of biofuels, for example, 25% of the US corn crop is now for fuel. What is actually needed is ‘sustainable intensification’.",
 "set":"International Futures Forum World Systems Model",
 "url":"https://www.catalist.network/attribute/1681937998580x404989069898369800",
 "color":""
@@ -4048,7 +4048,7 @@
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235130994x586296126408864400/food-security.png",
 "id":"1681938147766x539293072585651700",
 "type":"Attribute",
-"description":"The way we produce, consume and care for our food and food systems\nThe way we produce, consume and care for our food and food systems\nModern farming practices are making our land extremely susceptible to ever-changing weather and climate, which results in variable and unstable output. In addition, our current approach to farming has not been scaled to accommodate our ever-increasing global population. In order for us to survive, we need to change the way we produce, consume and care for our food and food systems.\n",
+"description":"The way we produce, consume and care for our food and food systems\\nThe way we produce, consume and care for our food and food systems\\nModern farming practices are making our land extremely susceptible to ever-changing weather and climate, which results in variable and unstable output. In addition, our current approach to farming has not been scaled to accommodate our ever-increasing global population. In order for us to survive, we need to change the way we produce, consume and care for our food and food systems.\\n",
 "set":"Planet Home Solution Areas",
 "url":"https://www.catalist.network/attribute/1681938147766x539293072585651700",
 "color":""
@@ -4228,7 +4228,7 @@
 "image":"//s3.amazonaws.com/appforest_uf/f1651962258931x668819672629823000/005-pie-chart.svg",
 "id":"1681938020539x495133133214124700",
 "type":"Attribute",
-"description":"Human activity has transformed a significant fraction of the planet’s land, especially for growing food and harvesting forests. Land is the common ground of shelter, sustenance, feed for animals, fiber, timber, and some sources of energy, as well as the direct source of livelihood for billions of people.\n\nOur pursuit of those ends often disrupts or displaces ecosystems, and the twin forces of a growing population and rising consumption mean the challenge of stewarding land in sustainable ways will only intensify. Today, agriculture and forestry activities generate 24% of greenhouse gas emissions worldwide.\n\nHow can we reduce the pressures on ecosystems and land, while meeting the growing demands for food and fiber worldwide? How can we do what we do on land better, tending it in ways that decrease emissions from agriculture and forestry?\n\nThe answers to these questions are critical for stemming greenhouse gases, sustaining the planet’s living systems, addressing food security, and protecting human health, all inextricably linked. Solutions in this sector are focused on waste and diets, ecosystem protection, and better agriculture practices.\n\nAddress Waste and Diets\nBy shifting diets and addressing food waste, the global demand for food can significantly drop. Eating lower on the food chain and ensuring what’s grown gets eaten is a powerful combination that lowers farming inputs, land-clearing, and all associated emissions.\n\nProtect Ecosystems\nWhen land and ecosystems are deliberately protected, activities that release carbon from vegetation and soil are stopped before they start. In addition, improving food production on existing farmland may reduce the pressure on other, nearby landscapes, thereby sparing them from clearing.\n\nShift Agriculture Practices\nBetter agriculture practices can lower emissions from cropland and pastures, including methane generated by growing rice and raising ruminants, nitrous oxide emitted from manure and overusing fertilizers, and carbon dioxide released by disturbing soils.\n\nFarming and forestry practices can also support the role of land in removing greenhouse gases from the atmosphere. Many solutions that stop land-based emissions also enhance carbon sinks (explored below). Solutions in this sector are significant for improving food security and agricultural resilience as well, because many of them contribute to a more robust food system, better able to withstand climate impacts.",
+"description":"Human activity has transformed a significant fraction of the planet’s land, especially for growing food and harvesting forests. Land is the common ground of shelter, sustenance, feed for animals, fiber, timber, and some sources of energy, as well as the direct source of livelihood for billions of people.\\n\\nOur pursuit of those ends often disrupts or displaces ecosystems, and the twin forces of a growing population and rising consumption mean the challenge of stewarding land in sustainable ways will only intensify. Today, agriculture and forestry activities generate 24% of greenhouse gas emissions worldwide.\\n\\nHow can we reduce the pressures on ecosystems and land, while meeting the growing demands for food and fiber worldwide? How can we do what we do on land better, tending it in ways that decrease emissions from agriculture and forestry?\\n\\nThe answers to these questions are critical for stemming greenhouse gases, sustaining the planet’s living systems, addressing food security, and protecting human health, all inextricably linked. Solutions in this sector are focused on waste and diets, ecosystem protection, and better agriculture practices.\\n\\nAddress Waste and Diets\\nBy shifting diets and addressing food waste, the global demand for food can significantly drop. Eating lower on the food chain and ensuring what’s grown gets eaten is a powerful combination that lowers farming inputs, land-clearing, and all associated emissions.\\n\\nProtect Ecosystems\\nWhen land and ecosystems are deliberately protected, activities that release carbon from vegetation and soil are stopped before they start. In addition, improving food production on existing farmland may reduce the pressure on other, nearby landscapes, thereby sparing them from clearing.\\n\\nShift Agriculture Practices\\nBetter agriculture practices can lower emissions from cropland and pastures, including methane generated by growing rice and raising ruminants, nitrous oxide emitted from manure and overusing fertilizers, and carbon dioxide released by disturbing soils.\\n\\nFarming and forestry practices can also support the role of land in removing greenhouse gases from the atmosphere. Many solutions that stop land-based emissions also enhance carbon sinks (explored below). Solutions in this sector are significant for improving food security and agricultural resilience as well, because many of them contribute to a more robust food system, better able to withstand climate impacts.",
 "set":"Project Drawdown Sectors",
 "url":"https://www.catalist.network/attribute/1681938020539x495133133214124700",
 "color":""
@@ -11439,7 +11439,7 @@
 "object url":"https://www.catalist.network/spaces?space=1667406991031x399832366882750460&current_object=1707681052532x998549292336418300&view=Page&tab=Object",
 "image":"http://static1.squarespace.com/static/67dda105f656c8536edfedb3/t/67dda1214b39d32265acde90/1742577953893/RBE+Logo+White.png?format=1500w",
 "type":"Organization",
-"topics":[""],
+"topics":["🌿 Nature"],
 "tags":["🌿 Nature","Organizations"],
 "space-tags":[],
 "attribute-ids":["1689721480132x505285289303043500","1689950587072x126998406590484340"],
@@ -67049,7 +67049,7 @@
 "summary":"This is where we remember. \nRooted Worldview is the folder for gathering stories, teachings, and frameworks that help us reconnect to the land we live on — and to the ways of being that arise from it. ",
 "description":"These resources support a shift from separation to kinship, from extraction to reciprocity, and from ownership to deep listening.\n\nWhether you're beginning to explore the stories of your place or walking alongside Indigenous teachings, this space invites you into practices of belonging, respect, and relational responsibility.",
 "size":"",
-"objects above":[],
+"objects above":["1747026616774x862058528131514400"],
 "related objects":[],
 
 "label":"✨ Rooted Worldview"
@@ -67076,7 +67076,7 @@
 "summary":"Dig into the roots of regeneration.\nHealing Our Food Systems brings together tools, stories, and strategies for farmers, land stewards, and food visionaries working to restore ecosystems and nourish communities. Inside, you’ll find practical insights on regenerative agriculture, agroforestry, seed sovereignty, local food economies, and culturally rooted farming practices.\n\nWhether you’re cultivating soil, feeding neighbors, or reimagining supply chains — this space is for growers who believe food can heal land, people, and the future.",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1747026616774x862058528131514400"],
 "related objects":[],
 
 "label":"🌾 Healing Our Food Systems"
@@ -67103,10 +67103,10 @@
 "summary":"See the land, and the patterns within it.\nMapping the Living Earth brings together tools, maps, and frameworks to help us see bioregions as living systems — shaped by soil, water, climate, and community. This space supports efforts to make the invisible visible: geophysical layers, ecological dynamics, and human networks that sustain or degrade life.\n\nExplore how land and people connect. Use these resources to build understanding for what's happening across a bioregion, surface collective needs, and build shared ground truths that enable aligned action and effective collaboration.",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1747026616774x862058528131514400"],
 "related objects":[],
 
-"label":"🌍 Mapping the Living Earth"
+"label":"🌍 Mapping Your Bioregion"
     },{
         "id": "1746886470032x926971701145370600",
 "url":"",
@@ -67127,13 +67127,13 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"Stewardship begins here.\nWeaving the Commons gathers the frameworks, tools, and experiments that help communities reclaim shared power and care for what we hold in common. From mutual aid and public libraries to DAOs, cooperatives, and value accounting systems, these resources support collective governance, economic solidarity, and regional self-determination.\n\nUse these resources to strengthen local voices, coordinate across scales, and co-steward the resources — natural, digital, and relational — that sustain our shared future.",
+"summary":"Stewardship begins here.\nRegenerative Economics gathers the frameworks, tools, and experiments that help communities reclaim shared power and care for what we hold in common. From mutual aid and public libraries to DAOs, cooperatives, and value accounting systems, these resources support collective governance, economic solidarity, and regional self-determination.\n\nUse these resources to strengthen local voices, coordinate across scales, and co-steward the resources — natural, digital, and relational — that sustain our shared future.",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1747026616774x862058528131514400"],
 "related objects":[],
 
-"label":"♾️ Weaving the Commons"
+"label":"♾️ Regenerative Economics"
     },{
         "id": "1746887497903x842295278126235600",
 "url":"",
@@ -67157,7 +67157,7 @@
 "summary":"Building regenerative economies from the ground up.\nRegenerating Enterprise offers the tools, frameworks, and financial models to grow businesses that serve people and planet. From metrics and supply chains to grants, funders, and new economic structures, this space helps you design for long-term impact, community wealth, and bioregional resilience.\n\nWhether you're stewarding local resources, strengthening community ownership, or directing funding into regional priorities — explore how wealth, visibility, and value creation can truly regenerate life.",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1747026616774x862058528131514400"],
 "related objects":[],
 
 "label":"🌀 Regenerating Enterprise"
@@ -67184,7 +67184,7 @@
 "summary":"Frameworks for navigating complexity.\nDesigning for Complexity brings together the maps, models, and sensemaking tools that help us understand—and evolve—dynamic systems. Explore frameworks like Theory U, Cynefin, and Operating System Canvas alongside emerging practices in decentralized governance, pattern recognition, and platform design.\n\nThis space supports those who seek shared language, best practices, and conceptual tools to guide collaborative work across scales and systems.",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1747026616774x862058528131514400"],
 "related objects":[],
 
 "label":"🔀 Designing for Complexity"
@@ -67211,7 +67211,7 @@
 "summary":"The digital scaffolding for collective action.\nInfrastructure for Coordination explores the technologies, platforms, and networks that help communities self-organize, share knowledge, and scale what's already working. From Web3 ecosystems to media tools and place-aware AI, this space supports the creation of transparent, adaptive systems that align with local needs and planetary patterns.\n\nUse these resources to build shared infrastructure that honors context, amplifies what’s emergent, and enables coordination across communities and bioregions.",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1747026616774x862058528131514400"],
 "related objects":[],
 
 "label":"🕸️ Infrastructure for Coordination"
@@ -67238,10 +67238,64 @@
 "summary":"Leading with presence, care, and courage.\nLeadership from Within supports the personal and relational foundations of bioregional organizing. Here you’ll find tools for inner development, emotional intelligence, trauma-informed facilitation, and regenerative leadership — all designed to help you shift from “me” to “we,” and hold space for others to thrive.\n\nWhether you're convening a team, supporting local stakeholders, or simply looking for your place in the movement — this is where confidence, clarity, and belonging begin to grow.",
 "description":"",
 "size":"",
-"objects above":[],
+"objects above":["1747026616774x862058528131514400"],
 "related objects":[],
 
 "label":"💛 Leadership from Within"
+    },{
+        "id": "1747026591771x546004915231129600",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1667406991031x399832366882750460&current_object=1747026591771x546004915231129600&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"New Section"
+    },{
+        "id": "1747026616774x862058528131514400",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1667406991031x399832366882750460&current_object=1747026616774x862058528131514400&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1725763725377x209539551038163900/to-do-list.png",
+"type":"List",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"Kumu & Web Views"
     }
 ],
 
