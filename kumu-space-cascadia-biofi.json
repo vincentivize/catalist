@@ -32,6 +32,12 @@
 "id":"Request",
 "type":"Object Type",
 "description":"A specific need for information, assistance, or a connection someone is seeking."
+},{
+"label":"Section",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"id":"Section",
+"type":"Object Type",
+"description":"Distinct parts of a document or website"
 },
 {
         "id": "1747550943028x245065087673958400",
@@ -870,6 +876,33 @@
 "related objects":[],
 
 "label":"Support from a JavaScript Engineer"
+    },{
+        "id": "1747596044790x291254472733622300",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1747514103591x892492229089689600&current_object=1747596044790x291254472733622300&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+
+"label":"New Section"
     }
 ],
 
