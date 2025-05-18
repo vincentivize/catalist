@@ -907,6 +907,21 @@
 ],
 
   "connections": [
+{
+        "label": "isrelatedto",
+        "from": "1747595705606x132492822579773440",
+        "to": "1747551373188x297343622587933600",
+"strength":1,
+"connection subtype":"isrelatedto",
+"description":"offer relates to kwaxala",
+"connection type":"isrelatedto",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1747598170934x306655209046671360",
+"url":"https://www.catalist.network/spaces?space=1747514103591x892492229089689600&connection=1747598170934x306655209046671360",
+"title":"Opportunities in AI and Regenerative Finance isrelatedto Kwaxala"
+    }
 
  ]
 }
