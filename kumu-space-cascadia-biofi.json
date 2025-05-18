@@ -1,6 +1,12 @@
 {
   "elements": [
 {
+  "label": "Attribute",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1683760566455x232838937608571100/attribute-black.png",
+"id":"Attributes",
+"type":"Object Type",
+"description":"Attributes are semanti tags"
+},{
   "label": "Object Type",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
 "id":"Object Type",
@@ -38,6 +44,99 @@
 "id":"Section",
 "type":"Object Type",
 "description":"Distinct parts of a document or website"
+},{
+"label":"Resource",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
+"id":"Resource",
+"type":"Object Type",
+"description":"Something that can be used to solve a problem"
+},{
+"label":"Offer",
+"image":"//s3.amazonaws.com/appforest_uf/f1677702447235x423945010205213600/courier.png",
+"id":"Offer",
+"type":"Object Type",
+"description":"An opportunity that someone has to offer to others"
+},{
+"label":"Resources",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100135772x896296205222999300/010-browser-1.svg",
+"id":"1690311308190x556156605122591940",
+"type":"Attribute",
+"description":"A resource refers to all that is available virtually or in our environment which are technologically accessible, economically feasible and culturally sustainable and help us to satisfy our needs and wants.",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1690311308190x556156605122591940",
+"color":""
+},{
+"label":"Technology Culture & Society",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702099916046x369875354231808060/tech_black.svg",
+"id":"1681937945858x995051657101321500",
+"type":"Attribute",
+"description":"This network is dedicated to science and technology studies, the study of how society, politics, and culture affect scientific research and technological innovation, and how these, in turn, affect society, politics and culture. ",
+"set":"Societal Sectors",
+"url":"https://www.catalist.network/attribute/1681937945858x995051657101321500",
+"color":"#848384"
+},{
+"label":"Community & Relationships",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100014835x283882113349760450/relate-table_black-06.svg",
+"id":"1681937779702x411987426594119500",
+"type":"Attribute",
+"description":"",
+"set":"Societal Sectors",
+"url":"https://www.catalist.network/attribute/1681937779702x411987426594119500",
+"color":"#FFC04A"
+},{
+"label":"Networks & Connectivity",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702099985445x475424998046248800/network.svg",
+"id":"1681937786030x260190851397285920",
+"type":"Attribute",
+"description":"",
+"set":"Societal Sectors",
+"url":"https://www.catalist.network/attribute/1681937786030x260190851397285920",
+"color":"#FFC04A"
+},{
+"label":"Infrastructure",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235492896x775384941934455200/idea_black.svg",
+"id":"1681938055209x161760275502197630",
+"type":"Attribute",
+"description":"The underlying physical structures and systems to support human society.",
+"set":"Wheel of CoCreation",
+"url":"https://www.catalist.network/attribute/1681938055209x161760275502197630",
+"color":""
+},{
+"label":"Science & Tech",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235496935x474522277623325600/Beaker.png",
+"id":"1681938060578x581401462868991000",
+"type":"Attribute",
+"description":"The ordering of knowledge by thesis, experiment and conclusions. The Science & Technology Sector focuses on the unremitting advance of technology, which at times has exceeded the speed of Moore’s Law and now exceeds the breadth of humanity’s collective wisdom. This Sector also follows Futurists who professionally monitor developing technologies – such as nanotechnology and artificial intelligence – which one day may lead to a “Trans-Human Era” and possibly a “Post-Human Era.”",
+"set":"Wheel of CoCreation",
+"url":"https://www.catalist.network/attribute/1681938060578x581401462868991000",
+"color":""
+},{
+"label":"Tool",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"1683318902056x368053781730890400",
+"type":"Attribute",
+"description":"",
+"set":"Types",
+"url":"https://www.catalist.network/attribute/1683318902056x368053781730890400",
+"color":""
+},{
+"label":"Platform Website",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"1683318695049x326918936040723200",
+"type":"Attribute",
+"description":"A platform is a major piece of software comprised of a set of features and a surrounding ecosystem of resources.",
+"set":"Types",
+"url":"https://www.catalist.network/attribute/1683318695049x326918936040723200",
+"color":""
+},{
+"label":"Innovation Invention & Ideation",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702099851686x223411111873479840/idea_black.svg",
+"id":"1681937872705x883057421790083300",
+"type":"Attribute",
+"description":"Ideation is the creative process of generating, developing, and communicating new ideas. Ideation comprises many stages from innovation, development and invention, to actualization. Innovation is a skill that is vital for individuals and groups to create new systems that make existing ones obsolete. ",
+"set":"Societal Sectors",
+"url":"https://www.catalist.network/attribute/1681937872705x883057421790083300",
+"color":"#848384"
 },
 {
         "id": "1747550943028x245065087673958400",
@@ -930,6 +1029,60 @@
 "related objects":[],
 
 "label":"Opportunities in AI and Regenerative Finance"
+    },{
+        "id": "1677730393346x420299386590666400",
+"url":"https://www.catalist.network/",
+"object url":"https://www.catalist.network/spaces?space=1747514103591x892492229089689600&current_object=1677730393346x420299386590666400&view=Page&tab=Object",
+"image":"https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1628037462478x801117214202725600%2FCatalist%20Home%20Page%20Illustration-02-min.jpg?w=&h=&auto=compress&dpr=1&fit=max",
+"type":"Resource",
+"topics":[],
+"tags":["Resources","Technology Culture & Society","Community & Relationships","Networks & Connectivity","Infrastructure","Science & Tech","Tool","Platform Website","Innovation Invention & Ideation"],
+"space-tags":["Infrastructure"],
+"attribute-ids":["1690311308190x556156605122591940","1681937945858x995051657101321500","1681937779702x411987426594119500","1681937786030x260190851397285920","1681938055209x161760275502197630","1681938060578x581401462868991000","1683318902056x368053781730890400","1683318695049x326918936040723200","1681937872705x883057421790083300"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Catalist is a connection platform designed to empower communities to build collective intelligence and inspire coordinated action...",
+"description":"",
+"size":"",
+"objects above":["1747552219494x782207416368103400"],
+"related objects":[],
+
+"label":"Catalist.Network"
+    },{
+        "id": "1747603257453x115646543880781820",
+"url":"https://embed.kumu.io/72c5de84a84724093edb48cceec4563f",
+"object url":"https://www.catalist.network/spaces?space=1747514103591x892492229089689600&current_object=1747603257453x115646543880781820&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1747608598230x192495840435704000/Screenshot%202025-05-18%20at%203.49.29%E2%80%AFPM.png",
+"type":"Offer",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"If you’d like to use the needs and offers sheets for an event to facilitate a needs and offers workshop that can be digitized after the event, I can provide training and support as well as customize the sheet template!",
+"description":"",
+"size":"",
+"objects above":["1747552307461x255212389057167360"],
+"related objects":[],
+
+"label":"Needs and Offers workshop and sheets"
     }
 ],
 
@@ -948,6 +1101,21 @@
 "id":"1747598170934x306655209046671360",
 "url":"https://www.catalist.network/spaces?space=1747514103591x892492229089689600&connection=1747598170934x306655209046671360",
 "title":"Opportunities in AI and Regenerative Finance isrelatedto Kwaxala"
+    }
+,{
+        "label": "To work on",
+        "from": "1747599263747x578080138844700700",
+        "to": "1677730393346x420299386590666400",
+"strength":1,
+"connection subtype":"To work on",
+"description":"",
+"connection type":"To work on",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1747599785933x433892878921236500",
+"url":"https://www.catalist.network/spaces?space=1747514103591x892492229089689600&connection=1747599785933x433892878921236500",
+"title":"Front-End Human Experience Developers To work on Catalist.Network"
     }
 
  ]
