@@ -57,6 +57,12 @@
 "type":"Object Type",
 "description":"An opportunity that someone has to offer to others"
 },{
+"label":"Project",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962541188x902300227644092800/rocket.png",
+"id":"Project",
+"type":"Object Type",
+"description":"An time-bound idea or initiative of any stage"
+},{
 "label":"Resources",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100135772x896296205222999300/010-browser-1.svg",
 "id":"1690311308190x556156605122591940",
@@ -137,6 +143,15 @@
 "set":"Societal Sectors",
 "url":"https://www.catalist.network/attribute/1681937872705x883057421790083300",
 "color":"#848384"
+},{
+"label":"Projects",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1702100131051x613769878512967700/rocket.png",
+"id":"1689950584033x319560599379523840",
+"type":"Attribute",
+"description":"A project is an individual or collaborative initiative that is intended to achieve a particular aim.",
+"set":"Main Data Types",
+"url":"https://www.catalist.network/attribute/1689950584033x319560599379523840",
+"color":""
 },
 {
         "id": "1747550943028x245065087673958400",
@@ -941,11 +956,11 @@
 "background_color":"",
 "draft":"no",
 "page_text":"",
-"summary":"Needs and offers shared during the Cascadia Biofi event",
+"summary":"Needs and offers shared during the Cascadia Biofi event https://www.catalist.network/wall-of-opportunity?space=1747514103591x892492229089689600&list=1747552307461x255212389057167360&privacy=Public",
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":["1747552219494x782207416368103400"],
 
 "label":"Wall Of Opportunity"
     },{
@@ -1083,6 +1098,60 @@
 "related objects":[],
 
 "label":"Needs and Offers workshop and sheets"
+    },{
+        "id": "1747609018839x186697716422934530",
+"url":"https://docs.google.com/presentation/d/1eUlcpfUy8mt4XRoldeAGq_tni4ZypI7e_MsELpqPmAk/edit?slide=id.g30662d9ff08_0_124#slide=id.g30662d9ff08_0_124",
+"object url":"https://www.catalist.network/spaces?space=1747514103591x892492229089689600&current_object=1747609018839x186697716422934530&view=Page&tab=Object",
+"image":"https://82f7699abaf74aa1df285f220fc10c5b.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1727889379830x593084086424037600/Omni-Mapping%20Diagram.png",
+"type":"Project",
+"topics":[],
+"tags":["Projects"],
+"space-tags":[],
+"attribute-ids":["1689950584033x319560599379523840"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":["1747552219494x782207416368103400"],
+"related objects":[],
+"Roles":["Weavers","Technical and Systems Experts"],
+"label":"OMNI-Mapping"
+    },{
+        "id": "1747610216704x756087086542487600",
+"url":"https://www.catalist.network/wall-of-opportunity?space=1747514103591x892492229089689600&list=1747552307461x255212389057167360&privacy=Public",
+"object url":"https://www.catalist.network/spaces?space=1747514103591x892492229089689600&current_object=1747610216704x756087086542487600&view=Page&tab=Object",
+"image":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1744942136373x602991311820339600/Catalist%20Cover-min.png",
+"type":"Offer",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":["1747552307461x255212389057167360"],
+"related objects":[],
+
+"label":"Add Your Offer"
     }
 ],
 
