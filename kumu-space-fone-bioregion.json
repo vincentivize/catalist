@@ -3,9 +3,9 @@
 {
   "label": "Attribute",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1683760566455x232838937608571100/attribute-black.png",
-"id":"",
+"id":"Attributes",
 "type":"Object Type",
-"description":"Semantic tags such as New York (State) or No Poverty (SDG) that categorize information on Catalist"
+"description":"Attributes are semanti tags"
 },{
   "label": "Object Type",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
