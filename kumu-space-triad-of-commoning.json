@@ -2920,6 +2920,141 @@
 "url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811263832x599881776666357800",
 "title":"Strive for Money-independent Security is related to Rely on Distributed Structures"
     }
+,{
+        "label": "is related to",
+        "from": "1746109760146x406111265030437700",
+        "to": "1746109761462x377439090313306940",
+"strength":9,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753218841099x628843558410911700",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753218841099x628843558410911700",
+"title":"Use Convivial Tools is related to Rely on Distributed Structures"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109760146x406111265030437700",
+        "to": "1746109763481x937573383496795000",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753218926259x308805623634984960",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753218926259x308805623634984960",
+"title":"Use Convivial Tools is related to Adapt & Renew Creatively"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109395401x234018599967538800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753219129364x442426071914119200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753219129364x442426071914119200",
+"title":"Reflect on Your Peer Governance is related to Contribute Freely"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109772014x385032029265667900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753219151710x363621306296696800",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753219151710x363621306296696800",
+"title":"Reflect on Your Peer Governance is related to Practice Gentle Reciprocity"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109773661x502431083265768400",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753219173450x129141300365885440",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753219173450x129141300365885440",
+"title":"Reflect on Your Peer Governance is related to Trust Situated Knowing"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109775721x202138861665752900",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753219193384x115327489231814660",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753219193384x115327489231814660",
+"title":"Reflect on Your Peer Governance is related to Deepen Communion with Nature"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109777115x497848843482870100",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753219218870x363651068710879200",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753219218870x363651068710879200",
+"title":"Reflect on Your Peer Governance is related to Preserve Relationships in Addressing Conflicts"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109769428x803412021765221200",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753219239550x416796802048852000",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753219239550x416796802048852000",
+"title":"Reflect on Your Peer Governance is related to Ritualize Togetherness"
+    }
+,{
+        "label": "is related to",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109780068x608414828892304800",
+"strength":1,
+"connection subtype":"is related to",
+"description":"",
+"connection type":"is related to",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1753219789167x994091543018340400",
+"url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1753219789167x994091543018340400",
+"title":"Reflect on Your Peer Governance is related to Show empathy & self-responsibility in communication"
+    }
 
  ]
 }
