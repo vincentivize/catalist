@@ -203,7 +203,7 @@
 "summary":"",
 "description":"_**How do the necessary elements of a material and immaterial nature come together?**_\n\nPeople freely make contributions based on their desires – in conjunction with collective decisions and situational needs. Contributions are not driven by external pressures or sanctions, or expectations of tit-for-tat exchange, nor do not all commoners contribute equally at all times. A public accounting of contributions may help establish perceived fairness in larger, impersonal circumstances, but especially in more personal contexts, explicit reckonings can undermine the commons as a space free from calculative rationality. An individual's precise contribution is often not apparent.\n\n- People bring delicious dishes to a group buffet, contribute money to a crowdfunding, or volunteer at a women's shelter or food kitchen.\n\n- People freely contribute when they share knowledge and skills, such as fixing bikes at repair cafes or writing in \n",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Contribute Freely"
@@ -230,7 +230,7 @@
 "summary":"",
 "description":"_**How can commoners allocate resources that are not depleted when used?**_\n\nIt's possible to pool nearly anything for shared use, but some resources (land, water, timber) can be used up, while other resources (information, knowledge, code, design) are not depleted if they are used. The latter class of resources can be freely made available to others without constraint – shared. The commons way is not only to share but also to contribute freely, meaning that contributions are made unconditionally, with no assurance of getting something of equivalent worth back immediately.\n\n- The *OpenSpim *open source community produces specialized scientific microscope designs. *Open Bionics* develops shareable prostheses.\n\n- Licenses for *OpenSourceSeeds* help assure that seeds for crops will not be patented or privatized, thus encouraging everyone to share their seed innovations.  \n\n- The *Drugs for Neglected Diseases* Initiative researches and develops affordable medications for serious diseases that conventional pharmaceutical companies have dismissed as unprofitable.",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Contribute & Share"
@@ -311,7 +311,7 @@
 "summary":"",
 "description":"_**How can people bring different intentions and values into alignment?**_\n\nShared intentions and values are not a prerequisite for commoning. At the outset, people usually have many different reasons and motivations for participating. A commons can emerge only through patient process work that actively recognizes and values the diverse needs, views, talents, and temperaments of all participants. Over time, a commons becomes more robust as people align themselves with each other as individuals while cultivating shared purposes and values.\n\n- The non-hierarchical Unitierra university in Mexico starts by engaging with the experiences and motivations of everyone. It explicitly avoids predefined goals and focuses on people's energy and inclinations 'from everyday life and from the past.'\n\n- A *federated wiki* platform is designed to let people share and collaborate on content-creation while ensuring that different perspectives remain visible.",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Bring Diversity into Shared Purpose"
@@ -338,7 +338,7 @@
 "summary":"",
 "description":"_**What kind of boundaries do commons need to function well?**_\n\nCommons are not closed systems that necessarily exclude others and hoard resources for themselves. Still, commons need to delineate the boundaries of care-wealth that they steward and define their memberships.\n\nBoundaries protect against enclosure, appropriation, free-riding, and political colonization. But boundaries in commons are not fixed lines of separation – they are contact zones that allow selective engagement. These boundaries are primarily self-controlled, and not controlled by the state.\n\n- The *CopyFair License* grants commoners more rights of use than those who want to use content for commercial purposes.\n\n- At the self-organized *Park Slope Food Coop*, only members are allowed to shop. However, any person may become a member as long as they commit to the bylaws.",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Create Semi-Permeable Membranes around Commons"
@@ -365,7 +365,7 @@
 "summary":"",
 "description":"_**What does transparency consist of and how is it established?**_\n\nTrust needs transparency. And real transparency is not just about official accountability based on formal protocols for sharing information. It requires sharing that is more personal and authentic, which, again, can only happen in a context of trust. A commons is stronger and more resilient when relevant information can be openly shared, even if it takes courage.\n\nIn order to strengthen group trust, it's not only important to have appropriate structures and procedures for disclosure, but also emotional space for sharing. \n\n- Procedures for routinely sharing documentation with everyone is important. But protocol-free spaces are also needed to express feelings and uncertainties.\n\n- In the self-administered scholarship system of the Cusanus Student Body, sensitive financial issues are only discussed in the respective year group and not in the plenary meeting.\n",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Honor Transparency in a Sphere of Trust"
@@ -392,7 +392,7 @@
 "summary":"",
 "description":"_**How are information, knowledge, code, and design managed?**_\n\nKnowledge expands and improves as more people contribute. That is why in commons people freely share knowledge, and instead of withholding it for commercial or proprietary reasons. Within commons, shared information can inform and coordinate action, be adapted and improve decision-making.\n\n- In the spirit of open source software, share new designs, ideas, and implementations with everyone – online if possible – as seen in *Linux* and farm equipment by *Open Source Ecology*.\n\n- Publish texts, videos, software, and data with licenses that authorize copying and sharing (*Creative Commons, GPL*)\n\n- Learn from the experiences of others: *CSA farms, food coops, land trusts, urban commons* share their practical knowledge in guidebooks and online platforms.",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Share Knowledge Generously"
@@ -417,9 +417,9 @@
 "draft":"no",
 "page_text":"",
 "summary":"",
-"description":"_**How do commoners make decisions and on what basis?**_\n\nTo ensure that decisions are based on the best information available, and that outcomes are seen as fair and wise, all participants must have opportunities to make their wishes and concerns known and respectfully heard. In contrast to majority-rule voting, decision-making in commons strives to avoid the creation of systematic winners and losers, or factional blocs.\n\n- In *[Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)*, a process of *\"[Talking in rounds](https://kumu.io/rmattlage/sofa-visual-thesaurus#sofa-visual-thesaurus/04-meetings-with-sociocracy?focus=%23round%20out%201)”*, with the goal of obtaining wide consent for decisions, but not necessarily consensus. The point is to reach decisions that are \"good enough for now, safe enough to try\".\n\n- In *[Systemic Consensing](https://en.wikipedia.org/wiki/Systemic_Consensing)* ,people are asked to express their level of resistance, and not just a yes or no answer. Experience shows: *The less resistance, the greater the long-term acceptance*.\n\n- A specific time for revisiting a decision can be set.\n\n- It is often useful to expand the decision options beyond *pro & con*. On the *Quaker Continuum*, people can take six different positions on an issue: from full support to total rejection.\n",
+"description":"_**How do commoners make decisions and on what basis?**_\n\nTo ensure that decisions are based on the best information available, and that outcomes are seen as fair and wise, all participants must have opportunities to make their wishes and concerns known and respectfully heard. In contrast to majority-rule voting, decision-making in commons strives to avoid the creation of systematic winners and losers, or factional blocs.\n\n- In *[Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)*, a process of \"talking in rounds\" with the goal of obtaining wide consent for decisions, but not necessarily consensus. The point is to reach decisions that are \"good enough for now, safe enough to try\".\n\n- In *[Systemic Consensing](https://en.wikipedia.org/wiki/Systemic_Consensing)* ,people are asked to express their level of resistance, and not just a yes or no answer. Experience shows: *The less resistance, the greater the long-term acceptance*.\n\n- A specific time for revisiting a decision can be set.\n\n- It is often useful to expand the decision options beyond *pro & con*. On the *Quaker Continuum*, people can take six different positions on an issue: from full support to total rejection.\n",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Assure Consent in Decision Making"
@@ -446,7 +446,7 @@
 "summary":"",
 "description":"_**How are nested organizational structures built? Do they prevent abuse of power?**_\n\nAbove a certain level of complexity, heterarchies are indispensable for a system to function. Heterarchies are more egalitarian, open forms of organization that, unlike hierarchies, make people's roles modular and adaptable, while avoiding rigid vertical control structures and inequality. Heterarchies also strengthen autonomy and effectiveness, prevent social fragmentation, and reduce bureaucracy.\n\n- The *Mietshäuser Syndikat* (a federation of co-housing projects, Germany), functions as an umbrella organization,  coordinator and information distributor while each house association remains autonomous.\n\n\n- In *[Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)* , the basic structure of organizations and processes is based on multiple connected circles, instead of a pyramidal structure.\n\n- The *Occupy movement* was led and coordinated by activists on the ground, not by an elite. The structure relied on specific but flexible areas of responsibility as well as (informal) hierarchies. ",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Rely on Heterarchy"
@@ -473,7 +473,7 @@
 "summary":"",
 "description":"_**How does a commons respond when its rules are violated?**_\n\nThe culture of commons seeks to align everyone's interests, making rule-breaking less likely. Still, at times, rules are violated, which can result in disagreements and conflicts. In these cases, sanctions may be required.  But the first priority is to surface the reasons for a rules-violation and to reflect on that reality. This reflection and the avoidance of predefined, strict punishments allow for a context-sensitive handling of conflicts. Sanctions can initially be light, but can become gradually more severe if violations persist.\n\n- Those who miss a shift at the peer-managed supermarket *Park Slope Food Coop* are only allowed to shop again after two additional work shifts.\n\n- In the *Zanjera irrigation communities* in the Philippines, the trustworthiness of prospective members is checked in advance, which helps prevent sanctioning. Those who nevertheless violate rules are partially suspended at first and then expelled if the transgression happens repeatedly.",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Apply Graduated & Context-sensitive Sanctions"
@@ -500,7 +500,7 @@
 "summary":"",
 "description":"_**What sorts of ownership are best suited to commoning?**_\n\nProperty rights can take many forms, but they must not interfere with our relationships with others, nature, or future generations. Actually using and caring for something – \"relationalized property\" – is more important than private, exclusive legal control. Conventional property rights enable abusive “power over” and privilege market exchange and the priorities of a small group. But shared ownership based on relational commitments \"from below\" fosters a culture of commoning. When shared wealth is made inalienable (legally not for sale), it also enables diverse uses and flexibility.\n\n- In many community gardens, the rule for the use of plant beds is: *Use it or lose it*. Group deliberations encourages fair and eco-minded stewardship of the land.\n\n- Members of the self-organized supermarket *Park Slope Food Coop* (USA) are regarded as *member-owners* personally obliged to work 2:45 hours per month. This helps cultivate deeper, more committed relationships to other members and to the coop. ",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Relationalize Property"
@@ -527,7 +527,7 @@
 "summary":"",
 "description":"_**How to protect commons against the pressures of commercialization?**_\n\nWhile commons may sometimes interact with markets, it is important to protect the integrity of commoning as the top priority. This means that intrinsic motivations and group solidarity must take precedence over pressure from funders or markets. Internal governance must take care to decouple who generates what revenues from the shared, collective purposes of the commons.\n\n- Open source software communities insulate themselves from outside sources of money and transactional relations by channeling \"outside\" money to foundations managed by community elders. The helps preserve their decision-making sovereignty and maintain their culture.\n\n- The digital commons *Encommuns* noticed that its contracting services for software coding were becoming more important than the group's shared interests. It therefore stopped accepting external payments as tokens of individual performance, and instead treated the funds as donations to the overall project. ",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Keep Commons & Commerce Distinct"
@@ -554,7 +554,7 @@
 "summary":"",
 "description":"_**What forms of funding can support commons?**_\n\nA commons can become more secure and sovereign if it combines multiple forms of funding. Reliance on a single source of funds can lead to an unhealthy dependency on outsiders and to transactional pandering to them. Funds that come from commoners and their allies are best, but other sources can be considered if they have congruent values and goals, and minimal interventions.\n\n- Community land trusts often rely on immediate community members to acquire their land.\n\n- Crowdfunding platforms such as Goteo are a classic vehicle for mobilizing collective donations for a given project.\n\n- Private or state funding can be attractive so long as there are minimal strings attached and allow commoners to decide how to use the funds.\n\n- A basic income - preferably co-designed and jointly managed by those affected, as in Namibia - can open up spaces for commoning.\n",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Fund Provisioning in Commons-friendly Ways"
@@ -579,9 +579,9 @@
 "draft":"no",
 "page_text":"",
 "summary":"",
-"description":"_**What do internal organizational structures enable or prevent?**_\n\nOrganizational structures can lead to imbalances of social power and respect among people. People in formal roles, for example, may be treated as more important than others, leading to (more or less) subtle discrimination and disempowerment of some. Precisely because everyone has valuable but different contributions to make, internal processes must strive to ensure that everyone is seen and heard. Internal systems must foster authentic, caring communication, and discourage interpersonal hierarchies and cliques.\n\n- *\"[Talking rounds](https://kumu.io/rmattlage/sofa-visual-thesaurus#sofa-visual-thesaurus/04-meetings-with-sociocracy?focus=%23round%20out%201)”*, as practiced by *[Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)*,  ensures that everyone has a voice in group deliberations. Collective wisdom can only emerge if dissonant and quieter voices are respectfully heard.\n\n- The Commons-Institute in Germany works according to the motto “tasks, not posts” as a way to prevent the rise of formal hierarchies and foster inclusive cooperation.\n\n**new pattern from Patterning cards - Novenber 2024**\n",
+"description":"_**What do internal organizational structures enable or prevent?**_\n\nOrganizational structures can lead to imbalances of social power and respect among people. People in formal roles, for example, may be treated as more important than others, leading to (more or less) subtle discrimination and disempowerment of some. Precisely because everyone has valuable but different contributions to make, internal processes must strive to ensure that everyone is seen and heard. Internal systems must foster authentic, caring communication, and discourage interpersonal hierarchies and cliques.\n\n- \"Talking rounds”, as practiced by *[Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)*,  ensures that everyone has a voice in group deliberations. Collective wisdom can only emerge if dissonant and quieter voices are respectfully heard.\n\n- The Commons-Institute in Germany works according to the motto “tasks, not posts” as a way to prevent the rise of formal hierarchies and foster inclusive cooperation.\n\n**new pattern from Patterning cards - Novenber 2024**\n",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Create Organizational Structures that foster Coequality"
@@ -608,7 +608,7 @@
 "summary":"",
 "description":"_**How is compliance with rules monitored, and by whom?**_\n\nFor a commons to exist in the long term, it is important that all participants follow the rules they have proposed and agreed upon. If participants can effectively coordinate the monitoring and compliance of rules, it usually makes external (government) monitoring unnecessary. In most cases, the process of developing and consenting to rules itself minimizes the need for strict monitoring and rules-enforcement. In any case, sometimes sanctions are needed to penalize transgressions of rules.\n\n- In the alternative settlement community *Alt Ungnade* (Germany), indications of rule-breaking come up in regular sessions called shitty weather rounds.\n\n- In Maine (USA), after lobster stocks were severely depleted in the 1920s, fishers developed their own harvesting rules and monitoring procedures, which were a better alternative to outright government bans on fishing.\n\n\n**new pattern from Patterning cards - November 2024**\n",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Self-monitor Compliance with Rules"
@@ -635,7 +635,7 @@
 "summary":"",
 "description":"_**How do commons maintain their vitality in the face of existential threats?**_\n\nCommoners are always alert to various forms of private encroachment, appropriation, and enclosure. Clarity about such threats helps catalyze effective preventive strategies and interventions. Creative uses of law, technology, social organization, and resistance are often needed to protect commons against dominant property and market structures.\n\n- *Legal hacks*, such as *copyleft* in software and *Creative Commons licenses*, can protect commons by artfully using existing laws to serve a different purpose than originally intended.\n\n- In the UK, even today, commoners often walk the perimeter of their land to find and destroy any enclosures such as disputed hedges and fences. This age-old ritual, known as *beating the bounds*, is often followed by a community celebration.\n\n**new pattern from Patterning cards - November 2024**",
 "size":"",
-"objects above":["1746109726684x579736016221404300","1745507859060x441747046713262100"],
+"objects above":["1746109726684x579736016221404300"],
 "related objects":[],
 
 "label":"Intervene to Stop Co-optation & Enclosures"
@@ -689,7 +689,7 @@
 "summary":"",
 "description":"_**How do commoners organize production roles and use-practices?**_\n\nThe roles of \"producer\" and \"user\" are not necessarily separate and distinct in a commons. People play many different, interconnected roles in meeting different kinds of needs. Because producers and users are oftentimes the same people, there is little motivation to be proprietary, secretive or competitive. All who want to be involved in the satisfaction of needs can be involved. In some cases, commoners collaborate to produce commodities that are sold on markets (e.g., fish, crops), but the main purpose is not to maximize financial returns but to secure livelihoods within ecological limits.\n\n- In makerspaces and Fab Labs, the motto is *Do It Together* (DIT) instead of *Do It Yourself* (DIY). Open workshops invite people to produce shareable designs and equipment together and repair what can be still of use.\n\n- At *Atelier Paysan* (France), developers, engineers & farmers collaborate to produce open-source agricultural equipment that is customized to meet specific tasks at hand. ",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Make & Use Together"
@@ -716,7 +716,7 @@
 "summary":"",
 "description":"_**How are different activities valued and recognized?**_\n\nIn a commons, work is not valued according to its productivity or market price. Care work is seen as equally worthy as \"productive work.\" It is driven by a concern for quality and the well-being of living creatures, not quantitative metrics and money. What is crucial is that people have enough time and capacity to do what needs to be done and done well. Commoners decide for themselves how tasks will be acknowledged and honored.\n\n- Time Banks throughout the world value the time, needs and work of all participants equally.\n\n- In the hospital cooperatively administered by *Cecosesola* in Venezuela, everyone cleans their own workplaces. This discourages invidious social hierarchies and creates group appreciation for everyone's individual time and work. ",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Respect Care Work as much as “Productive Work”"
@@ -743,7 +743,7 @@
 "summary":"",
 "description":"_**Who bears the risks of production and distribution?**_\n\nRisks associated with economic activity are not borne by producers or users exclusively, but by both. Shared risks and responsibilities mean that everyone’s risks and rewards are aligned, and the boundaries between consuming and producing are blurred. This, in turn improves group decisions about what, when, and how to produce.\n\n- Upfront investments for planting are serious production risks in agriculture because crop failure can squander funds. Through *community supported agriculture*, such risks are shared among all participants through advance payments or monthly contributions.\n\n- Collective investments and community-supported financing spread the risks of production.\n",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Share the Risks of Provisioning"
@@ -770,7 +770,7 @@
 "summary":"",
 "description":"_**How to allocate things that are depleted through use in simple, small-scale circumstances?**_\n\nResources that are depleted through use cannot simply be shared with everyone without limitation. That would easily destroy the pooled wealth. While pooling can amass shared wealth, a cap on use must be set before allocating it and allocation must be according to needs (\"dividing up\"). Here, not all participants have to contribute, but everyone should participate or consent in the allocation choices. And everyone should receive a fair share of what they need.\n\n- Food can be redistributed through *food sharing*; money can be pooled for a specific shared purpose; and stewards of water irrigation systems can set limits on usage while allocating supplies fairly.\n\n- In *Vipassana* meditation centers, everyone can join for free. At the end of the retreat, money and work pledges are contributed to enable the next group’s gathering.\n- In *free stores*, people pool what they bring. Everyone can take what they want, but sometimes the group caps the number of items any individual can take.",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Pool, Cap & Divide Up"
@@ -797,7 +797,7 @@
 "summary":"",
 "description":"_**How to allocate things that are depleted through use in complex, large-scale circumstances?**_\n\nLimited, depletable resources cannot be made available without limitation, and in any case, sometimes it's not essential to give everyone a strictly equal share. After pooling what is available and setting a cap on overall use, a commons can make a solidarity-based apportionment: a roughly equivalent allocation of benefits (\"mutualization\") based on a prior agreement. Everyone who can, should contribute. Entitlements are not strictly linked to the contributions made, however.\n\n- In state social security systems, contributions are based on income, but benefits are not. Needs take priority over original contributions. This lies at the heart of mutualization.\n\n- Community-based health insurance funds such as *Artabana* and *Solidago* in the German-speaking countries operate with a similar ethic of mutualization.",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Pool, Cap & Mutualize"
@@ -824,7 +824,7 @@
 "summary":"",
 "description":"_**Who determines prices and on what basis when trade is unavoidable?**_\n\nIt is difficult for commons in market-based societies to function without some interactions involving money. They can strive to make the full production costs transparent and then try to meet the needs of all parties involved without regard to market price or norms.\n\n- The cooperative association *Cecosesola* (Venezuela) has been operating large, crisis-resilient food markets for decades. It has succeeded by ensuring that producers receive what they actually need to live and meet their expenses, not the latest market price. It also avoids commercial intermediaries. As a result, consumers pay a standard price that is significantly below the market price.\n\n- Housing commons associated with the German co-housing federation *Mietshäuser Syndikat* do not charge \"rent\" to its residents based on market rates. Monthly payments correspond to actual building and maintenance expenses. By avoiding market pressures and profit-taking, residency fees are typically lower than conventional rents. However, everyone agrees to pay a solidarity fee to support the launch of new housing projects within the federation.",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Trade with Price Sovereignty"
@@ -851,7 +851,7 @@
 "summary":"",
 "description":"_**What types of tools and technologies enhance commoning?**_\n\nMany commercial technologies are designed to be proprietary and restrictive in how they may be used. This tends to lock users into dependent, exploitative relationship with vendors. As possible, commoners therefore develop, use, and maintain tools and technologies that can be freely accessed and adapted – convivial tools, as Ivan Illich called them. Convivial tools let users choose how to address different needs in flexible, context-appropriate ways.\n\nConvivial tools are widely available if one looks:\n\n- *Wikipedia* instead of Encyclopedia Britannica, **OpenstreetMap* *instead of *Google Maps*, *GNU/Linux *instead of *MacOS* or *Windows*, *GNUcash* instead of commercial accounting software.\n\n- Permaculture techniques are a convivial alternative to  industrial agriculture and GMO seeds. Instead of using proprietary tractors from John Deere, one can use agricultural machinery from *Atelier Paysan* or *Farm Hack*.\n\n- Use *Vivihouse* (Austria) instead of prefabricated row house designs",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Use Convivial Tools"
@@ -878,7 +878,7 @@
 "summary":"",
 "description":"_**What types of infrastructures facilitate and expand commoning?**_\n\nCommunity-supported or peer-to-peer (P2P) infrastructures are essential in making commoning easier, normal and distributed. They enable collaborative capabilities that are often difficult, expensive, or impossible with market-driven infrastructures. They also enhance social security, reduce dependency on market vendors, and facilitate large-scale cooperation.\n\n- Commons infrastructures let people escape corporate and state monopolies: *Guifi.net* WiFi (in Catalonia) instead of Telekom, *BigBlueButton* instead of *Zoom*, *Jitsi* instead of *Skype*, *PeerTube* instead of Y*ouTube*, *NextCloud* instead of *Amazon Web Services*.\n\n- Creative Commons licenses are a legal infrastructure that makes it easy for anyone to share information and creative works in specific ways.\n\n- A wide variety of self-managed irrigation systems around the world, such as the *Bisses, Suonen* and *Wässermatte*nin Switzerland, and *acequias* in New Mexico, empower local communities.",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Rely on Distributed Structures"
@@ -905,7 +905,7 @@
 "summary":"",
 "description":"_**How can old problems be addressed as new circumstances arise?**_\n\nIn commons, innovations are not driven through competition, but by identifying needs and pursuing them with limited resources, creativity, and improvisation. The words *jugaad* (Hindi) and *bricolage* (French) aptly describe this practice: using ingenuity to solve problems or create something new with available resources.\n\n- *Precious Plastic *designs open-source machines that allow everyone to recycle plastic themselves and repurpose it for something useful.\n\n- *Atelier Paysan* creates bicycle tractors (*bicitracteur*) and bicycle machines (*bicimachines*) for many agricultural uses.\n\n- Many creative projects use upcycling to create something new, like the wooden furniture created by the *Dortmund Urbanists*.",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Adapt & Renew Creatively"
@@ -932,7 +932,7 @@
 "summary":"",
 "description":"_**How to live a good life with low financial means?**_\n\nCommoning can gradually replace services that are otherwise available only through markets. As this happens, a dignified life becomes possible with less income. Through networks of mutual support and supply structures commons meet needs and foster a sense of belonging and material security.\n\n- *Open source software, open access journals, and Creative Commons licensed materials* can significantly reduce one's expenditures and market dependencies while providing high-quality information and tools.\n\n- Artists collectives and cultural organizations that own their own *infrastructures* (buildings, equipment, software platforms) are more able to host gift economies of sharing and support through collegial networks.\n\n- By decommodifying land, *community land trusts* enable farmers to have secure access to land while reducing their need to compete in markets and maximize revenues. They can also insulate their lives from rising land prices driven by market speculation.\n\n**New pattern from Patterning cards ~ November 2024**",
 "size":"",
-"objects above":["1746109747603x747810290140454400","1745507859060x441747046713262100"],
+"objects above":["1746109747603x747810290140454400"],
 "related objects":[],
 
 "label":"Strive for Money-independent Security"
@@ -959,7 +959,7 @@
 "summary":"",
 "description":"_**How does a group become coherent and mutually aligned?**_\n\nCommons rarely start with shared values and intentions. Instead, they are forged as people of diverse talents and temperaments share experiences. Only if commoners accept the diversity of the group and are willing to align themselves with one another, developmental processes that include routines, reflections, and rituals, participants can cultivate shared purpose and values.\n\n- In *community supported agriculture* (CSA), the common intention is to grow and share healthy, fresh food. A sense of shared purpose arises as people participate in (for example) farm festivals, vegetable processing workshops, or shared field work.\n\n- When members of the *Commons-Institute* (Germany) meet, there are evenings of storytelling. People are asked: to explain, \"*How did you come to Commons and ultimately to the Institute?*\" Stories are vivid and memorable, and help connect people with each other. \n",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Cultivate Shared Purpose and Values"
@@ -986,7 +986,7 @@
 "summary":"",
 "description":"_**What customs and practices strengthen cohesion?**_\n\nGroup practices and rituals to strengthen everyone's sense of group belonging. Regular moments to emotionally connect, reflect, or celebrate can help build a shared resonance.\n\n- At the beginning of (work) meetings, the short check-in question '*How am I feeling here today?*’ creates a space where everyone feels seen. A check-out completes the ritual.\n\n- \"Dragon Dreaming\" – a method for eliciting and encouraging new projects – reminds us: Don't forget to celebrate after the work is done!\n- \nThe open workshop project *Konglomerat* (Germany) regularly organizes *cleaning events* that are fun while doing necessary work.\n",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Ritualize Togetherness"
@@ -1013,7 +1013,7 @@
 "summary":"",
 "description":"_**How are the relationships between giving and taking shaped in commons?**_\n\nWhat matters is the perception of fairness, which is not necessarily the same a providing absolutely equal shares or equivalent money-value exchange to everyone. An approximate reciprocity is sufficient, while recognizing the different needs of all participants. If, on average, enough skills and capacities are contributed, there is no need to calculate exactly who owes whom. The point is to assure that everyone's needs can be reliably met without a fear of falling short or not contributing enough.\n\n- In some types of _community supported agriculture (CSA)_, there are rounds of contributions in which the participants individually determine how much they can afford to contribute to the group financing. For this, disclosure of expected production costs and the average per-household contributions are important.\n\n- In many projects, precise amounts of giving and taking are deliberately decoupled. The point is to avoid the even-steven logic of market exchange and dampen individual feelings of entitlement.\n",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Practice Gentle Reciprocity"
@@ -1040,7 +1040,7 @@
 "summary":"",
 "description":"_**What types of knowledge are at work in commons?**_\n\nWhile the Western mind puts a premium on cognitive knowledge, much of what we actually know is less explicit and “rational,” especially in our relationships with each other and in figuring out solutions to problems.\n\nWe have emotional and intuitive knowledge for example, spiritual and ethical knowledge that may not be readily expressed in words. We also have somatic knowledge, originating in bodily sensations, and situational knowledge associated with specific places and social contexts. Wisdom is a form of deep, synthetic knowledge.\n\nIt is important to draw on all these forms of knowing and prevent any single kind of knowing – such as rational cognition – from dominating decisions and judgments.\n\n- *Permaculture* designers emphasize the need to observe well in order to interact with plant life and landscapes.\n\n- In the *Transition Town Movement* for a post-fossil world, three sources of knowing are seen as equally important: reason, emotion & action (or \"head, heart & hand\").\n\n- Using their bodies and intuition, mountaineers have learned to estimate the stability of snow bridges. Soccer players have a keen sense of where and how fast a ball will fly.\n",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Trust Situated Knowing"
@@ -1067,7 +1067,7 @@
 "summary":"",
 "description":"_**How is being connected to nature lived out?**_\n\nBy engaging with natural biowealth - water, farmland, forests, fisheries - commoners realize that \"nature\" isn't separate, but a living part of their everyday existence. This helps them experience themselves as a connected, caring part of nature. Stewardship of land and its seasonal cycles helps people develop respect for the more-than-human world and recognize \"the economy\" as a human construct.\n\n- Wilderness education clarifies: people need an emotional connection to nature in order to see themselves as part of it and understand our somatic connection to the more-than-human world.\n\n- Engaging with community supported agriculture can deepen one's appreciation of natural systems and seasonal cycles. We participate in how the food that nourishes our bodies is grown.\n\n- Conservation reserves are often created without regard for the people already living there, in part because some conservationists think \"nature\" would be better off without people. This replicates the nature/human divide rather than healing it. An emerging new approach is “convivial conservation” that seeks to establish (noncapitalist) human stewardship of land for farming and other purposes.",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Deepen Communion with Nature"
@@ -1094,7 +1094,7 @@
 "summary":"",
 "description":"_**How are conflicts addressed?**_\n\nIt is important to have protected spaces in which conflicts can be made visible and their causes understood. An attitude of respect and mutual concern is critical. Complaints focus on concrete behaviors or statements, not individuals. Criticism is balanced with expressions of respect and personal appreciation. An attitude of respect and mutual concern is critical so that relationships can be changed and not destroyed. Anyhow, in some instances separations may be the best option.  \n\n- At the *Cecosesola* cooperative (Venezuela), concrete behaviors are openly and substantially criticized in group settings, but the choice of words and tone remain respectful. After conflict situations, for example, a hug conveys the message: *Whatever our disagreement, I see you as a human being.*\n\n- Systemic coaching, mediations and 'Constellations' workshops can address conflicts while preserving relationships.\n",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Preserve Relationships in Addressing Conflicts"
@@ -1121,7 +1121,7 @@
 "summary":"",
 "description":"_**How do commoners assure that their structures and rules are appropriate and yet capable of change as needed?**_\n\nIt is important to regularly and collectively reflect on one's own organizational governance. Changing circumstances may require new approaches. Power issues may need to be addressed. Financial risks and institutional dependencies deserve frank debate. Reflecting on a group's patterns of self-organization can help (re)think structures, rules, and processes.\n\n- The network *Fuchsmühle* (Germany) uses this collection of patterns to reflect upon and improve their own self-organization with a variety of somatic and deliberative methods.\n\n- Supervision and coaching can help visualize and adapt governance structures.\n\n- Governance issues should be regularly revisited in calm, quiet moments so that people have opportunities to raise difficult, big questions.\n",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Reflect on Your Peer Governance"
@@ -1148,7 +1148,7 @@
 "summary":"",
 "description":"_**How can we communicate effectively?**_\n\nSelf-responsible communication means honestly and respectfully expressing one's own needs and limits. This requires appropriate times and circumstances as well as a sense of one's own demeanor and tone in communication. In direct exchanges, active listening and compassionate speaking are important. With individual and collective self-awareness, norms of communication can be regularly reviewed and improved.\n\n- Communication rules are agreed upon in both digital and analog spaces. Suitable moderation methods – such as 'talking stick' rounds – allow all participants to speak without time pressure or tyranny of the loudest ones.\n\n- [**Nonviolent communication**](https://en.wikipedia.org/wiki/Nonviolent_Communication) supports the implementation of this pattern.\n\n- A good motto is: _Speak spontaneously and from the heart. and listen from the heart._\n\n**new pattern from Patterning cards ~ Novemver 2024**\n",
 "size":"",
-"objects above":["1746801541565x952036572252138200","1745507859060x441747046713262100"],
+"objects above":["1746801541565x952036572252138200"],
 "related objects":[],
 
 "label":"Show empathy & self-responsibility in communication"
@@ -1692,8 +1692,8 @@
     }
 ,{
         "label": "is related to",
-        "from": "1746109735084x675267417021090800",
-        "to": "1746109778651x530783114163491300",
+        "from": "1746109778651x530783114163491300",
+        "to": "1746109735084x675267417021090800",
 "strength":1,
 "connection subtype":"is related to",
 "description":"",
@@ -1703,7 +1703,7 @@
 "direction":"mutual",
 "id":"1746811203360x612101474270017040",
 "url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&connection=1746811203360x612101474270017040",
-"title":"Assure Consent in Decision Making is related to Reflect on Your Peer Governance"
+"title":"Reflect on Your Peer Governance is related to Assure Consent in Decision Making"
     }
 ,{
         "label": "is related to",
