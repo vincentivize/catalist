@@ -46,7 +46,7 @@
 "description":"A written work published in physical or digital format."
 },
 {
-        "id": "1745507435532x756390830799847400",
+"id":"1745507435532x756390830799847400",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1745507435532x756390830799847400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1725763725377x209539551038163900/to-do-list.png",
@@ -70,10 +70,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Examples of Commoning"
-    },{
-        "id": "1745507575318x536440141298008060",
+},
+{
+"id":"1745507575318x536440141298008060",
 "url":"https://berkshares.org/",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1745507575318x536440141298008060&view=Page&tab=Object",
 "image":"https://berkshares.org/wp-content/uploads/2022/01/imageedit_7_7871981022.png",
@@ -97,10 +98,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"BerkShares"
-    },{
-        "id": "1745507784878x176197041733238800",
+},
+{
+"id":"1745507784878x176197041733238800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1745507784878x176197041733238800&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1725763725377x209539551038163900/to-do-list.png",
@@ -124,10 +126,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"The Triad of Commoning Spheres"
-    },{
-        "id": "1745507859060x441747046713262100",
+},
+{
+"id":"1745507859060x441747046713262100",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1745507859060x441747046713262100&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1725763725377x209539551038163900/to-do-list.png",
@@ -151,10 +154,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"The Triad of Commoning Patterns"
-    },{
-        "id": "1745508633471x968679408460103700",
+},
+{
+"id":"1745508633471x968679408460103700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1745508633471x968679408460103700&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -178,10 +182,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"David Bollier"
-    },{
-        "id": "1746109395401x234018599967538800",
+},
+{
+"id":"1746109395401x234018599967538800",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109395401x234018599967538800&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173573010x480742455595065660/nSL02.jpg",
@@ -205,10 +210,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL02",
 "label":"Contribute Freely"
-    },{
-        "id": "1746109394044x385527481714976500",
+},
+{
+"id":"1746109394044x385527481714976500",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109394044x385527481714976500&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173449994x119954418207600000/nPR08.jpg",
@@ -232,10 +238,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR08",
 "label":"Contribute & Share"
-    },{
-        "id": "1746109725515x778289466370878800",
+},
+{
+"id":"1746109725515x778289466370878800",
 "url":"https://freefairandalive.org/read-it/#part2",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109725515x778289466370878800&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746113321436x317398665049091840/triad.jpg",
@@ -259,10 +266,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"The Triad of Commoning"
-    },{
-        "id": "1746109726684x579736016221404300",
+},
+{
+"id":"1746109726684x579736016221404300",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109726684x579736016221404300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746895496262x463333685802249400/nPG00.jpg",
@@ -286,10 +294,11 @@
 "size":"",
 "objects above":["1746109725515x778289466370878800","1745507784878x176197041733238800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Peer Governance"
-    },{
-        "id": "1746109728028x262036339829732960",
+},
+{
+"id":"1746109728028x262036339829732960",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109728028x262036339829732960&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750172861998x392957928899729150/nPG01.jpg",
@@ -313,10 +322,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG01",
 "label":"Bring Diversity into Shared Purpose"
-    },{
-        "id": "1746109729114x718041872405381900",
+},
+{
+"id":"1746109729114x718041872405381900",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109729114x718041872405381900&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750172898647x583791483997594100/nPG05.jpg",
@@ -340,10 +350,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG05",
 "label":"Create Semi-Permeable Membranes around Commons"
-    },{
-        "id": "1746109730516x554564403661208300",
+},
+{
+"id":"1746109730516x554564403661208300",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109730516x554564403661208300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750172937808x413625084305218050/nPG03.jpg",
@@ -367,10 +378,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG03",
 "label":"Honor Transparency in a Sphere of Trust"
-    },{
-        "id": "1746109733562x152100760730998980",
+},
+{
+"id":"1746109733562x152100760730998980",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109733562x152100760730998980&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173158222x468721179185717570/nPG02.jpg",
@@ -394,10 +406,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG02",
 "label":"Share Knowledge Generously"
-    },{
-        "id": "1746109735084x675267417021090800",
+},
+{
+"id":"1746109735084x675267417021090800",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109735084x675267417021090800&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750172979428x863069525578277300/nPG04.jpg",
@@ -421,10 +434,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG04",
 "label":"Assure Consent in Decision Making"
-    },{
-        "id": "1746109736247x325008240650592760",
+},
+{
+"id":"1746109736247x325008240650592760",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109736247x325008240650592760&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173009350x881600362526331400/nPG07.jpg",
@@ -448,10 +462,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG07",
 "label":"Rely on Heterarchy"
-    },{
-        "id": "1746109737643x653321758032239000",
+},
+{
+"id":"1746109737643x653321758032239000",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109737643x653321758032239000&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1748016350981x999864003572784800/nPG09.jpg",
@@ -475,10 +490,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG09",
 "label":"Apply Graduated & Context-sensitive Sanctions"
-    },{
-        "id": "1746109738919x532357148068287170",
+},
+{
+"id":"1746109738919x532357148068287170",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109738919x532357148068287170&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173034207x837388330909515400/nPG10.jpg",
@@ -502,10 +518,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG10",
 "label":"Relationalize Property"
-    },{
-        "id": "1746109740377x800221548687199500",
+},
+{
+"id":"1746109740377x800221548687199500",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109740377x800221548687199500&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173070067x508815550887547400/nPG12.jpg",
@@ -529,10 +546,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG12",
 "label":"Keep Commons & Commerce Distinct"
-    },{
-        "id": "1746109741816x844105400363580700",
+},
+{
+"id":"1746109741816x844105400363580700",
 "url":"https://freefairandalive.org/read-it/#5",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109741816x844105400363580700&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173239752x898709925121965200/nPG13.jpg",
@@ -556,10 +574,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG13",
 "label":"Fund Provisioning in Commons-friendly Ways"
-    },{
-        "id": "1746109743124x326339362853532500",
+},
+{
+"id":"1746109743124x326339362853532500",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109743124x326339362853532500&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1748017318583x114562778152386580/nPG06.jpg",
@@ -583,10 +602,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG06",
 "label":"Create Organizational Structures that foster Coequality"
-    },{
-        "id": "1746109744681x679183292724683000",
+},
+{
+"id":"1746109744681x679183292724683000",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109744681x679183292724683000&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1748016304547x401509892882713200/nPG08.jpg",
@@ -610,10 +630,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG08",
 "label":"Self-monitor Compliance with Rules"
-    },{
-        "id": "1746109746175x307592690832521700",
+},
+{
+"id":"1746109746175x307592690832521700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109746175x307592690832521700&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1748016412904x788626835458444000/nPG11.jpg",
@@ -637,10 +658,11 @@
 "size":"",
 "objects above":["1746109726684x579736016221404300"],
 "related objects":[],
-
+"abbreviation":"PG11",
 "label":"Intervene to Stop Co-optation & Enclosures"
-    },{
-        "id": "1746109747603x747810290140454400",
+},
+{
+"id":"1746109747603x747810290140454400",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109747603x747810290140454400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746895163855x603940986674951400/nPR00.jpg",
@@ -664,10 +686,11 @@
 "size":"",
 "objects above":["1746109725515x778289466370878800","1745507784878x176197041733238800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Provisioning"
-    },{
-        "id": "1746109749178x175031545822892600",
+},
+{
+"id":"1746109749178x175031545822892600",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109749178x175031545822892600&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173278231x546347188786116000/nPR01.jpg",
@@ -691,10 +714,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR01",
 "label":"Make & Use Together"
-    },{
-        "id": "1746109750825x450184318546972300",
+},
+{
+"id":"1746109750825x450184318546972300",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109750825x450184318546972300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173312356x321572074114225400/nPR02.jpg",
@@ -718,10 +742,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR02",
 "label":"Respect Care Work as much as “Productive Work”"
-    },{
-        "id": "1746109752459x856370504829868400",
+},
+{
+"id":"1746109752459x856370504829868400",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109752459x856370504829868400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173386564x583594804716900000/nPR04.jpg",
@@ -745,10 +770,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR04",
 "label":"Share the Risks of Provisioning"
-    },{
-        "id": "1746109755591x477350155891545400",
+},
+{
+"id":"1746109755591x477350155891545400",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109755591x477350155891545400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173472111x259557444387843900/nPR09.jpg",
@@ -772,10 +798,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR09",
 "label":"Pool, Cap & Divide Up"
-    },{
-        "id": "1746109757612x789682977897324400",
+},
+{
+"id":"1746109757612x789682977897324400",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109757612x789682977897324400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173490499x849600605830445400/nPR10.jpg",
@@ -799,10 +826,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR10",
 "label":"Pool, Cap & Mutualize"
-    },{
-        "id": "1746109758895x259348351761106370",
+},
+{
+"id":"1746109758895x259348351761106370",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109758895x259348351761106370&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173510569x242476547058021020/nPR11.jpg",
@@ -826,10 +854,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR11",
 "label":"Trade with Price Sovereignty"
-    },{
-        "id": "1746109760146x406111265030437700",
+},
+{
+"id":"1746109760146x406111265030437700",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109760146x406111265030437700&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1748016766514x302100304089926600/nPR05.jpg",
@@ -853,10 +882,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR05",
 "label":"Use Convivial Tools"
-    },{
-        "id": "1746109761462x377439090313306940",
+},
+{
+"id":"1746109761462x377439090313306940",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109761462x377439090313306940&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1748016786804x261170982228204900/nPR06.jpg",
@@ -880,10 +910,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR06",
 "label":"Rely on Distributed Structures"
-    },{
-        "id": "1746109763481x937573383496795000",
+},
+{
+"id":"1746109763481x937573383496795000",
 "url":"https://freefairandalive.org/read-it/#6",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109763481x937573383496795000&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173424621x592255822982607600/nPR07.jpg",
@@ -907,10 +938,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR07",
 "label":"Adapt & Renew Creatively"
-    },{
-        "id": "1746109764901x838798530919741000",
+},
+{
+"id":"1746109764901x838798530919741000",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109764901x838798530919741000&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173355680x282590440045741730/nPR03.jpg",
@@ -934,10 +966,11 @@
 "size":"",
 "objects above":["1746109747603x747810290140454400"],
 "related objects":[],
-
+"abbreviation":"PR03",
 "label":"Strive for Money-independent Security"
-    },{
-        "id": "1746109768653x848244319251826300",
+},
+{
+"id":"1746109768653x848244319251826300",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109768653x848244319251826300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173550668x698484768264644200/nSL01.jpg",
@@ -961,10 +994,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL01",
 "label":"Cultivate Shared Purpose and Values"
-    },{
-        "id": "1746109769428x803412021765221200",
+},
+{
+"id":"1746109769428x803412021765221200",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109769428x803412021765221200&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746890864226x157847066418229660/nSL08.jpg",
@@ -988,10 +1022,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL08",
 "label":"Ritualize Togetherness"
-    },{
-        "id": "1746109772014x385032029265667900",
+},
+{
+"id":"1746109772014x385032029265667900",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109772014x385032029265667900&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746822855210x931696250643739400/SL03.jpg",
@@ -1015,10 +1050,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL03",
 "label":"Practice Gentle Reciprocity"
-    },{
-        "id": "1746109773661x502431083265768400",
+},
+{
+"id":"1746109773661x502431083265768400",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109773661x502431083265768400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746890818113x814803268112478200/nSL04.jpg",
@@ -1042,10 +1078,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL04",
 "label":"Trust Situated Knowing"
-    },{
-        "id": "1746109775721x202138861665752900",
+},
+{
+"id":"1746109775721x202138861665752900",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109775721x202138861665752900&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746824327428x377817994367531500/SL05.jpg",
@@ -1069,10 +1106,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL05",
 "label":"Deepen Communion with Nature"
-    },{
-        "id": "1746109777115x497848843482870100",
+},
+{
+"id":"1746109777115x497848843482870100",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109777115x497848843482870100&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1748014228174x687048864060390700/nSL07.jpg",
@@ -1096,10 +1134,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL07",
 "label":"Preserve Relationships in Addressing Conflicts"
-    },{
-        "id": "1746109778651x530783114163491300",
+},
+{
+"id":"1746109778651x530783114163491300",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109778651x530783114163491300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1750173625117x634520656890467300/nSL09.jpg",
@@ -1123,10 +1162,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL09",
 "label":"Reflect on Your Peer Governance"
-    },{
-        "id": "1746109780068x608414828892304800",
+},
+{
+"id":"1746109780068x608414828892304800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746109780068x608414828892304800&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746890627283x452450987705468100/nSL06.jpg",
@@ -1150,10 +1190,11 @@
 "size":"",
 "objects above":["1746801541565x952036572252138200"],
 "related objects":[],
-
+"abbreviation":"SL06",
 "label":"Show empathy & self-responsibility in communication"
-    },{
-        "id": "1746801541565x952036572252138200",
+},
+{
+"id":"1746801541565x952036572252138200",
 "url":"https://freefairandalive.org/read-it/#4",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1746801541565x952036572252138200&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1746892332724x177253073741494560/nSL00.jpg",
@@ -1177,10 +1218,11 @@
 "size":"",
 "objects above":["1746109725515x778289466370878800","1745507784878x176197041733238800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Social Life"
-    },{
-        "id": "1747075915719x466804178867716100",
+},
+{
+"id":"1747075915719x466804178867716100",
 "url":"https://www.commonerscatalog.org/books/the-commoners-catalog-for-changemaking?page=72",
 "object url":"https://www.catalist.network/spaces?space=1745505971472x121378449617584130&current_object=1747075915719x466804178867716100&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1704222881003x401785061234565060/book%20%281%29.png",
@@ -1204,9 +1246,9 @@
 "size":"",
 "objects above":["1745507435532x756390830799847400"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"The Commoner’s Catalog for Changemaking"
-    }
+}
 ],
 
   "connections": [
