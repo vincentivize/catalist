@@ -139,7 +139,7 @@
 "color":""
 },
 {
-        "id": "1731432547801x801585777345462000",
+"id":"1731432547801x801585777345462000",
 "url":"https://www.catalist.network",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731432547801x801585777345462000&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
@@ -163,10 +163,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Catalist"
-    },{
-        "id": "1731433754858x143593465114587150",
+},
+{
+"id":"1731433754858x143593465114587150",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731433754858x143593465114587150&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
@@ -190,10 +191,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"The Wellspring Commons Stewards Inc."
-    },{
-        "id": "1731433757421x859448969748322300",
+},
+{
+"id":"1731433757421x859448969748322300",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731433757421x859448969748322300&view=Page&tab=Object",
 "image":"https://ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1733774793969x137165114626037310/Bill%20Hat%20Tree%20.jpg",
@@ -216,14 +218,15 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Met before",
+"related objects":[],"What is your current relationship with this person?":"Known a while",
 "What do you appreciate most about this person/organization?":"From my short time knowing Bill, I can tell that he's supportive of new ideas and exploring possibilities",
 "What is your current relationship with this person?":"Currently collaborating",
 "If you know them, how did you meet this person?":"At my first meeting with the Connecticut River Valley Bioregional Collaborative",
-
+"abbreviation":"",
 "label":"Bill Baue (Sage)"
-    },{
-        "id": "1731433988489x852874880692081400",
+},
+{
+"id":"1731433988489x852874880692081400",
 "url":"https://www.alliancemrw.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731433988489x852874880692081400&view=Page&tab=Object",
 "image":"https://static.wixstatic.com/media/5b2783_5f5b0d45eaa54e9a82936d73fd86abce~mv2.png/v1/fit/w_2500,h_1330,al_c/5b2783_5f5b0d45eaa54e9a82936d73fd86abce~mv2.png",
@@ -247,10 +250,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Alliance for the Mystic River Watershed"
-    },{
-        "id": "1731433995350x755408411960438900",
+},
+{
+"id":"1731433995350x755408411960438900",
 "url":"https://www.wellspringcommons.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731433995350x755408411960438900&view=Page&tab=Object",
 "image":"https://static.wixstatic.com/media/985490_1a7b509bf9394ca6811e89c271678cd0~mv2.jpg/v1/fill/w_143,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/985490_1a7b509bf9394ca6811e89c271678cd0~mv2.jpg",
@@ -274,10 +278,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"The Wellspring Commons Stewards, Inc."
-    },{
-        "id": "1731433999909x146776346332150530",
+},
+{
+"id":"1731433999909x146776346332150530",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731433999909x146776346332150530&view=Page&tab=Object",
 "image":"https://capitalinstitute.org/wp-content/uploads/2024/03/8-Principles_no-icons_v2-1024x1024.webp",
@@ -301,10 +306,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Capital Institute"
-    },{
-        "id": "1731434002452x202392993158281540",
+},
+{
+"id":"1731434002452x202392993158281540",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434002452x202392993158281540&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
@@ -328,10 +334,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Regenesis"
-    },{
-        "id": "1731434015883x489107980110209860",
+},
+{
+"id":"1731434015883x489107980110209860",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434015883x489107980110209860&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
@@ -355,10 +362,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Bloom Network"
-    },{
-        "id": "1731434020767x786279439225983100",
+},
+{
+"id":"1731434020767x786279439225983100",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434020767x786279439225983100&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
@@ -382,10 +390,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"AT Global"
-    },{
-        "id": "1731434028967x607781185991933300",
+},
+{
+"id":"1731434028967x607781185991933300",
 "url":"https://atonforesthome.blogspot.com",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434028967x607781185991933300&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
@@ -409,10 +418,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Aton Forest"
-    },{
-        "id": "1731434036168x248643973446133220",
+},
+{
+"id":"1731434036168x248643973446133220",
 "url":"https://siriuscommunity.org/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434036168x248643973446133220&view=Page&tab=Object",
 "image":"https://siriuscommunity.org/wp-content/uploads/2023/11/IMG_0604-e1701086973949-360x240.png",
@@ -436,10 +446,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Sirius Ecovillage and Education Center"
-    },{
-        "id": "1731434049205x843686499991707800",
+},
+{
+"id":"1731434049205x843686499991707800",
 "url":"https://design-school-for-regenerating-earth.mn.co/collections/44594",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434049205x843686499991707800&view=Page&tab=Object",
 "image":"https://media1-production-mightynetworks.imgix.net/asset/0b64e00f-40bd-4a78-8d75-4e93d5a816f1/Logo-Symbol-Only-Cropped.jpg?ixlib=rails-4.2.0&fm=jpg&q=100&auto=format&w=130&h=130&fit=crop&crop=faces&impolicy=Avatar",
@@ -463,10 +474,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Design School for Regenerating Earth"
-    },{
-        "id": "1731434053290x410727573721668900",
+},
+{
+"id":"1731434053290x410727573721668900",
 "url":"https://en.wikipedia.org/wiki/Connecticut_River",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434053290x410727573721668900&view=Page&tab=Object",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Connecticut_River_From_Gillette_Castle.jpg/1200px-Connecticut_River_From_Gillette_Castle.jpg",
@@ -490,10 +502,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Connecticut River Watershed"
-    },{
-        "id": "1731434255833x898479935151011100",
+},
+{
+"id":"1731434255833x898479935151011100",
 "url":"https://www.mptn-nsn.gov",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434255833x898479935151011100&view=Page&tab=Object",
 "image":"https://www.mptn-nsn.gov/wp-content/uploads/MPCD_wht_text-Modified-01.svg",
@@ -517,10 +530,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Mashantucket Pequot Tribal Nation"
-    },{
-        "id": "1731434258495x874254188075188900",
+},
+{
+"id":"1731434258495x874254188075188900",
 "url":"https://www.easternpequottribalnation.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434258495x874254188075188900&view=Page&tab=Object",
 "image":"https://static.wixstatic.com/media/1791aa_28a2a96e898742129618ea57841df84d~mv2.png/v1/fill/w_73,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png",
@@ -544,10 +558,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Eastern Pequot Tribal Nation"
-    },{
-        "id": "1731434261235x978474963596423400",
+},
+{
+"id":"1731434261235x978474963596423400",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434261235x978474963596423400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735223149843x412128986383735400/240219%20-%20No%204%20w%20upscale%20creative.jpeg",
@@ -571,10 +586,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Connecticut River Valley Bioregioning Collaborative"
-    },{
-        "id": "1731434263375x583455335612845200",
+},
+{
+"id":"1731434263375x583455335612845200",
 "url":"https://www.biofi.earth",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434263375x583455335612845200&view=Page&tab=Object",
 "image":"https://cdn.prod.website-files.com/665d27ae0ecf7d66a9fbca46/66747346bd8f1e2da72bb2fe_Open%20graph%20BioFi.jpg",
@@ -598,10 +614,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"BioFi"
-    },{
-        "id": "1731434265144x377190879893166000",
+},
+{
+"id":"1731434265144x377190879893166000",
 "url":"https://regen.foundation",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434265144x377190879893166000&view=Page&tab=Object",
 "image":"https://regen.foundation/wp-content/uploads/2018/12/chris-de-wit-42927-unsplash.jpg",
@@ -625,10 +642,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Regen Foundation"
-    },{
-        "id": "1731434267576x757044809239404900",
+},
+{
+"id":"1731434267576x757044809239404900",
 "url":"https://www.pequotmuseum.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434267576x757044809239404900&view=Page&tab=Object",
 "image":"https://i0.wp.com/www.pequotmuseum.org/wp-content/uploads/Mission-_home-800x600-1.jpg?fit=800%2C600&quality=89&ssl=1",
@@ -648,14 +666,15 @@
 "draft":"no",
 "page_text":"",
 "summary":"",
-"description":"",
+"description":"[[youtube/sRyUmvaDsL0]]",
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Mashantucket Pequot Museum"
-    },{
-        "id": "1731434269237x933921508147028600",
+},
+{
+"id":"1731434269237x933921508147028600",
 "url":"https://www.foundationhousect.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434269237x933921508147028600&view=Page&tab=Object",
 "image":"https://static.wixstatic.com/media/341cd7_d9227fc3fb4f407b8f72d8532d8d2846~mv2.jpg",
@@ -679,10 +698,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Foundation House"
-    },{
-        "id": "1731434273307x725479302977178200",
+},
+{
+"id":"1731434273307x725479302977178200",
 "url":"https://www.r3-0.org/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434273307x725479302977178200&view=Page&tab=Object",
 "image":"https://www.r3-0.org/wp-content/uploads/2021/06/R3-0_Logo-e1623920098764.png",
@@ -706,10 +726,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"r3.0"
-    },{
-        "id": "1731434275727x665424005851397400",
+},
+{
+"id":"1731434275727x665424005851397400",
 "url":"https://www.soilclimateinitiative.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434275727x665424005851397400&view=Page&tab=Object",
 "image":"http://static1.squarespace.com/static/65aecab2fe409d1346eca1bc/t/65e675d516d86211d9270d7d/1709602261082/NEW-SCI_Logo_Black-RGB-Long-01.png?format=1500w",
@@ -733,10 +754,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Soil & Climate Initiative"
-    },{
-        "id": "1731434279106x989066138112638200",
+},
+{
+"id":"1731434279106x989066138112638200",
 "url":"https://kumu.io/bp8/cofundeco#co-creating-funding-ecosystems-for-regeneration/nodes-domains-and-conversations",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434279106x989066138112638200&view=Page&tab=Object",
 "image":"https://res.cloudinary.com/nowwhat/image/upload/v1684417600/Co-creating%20Funding%20Ecosystems/Fig_6_H3_vision_final_ztfsey.jpg",
@@ -760,10 +782,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],"OrgSubType":["Community of Practice"],
-
+"abbreviation":"",
 "label":"CoFundEco"
-    },{
-        "id": "1731434283579x871257528139148800",
+},
+{
+"id":"1731434283579x871257528139148800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434283579x871257528139148800&view=Page&tab=Object",
 "image":"https://s3.amazonaws.com/cloud.kumu.io/accounts/231735/979468/337f3a39-ced0-44db-9874-30cd3853908f.jpeg",
@@ -787,10 +810,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"NE Bioregional Knowledge Commons"
-    },{
-        "id": "1731434285727x196556229173723940",
+},
+{
+"id":"1731434285727x196556229173723940",
 "url":"https://www.ecologybasedeconomy.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434285727x196556229173723940&view=Page&tab=Object",
 "image":"https://static.wixstatic.com/media/54f141_ac0291267e3d41a2a3d7837d8f323cfa~mv2.png/v1/fill/w_151,h_150,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CEBE_Logo_Web.png",
@@ -814,10 +838,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Center for an Ecology-Based Economy"
-    },{
-        "id": "1731434288696x663061970578022000",
+},
+{
+"id":"1731434288696x663061970578022000",
 "url":"https://rkc.communitiesforfuture.org/index.php/Main_Page#tab=RKC_Subsystems",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434288696x663061970578022000&view=Page&tab=Object",
 "image":"https://rkc.communitiesforfuture.org/images/2/26/RKC_Logo_medium.png",
@@ -841,10 +866,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Regenerative Knowledge Commons"
-    },{
-        "id": "1731434290927x646017881401121900",
+},
+{
+"id":"1731434290927x646017881401121900",
 "url":"https://docs.google.com/spreadsheets/d/1k_sECwW4fge6kf00DhK34Vur5RWeZjT32ocm1k57UDI/edit?gid=1968125984#gid=1968125984",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434290927x646017881401121900&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735514974678x189787706804905000/BieEconomy.jpeg",
@@ -868,10 +894,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Northeast BioEconomy Initiative"
-    },{
-        "id": "1731434293630x720339670149092700",
+},
+{
+"id":"1731434293630x720339670149092700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434293630x720339670149092700&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735511952509x657004275287925800/Sirius-BLC%20Image.jpg",
@@ -895,10 +922,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Sirius BLC"
-    },{
-        "id": "1731434295865x727712036779655200",
+},
+{
+"id":"1731434295865x727712036779655200",
 "url":"https://kumu.io/bp8/cofundeco#co-creating-funding-ecosystems-for-regeneration/all-data/95017?focus=1",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434295865x727712036779655200&view=Page&tab=Object",
 "image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
@@ -922,10 +950,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Forests of the Northeast"
-    },{
-        "id": "1731434298325x504726574349312300",
+},
+{
+"id":"1731434298325x504726574349312300",
 "url":"https://explorer.gitcoin.co/#/round/42220/18/13",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434298325x504726574349312300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735514584565x152573858866566140/NeBioFi%20Group%20pic.jpeg",
@@ -949,10 +978,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Northeast Bioregional Finance (Ne BioFi)"
-    },{
-        "id": "1731434303400x678174351901437100",
+},
+{
+"id":"1731434303400x678174351901437100",
 "url":"https://www.linkedin.com/posts/billbaue_its-a-pleasure-honor-to-help-energize-activity-7249133825933422592-4Ff2?utm_source=share&utm_medium=member_desktop",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434303400x678174351901437100&view=Page&tab=Object",
 "image":"https://media.licdn.com/dms/image/v2/D4E22AQGyIj8nhVrSnQ/feedshare-shrink_800/feedshare-shrink_800/0/1728328184660?e=2147483647&v=beta&t=mIlsw_srNDbGY9h2hUarfarcUNPBhzjgEvemHW2AxwI",
@@ -976,10 +1006,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Forests of the Northeast Bioregional Regeneration Forum"
-    },{
-        "id": "1731435846907x185835498663313400",
+},
+{
+"id":"1731435846907x185835498663313400",
 "url":"https://kumu.io/vincentarena/fone-catalist",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731435846907x185835498663313400&view=Page&tab=Object",
 "image":"https://assets.kumu.io/production/public/assets/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png",
@@ -1003,10 +1034,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Fone Test Kumu"
-    },{
-        "id": "1731441403820x321943102305861600",
+},
+{
+"id":"1731441403820x321943102305861600",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731441403820x321943102305861600&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -1030,10 +1062,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Organizations Groups & Initiatives"
-    },{
-        "id": "1731449855723x277837145940372800",
+},
+{
+"id":"1731449855723x277837145940372800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449855723x277837145940372800&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1057,10 +1090,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],"What is your current relationship with this person?":"Never met",
-
+"abbreviation":"",
 "label":"Amelia Tracy"
-    },{
-        "id": "1731449857015x891750579719825600",
+},
+{
+"id":"1731449857015x891750579719825600",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449857015x891750579719825600&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1084,10 +1118,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Tom Murtha"
-    },{
-        "id": "1731449858821x222577321886531900",
+},
+{
+"id":"1731449858821x222577321886531900",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449858821x222577321886531900&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1111,10 +1146,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Billy Gridley"
-    },{
-        "id": "1731449860142x447400086752512300",
+},
+{
+"id":"1731449860142x447400086752512300",
 "url":"https://bit.ly/aboutbenr",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449860142x447400086752512300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735403363780x398961955098846800/Ben%20Roberts%20~%20LinkedIn.jpeg",
@@ -1139,10 +1175,11 @@
 "objects above":[],
 "related objects":[],"What is your current relationship with this person?":"Met before",
 "What do you appreciate most about this person/organization?":"I appreciate how Ben likes to get his hands dirty in the tools he uses but he's way more focused on connecting with people, building relationships, and making great connections for others!",
-
+"abbreviation":"",
 "label":"Ben Roberts"
-    },{
-        "id": "1731449861515x888421933230017800",
+},
+{
+"id":"1731449861515x888421933230017800",
 "url":"https://www.nicolenegowetti.com",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449861515x888421933230017800&view=Page&tab=Object",
 "image":"https://media.licdn.com/dms/image/v2/C4D03AQE0_YjaOF89vw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1622055266860?e=1740614400&v=beta&t=VMwFWLJzm_59LZfr0VwaGZPXQ_9A5aM5ILWanVEvfHk",
@@ -1168,10 +1205,11 @@
 "related objects":[],"What is your current relationship with this person?":"Currently collaborating",
 "If you know them, how did you meet this person?":"At a bioregioning event at Sirius ",
 "What do you appreciate most about this person/organization?":"Nicoles, knowledge, experience, vision and enthusiasm",
-
+"abbreviation":"",
 "label":"Nicole Negowetti"
-    },{
-        "id": "1731449863036x518371146608178640",
+},
+{
+"id":"1731449863036x518371146608178640",
 "url":"https://www.linkedin.com/in/keetuwinter/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449863036x518371146608178640&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1195,10 +1233,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Keetu Winter"
-    },{
-        "id": "1731449864794x183817951804985400",
+},
+{
+"id":"1731449864794x183817951804985400",
 "url":"https://www.linkedin.com/in/sydneygriffith/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449864794x183817951804985400&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1222,10 +1261,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Syd Harvey Griffith"
-    },{
-        "id": "1731449866391x859508241368550100",
+},
+{
+"id":"1731449866391x859508241368550100",
 "url":"https://www.vincentarena.com",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449866391x859508241368550100&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1662071266921x839042517086788400/IMG_0798.JPG",
@@ -1249,10 +1289,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Vincent Arena"
-    },{
-        "id": "1731449868808x791937728947972400",
+},
+{
+"id":"1731449868808x791937728947972400",
 "url":"https://www.linkedin.com/in/samanthapower/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUAuIlx41Q9yOvLNSpCkWMQ%3D%3D",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449868808x791937728947972400&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1276,10 +1317,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Samantha Power"
-    },{
-        "id": "1731449871164x984165616797473500",
+},
+{
+"id":"1731449871164x984165616797473500",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449871164x984165616797473500&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1303,10 +1345,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Rahiem Eleazer"
-    },{
-        "id": "1731449872926x747891278548702800",
+},
+{
+"id":"1731449872926x747891278548702800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449872926x747891278548702800&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1330,10 +1373,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Penny Heiple"
-    },{
-        "id": "1731449874878x401603146831419400",
+},
+{
+"id":"1731449874878x401603146831419400",
 "url":"https://www.linkedin.com/in/julie-davenson/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449874878x401603146831419400&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1357,10 +1401,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Julie Davenson"
-    },{
-        "id": "1731449876272x760393374329673000",
+},
+{
+"id":"1731449876272x760393374329673000",
 "url":"https://www.linkedin.com/in/magentaceiba/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449876272x760393374329673000&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1384,10 +1429,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Magenta Ceiba"
-    },{
-        "id": "1731449877557x583565993080329500",
+},
+{
+"id":"1731449877557x583565993080329500",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449877557x583565993080329500&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1411,10 +1457,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Michael Thomas"
-    },{
-        "id": "1731449879001x914970673787674000",
+},
+{
+"id":"1731449879001x914970673787674000",
 "url":"https://www.linkedin.com/in/maggie-favretti-16608417b/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449879001x914970673787674000&view=Page&tab=Object",
 "image":"https://media.licdn.com/dms/image/v2/C4E03AQH0P6GxWutFnA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1549197268575?e=1740614400&v=beta&t=K8jjbrFTCRcGre9QwX5gxvwlBMKWOdG7scxB-BkKfHA",
@@ -1438,10 +1485,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Maggie Favretti"
-    },{
-        "id": "1731449882267x782177198018972400",
+},
+{
+"id":"1731449882267x782177198018972400",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449882267x782177198018972400&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1465,10 +1513,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Christina Calfo"
-    },{
-        "id": "1731449883600x176212764280910140",
+},
+{
+"id":"1731449883600x176212764280910140",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449883600x176212764280910140&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1493,10 +1542,11 @@
 "objects above":[],
 "related objects":[],"What is your current relationship with this person?":"Met before",
 "What do you appreciate most about this person/organization?":"John brings an open heart and mind and a learner's mindset even to spaces where he carries deep expertise",
-
+"abbreviation":"",
 "label":"John Fullerton"
-    },{
-        "id": "1731449885626x599647765486038700",
+},
+{
+"id":"1731449885626x599647765486038700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449885626x599647765486038700&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1520,10 +1570,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Bill Reed"
-    },{
-        "id": "1731449887464x137354456103557570",
+},
+{
+"id":"1731449887464x137354456103557570",
 "url":"https://www.linkedin.com/in/zbigniew-grabowski-00062423/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449887464x137354456103557570&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1547,10 +1598,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Zbigniew Grabowski"
-    },{
-        "id": "1731449889066x988753092546927500",
+},
+{
+"id":"1731449889066x988753092546927500",
 "url":"https://whimsical.com/northeast-bioregion-emergent-regenerative-resourcing-food-civics-JKV7pvT4Zxb5dos9pYhaj1",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449889066x988753092546927500&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1574,10 +1626,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Josie Watson"
-    },{
-        "id": "1731449890475x327011662577851650",
+},
+{
+"id":"1731449890475x327011662577851650",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449890475x327011662577851650&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1601,10 +1654,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Jelani Fletcher"
-    },{
-        "id": "1731449891679x303158159319014300",
+},
+{
+"id":"1731449891679x303158159319014300",
 "url":"https://www.linkedin.com/in/marianneconnor/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449891679x303158159319014300&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1628,10 +1682,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Marianne Connor"
-    },{
-        "id": "1731449893011x184160569748561540",
+},
+{
+"id":"1731449893011x184160569748561540",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449893011x184160569748561540&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1656,10 +1711,11 @@
 "objects above":[],
 "related objects":[],"What is your current relationship with this person?":"Met before",
 "What do you appreciate most about this person/organization?":"His article about collaborative technology was a big inspiration for me https://medium.com/enspiral-tales/doing-more-together-together-seeding-a-collaborative-technology-alliance-82243ea30d41",
-
+"abbreviation":"",
 "label":"Edward West"
-    },{
-        "id": "1731449895356x751693196097610500",
+},
+{
+"id":"1731449895356x751693196097610500",
 "url":"https://kumu.io/bp8/cofundeco#co-creating-funding-ecosystems-for-regeneration/all-data?focus=%2395007%20out%201",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449895356x751693196097610500&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1683,10 +1739,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Roberta Hill"
-    },{
-        "id": "1731449898049x967770603526299100",
+},
+{
+"id":"1731449898049x967770603526299100",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449898049x967770603526299100&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1710,10 +1767,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"River Strong"
-    },{
-        "id": "1731449899467x404687569141690700",
+},
+{
+"id":"1731449899467x404687569141690700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449899467x404687569141690700&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1737,10 +1795,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Joe Brewer"
-    },{
-        "id": "1731449901317x676523388219228500",
+},
+{
+"id":"1731449901317x676523388219228500",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449901317x676523388219228500&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1764,10 +1823,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Mixashawn Rozie"
-    },{
-        "id": "1731449903135x378700103994251000",
+},
+{
+"id":"1731449903135x378700103994251000",
 "url":"https://kumu.io/bp8/cofundeco#co-creating-funding-ecosystems-for-regeneration/all-data/81397?focus=1",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449903135x378700103994251000&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1791,10 +1851,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Will Szal"
-    },{
-        "id": "1731449904329x942274135978912900",
+},
+{
+"id":"1731449904329x942274135978912900",
 "url":"https://www.linkedin.com/in/mimi-s-3a784aa6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUAuIlx41Q9yOvLNSpCkWMQ%3D%3D",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449904329x942274135978912900&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1818,10 +1879,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Mimi Sternlicht"
-    },{
-        "id": "1731449906178x710805368724552600",
+},
+{
+"id":"1731449906178x710805368724552600",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449906178x710805368724552600&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1845,10 +1907,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Cherry Liley"
-    },{
-        "id": "1731449908225x696963498974551300",
+},
+{
+"id":"1731449908225x696963498974551300",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449908225x696963498974551300&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1872,10 +1935,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Connor Stedman"
-    },{
-        "id": "1731449909794x248758036123831970",
+},
+{
+"id":"1731449909794x248758036123831970",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449909794x248758036123831970&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1899,10 +1963,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Jose Vibar"
-    },{
-        "id": "1731449911111x232457055439685000",
+},
+{
+"id":"1731449911111x232457055439685000",
 "url":"https://www.linkedin.com/in/richardezimmerman/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BUAuIlx41Q9yOvLNSpCkWMQ%3D%3D",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449911111x232457055439685000&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1926,10 +1991,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Richard Zimmerman"
-    },{
-        "id": "1731449913179x706993905962343300",
+},
+{
+"id":"1731449913179x706993905962343300",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449913179x706993905962343300&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1953,10 +2019,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],"What is your current relationship with this person?":"Never met",
-
+"abbreviation":"",
 "label":"Ben Titcomb"
-    },{
-        "id": "1731449914130x461131949962494660",
+},
+{
+"id":"1731449914130x461131949962494660",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449914130x461131949962494660&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -1980,10 +2047,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Nathan Bixby"
-    },{
-        "id": "1731449916210x636167040466119300",
+},
+{
+"id":"1731449916210x636167040466119300",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449916210x636167040466119300&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -2007,10 +2075,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Pete Jeffs"
-    },{
-        "id": "1731449917519x107892184799092120",
+},
+{
+"id":"1731449917519x107892184799092120",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449917519x107892184799092120&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -2034,10 +2103,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Mike Croweak"
-    },{
-        "id": "1731449920636x364845905765575500",
+},
+{
+"id":"1731449920636x364845905765575500",
 "url":"https://freefairandalive.org/read-it/#part2",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449920636x364845905765575500&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735242267617x441861138603032200/Triad%20wo%20patterns.jpg",
@@ -2061,10 +2131,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Triad of Commoning Patterns"
-    },{
-        "id": "1731449922137x855878709335492200",
+},
+{
+"id":"1731449922137x855878709335492200",
 "url":"https://miro.com/app/board/uXjVOXYa-ao=/?moveToWidget=3458764604758497738&cot=14",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449922137x855878709335492200&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651961862254x222849054047916000/framework.svg",
@@ -2088,10 +2159,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Regenerative Knowledge Commons Information Architecture"
-    },{
-        "id": "1731449923587x252571082801449800",
+},
+{
+"id":"1731449923587x252571082801449800",
 "url":"https://rkc.communitiesforfuture.org/index.php/Main_Page#tab=RKC_Subsystems",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449923587x252571082801449800&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651961862254x222849054047916000/framework.svg",
@@ -2115,10 +2187,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Regenerative Knowledge Commons Wiki"
-    },{
-        "id": "1731449925048x781626254682812800",
+},
+{
+"id":"1731449925048x781626254682812800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449925048x781626254682812800&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -2142,10 +2215,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Sarah Bachinger"
-    },{
-        "id": "1731449926586x263916945748696300",
+},
+{
+"id":"1731449926586x263916945748696300",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449926586x263916945748696300&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
@@ -2169,10 +2243,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],"What is your current relationship with this person?":"Never met",
-
+"abbreviation":"",
 "label":"Bethany Yarrow"
-    },{
-        "id": "1731553093974x533633860788551700",
+},
+{
+"id":"1731553093974x533633860788551700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731553093974x533633860788551700&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -2196,10 +2271,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"People"
-    },{
-        "id": "1731554596714x753911688696430600",
+},
+{
+"id":"1731554596714x753911688696430600",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731554596714x753911688696430600&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -2223,10 +2299,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Network Map"
-    },{
-        "id": "1731607504793x536626014681563140",
+},
+{
+"id":"1731607504793x536626014681563140",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731607504793x536626014681563140&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -2250,10 +2327,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Geographical Map"
-    },{
-        "id": "1731965913445x262776706896232450",
+},
+{
+"id":"1731965913445x262776706896232450",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731965913445x262776706896232450&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -2277,10 +2355,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Express Interest On Connecting"
-    },{
-        "id": "1732208849602x697840444843229200",
+},
+{
+"id":"1732208849602x697840444843229200",
 "url":"https://miro.com/app/board/uXjVLGfslaU=/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1732208849602x697840444843229200&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -2304,10 +2383,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],"What do you want to learn or know about this?":"How can we use this to define the tech stack once this initiative expands?",
-
+"abbreviation":"",
 "label":"Miro Assessment"
-    },{
-        "id": "1732209073184x542909955702259700",
+},
+{
+"id":"1732209073184x542909955702259700",
 "url":"https://www.omnimapping.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1732209073184x542909955702259700&view=Page&tab=Object",
 "image":"https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F82f7699abaf74aa1df285f220fc10c5b.cdn.bubble.io%2Ff1729620913959x956919123036343200%2FOMNI-Logo-Gradient.png?w=32&h=32&auto=compress&dpr=1&_gl=1*ogadbm*_gcl_au*MTk0ODE3MjYwLjE3MzIxMjAzMTM.*_ga*OTUyNzYyMjM4LjE2NzcxMjE3OTA.*_ga_BFPVR2DEE2*MTczNDQ0NTMyOS43NjcuMS4xNzM0NDQ2NDQ1LjU1LjAuMA..&fit=max",
@@ -2331,10 +2411,11 @@
 "size":"",
 "objects above":[],
 "related objects":["1731432547801x801585777345462000"],
-
+"abbreviation":"",
 "label":"OMNI Mapping"
-    },{
-        "id": "1732302497799x813070165997621400",
+},
+{
+"id":"1732302497799x813070165997621400",
 "url":"https://www.linkedin.com/posts/billbaue_its-a-pleasure-honor-to-help-energize-activity-7249133825933422592-4Ff2?utm_source=share&utm_medium=member_desktop",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1732302497799x813070165997621400&view=Page&tab=Object",
 "image":"https://media.licdn.com/dms/image/v2/D4E22AQGyIj8nhVrSnQ/feedshare-shrink_800/feedshare-shrink_800/0/1728328184660?e=2147483647&v=beta&t=mIlsw_srNDbGY9h2hUarfarcUNPBhzjgEvemHW2AxwI",
@@ -2358,10 +2439,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Forests of the Northeast Bioregional Regeneration Forum"
-    },{
-        "id": "1733410133758x702200130695331800",
+},
+{
+"id":"1733410133758x702200130695331800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1733410133758x702200130695331800&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -2385,10 +2467,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Domains and Content"
-    },{
-        "id": "1733410704253x450297334604759040",
+},
+{
+"id":"1733410704253x450297334604759040",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1733410704253x450297334604759040&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -2412,10 +2495,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Posts and Questions"
-    },{
-        "id": "1734455371830x976113790682136600",
+},
+{
+"id":"1734455371830x976113790682136600",
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/sl?focus=1",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1734455371830x976113790682136600&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735251009405x937141679388972800/Triad%20-%20Social%20Life.jpg",
@@ -2439,10 +2523,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Social Life"
-    },{
-        "id": "1734455484007x976325288942633000",
+},
+{
+"id":"1734455484007x976325288942633000",
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/sl07?focus=%23peer-governance%20out%201",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1734455484007x976325288942633000&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735251367696x684184848857393700/Triad%20-%20Peer%20Governance.jpg",
@@ -2466,10 +2551,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Peer Governance"
-    },{
-        "id": "1734455657801x242238054687571970",
+},
+{
+"id":"1734455657801x242238054687571970",
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/pr?focus=%23Provisioning%20out%201",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1734455657801x242238054687571970&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735251348361x782632004954279700/Triad%20-%20Provisioning.jpg",
@@ -2493,10 +2579,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Provisioning"
-    },{
-        "id": "1734521594171x975010594197602300",
+},
+{
+"id":"1734521594171x975010594197602300",
 "url":"https://www.bollier.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1734521594171x975010594197602300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1734521583643x628758325847091800/Screen_Shot_2021-08-06_at_11.18.39_AM.png",
@@ -2520,10 +2607,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"David Bollier"
-    },{
-        "id": "1734538366163x236520899709501440",
+},
+{
+"id":"1734538366163x236520899709501440",
 "url":"#commoning-exploration-map/the-visual-triad-of-commoning-patterns-catalist",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1734538366163x236520899709501440&view=Page&tab=Object",
 "image":"https://s3.amazonaws.com/cloud.kumu.io/accounts/231735/926062/3cfcba73-84a6-4fe0-903c-9bca459150f5.jpg",
@@ -2547,10 +2635,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":["1733410133758x702200130695331800"],
-
+"abbreviation":"",
 "label":"The Visual Triad of Commoning Patterns"
-    },{
-        "id": "1735058198827x744357507400728600",
+},
+{
+"id":"1735058198827x744357507400728600",
 "url":"https://www.ctriver.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1735058198827x744357507400728600&view=Page&tab=Object",
 "image":"https://static.wixstatic.com/media/dee7f4_b66d7b429a7a45899dc02d4c7e34fa9d~mv2.jpg/v1/fit/w_2500,h_1330,al_c/dee7f4_b66d7b429a7a45899dc02d4c7e34fa9d~mv2.jpg",
@@ -2574,10 +2663,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Connecticut River Conservancy"
-    },{
-        "id": "1735072169858x674192635385610200",
+},
+{
+"id":"1735072169858x674192635385610200",
 "url":"https://deerfieldriver.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1735072169858x674192635385610200&view=Page&tab=Object",
 "image":"https://images.squarespace-cdn.com/content/v1/5f73e4a86e2d0366f17fb5cf/1612885757016-ETORYS6JBSGR9XCD9FPR/DRWA-CRC+logo-2-color.2-8-21.jpg?format=1500w",
@@ -2601,10 +2691,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Deerfield River Watershed Association (DRWA)"
-    },{
-        "id": "1735077494169x449899490932424700",
+},
+{
+"id":"1735077494169x449899490932424700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1735077494169x449899490932424700&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -2628,10 +2719,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Memes"
-    },{
-        "id": "1735080051504x982726271798345700",
+},
+{
+"id":"1735080051504x982726271798345700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1735080051504x982726271798345700&view=Page&tab=Object",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
@@ -2655,10 +2747,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Solutions, Interventions"
-    },{
-        "id": "1735254065620x184822691486498800",
+},
+{
+"id":"1735254065620x184822691486498800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1735254065620x184822691486498800&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735254104937x721220206611199200/Rodger%20portrait%20Keresztu%CC%81r%20v2.jpeg",
@@ -2682,10 +2775,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Rodger Mattlage"
-    },{
-        "id": "1737153744733x242772308190560260",
+},
+{
+"id":"1737153744733x242772308190560260",
 "url":"https://kumu.io/rmattlage/the-triad-of-commoning#triad-of-commoning/sl01?focus=%23social-life%20out%201",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737153744733x242772308190560260&view=Page&tab=Object",
 "image":"https://www.freefairandalive.org/wp-content/uploads/2019/05/PI_4.1_C-e1576499656980.jpg",
@@ -2709,10 +2803,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Cultivate Shared Purpose and Values"
-    },{
-        "id": "1737190636045x482867831083106300",
+},
+{
+"id":"1737190636045x482867831083106300",
 "url":"https://evomimic.gitbook.io/map-book",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737190636045x482867831083106300&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737190933735x508867037888247600/MAP%20Layer%201.png",
@@ -2736,10 +2831,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Memetic Activation Platform"
-    },{
-        "id": "1737191243194x154713621367619600",
+},
+{
+"id":"1737191243194x154713621367619600",
 "url":"https://planetcommunity.mn.co/members/10969192",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737191243194x154713621367619600&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737191607488x346871733285711400/Steve%20Melville.png",
@@ -2759,14 +2855,15 @@
 "draft":"no",
 "page_text":"",
 "summary":"",
-"description":"",
+"description":"![Steve Melville.png](//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737191550987x767853398030425000/Steve%20Melville.png)\n![MAP Holon Type - w:o name.png](//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737392604564x360583627624936770/MAP%20Holon%20Type%20-%20w%3Ao%20name.png)",
 "size":"",
 "objects above":[],
 "related objects":["1737190636045x482867831083106300"],"One Page Bio":"Committed to leveraging my 30+ year tech career to support those on the forefront of the evolutionary shift towards a world that works for all life.",
-
+"abbreviation":"",
 "label":"Steve Melville"
-    },{
-        "id": "1737293513974x129057011012206600",
+},
+{
+"id":"1737293513974x129057011012206600",
 "url":"https://evomimic.gitbook.io/map-book/map-foundations/layer-1-memes-resources-agents-and-services#memes",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737293513974x129057011012206600&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737300172047x857580602143729200/MAP%20Holon%20Type%20-%20w%3Ao%20name.png",
@@ -2790,10 +2887,11 @@
 "size":"",
 "objects above":["1735077494169x449899490932424700"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Meme"
-    },{
-        "id": "1737295621590x688695054493548500",
+},
+{
+"id":"1737295621590x688695054493548500",
 "url":"https://evomimic.gitbook.io/map-book/map-foundations/layer-1-memes-resources-agents-and-services#agents",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737295621590x688695054493548500&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737300158934x542940704851423700/MAP%20Holon%20Type%20-%20w%3Ao%20name.png",
@@ -2817,10 +2915,11 @@
 "size":"",
 "objects above":["1735077494169x449899490932424700"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Agent"
-    },{
-        "id": "1737296949727x880008898978775000",
+},
+{
+"id":"1737296949727x880008898978775000",
 "url":"https://evomimic.gitbook.io/map-book/map-foundations/layer-1-memes-resources-agents-and-services#resources",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737296949727x880008898978775000&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737300131423x915146208739417600/MAP%20Holon%20Type%20-%20w%3Ao%20name.png",
@@ -2844,10 +2943,11 @@
 "size":"",
 "objects above":["1735077494169x449899490932424700"],
 "related objects":["1737295621590x688695054493548500"],
-
+"abbreviation":"",
 "label":"Resource"
-    },{
-        "id": "1737297019293x876716717365788700",
+},
+{
+"id":"1737297019293x876716717365788700",
 "url":"https://evomimic.gitbook.io/map-book/map-foundations/layer-1-memes-resources-agents-and-services#services",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737297019293x876716717365788700&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737300101809x843820011143172600/MAP%20Holon%20Type%20-%20w%3Ao%20name.png",
@@ -2871,10 +2971,11 @@
 "size":"",
 "objects above":["1735077494169x449899490932424700"],
 "related objects":["1737295621590x688695054493548500","1737296949727x880008898978775000"],
-
+"abbreviation":"",
 "label":"Service"
-    },{
-        "id": "1737298188921x378098954643701760",
+},
+{
+"id":"1737298188921x378098954643701760",
 "url":"https://evomimic.gitbook.io/map-book/map-foundations/layer-0-holons",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737298188921x378098954643701760&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737300056985x596597791154878100/MAP%20Holon%20Type%20-%20w%3Ao%20name%2050%20pct.png",
@@ -2894,14 +2995,15 @@
 "draft":"no",
 "page_text":"",
 "summary":"From the MAP ~ Memetic Activation Platform",
-"description":"",
+"description":"![MAP Holon Type - w:o name.png](//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1737299864098x601889687142315600/MAP%20Holon%20Type%20-%20w%3Ao%20name.png)",
 "size":"",
 "objects above":["1735077494169x449899490932424700"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Holon Type"
-    },{
-        "id": "1737407404129x755759732102266900",
+},
+{
+"id":"1737407404129x755759732102266900",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737407404129x755759732102266900&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1738446541581x483206891281924740/Pattern%20-%20Social%20Life%20.png",
@@ -2925,10 +3027,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Show empathy & self-responsibility in communication"
-    },{
-        "id": "1737407687932x332622024759836700",
+},
+{
+"id":"1737407687932x332622024759836700",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737407687932x332622024759836700&view=Page&tab=Object",
 "image":"https://www.freefairandalive.org/wp-content/uploads/2019/05/PI_4.7_C-e1576500598979.jpg",
@@ -2952,10 +3055,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Preserve Relationships in Addressing Conflicts"
-    },{
-        "id": "1737408028261x956343403365793800",
+},
+{
+"id":"1737408028261x956343403365793800",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737408028261x956343403365793800&view=Page&tab=Object",
 "image":"https://freefairandalive.org/wp-content/uploads/2019/05/PI_5.9_C-e1577646417872-806x403.jpg",
@@ -2979,10 +3083,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Apply Graduated & Context-sensitive Sanctions"
-    },{
-        "id": "1737409166965x843248755172966400",
+},
+{
+"id":"1737409166965x843248755172966400",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1737409166965x843248755172966400&view=Page&tab=Object",
 "image":"https://www.freefairandalive.org/wp-content/uploads/2019/04/I_Part-II.1_c.jpg",
@@ -3006,10 +3111,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"The Triad of Commoning"
-    },{
-        "id": "1738169295304x101158222616592380",
+},
+{
+"id":"1738169295304x101158222616592380",
 "url":"https://www.commonerscatalog.org",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738169295304x101158222616592380&view=Page&tab=Object",
 "image":"https://www.commonerscatalog.org/modules/custom/commoners_block/images/cover.png",
@@ -3029,14 +3135,15 @@
 "draft":"no",
 "page_text":"",
 "summary":"The catalog showcases the art, culture, and politics of commoning— the practices of talking with each other, coordinating work, experimenting, and figuring out solutions to shared challenges and how to make them local, distributed, and fair. It turns out that building a better future does not necessarily require that we go through the narrow channel of conventional politics and policy, though both surely have important roles to play. Commons-based solutions can originate right now, with us, where we live. They can even emerge, sometimes, in partnership with state authorities who understand the logic and ethos of commoning.",
-"description":"",
+"description":"[[youtube/3HvucY2UymM]]",
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"The Commoner\"s Catalog for Changemaking"
-    },{
-        "id": "1738170138536x592869585929633800",
+},
+{
+"id":"1738170138536x592869585929633800",
 "url":"https://www.commonerscatalog.org/books/the-commoners-catalog-for-changemaking?page=46",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738170138536x592869585929633800&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1738176057571x335401343840689340/%20Relocalized%20Food.png",
@@ -3056,14 +3163,15 @@
 "draft":"no",
 "page_text":"",
 "summary":"To reduce their dependence on Big Agriculture and enhance their resilience, many local communities are embracing community supported agriculture, community land trusts, agroecology, the principles of Slow Food, urban farming, and other types of relocalized food.  ",
-"description":"",
+"description":"![ Relocalized Food.png](//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1738176045063x160637034504915070/%20Relocalized%20Food.png)",
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Relocalized Food"
-    },{
-        "id": "1738186837782x178201039089958900",
+},
+{
+"id":"1738186837782x178201039089958900",
 "url":"https://www.commonerscatalog.org/books/the-commoners-catalog-for-changemaking?page=47",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738186837782x178201039089958900&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1738187031278x319045927245524400/Subsistence%20Commons.png",
@@ -3087,10 +3195,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Subsistence Commons"
-    },{
-        "id": "1738187537462x772707755675877400",
+},
+{
+"id":"1738187537462x772707755675877400",
 "url":"https://www.commonerscatalog.org/books/the-commoners-catalog-for-changemaking?page=22",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738187537462x772707755675877400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1738187569496x802090991984620400/Gift%20Economies.png",
@@ -3114,10 +3223,11 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Gift Economies"
-    },{
-        "id": "1738607845387x515203724734103550",
+},
+{
+"id":"1738607845387x515203724734103550",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738607845387x515203724734103550&view=Page&tab=Object",
 "image":"https://freefairandalive.org/wp-content/uploads/2019/05/PI_5.5_C-e1577645784861-806x409.jpg",
@@ -3141,10 +3251,11 @@
 "size":"",
 "objects above":["1733410133758x702200130695331800"],
 "related objects":[],
-
+"abbreviation":"",
 "label":"Assure Consent in Decision Making"
-    },{
-        "id": "1738952546830x780684419287482400",
+},
+{
+"id":"1738952546830x780684419287482400",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1738952546830x780684419287482400&view=Page&tab=Object",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
@@ -3168,9 +3279,9 @@
 "size":"",
 "objects above":[],
 "related objects":[],
-
+"abbreviation":"",
 "label":"New Section"
-    }
+}
 ],
 
   "connections": [
