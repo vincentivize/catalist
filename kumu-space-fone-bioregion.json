@@ -5505,6 +5505,36 @@
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1745265068157x533605467391262700",
 "title":"Michael Thomas is related to Mashantucket Pequot Tribal Nation"
     }
+,{
+        "label": "partner",
+        "from": "1731433988489x852874880692081400",
+        "to": "1731434255833x898479935151011100",
+"strength":1,
+"connection subtype":"partner",
+"description":"",
+"connection type":"partner",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1762350590190x641977293408567300",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1762350590190x641977293408567300",
+"title":"Alliance for the Mystic River Watershed partner Mashantucket Pequot Tribal Nation"
+    }
+,{
+        "label": "partner",
+        "from": "1731433988489x852874880692081400",
+        "to": "1731434258495x874254188075188900",
+"strength":1,
+"connection subtype":"partner",
+"description":"",
+"connection type":"partner",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1762350636050x155622875747844100",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1762350636050x155622875747844100",
+"title":"Alliance for the Mystic River Watershed partner Eastern Pequot Tribal Nation"
+    }
 
  ]
 }
