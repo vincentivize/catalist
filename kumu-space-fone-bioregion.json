@@ -4841,6 +4841,36 @@
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763595307066x229749585920917500",
 "title":"Alliance for the Mystic River Watershed partner North Stonington, CT"
     }
+,{
+        "label": "Is represented in",
+        "from": "1731434258495x874254188075188900",
+        "to": "1763583423920x304805067811717100",
+"strength":1,
+"connection subtype":"Is represented in",
+"description":"",
+"connection type":"Is represented in",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1763595942422x891725189613092900",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763595942422x891725189613092900",
+"title":"Eastern Pequot Tribal Nation Is represented in Intertribal Alliance"
+    }
+,{
+        "label": "is represented in",
+        "from": "1731434255833x898479935151011100",
+        "to": "1763583423920x304805067811717100",
+"strength":1,
+"connection subtype":"is represented in",
+"description":"",
+"connection type":"is represented in",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1763595988705x917356624838131700",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763595988705x917356624838131700",
+"title":"Mashantucket Pequot Tribal Nation is represented in Intertribal Alliance"
+    }
 
  ]
 }
