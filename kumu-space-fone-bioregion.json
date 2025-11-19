@@ -3281,6 +3281,34 @@
 "related objects":[],
 "abbreviation":"",
 "label":"New Section"
+},
+{
+"id":"1763583423920x304805067811717100",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1763583423920x304805067811717100&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"space-tags":[],
+"attribute-ids":["1689950587072x126998406590484340"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+"abbreviation":"",
+"label":"Intertribal Alliance"
 }
 ],
 
@@ -5534,6 +5562,21 @@
 "id":"1762350636050x155622875747844100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1762350636050x155622875747844100",
 "title":"Alliance for the Mystic River Watershed partner Eastern Pequot Tribal Nation"
+    }
+,{
+        "label": "is a project of",
+        "from": "1763583423920x304805067811717100",
+        "to": "1731433988489x852874880692081400",
+"strength":1,
+"connection subtype":"is a project of",
+"description":"",
+"connection type":"is a project of",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1763583484020x170708171378917380",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763583484020x170708171378917380",
+"title":"Intertribal Alliance is a project of Alliance for the Mystic River Watershed"
     }
 
  ]
