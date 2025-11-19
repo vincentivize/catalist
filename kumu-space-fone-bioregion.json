@@ -202,7 +202,7 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"space-tags":[],
+"space-tags":["KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -233,7 +233,7 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"space-tags":["Key Stakeholder"],
+"space-tags":["Key Stakeholder","KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -513,7 +513,7 @@
 "type":"Group",
 "topics":[],
 "tags":[],
-"space-tags":["Community of Place","Key Stakeholder"],
+"space-tags":["Community of Place","Key Stakeholder","KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -541,7 +541,7 @@
 "type":"Group",
 "topics":[],
 "tags":[],
-"space-tags":["Community of Place","Key Stakeholder"],
+"space-tags":["Community of Place","Key Stakeholder","KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -560,34 +560,6 @@
 "related objects":[],
 "abbreviation":"",
 "label":"Eastern Pequot Tribal Nation"
-},
-{
-"id":"1731434261235x978474963596423400",
-"url":"",
-"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434261235x978474963596423400&view=Page&tab=Object",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1735223149843x412128986383735400/240219%20-%20No%204%20w%20upscale%20creative.jpeg",
-"type":"Organization",
-"topics":[],
-"tags":[],
-"space-tags":["Community of Place"],
-"attribute-ids":[],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"An initiative fostering collaboration among the middle and lower Connecticut River watershed communities.",
-"description":"",
-"size":"",
-"objects above":[],
-"related objects":[],
-"abbreviation":"",
-"label":"Connecticut River Valley Bioregioning Collaborative"
 },
 {
 "id":"1731434263375x583455335612845200",
@@ -653,7 +625,7 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"space-tags":["Community of Place","Key Stakeholder"],
+"space-tags":["Community of Place","Key Stakeholder","KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -1328,7 +1300,7 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"space-tags":[],
+"space-tags":["KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -1468,7 +1440,7 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"space-tags":[],
+"space-tags":["KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -1581,7 +1553,7 @@
 "type":"Member",
 "topics":[],
 "tags":[],
-"space-tags":[],
+"space-tags":["KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -2786,7 +2758,7 @@
 "type":"Organization",
 "topics":[],
 "tags":["Organizations"],
-"space-tags":["Key Stakeholder"],
+"space-tags":["Key Stakeholder","KS"],
 "attribute-ids":["1689950587072x126998406590484340"],
 "sectors":[],
 "locations":[],
@@ -2805,6 +2777,34 @@
 "related objects":[],
 "abbreviation":"",
 "label":"Intertribal Alliance"
+},
+{
+"id":"1763590947094x100595207568359420",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1763590947094x100595207568359420&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962358062x580582747887955700/038-building.svg",
+"type":"Organization",
+"topics":[],
+"tags":["Organizations"],
+"space-tags":["KS"],
+"attribute-ids":["1689950587072x126998406590484340"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+"abbreviation":"",
+"label":"Northeast Woodlands Bioregioning Collective"
 }
 ],
 
@@ -2841,7 +2841,7 @@
     }
 ,{
         "label": "",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1731434053290x410727573721668900",
 "strength":1,
 "connection subtype":"",
@@ -2852,11 +2852,11 @@
 "direction":"directed",
 "id":"1731447976678x562482489803326500",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731447976678x562482489803326500",
-"title":"Connecticut River Valley Bioregioning Collaborative  Connecticut River Watershed"
+"title":"  Connecticut River Watershed"
     }
 ,{
         "label": "",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1731433757421x859448969748322300",
 "strength":1,
 "connection subtype":"",
@@ -2867,11 +2867,11 @@
 "direction":"directed",
 "id":"1731447977260x528772606036991300",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731447977260x528772606036991300",
-"title":"Connecticut River Valley Bioregioning Collaborative  Bill Baue (Sage)"
+"title":"  Bill Baue (Sage)"
     }
 ,{
         "label": "",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1731434279106x989066138112638200",
 "strength":1,
 "connection subtype":"",
@@ -2882,26 +2882,11 @@
 "direction":"directed",
 "id":"1731447977913x847625946347027200",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731447977913x847625946347027200",
-"title":"Connecticut River Valley Bioregioning Collaborative  CoFundEco"
+"title":"  CoFundEco"
     }
 ,{
         "label": "",
-        "from": "1731434261235x978474963596423400",
-        "to": "1731434283579x871257528139148800",
-"strength":1,
-"connection subtype":"",
-"description":"",
-"connection type":"",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731447978485x189993767447360640",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731447978485x189993767447360640",
-"title":"Connecticut River Valley Bioregioning Collaborative  NE Bioregional Knowledge Commons"
-    }
-,{
-        "label": "",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1731434293630x720339670149092700",
 "strength":1,
 "connection subtype":"",
@@ -2912,7 +2897,7 @@
 "direction":"directed",
 "id":"1731447979213x363828287384239360",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731447979213x363828287384239360",
-"title":"Connecticut River Valley Bioregioning Collaborative  Sirius BLC"
+"title":"  Sirius BLC"
     }
 ,{
         "label": "",
@@ -2958,21 +2943,6 @@
 "id":"1731447980849x740212523216783400",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731447980849x740212523216783400",
 "title":"NE Bioregional Knowledge Commons  Bill Baue (Sage)"
-    }
-,{
-        "label": "",
-        "from": "1731434283579x871257528139148800",
-        "to": "1731434279106x989066138112638200",
-"strength":1,
-"connection subtype":"",
-"description":"",
-"connection type":"",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731447981566x285650962692386880",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731447981566x285650962692386880",
-"title":"NE Bioregional Knowledge Commons  CoFundEco"
     }
 ,{
         "label": "",
@@ -3156,7 +3126,7 @@
     }
 ,{
         "label": "",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1731449860142x447400086752512300",
 "strength":1,
 "connection subtype":"",
@@ -3167,11 +3137,11 @@
 "direction":"directed",
 "id":"1731449961004x434772339070502300",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449961004x434772339070502300",
-"title":"Connecticut River Valley Bioregioning Collaborative  Ben Roberts"
+"title":"  Ben Roberts"
     }
 ,{
         "label": "",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1731449891679x303158159319014300",
 "strength":1,
 "connection subtype":"",
@@ -3182,11 +3152,11 @@
 "direction":"directed",
 "id":"1731449961540x195504197238849820",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449961540x195504197238849820",
-"title":"Connecticut River Valley Bioregioning Collaborative  Marianne Connor"
+"title":"  Marianne Connor"
     }
 ,{
         "label": "",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1731449861515x888421933230017800",
 "strength":1,
 "connection subtype":"",
@@ -3197,11 +3167,11 @@
 "direction":"directed",
 "id":"1731449962145x292303728470637560",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449962145x292303728470637560",
-"title":"Connecticut River Valley Bioregioning Collaborative  Nicole Negowetti"
+"title":"  Nicole Negowetti"
     }
 ,{
         "label": "",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1731449898049x967770603526299100",
 "strength":1,
 "connection subtype":"",
@@ -3212,7 +3182,7 @@
 "direction":"directed",
 "id":"1731449962903x517557682482430400",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449962903x517557682482430400",
-"title":"Connecticut River Valley Bioregioning Collaborative  River Strong"
+"title":"  River Strong"
     }
 ,{
         "label": "",
@@ -3543,21 +3513,6 @@
 "id":"1731449980031x687194134513388500",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449980031x687194134513388500",
 "title":"Mimi Sternlicht  Foundation House"
-    }
-,{
-        "label": "",
-        "from": "1731434283579x871257528139148800",
-        "to": "1731449861515x888421933230017800",
-"strength":1,
-"connection subtype":"",
-"description":"",
-"connection type":"",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731449980738x375743680298201300",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449980738x375743680298201300",
-"title":"NE Bioregional Knowledge Commons  Nicole Negowetti"
     }
 ,{
         "label": "",
@@ -4371,7 +4326,7 @@
     }
 ,{
         "label": "is interested in connecting with",
-        "from": "1731434261235x978474963596423400",
+        "from": "",
         "to": "1735254065620x184822691486498800",
 "strength":1,
 "connection subtype":"is interested in connecting with",
@@ -4382,7 +4337,7 @@
 "direction":"directed",
 "id":"1735254445513x335499869608476700",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1735254445513x335499869608476700",
-"title":"Connecticut River Valley Bioregioning Collaborative is interested in connecting with Rodger Mattlage"
+"title":" is interested in connecting with Rodger Mattlage"
     }
 ,{
         "label": "is the same as",
@@ -4617,12 +4572,57 @@
 "connection subtype":"is a project of",
 "description":"",
 "connection type":"is a project of",
-"one-way":"no",
+"one-way":"yes",
 "type":"",
-"direction":"mutual",
+"direction":"directed",
 "id":"1763583484020x170708171378917380",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763583484020x170708171378917380",
 "title":"Intertribal Alliance is a project of Alliance for the Mystic River Watershed"
+    }
+,{
+        "label": "Is member of",
+        "from": "1731433988489x852874880692081400",
+        "to": "1763590947094x100595207568359420",
+"strength":1,
+"connection subtype":"Is member of",
+"description":"",
+"connection type":"Is member of",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1763591201702x915519564228853800",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763591201702x915519564228853800",
+"title":"Alliance for the Mystic River Watershed Is member of Northeast Woodlands Bioregioning Collective"
+    }
+,{
+        "label": "Is member of",
+        "from": "1763583423920x304805067811717100",
+        "to": "1763590947094x100595207568359420",
+"strength":1,
+"connection subtype":"Is member of",
+"description":"",
+"connection type":"Is member of",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1763591573612x293033209259622400",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763591573612x293033209259622400",
+"title":"Intertribal Alliance Is member of Northeast Woodlands Bioregioning Collective"
+    }
+,{
+        "label": "is a project of",
+        "from": "1731434283579x871257528139148800",
+        "to": "1763590947094x100595207568359420",
+"strength":1,
+"connection subtype":"is a project of",
+"description":"",
+"connection type":"is a project of",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1763591825440x993670921690808300",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763591825440x993670921690808300",
+"title":"NE Bioregional Knowledge Commons is a project of Northeast Woodlands Bioregioning Collective"
     }
 
  ]
