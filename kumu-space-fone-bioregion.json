@@ -3001,6 +3001,34 @@
 "related objects":[],
 "abbreviation":"",
 "label":"Aquinnah Wampanoag Tribe"
+},
+{
+"id":"1763651490698x714696747403182100",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1763651490698x714696747403182100&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"type":"Member",
+"topics":[],
+"tags":["Members"],
+"space-tags":["KS","THPO"],
+"attribute-ids":["1695444797436x373186649656771100"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+"abbreviation":"",
+"label":"Michael Johnson"
 }
 ],
 
@@ -4969,6 +4997,21 @@
 "id":"1763639077017x979819239133937700",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763639077017x979819239133937700",
 "title":"Jonathan Perry  Aquinnah Wampanoag Tribe"
+    }
+,{
+        "label": "is THPO for",
+        "from": "1763651490698x714696747403182100",
+        "to": "1731434255833x898479935151011100",
+"strength":1,
+"connection subtype":"is THPO for",
+"description":"",
+"connection type":"is THPO for",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1763651719592x407292037674041340",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763651719592x407292037674041340",
+"title":"Michael Johnson is THPO for Mashantucket Pequot Tribal Nation"
     }
 
  ]
