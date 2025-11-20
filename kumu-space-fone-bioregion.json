@@ -233,7 +233,7 @@
 "type":"Organization",
 "topics":[],
 "tags":[],
-"space-tags":["Key Stakeholder","KS"],
+"space-tags":["Community of Practice","KS"],
 "attribute-ids":[],
 "sectors":[],
 "locations":[],
@@ -2864,13 +2864,13 @@
 },
 {
 "id":"1763594877007x320117387525881860",
-"url":"https://www.groton-ct.gov",
+"url":"https://www.groton-ct.gov/news_detail_T8_R879.php",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1763594877007x320117387525881860&view=Page&tab=Object",
 "image":"https://cms9.revize.com/revize/grotonct/_assets_/images/logo.png",
 "type":"Organization",
 "topics":[],
 "tags":["Organizations"],
-"space-tags":[],
+"space-tags":["Community of Place","KS"],
 "attribute-ids":["1689950587072x126998406590484340"],
 "sectors":[],
 "locations":[],
@@ -4765,21 +4765,6 @@
 "id":"1763592344539x768753304071045100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763592344539x768753304071045100",
 "title":"Eastern Pequot Tribal Nation is member of Northeast Woodlands Bioregioning Collective"
-    }
-,{
-        "label": "partner",
-        "from": "1731433988489x852874880692081400",
-        "to": "1763594397821x940337783233052700",
-"strength":1,
-"connection subtype":"partner",
-"description":"",
-"connection type":"partner",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1763594471072x710288019918684200",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763594471072x710288019918684200",
-"title":"Alliance for the Mystic River Watershed partner Stonington, CT"
     }
 ,{
         "label": "partner",
