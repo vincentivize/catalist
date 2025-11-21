@@ -1,1 +1,79 @@
-žée
+{
+  "elements": [
+{
+  "label": "Object Type",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962115714x252178552468043330/025-inbox.svg",
+"id":"Object Type",
+"url":"https://www.catalist.network/trove-space/gathering?filtered=yes&view=List&data-type=Types",
+"type":"Object Type",
+"description":"Types of information"
+},
+{
+"label":"Person",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"id":"Person",
+"type":"Object Type",
+"description":"Human beings or individuals"
+},
+{
+"id":"1763753174906x626764337580627500",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1763747658117x166175216151035900&current_object=1763753174906x626764337580627500&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"Lower East Side, New York, NY, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Coordinating the Polycrisis/Polyresponse\nCo-Stewarding The Interstitium",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+"abbreviation":"",
+"label":"Christine Lai"
+},
+{
+"id":"1763753400789x688222581653762600",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1763747658117x166175216151035900&current_object=1763753400789x688222581653762600&view=Page&tab=Object",
+"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
+"type":"Person",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"Lower East Side, New York, NY, USA",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"Coordinating the Polycrisis/Polyresponse\nCo-Stewarding The Interstitium",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+"abbreviation":"",
+"label":"Christine Lai"
+}
+],
+
+  "connections": [
+
+ ]
+}
