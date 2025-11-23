@@ -121,7 +121,8 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":["1763753815222x715249765030785000"],
+"related objects":["1763753815222x715249765030785000"],"Offers":"Hhh",
+"Needs":"Hhh",
 "abbreviation":"",
 "label":"Vincent Arena"
 },
@@ -129,8 +130,8 @@
 "id":"1763753815222x715249765030785000",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1763747658117x166175216151035900&current_object=1763753815222x715249765030785000&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1651962197155x390050975571198300/047-superhero-1.svg",
-"type":"Person",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1700667927809x630940780375737500/user%20%281%29.png",
+"type":"Attendee",
 "topics":[],
 "tags":[],
 "space-tags":["System Thinking","Story, Myth & Ritual Creation"],
@@ -149,9 +150,10 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],
+"related objects":[],"Offers":"Community weaving, facilitation, gathering design",
+"Needs":" ",
 "abbreviation":"",
-"label":"Letícia A"
+"label":"Letícia Schuelter"
 },
 {
 "id":"1763753880330x332536487103015400",
@@ -185,7 +187,7 @@
 "id":"1763753988026x430336830234827600",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1763747658117x166175216151035900&current_object=1763753988026x430336830234827600&view=Page&tab=Object",
-"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1700667927809x630940780375737500/user%20%281%29.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1763883329431x691158734856634100/Headshot%20%5BChristine%20Lai%5D.jpg",
 "type":"Attendee",
 "topics":[],
 "tags":[],
@@ -205,7 +207,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":["1763855839569x193949978405458600","1763856008760x956361580274707500","1763856156173x908469700420639200","1763856156997x339112873503896200","1763856178371x228849464517011400","1763856156173x908469700420639200","1763856156997x339112873503896200","1763856178371x228849464517011400"],"Offers":"• Connections across, between, and around\n• Cultivating and nurturing relationships\n• Coordinating and weaving networks",
+"related objects":["1763855839569x193949978405458600","1763856008760x956361580274707500","1763856156173x908469700420639200","1763856156997x339112873503896200","1763856178371x228849464517011400","1763856156173x908469700420639200","1763856156997x339112873503896200","1763856178371x228849464517011400"],"Related Organizations":["1763856156173x908469700420639200","1763856156997x339112873503896200","1763856178371x228849464517011400"],"Offers":"• Connections across, between, and around\n• Cultivating and nurturing relationships\n• Coordinating and weaving networks",
 "Needs":"• Depth of content and context",
 "abbreviation":"",
 "label":"Christine Lai"
@@ -4237,7 +4239,7 @@
 "summary":"Understanding how elements interconnect, influence each other, and produce emergent behavior; seeing patterns, feedback loops, and leverage points rather than isolated events\nUnderstanding how elements interconnect, influence each other, and produce emergent behavior; seeing patterns, feedback loops, and leverage points rather than isolated events\n",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880132607x886073621612515100"],
 "related objects":[],
 "abbreviation":"",
 "label":"Systems Thinking"
@@ -4265,7 +4267,7 @@
 "summary":"Using futures thinking, scenario planning, and early warning systems to act proactively rather than reactively; developing capacity to sense what's emerging",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880132607x886073621612515100"],
 "related objects":[],
 "abbreviation":"",
 "label":"Anticipatory Foresight"
@@ -4293,7 +4295,7 @@
 "summary":"Combining scientific, Indigenous, experiential, and local knowledge through participatory research and organizational learning; honoring diverse epistemologies as assets",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880132607x886073621612515100"],
 "related objects":[],
 "abbreviation":"",
 "label":"Integrative Knowledge Systems"
@@ -4321,7 +4323,7 @@
 "summary":"Recognizing limits of any single way of knowing while still making sound judgments; distinguishing between uncertainty (we don't know yet) and unknowability (we can't know)",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880132607x886073621612515100"],
 "related objects":[],
 "abbreviation":"",
 "label":"Epistemological Humility & Discernment"
@@ -4349,7 +4351,7 @@
 "summary":"Working fluidly across different ontologies and worldviews; building bridges between incompatible-seeming perspectives without forcing false synthesis",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880132607x886073621612515100"],
 "related objects":[],
 "abbreviation":"",
 "label":"Cross-Paradigm Navigation"
@@ -4377,7 +4379,7 @@
 "summary":"Recognizing how historical and ongoing trauma shapes individuals and communities; creating conditions for healing that restore capacity rather than simply managing symptoms; understanding that unprocessed trauma blocks transformation",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880131269x282102924460667200"],
 "related objects":[],
 "abbreviation":"",
 "label":"Trauma-Informed & Healing-Centered Practices"
@@ -4405,7 +4407,7 @@
 "summary":"Developing individual and collective capacity to acknowledge, feel, and move through loss; understanding that transformation requires letting go; creating ritual and space for grief as essential rather than optional work",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880131269x282102924460667200"],
 "related objects":[],
 "abbreviation":"",
 "label":"Grief Literacy & Transition Navigation"
@@ -4433,7 +4435,7 @@
 "summary":"Generating new narratives and cultural forms that make sense of upheaval, provide orientation, and inspire action; reviving or creating rituals that mark transitions and build meaning; understanding culture as active creation, not passive inheritance",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880131269x282102924460667200"],
 "related objects":[],
 "abbreviation":"",
 "label":"Story, Myth & Ritual Creation"
@@ -4461,7 +4463,7 @@
 "summary":"Building capacity to work constructively with conflict; practices of restorative justice, accountability, and reconciliation that repair harm and rebuild relationship; distinguishing between destructive conflict that fragments and constructive conflict that clarifies and strengthens",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880131269x282102924460667200"],
 "related objects":[],
 "abbreviation":"",
 "label":"Conflict Transformation & Relational Repair"
@@ -4489,7 +4491,7 @@
 "summary":"Cultivating inner resources—presence, equanimity, compassion, connection to something larger—that sustain individuals and communities through prolonged uncertainty; drawing on diverse spiritual traditions as sources of resilience",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880131269x282102924460667200"],
 "related objects":[],
 "abbreviation":"",
 "label":"Spiritual & Contemplative Practice"
@@ -4517,7 +4519,7 @@
 "summary":"Designing institutions that can learn, reorganize, and evolve; enabling multiple centers of decision-making to coordinate without centralized control; building flexibility and redundancy rather than optimized rigidity",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880129918x349964930769805630"],
 "related objects":[],
 "abbreviation":"",
 "label":"Adaptive & Polycentric Governance"
@@ -4545,7 +4547,7 @@
 "summary":"Expanding meaningful participation in decisions; creating processes where diverse voices shape outcomes rather than merely providing input; building legitimacy through inclusion and transparency",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880129918x349964930769805630"],
 "related objects":[],
 "abbreviation":"",
 "label":"Participatory & Deliberative Democracy"
@@ -4573,7 +4575,7 @@
 "summary":"Making power visible: who holds it, how it operates, whose interests it serves; designing systems that prevent elite capture, ensure transparency, and enable consequences for abuse of authority; setting boundaries on sociopathic incentives and behaviors",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880129918x349964930769805630"],
 "related objects":[],
 "abbreviation":"",
 "label":"Power Analysis & Accountability Mechanisms"
@@ -4601,7 +4603,7 @@
 "summary":"Ensuring transformations don't reproduce or deepen existing inequalities; centering those most impacted in design and decision-making; addressing historical harms while building new systems",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880129918x349964930769805630"],
 "related objects":[],
 "abbreviation":"",
 "label":"Justice-Centered Transition Planning"
@@ -4629,7 +4631,7 @@
 "summary":"Aligning and integrating action across local, regional, national, and global levels; preventing fragmentation while respecting appropriate scales of decision-making; managing tensions between subsidiarity and coordination",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880129918x349964930769805630"],
 "related objects":[],
 "abbreviation":"",
 "label":"Cross-Scale Coordination"
@@ -4657,7 +4659,7 @@
 "summary":"Diversifying, localizing, and ecologizing food production; building regional food security while regenerating soil, water, and biodiversity; shortening supply chains and strengthening farmer-consumer relationships",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880128583x781084007344374800"],
 "related objects":[],
 "abbreviation":"",
 "label":"Food System Resilience"
@@ -4685,7 +4687,7 @@
 "summary":"Regenerating degraded ecosystems; managing land and watersheds for long-term health rather than short-term extraction; recognizing interdependence of soil, water, biodiversity, and climate stability",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880128583x781084007344374800"],
 "related objects":[],
 "abbreviation":"",
 "label":"Land & Water Stewardship"
@@ -4713,7 +4715,7 @@
 "summary":"Rapidly expanding renewable energy while dramatically reducing consumption; building distributed generation and storage; ensuring universal energy access without fossil dependence",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880128583x781084007344374800"],
 "related objects":[],
 "abbreviation":"",
 "label":"Energy Transition & Efficiency"
@@ -4741,7 +4743,7 @@
 "summary":"Designing systems where materials cycle continuously; eliminating waste through reuse, repair, and regeneration; decoupling production from virgin resource extraction",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880128583x781084007344374800"],
 "related objects":[],
 "abbreviation":"",
 "label":"Circular Economy & Sustainable Production"
@@ -4769,7 +4771,7 @@
 "summary":"Building business models that embed ecological limits and social purpose into their structure; shifting from extraction-for-profit toward stewardship-for-wellbeing; democratizing ownership and decision-making",
 "description":"",
 "size":"",
-"objects above":["1763855964591x176752639046582270"],
+"objects above":["1763855964591x176752639046582270","1763880128583x781084007344374800"],
 "related objects":[],
 "abbreviation":"",
 "label":"Cooperative & Regenerative Enterprise"
