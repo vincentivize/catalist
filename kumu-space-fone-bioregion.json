@@ -218,10 +218,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Known a while",
-"What do you appreciate most about this person/organization?":"From my short time knowing Bill, I can tell that he's supportive of new ideas and exploring possibilities",
-"What is your current relationship with this person?":"Currently collaborating",
-"If you know them, how did you meet this person?":"At my first meeting with the Connecticut River Valley Bioregional Collaborative",
+"related objects":[],
 "abbreviation":"",
 "label":"Bill Baue (Sage)"
 },
@@ -1145,8 +1142,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Met before",
-"What do you appreciate most about this person/organization?":"I appreciate how Ben likes to get his hands dirty in the tools he uses but he's way more focused on connecting with people, building relationships, and making great connections for others!",
+"related objects":[],
 "abbreviation":"",
 "label":"Ben Roberts"
 },
@@ -1174,9 +1170,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Currently collaborating",
-"If you know them, how did you meet this person?":"At a bioregioning event at Sirius ",
-"What do you appreciate most about this person/organization?":"Nicoles, knowledge, experience, vision and enthusiasm",
+"related objects":[],
 "abbreviation":"",
 "label":"Nicole Negowetti"
 },
@@ -1512,8 +1506,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Met before",
-"What do you appreciate most about this person/organization?":"John brings an open heart and mind and a learner's mindset even to spaces where he carries deep expertise",
+"related objects":[],
 "abbreviation":"",
 "label":"John Fullerton"
 },
@@ -1681,8 +1674,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Met before",
-"What do you appreciate most about this person/organization?":"His article about collaborative technology was a big inspiration for me https://medium.com/enspiral-tales/doing-more-together-together-seeding-a-collaborative-technology-alliance-82243ea30d41",
+"related objects":[],
 "abbreviation":"",
 "label":"Edward West"
 },
@@ -1990,7 +1982,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Never met",
+"related objects":[],
 "abbreviation":"",
 "label":"Ben Titcomb"
 },
@@ -2158,7 +2150,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What is your current relationship with this person?":"Never met",
+"related objects":[],
 "abbreviation":"",
 "label":"Bethany Yarrow"
 },
@@ -2298,7 +2290,7 @@
 "description":"",
 "size":"",
 "objects above":[],
-"related objects":[],"What do you want to learn or know about this?":"How can we use this to define the tech stack once this initiative expands?",
+"related objects":[],
 "abbreviation":"",
 "label":"Miro Assessment"
 },
@@ -3029,6 +3021,34 @@
 "related objects":[],
 "abbreviation":"",
 "label":"Michael Johnson"
+},
+{
+"id":"1763665554001x494644658865700860",
+"url":"https://embed.kumu.io/ad34989c2c842448322dd20c9bd10fb0#northeast-bioregioning-knowledge-commons-default-map/key-stakeholders",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1763665554001x494644658865700860&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1697647314671x396195245281010050/chapter.svg",
+"type":"Section",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+"abbreviation":"",
+"label":"Key Stakholder Map"
 }
 ],
 
@@ -4729,21 +4749,6 @@
 "title":"Eastern Pequot Tribal Nation alliance Mashantucket Pequot Tribal Nation"
     }
 ,{
-        "label": "membership",
-        "from": "1731449890475x327011662577851650",
-        "to": "1731434255833x898479935151011100",
-"strength":10,
-"connection subtype":"membership",
-"description":"",
-"connection type":"membership",
-"one-way":"no",
-"type":"",
-"direction":"mutual",
-"id":"1744140695488x913066167174955000",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1744140695488x913066167174955000",
-"title":"Jelani Fletcher membership Mashantucket Pequot Tribal Nation"
-    }
-,{
         "label": "is related to",
         "from": "1731449877557x583565993080329500",
         "to": "1731434255833x898479935151011100",
@@ -5027,6 +5032,36 @@
 "id":"1763652234436x546911934911348740",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763652234436x546911934911348740",
 "title":"Brooke Waldron  Mashantucket Pequot Tribal Nation"
+    }
+,{
+        "label": "is requesting to connect with",
+        "from": "1731449866391x859508241368550100",
+        "to": "1763638631591x241098827524472830",
+"strength":1,
+"connection subtype":"is requesting to connect with",
+"description":" ",
+"connection type":"is requesting to connect with",
+"one-way":"yes",
+"type":"",
+"direction":"directed",
+"id":"1763654009483x224794290378244100",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1763654009483x224794290378244100",
+"title":"Vincent Arena is requesting to connect with Aquinnah Wampanoag Tribe"
+    }
+,{
+        "label": "is member of",
+        "from": "1731449890475x327011662577851650",
+        "to": "1731434258495x874254188075188900",
+"strength":1,
+"connection subtype":"is member of",
+"description":"",
+"connection type":"is member of",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773424016168x219986656443498500",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773424016168x219986656443498500",
+"title":"Jelani Fletcher is member of Eastern Pequot Tribal Nation"
     }
 
  ]
