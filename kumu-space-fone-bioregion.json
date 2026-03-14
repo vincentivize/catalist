@@ -3049,6 +3049,34 @@
 "related objects":[],
 "abbreviation":"",
 "label":"Key Stakholder Map"
+},
+{
+"id":"1773521563037x165832990604918800",
+"url":"",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1773521563037x165832990604918800&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1773521968981x295103918035718200/Joshua%20Carter.jpg",
+"type":"Member",
+"topics":[],
+"tags":[],
+"space-tags":[],
+"attribute-ids":[],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+"abbreviation":"",
+"label":"Josua Carter"
 }
 ],
 
@@ -5047,6 +5075,21 @@
 "id":"1773424016168x219986656443498500",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773424016168x219986656443498500",
 "title":"Jelani Fletcher is member of Eastern Pequot Tribal Nation"
+    }
+,{
+        "label": "Executive Director",
+        "from": "1773521563037x165832990604918800",
+        "to": "1731434267576x757044809239404900",
+"strength":1,
+"connection subtype":"Executive Director",
+"description":"",
+"connection type":"Executive Director",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773521889495x640792943680028700",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773521889495x640792943680028700",
+"title":"Josua Carter Executive Director Mashantucket Pequot Museum and Research Center"
     }
 
  ]
