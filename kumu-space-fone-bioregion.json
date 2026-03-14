@@ -1290,7 +1290,7 @@
 "id":"1731449871164x984165616797473500",
 "url":"",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449871164x984165616797473500&view=Page&tab=Object",
-"image":"//s3.amazonaws.com/appforest_uf/f1677697333244x836955966853779000/member-card.png",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1773523305809x910078946967942700/Rahiem%20Eleazer.jpg",
 "type":"Member",
 "topics":[],
 "tags":[],
@@ -4268,21 +4268,6 @@
     }
 ,{
         "label": "",
-        "from": "1731449871164x984165616797473500",
-        "to": "1731433988489x852874880692081400",
-"strength":1,
-"connection subtype":"",
-"description":"",
-"connection type":"",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731450003168x433184027279304600",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731450003168x433184027279304600",
-"title":"Rahiem Eleazer  Alliance for the Mystic River Watershed"
-    }
-,{
-        "label": "",
         "from": "1731434288696x663061970578022000",
         "to": "1731449923587x252571082801449800",
 "strength":1,
@@ -5105,6 +5090,36 @@
 "id":"1773522308664x324964730116243460",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773522308664x324964730116243460",
 "title":"Josua Carter Pipe Carrier Mashantucket Pequot Tribal Nation"
+    }
+,{
+        "label": "Tribal Councilor",
+        "from": "1731449871164x984165616797473500",
+        "to": "1731434255833x898479935151011100",
+"strength":1,
+"connection subtype":"Tribal Councilor",
+"description":"",
+"connection type":"Tribal Councilor",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773523570023x542606616898568200",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773523570023x542606616898568200",
+"title":"Rahiem Eleazer Tribal Councilor Mashantucket Pequot Tribal Nation"
+    }
+,{
+        "label": "Treasurer",
+        "from": "1731449871164x984165616797473500",
+        "to": "1731433988489x852874880692081400",
+"strength":1,
+"connection subtype":"Treasurer",
+"description":"",
+"connection type":"Treasurer",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773523673515x288558699533565950",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773523673515x288558699533565950",
+"title":"Rahiem Eleazer Treasurer Alliance for the Mystic River Watershed"
     }
 
  ]
