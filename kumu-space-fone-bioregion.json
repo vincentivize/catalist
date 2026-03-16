@@ -1430,7 +1430,7 @@
 "id":"1731449879001x914970673787674000",
 "url":"https://www.linkedin.com/in/maggie-favretti-16608417b/",
 "object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731449879001x914970673787674000&view=Page&tab=Object",
-"image":"https://media.licdn.com/dms/image/v2/C4E03AQH0P6GxWutFnA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1549197268575?e=1740614400&v=beta&t=K8jjbrFTCRcGre9QwX5gxvwlBMKWOdG7scxB-BkKfHA",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1773676900584x593139287976517900/Maggie%20Favretti.jpg",
 "type":"Member",
 "topics":[],
 "tags":[],
@@ -5090,6 +5090,21 @@
 "id":"1773671864793x120739567261188100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773671864793x120739567261188100",
 "title":"Mashantucket Pequot Museum and Research Center Executive Director Josua Carter"
+    }
+,{
+        "label": "Board Co-leader",
+        "from": "1731449890475x327011662577851650",
+        "to": "1731433988489x852874880692081400",
+"strength":1,
+"connection subtype":"Board Co-leader",
+"description":"see more @ https://www.alliancemrw.org/team",
+"connection type":"Board Co-leader",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773676783884x289751935200788500",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773676783884x289751935200788500",
+"title":"Jelani Fletcher Board Co-leader Alliance for the Mystic River Watershed"
     }
 
  ]
