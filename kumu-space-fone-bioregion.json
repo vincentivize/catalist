@@ -45,12 +45,6 @@
 "type":"Object Type",
 "description":""
 },{
-"label":"Solution",
-"image":"//s3.amazonaws.com/appforest_uf/f1651961921256x624315643314057300/013-puzzle.svg",
-"id":"Solution",
-"type":"Object Type",
-"description":"Answers or fixes to problems"
-},{
 "label":"Resource",
 "image":"//s3.amazonaws.com/appforest_uf/f1651962244795x204393654746827040/006-toolbox.svg",
 "id":"Resource",
@@ -74,6 +68,12 @@
 "id":"List",
 "type":"Object Type",
 "description":""
+},{
+"label":"Solution",
+"image":"//s3.amazonaws.com/appforest_uf/f1651961921256x624315643314057300/013-puzzle.svg",
+"id":"Solution",
+"type":"Object Type",
+"description":"Answers or fixes to problems"
 },{
 "label":"Air Pollution",
 "image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1696235030271x102621408255861630/Doughtnut%20SEctors%20Square%20Large.png",
@@ -949,34 +949,6 @@
 "related objects":[],
 "abbreviation":"",
 "label":"Northeast Bioregional Finance (Ne BioFi)"
-},
-{
-"id":"1731434303400x678174351901437100",
-"url":"https://www.linkedin.com/posts/billbaue_its-a-pleasure-honor-to-help-energize-activity-7249133825933422592-4Ff2?utm_source=share&utm_medium=member_desktop",
-"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1731434303400x678174351901437100&view=Page&tab=Object",
-"image":"https://media.licdn.com/dms/image/v2/D4E22AQGyIj8nhVrSnQ/feedshare-shrink_800/feedshare-shrink_800/0/1728328184660?e=2147483647&v=beta&t=mIlsw_srNDbGY9h2hUarfarcUNPBhzjgEvemHW2AxwI",
-"type":"Solution",
-"topics":[],
-"tags":[],
-"space-tags":[],
-"attribute-ids":[],
-"sectors":[],
-"locations":[],
-"address":"",
-"types":[],
-"skills":[],
-"color":"",
-"font_color":"",
-"background_color":"",
-"draft":"no",
-"page_text":"",
-"summary":"BioFi has held gatherings with regional initiatives to explore developing a Bioregional Financing Facility.",
-"description":"",
-"size":"",
-"objects above":[],
-"related objects":[],
-"abbreviation":"",
-"label":"Forests of the Northeast Bioregional Regeneration Forum"
 },
 {
 "id":"1731435846907x185835498663313400",
@@ -3291,21 +3263,6 @@
     }
 ,{
         "label": "",
-        "from": "1731434298325x504726574349312300",
-        "to": "1731434303400x678174351901437100",
-"strength":1,
-"connection subtype":"",
-"description":"",
-"connection type":"",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731447984018x472737024981048500",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731447984018x472737024981048500",
-"title":"Northeast Bioregional Finance (Ne BioFi)  Forests of the Northeast Bioregional Regeneration Forum"
-    }
-,{
-        "label": "",
         "from": "1731434273307x725479302977178200",
         "to": "1731433757421x859448969748322300",
 "strength":1,
@@ -3738,21 +3695,6 @@
 "id":"1731449977097x744555927601890300",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449977097x744555927601890300",
 "title":"Magenta Ceiba  Bloom Network"
-    }
-,{
-        "label": "",
-        "from": "1731449879001x914970673787674000",
-        "to": "1731433988489x852874880692081400",
-"strength":1,
-"connection subtype":"",
-"description":"",
-"connection type":"",
-"one-way":"yes",
-"type":"",
-"direction":"directed",
-"id":"1731449977661x966087801976183200",
-"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1731449977661x966087801976183200",
-"title":"Maggie Favretti  Alliance for the Mystic River Watershed"
     }
 ,{
         "label": "",
@@ -5163,6 +5105,21 @@
 "id":"1773676783884x289751935200788500",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773676783884x289751935200788500",
 "title":"Jelani Fletcher Board Co-leader Alliance for the Mystic River Watershed"
+    }
+,{
+        "label": "is co-founder & Board Chair",
+        "from": "1731433988489x852874880692081400",
+        "to": "1731449879001x914970673787674000",
+"strength":1,
+"connection subtype":"is co-founder & Board Chair",
+"description":"See @ https://www.alliancemrw.org/team",
+"connection type":"is co-founder & Board Chair",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773685007490x598793176207851500",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773685007490x598793176207851500",
+"title":"Alliance for the Mystic River Watershed is co-founder & Board Chair Maggie Favretti"
     }
 
  ]
