@@ -5106,6 +5106,21 @@
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773523673515x288558699533565950",
 "title":"Rahiem Eleazer Treasurer Alliance for the Mystic River Watershed"
     }
+,{
+        "label": "Executive Director",
+        "from": "1731434267576x757044809239404900",
+        "to": "1773521563037x165832990604918800",
+"strength":1,
+"connection subtype":"Executive Director",
+"description":"https://www.pequotmuseum.org/our-story/",
+"connection type":"Executive Director",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773671864793x120739567261188100",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773671864793x120739567261188100",
+"title":"Mashantucket Pequot Museum and Research Center Executive Director Josua Carter"
+    }
 
  ]
 }
