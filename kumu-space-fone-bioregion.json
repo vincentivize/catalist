@@ -3077,6 +3077,34 @@
 "related objects":[],
 "abbreviation":"",
 "label":"Josua Carter"
+},
+{
+"id":"1773673558763x930880345738575900",
+"url":"https://www.mptn-nsn.gov/government/tribal-council/",
+"object url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&current_object=1773673558763x930880345738575900&view=Page&tab=Object",
+"image":"//ee90efb54bd21b2eb02d2cf66c18cf93.cdn.bubble.io/f1773673739307x400823409580980600/MPTN%20seal.png",
+"type":"Group",
+"topics":[],
+"tags":["Groups"],
+"space-tags":["Community of Practice","KS"],
+"attribute-ids":["1689950589125x685511804061059100"],
+"sectors":[],
+"locations":[],
+"address":"",
+"types":[],
+"skills":[],
+"color":"",
+"font_color":"",
+"background_color":"",
+"draft":"no",
+"page_text":"",
+"summary":"The Mashantucket Pequot Tribal Nation is governed by a Tribal Council consisting of seven popularly elected tribal members serving staggered, three-year terms of office.\n\nThe Tribal Council’s mission is to preserve, protect and advance the government and social, cultural and economic strength of the Tribal Nation for the benefit of past, present and future Mashantucket Pequots.",
+"description":"",
+"size":"",
+"objects above":[],
+"related objects":[],
+"abbreviation":"",
+"label":"Mashantucket Pequot Tribal  Council"
 }
 ],
 
@@ -5090,6 +5118,36 @@
 "id":"1773671864793x120739567261188100",
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773671864793x120739567261188100",
 "title":"Mashantucket Pequot Museum and Research Center Executive Director Josua Carter"
+    }
+,{
+        "label": "Tribal Councilor",
+        "from": "1731449871164x984165616797473500",
+        "to": "1773673558763x930880345738575900",
+"strength":1,
+"connection subtype":"Tribal Councilor",
+"description":" @ https://www.mptn-nsn.gov/government/tribal-council/",
+"connection type":"Tribal Councilor",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773673578281x233183268577214460",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773673578281x233183268577214460",
+"title":"Rahiem Eleazer Tribal Councilor Mashantucket Pequot Tribal  Council"
+    }
+,{
+        "label": "is governed by",
+        "from": "1731434255833x898479935151011100",
+        "to": "1773673558763x930880345738575900",
+"strength":1,
+"connection subtype":"is governed by",
+"description":"",
+"connection type":"is governed by",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773674204522x176190321660526600",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773674204522x176190321660526600",
+"title":"Mashantucket Pequot Tribal Nation is governed by Mashantucket Pequot Tribal  Council"
     }
 ,{
         "label": "Board Co-leader",
