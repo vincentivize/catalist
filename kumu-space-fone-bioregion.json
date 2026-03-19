@@ -5121,6 +5121,21 @@
 "url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773685007490x598793176207851500",
 "title":"Alliance for the Mystic River Watershed is co-founder & Board Chair Maggie Favretti"
     }
+,{
+        "label": "is member of",
+        "from": "1731434255833x898479935151011100",
+        "to": "1731449871164x984165616797473500",
+"strength":1,
+"connection subtype":"is member of",
+"description":"",
+"connection type":"is member of",
+"one-way":"no",
+"type":"",
+"direction":"mutual",
+"id":"1773936106668x120802273856061440",
+"url":"https://www.catalist.network/spaces?space=1731360167823x759324263997505500&connection=1773936106668x120802273856061440",
+"title":"Mashantucket Pequot Tribal Nation is member of Rahiem Eleazer"
+    }
 
  ]
 }
